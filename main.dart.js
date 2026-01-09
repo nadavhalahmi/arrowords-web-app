@@ -36970,7 +36970,6 @@ k=q.ay
 s=7
 return A.G(A.nr(h,n,q.fx.FO(),m,k,l+1),$async$hL)
 case 7:j=c
-q.cx=!0
 s=j!=null&&j.length!==0?8:9
 break
 case 8:s=10
@@ -36992,7 +36991,8 @@ h=A.alt(h,t.S,t.N)
 n=q.dy
 s=15
 return A.G(A.ry(new A.oC(h,null,n)),$async$hL)
-case 15:case 9:s=16
+case 15:case 9:q.cx=!0
+s=16
 return A.G(o.jU("Bool","arroword_generating",!1),$async$hL)
 case 16:case 4:return A.L(null,r)}})
 return A.M($async$hL,r)},
@@ -37233,7 +37233,8 @@ $S:0}
 A.aay.prototype={
 $0(){var s=this.a
 s.cy=1
-s.cx=s.CW=!1},
+s.CW=!1
+s.cx=!0},
 $S:0}
 A.aaI.prototype={
 $1(a){var s=this.b
