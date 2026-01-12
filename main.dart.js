@@ -6964,7 +6964,7 @@ while(true)switch(s){case 0:p=A.fz(u.x)
 o=t.N
 n=A.ae(["Content-Type","application/json"],o,o)
 s=3
-return A.E(A.auj(p,B.aO.rY(A.ae(["action","fetch","clientId",a,"puzzleId",b],o,t.K),null),n),$async$a_x)
+return A.E(A.auj(p,B.aO.rY(A.ae(["action","fetch","clientId",a,"arrowordId",b],o,t.K),null),n),$async$a_x)
 case 3:m=d
 if(m.b===200){q=J.ky(B.aO.oB(A.anz(A.anb(m.e)).ev(m.w),null),"arroword_text")
 s=1
