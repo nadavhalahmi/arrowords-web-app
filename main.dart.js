@@ -6838,12 +6838,12 @@ aaQ:function aaQ(){},
 aaR:function aaR(a){this.a=a},
 aaP:function aaP(a){this.a=a},
 aGV(a){var s
-switch(a){case"down-right":return B.Sc
+switch(a){case"down-right":return B.Sd
 case"right-down":return B.Sl
-case"down-left":return B.Sb
+case"down-left":return B.Sc
 case"left-down":return B.Sk
 case"up-right":return B.Si
-case"up-left":return B.Sd
+case"up-left":return B.Se
 default:s=A.ae(["right",0,"left",3.141592653589793,"up",-1.5707963267948966,"down",1.5707963267948966],t.N,t.i).h(0,a)
 return A.a9D(s==null?0:s,B.Eq)}},
 SE(a,b,c,d,e,f,g,h){var s,r,q=null,p=A.aGV(c),o=g.length>1?" "+B.b.bk(g,","):"",n=B.c.no(b),m=n.length===0?1:B.c.pY(n,A.cp("\\s+",!1)).length
@@ -37466,7 +37466,7 @@ return A.F(q.k3.nk(),$async$jX)
 case 15:case 3:return A.K(null,r)}})
 return A.L($async$jX,r)},
 P(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.fo(10),g=j.gC4(),f=A.as(51,B.dd.B()>>>16&255,B.dd.B()>>>8&255,B.dd.B()&255),e=j.gC4()===1?B.cg:B.V,d=t.p
-e=A.fT(A.b([B.Se,B.xP,A.UM(h,A.hc(A.aqn(f,i,g,new A.pk(e,t.ZU)),4,100))],d),B.R,B.S,B.au)
+e=A.fT(A.b([B.Sf,B.xP,A.UM(h,A.hc(A.aqn(f,i,g,new A.pk(e,t.ZU)),4,100))],d),B.R,B.S,B.au)
 h=j.e==null
 g=h?i:j.ga8D()
 g=A.qa(i,i,B.Ek,i,j.p1,g,i,i,"Restart tutorial")
@@ -37493,10 +37493,10 @@ q=A.fo(30)
 p=A.ij(A.as(B.d.aB(127.5),B.k.B()>>>16&255,B.k.B()>>>8&255,B.k.B()&255),1.5)
 o=A.b([new A.cQ(0,B.c9,A.as(51,B.l.B()>>>16&255,B.l.B()>>>8&255,B.l.B()&255),B.J_,30)],t.sq)
 n=A.as1(new A.abv(),i,B.ah,B.Dc,new A.abw(j),new A.ar(0,6.28318,t.Y),t.i)
-m=A.d5("Using AI to generate clues...",i,i,i,i,i,i,i,A.fc(i,i,B.cq,i,B.h,i,i,i,i,i,i,14,i,i,B.q,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
+m=A.d5("Personalizing...",i,i,i,i,i,i,i,A.fc(i,i,B.cq,i,B.h,i,i,i,i,i,i,14,i,i,B.q,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
 l=A.fo(10)
 k=j.fy
-f.push(A.o9(0,A.eC(A.eS(A.UM(g,A.aoG(A.eC(A.fT(A.b([n,B.xO,B.Sf,B.k6,m,B.xQ,A.UM(l,A.aqn(A.as(e,B.V.B()>>>16&255,B.V.B()>>>8&255,B.V.B()&255),10,k,B.z6)),B.xN,A.d5(""+B.d.h4(j.fy*100)+"%",i,i,i,i,i,i,i,B.R8,i,i,i)],d),B.R,B.S,B.au),B.t,i,i,new A.cP(r,i,p,q,o,i,B.ar),i,i,B.DB,280),new A.vG(s,B.c8,i,B.B_))),i,i),B.t,h,i,i,i,i,i,i)))}if(j.ok){h=j.k4
+f.push(A.o9(0,A.eC(A.eS(A.UM(g,A.aoG(A.eC(A.fT(A.b([n,B.xO,B.Sa,B.k6,m,B.xQ,A.UM(l,A.aqn(A.as(e,B.V.B()>>>16&255,B.V.B()>>>8&255,B.V.B()&255),10,k,B.z6)),B.xN,A.d5(""+B.d.h4(j.fy*100)+"%",i,i,i,i,i,i,i,B.R8,i,i,i)],d),B.R,B.S,B.au),B.t,i,i,new A.cP(r,i,p,q,o,i,B.ar),i,i,B.DB,280),new A.vG(s,B.c8,i,B.B_))),i,i),B.t,h,i,i,i,i,i,i)))}if(j.ok){h=j.k4
 h===$&&A.a()
 h=h.pD()
 if(h==null)h=B.b.gW(A.wE(j.k4.b,t.BJ))
@@ -38203,7 +38203,7 @@ this.ho()}}
 A.Ki.prototype={
 P(a){return A.aqk(new A.a9K(this))}}
 A.a9K.prototype={
-$2(a,b){var s,r=null,q=this.a,p=q.y,o=A.fo(12),n=A.b([new A.cQ(0,B.c9,B.l.zf(0.2),B.rZ,8)],t.sq),m=q.c,l=A.d5(m,r,r,r,r,r,r,r,B.Ry,B.cI,B.a_,r),k=A.d5(q.d,r,r,r,r,r,!0,r,B.Pj,B.cI,B.a_,r),j=t.p,i=A.b([A.rl(B.Sa,q.r,r),B.xM],j)
+$2(a,b){var s,r=null,q=this.a,p=q.y,o=A.fo(12),n=A.b([new A.cQ(0,B.c9,B.l.zf(0.2),B.rZ,8)],t.sq),m=q.c,l=A.d5(m,r,r,r,r,r,r,r,B.Ry,B.cI,B.a_,r),k=A.d5(q.d,r,r,r,r,r,!0,r,B.Pj,B.cI,B.a_,r),j=t.p,i=A.b([A.rl(B.Sb,q.r,r),B.xM],j)
 if(q.w&&q.x!=null)B.b.S(i,A.b([A.rl(B.Sh,q.x,r),B.xM],j))
 s=A.apC(r,r,A.X(a).dx,r,r,r,r,r,r,B.k,r,r,B.Dx,r,new A.cE(A.fo(8),B.m),r,r,r,r,r)
 i.push(A.apB(A.d5(B.c.n(m,"You are ready")?"Start Playing":"Next",r,r,r,r,r,r,r,B.Qd,r,r,r),q.f,s))
@@ -84012,16 +84012,16 @@ B.QY=new A.j(!0,B.E,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Rg=new A.j(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Od=new A.j(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.S9=new A.dq(B.PV,B.OX,B.PW,B.Qv,B.Oz,B.OI,B.Pg,B.Qi,B.Pw,B.R1,B.O3,B.Oo,B.QY,B.Rg,B.Od)
-B.Pp=new A.j(!0,B.dd,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sa=new A.dJ("Skip",null,B.Pp,null,null,null,null,null,null,null,null,null,null)
-B.dx=new A.j(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Sb=new A.dJ("\u21b2",null,B.dx,null,null,null,null,null,null,null,null,null,null)
-B.Sc=new A.dJ("\u21b3",null,B.dx,null,null,null,null,null,null,null,null,null,null)
-B.Sd=new A.dJ("\u21b0",null,B.dx,null,null,null,null,null,null,null,null,null,null)
-B.ym=new A.j(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Se=new A.dJ("Arroword",null,B.ym,null,null,null,null,null,null,null,null,null,null)
 B.NW=new A.j(!0,B.E,null,null,null,null,22,B.mw,null,-0.5,null,null,null,null,null,null,null,B.h,null,null,null,null,null,null,null,null)
-B.Sf=new A.dJ("Crafting Puzzle",null,B.NW,null,null,null,null,null,null,null,null,null,null)
+B.Sa=new A.dJ("Generating Arroword",null,B.NW,null,null,null,null,null,null,null,null,null,null)
+B.Pp=new A.j(!0,B.dd,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Sb=new A.dJ("Skip",null,B.Pp,null,null,null,null,null,null,null,null,null,null)
+B.dx=new A.j(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Sc=new A.dJ("\u21b2",null,B.dx,null,null,null,null,null,null,null,null,null,null)
+B.Sd=new A.dJ("\u21b3",null,B.dx,null,null,null,null,null,null,null,null,null,null)
+B.Se=new A.dJ("\u21b0",null,B.dx,null,null,null,null,null,null,null,null,null,null)
+B.ym=new A.j(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Sf=new A.dJ("Arroword",null,B.ym,null,null,null,null,null,null,null,null,null,null)
 B.Sg=new A.dJ("Recent Learning Words",null,null,null,null,null,null,null,null,null,null,null,null)
 B.yo=new A.dJ("OK",null,null,null,null,null,null,null,null,null,null,null,null)
 B.Sh=new A.dJ("Previous",null,B.ym,null,null,null,null,null,null,null,null,null,null)
