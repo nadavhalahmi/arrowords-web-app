@@ -40605,10 +40605,11 @@ this.h_()}}
 A.LT.prototype={
 N(a){return A.apx(new A.acg(this))}}
 A.acg.prototype={
-$2(a,b){var s,r=null,q=this.a,p=q.y,o=A.fa(16),n=A.c([new A.cZ(0,B.ci,B.l.Ac(0.15),B.Kl,12)],t.sq),m=q.c,l=A.cR(m,r,r,r,r,r,r,r,B.PA,B.c5,B.U,r),k=A.cR(q.d,r,r,r,r,r,!0,r,A.et(r,r,B.bW,r,r,r,r,r,r,r,r,14,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),B.c5,B.U,r),j=t.p,i=A.c([A.A6(B.TD,q.r,r)],j)
+$2(a,b){var s,r=null,q=this.a,p=q.y,o=A.fa(16),n=A.c([new A.cZ(0,B.ci,B.l.Ac(0.15),B.Kl,12)],t.sq),m=q.c,l=A.cR(m,r,r,r,r,r,r,r,B.PA,B.c5,B.U,r),k=A.cR(q.d,r,r,r,r,r,!0,r,A.et(r,r,B.bW,r,r,r,r,r,r,r,r,14,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),B.c5,B.U,r),j=t.p,i=A.c([],j)
 if(q.w&&q.x!=null)i.push(A.A6(B.TJ,q.x,r))
 s=A.ata(r,r,A.V(a).dx,r,r,r,r,r,r,B.k,r,r,B.Ey,r,new A.cJ(A.fa(8),B.m),r,r,r,r,r)
 i.push(A.at8(!1,A.cR(B.c.q(m,"You are ready")?"Start Playing":"Next",r,r,r,r,r,r,r,B.S5,r,r,r),r,r,r,r,r,r,q.f,r,s))
+i.push(A.A6(B.TD,q.r,r))
 return new A.fM(new A.alL(q.e,p),A.eB(new A.ck(B.Ez,A.eV(A.c([l,B.kP,k,B.hN,A.aqi(B.l9,i,B.zc,12,12)],j),B.L,B.M,B.ak),r),B.r,r,new A.a0(200,p.a*0.75,0,1/0),new A.dj(B.k,r,r,o,n,r,B.aL),r,r,r,r),r)},
 $S:183}
 A.alL.prototype={
