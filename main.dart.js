@@ -14817,9 +14817,8 @@
       this.$this = t0;
       this._refocusInvisibleInput = t1;
     },
-    _ArrowordAppState_build__closure8: function _ArrowordAppState_build__closure8(t0, t1) {
+    _ArrowordAppState_build__closure8: function _ArrowordAppState_build__closure8(t0) {
       this.$this = t0;
-      this.context = t1;
     },
     _ArrowordAppState_build__closure4: function _ArrowordAppState_build__closure4(t0) {
       this.$this = t0;
@@ -14834,9 +14833,8 @@
     },
     _ArrowordAppState_build__closure1: function _ArrowordAppState_build__closure1() {
     },
-    _ArrowordAppState_build__closure5: function _ArrowordAppState_build__closure5(t0, t1) {
+    _ArrowordAppState_build__closure5: function _ArrowordAppState_build__closure5(t0) {
       this.$this = t0;
-      this.context = t1;
     },
     _ArrowordAppState_build___closure: function _ArrowordAppState_build___closure(t0, t1) {
       this.$this = t0;
@@ -76178,7 +76176,7 @@
     $signature: 0
   };
   A._ArrowordAppState_build_closure0.prototype = {
-    call$1(context) {
+    call$1(builderContext) {
       var t3, t4, _null = null,
         t1 = this.$this,
         t2 = t1.activeClue,
@@ -76197,7 +76195,7 @@
     $signature: 506
   };
   A._ArrowordAppState_build_closure3.prototype = {
-    call$2(context, snapshot) {
+    call$2(builderContext, snapshot) {
       var t1, t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12, t13, t14, t15, t16, t17, _null = null;
       if (snapshot.connectionState !== B.ConnectionState_3)
         return B.Center_SD7;
@@ -76238,16 +76236,13 @@
       } else
         t2 = A.LinkedHashSet_LinkedHashSet$_empty(t15);
       t15 = t1.activeClue != null ? new A._ArrowordAppState_build__closure3(t1).call$0() : _null;
-      return A.GestureDetector$(_null, A.Column$(A._setArrayType([new A.KeyboardListener(t3, new A._ArrowordAppState_build__closure4(t1), t4, _null), A.Expanded$(new A.ArrowordGrid(t6, t7, t8, t9, t10, t11, t12, t13, t14, new A._ArrowordAppState_build__closure5(t1, context), new A._ArrowordAppState_build__closure6(t1), new A._ArrowordAppState_build__closure7(t1), t2, t15, this._refocusInvisibleInput, t5, t1._gridKey))], type$.JSArray_Widget), B.CrossAxisAlignment_2, B.MainAxisAlignment_0, B.MainAxisSize_1), B.DragStartBehavior_1, false, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, new A._ArrowordAppState_build__closure8(t1, context), _null, _null, _null, _null, _null, _null, false, B.Offset_sFH);
+      return A.GestureDetector$(_null, A.Column$(A._setArrayType([new A.KeyboardListener(t3, new A._ArrowordAppState_build__closure4(t1), t4, _null), A.Expanded$(new A.ArrowordGrid(t6, t7, t8, t9, t10, t11, t12, t13, t14, new A._ArrowordAppState_build__closure5(t1), new A._ArrowordAppState_build__closure6(t1), new A._ArrowordAppState_build__closure7(t1), t2, t15, this._refocusInvisibleInput, t5, t1._gridKey))], type$.JSArray_Widget), B.CrossAxisAlignment_2, B.MainAxisAlignment_0, B.MainAxisSize_1), B.DragStartBehavior_1, false, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, _null, new A._ArrowordAppState_build__closure8(t1), _null, _null, _null, _null, _null, _null, false, B.Offset_sFH);
     },
     $signature: 505
   };
   A._ArrowordAppState_build__closure8.prototype = {
     call$0() {
-      var t1 = A.FocusScope_of(this.context),
-        t2 = this.$this.___ArrowordAppState_invisibleInputFocusNode_F;
-      t2 === $ && A.throwUnnamedLateFieldNI();
-      t1.requestFocus$1(t2);
+      this.$this._ensureKeyboardVisible$0();
     },
     $signature: 0
   };
@@ -76331,7 +76326,7 @@
   };
   A._ArrowordAppState_build__closure5.prototype = {
     call$1(idx) {
-      var t2,
+      var t2, t3,
         t1 = this.$this;
       t1.setState$1(new A._ArrowordAppState_build___closure(t1, idx));
       if (t1._isSpeaking)
@@ -76343,7 +76338,10 @@
       }
       t2 = t1.___ArrowordAppState_invisibleInputFocusNode_F;
       t2 === $ && A.throwUnnamedLateFieldNI();
-      A.debugLog("[KEYBOARD] Cell tapped: idx=" + idx + ", hasFocus=" + t2.get$hasFocus() + ", keyboardVisible=" + (A.InheritedModel_inheritFrom(this.context, null, type$.MediaQuery).data.viewInsets.bottom > 0) + ", kIsWeb=true");
+      t2 = t2.get$hasFocus();
+      t3 = t1._framework$_element;
+      t3.toString;
+      A.debugLog("[KEYBOARD] Cell tapped: idx=" + idx + ", hasFocus=" + t2 + ", keyboardVisible=" + (A.InheritedModel_inheritFrom(t3, null, type$.MediaQuery).data.viewInsets.bottom > 0) + ", kIsWeb=true");
       t1._ensureKeyboardVisible$0();
     },
     $signature: 27
@@ -76428,7 +76426,7 @@
     $signature: 121
   };
   A._ArrowordAppState_build_closure4.prototype = {
-    call$3(context, value, child) {
+    call$3(__wc1_formal, value, child) {
       return A.Transform$rotate(value, B.Icon_GJ8);
     },
     $signature: 122
@@ -76445,7 +76443,7 @@
     $signature: 0
   };
   A._ArrowordAppState__buildUnifiedSummaryOverlay_closure0.prototype = {
-    call$3(context, value, child) {
+    call$3(__wc0_formal, value, child) {
       return A.Transform$scale(child, value);
     },
     $signature: 122
