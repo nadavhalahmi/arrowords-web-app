@@ -75661,6 +75661,7 @@
       }
       if (_this._showSummaryDialog)
         t10.push(_this._buildUnifiedSummaryOverlay$0());
+      t10.push(A.Positioned$(0, A.IgnorePointer$(A.Container$(A.Text$("Build: 2026-03-22 17:45:20 UTC", _null, _null, _null, _null, _null, _null, _null, B.TextStyle_lAG, B.TextAlign_2, _null, _null), B.Clip_0, B.Color_VnF, _null, _null, _null, _null, B.EdgeInsets_0_2_0_2, _null), true, _null), _null, _null, 0, 0, _null, _null));
       return new A.PopScope(A.Stack$(B.AlignmentDirectional_m1_m1, t10, B.Clip_1, B.StackFit_0), new A._ArrowordAppState_build_closure6(_this), t1, _null, type$.PopScope_Object);
     },
     _buildUnifiedSummaryOverlay$0() {
@@ -166419,6 +166420,7 @@
     B.Color_NzJ = new A.Color(0.5411764705882353, 0, 0, 0, B.ColorSpace_0);
     B.Color_O3p = new A.Color(0.5019607843137255, 0.5019607843137255, 0.5019607843137255, 0.5019607843137255, B.ColorSpace_0);
     B.Color_PW1 = new A.Color(0.8666666666666667, 0, 0, 0, B.ColorSpace_0);
+    B.Color_VnF = new A.Color(0.45098039215686275, 0, 0, 0, B.ColorSpace_0);
     B.Color_W1W = new A.Color(1, 0.9333333333333333, 0.9333333333333333, 0.9333333333333333, B.ColorSpace_0);
     B.Color_YMj = new A.Color(0.25098039215686274, 0.8, 0.8, 0.8, B.ColorSpace_0);
     B.Color_Zdt = new A.Color(1, 0.9803921568627451, 0.9803921568627451, 0.9803921568627451, B.ColorSpace_0);
@@ -166618,6 +166620,7 @@
     B.EdgeInsets_0_0_0_0 = new A.EdgeInsets(0, 0, 0, 0);
     B.EdgeInsets_0_0_0_14 = new A.EdgeInsets(0, 0, 0, 14);
     B.EdgeInsets_0_14_0_14 = new A.EdgeInsets(0, 14, 0, 14);
+    B.EdgeInsets_0_2_0_2 = new A.EdgeInsets(0, 2, 0, 2);
     B.EdgeInsets_0_8_0_8 = new A.EdgeInsets(0, 8, 0, 8);
     B.EdgeInsets_12_0_12_0 = new A.EdgeInsets(12, 0, 12, 0);
     B.EdgeInsets_12_6_12_6 = new A.EdgeInsets(12, 6, 12, 6);
@@ -168506,6 +168509,19 @@
     B.TextStyle_bPo = new A.TextStyle(true, null, null, null, null, null, 14, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null);
     B.TextStyle_hhq = new A.TextStyle(true, B.Color_PW1, null, null, null, null, 18, B.FontWeight_700, null, null, null, null, null, null, null, null, null, B.TextDecoration_0, null, null, null, null, null, null, null, null);
     B.TextStyle_j9P = new A.TextStyle(true, null, null, null, null, null, 18, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null);
+    B.Color_REe = new A.Color(1, 1, 0.9921568627450981, 0.9058823529411765, B.ColorSpace_0);
+    B.Color_zqk = new A.Color(1, 1, 0.9764705882352941, 0.7686274509803922, B.ColorSpace_0);
+    B.Color_bL2 = new A.Color(1, 1, 0.9607843137254902, 0.615686274509804, B.ColorSpace_0);
+    B.Color_oJ2 = new A.Color(1, 1, 0.9450980392156862, 0.4627450980392157, B.ColorSpace_0);
+    B.Color_z6X = new A.Color(1, 1, 0.9333333333333333, 0.34509803921568627, B.ColorSpace_0);
+    B.Color_1HC = new A.Color(1, 1, 0.9215686274509803, 0.23137254901960785, B.ColorSpace_0);
+    B.Color_qbs = new A.Color(1, 0.9921568627450981, 0.8470588235294118, 0.20784313725490197, B.ColorSpace_0);
+    B.Color_YGC = new A.Color(1, 0.984313725490196, 0.7529411764705882, 0.17647058823529413, B.ColorSpace_0);
+    B.Color_XYe = new A.Color(1, 0.9764705882352941, 0.6588235294117647, 0.1450980392156863, B.ColorSpace_0);
+    B.Color_OeE = new A.Color(1, 0.9607843137254902, 0.4980392156862745, 0.09019607843137255, B.ColorSpace_0);
+    B.Map_tF4di = new A.GeneralConstantMap([50, B.Color_REe, 100, B.Color_zqk, 200, B.Color_bL2, 300, B.Color_oJ2, 400, B.Color_z6X, 500, B.Color_1HC, 600, B.Color_qbs, 700, B.Color_YGC, 800, B.Color_XYe, 900, B.Color_OeE], type$.GeneralConstantMap_int_Color);
+    B.MaterialColor_gyN = new A.MaterialColor(B.Map_tF4di, 1, 1, 0.9215686274509803, 0.23137254901960785, B.ColorSpace_0);
+    B.TextStyle_lAG = new A.TextStyle(true, B.MaterialColor_gyN, null, null, null, null, 10, null, null, null, null, null, null, null, null, null, null, B.TextDecoration_0, null, null, null, null, null, null, null, null);
     B.TextStyle_miy = new A.TextStyle(true, null, null, null, null, null, null, B.FontWeight_400, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null);
     B.TextStyle_mqU = new A.TextStyle(false, null, null, null, null, null, 14, B.FontWeight_400, null, -0.15, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null);
     B.TextStyle_ugN = new A.TextStyle(true, B.MaterialColor_45F, null, null, null, null, 12, B.FontWeight_700, null, null, null, null, null, null, null, null, null, B.TextDecoration_0, null, null, null, null, null, null, null, null);
