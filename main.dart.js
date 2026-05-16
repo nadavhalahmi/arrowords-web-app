@@ -50454,7 +50454,7 @@ r.toString
 a.$1(r)}},
 a41(a,b,c){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=this.fq$,f=g.h(0,B.bF)
 A:{if(f instanceof A.y){f=new A.a4(c.$2(f,a),b.$2(f,a))
-break A}if(f==null){f=B.MV
+break A}if(f==null){f=B.MU
 break A}f=h}s=f.a
 r=h
 q=f.b
@@ -61186,7 +61186,7 @@ break A}a0=l
 g=a0
 if(a0){a0=B.Nl
 break A}a0=!1===g
-if(a0){a0=B.MZ
+if(a0){a0=B.MY
 break A}a0=a}f=a0.a
 e=a
 d=a0.b
@@ -66575,7 +66575,7 @@ dm(a){return this.c.$1(a)}}
 A.Wv.prototype={
 Ve(a,b,c){return a.rR(b,c)},
 am_(a,b,c){if(a.rk(b,c))return new A.a4(!0,a.rR(b,c))
-return B.N3}}
+return B.N2}}
 A.jG.prototype={
 ag(){return new A.Bq(A.aA(t.od),new A.P())}}
 A.Wx.prototype={
@@ -71025,9 +71025,9 @@ switch(b){case B.ce:o=B.Nj
 break
 case B.cg:o=B.Nk
 break
-case B.ch:o=B.N2
+case B.ch:o=B.N1
 break
-case B.cf:o=B.N4
+case B.cf:o=B.N3
 break}s=o.a
 q.b=s
 r=o.b
@@ -77827,13 +77827,13 @@ return!1}return!0},
 tx(){this.fr.tx()
 this.F5()},
 F5(){var s,r,q,p,o,n,m=this,l=m.w
-switch(l.a.c.a){case 0:s=B.Nd
+switch(l.a.c.a){case 0:s=B.Ne
 break
-case 2:s=B.N7
+case 2:s=B.N6
 break
-case 3:s=B.N1
+case 3:s=B.N0
 break
-case 1:s=B.N0
+case 1:s=B.N_
 break
 default:s=null}r=s.a
 q=null
@@ -88920,19 +88920,19 @@ B.WT=new A.kN(B.zC,B.zB)
 B.HL=s([B.WR,B.WU,B.WS,B.WT],A.aq("A<kN>"))
 B.Nb=new A.a4(0.01339448,0.05994973)
 B.Na=new A.a4(0.13664115,0.13592082)
-B.MX=new A.a4(0.24545546,0.14099516)
-B.N_=new A.a4(0.32353151,0.12808021)
-B.N8=new A.a4(0.39093068,0.11726264)
+B.MW=new A.a4(0.24545546,0.14099516)
+B.MZ=new A.a4(0.32353151,0.12808021)
+B.N7=new A.a4(0.39093068,0.11726264)
 B.MI=new A.a4(0.448478,0.10808278)
-B.MT=new A.a4(0.49817452,0.10026175)
-B.MY=new A.a4(0.54105583,0.09344429)
+B.MR=new A.a4(0.49817452,0.10026175)
+B.MX=new A.a4(0.54105583,0.09344429)
 B.MO=new A.a4(0.57812578,0.08748984)
-B.N5=new A.a4(0.61050961,0.08224722)
-B.Ne=new A.a4(0.63903989,0.07759639)
-B.MR=new A.a4(0.66416338,0.0734653)
+B.N4=new A.a4(0.61050961,0.08224722)
+B.Nf=new A.a4(0.63903989,0.07759639)
+B.MQ=new A.a4(0.66416338,0.0734653)
 B.MJ=new A.a4(0.68675338,0.06974996)
-B.N6=new A.a4(0.70678034,0.06529512)
-B.nZ=s([B.Nb,B.Na,B.MX,B.N_,B.N8,B.MI,B.MT,B.MY,B.MO,B.N5,B.Ne,B.MR,B.MJ,B.N6],A.aq("A<+(N,N)>"))
+B.N5=new A.a4(0.70678034,0.06529512)
+B.nZ=s([B.Nb,B.Na,B.MW,B.MZ,B.N7,B.MI,B.MR,B.MX,B.MO,B.N4,B.Nf,B.MQ,B.MJ,B.N5],A.aq("A<+(N,N)>"))
 B.HN=s([35,30,20,25,30,35,30,25,25],t.n)
 B.HQ=s(["click","scroll"],t.s)
 B.AJ=new A.qf()
@@ -89600,22 +89600,22 @@ B.i3=new A.hG(4,"reportButton")
 B.i5=new A.hG(6,"typeSelection")
 B.i4=new A.hG(5,"generateButton")
 B.i6=new A.hG(7,"completionMessage")
-B.Nf=new A.a4("\u05d1\u05e8\u05d5\u05db\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd \u05dc-Arrowords!","\u05e9\u05e4\u05e8\u05d5 \u05d0\u05ea \u05d4\u05d6\u05d9\u05db\u05e8\u05d5\u05df \u05e2\u05dd \u05ea\u05e9\u05d1\u05e6\u05d9 \u05d7\u05e5 \u05de\u05d5\u05ea\u05d0\u05de\u05d9\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea")
+B.Ng=new A.a4("\u05d1\u05e8\u05d5\u05db\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd \u05dc-Arrowords!","\u05e9\u05e4\u05e8\u05d5 \u05d0\u05ea \u05d4\u05d6\u05d9\u05db\u05e8\u05d5\u05df \u05e2\u05dd \u05ea\u05e9\u05d7\u05e6\u05d9\u05dd \u05de\u05d5\u05ea\u05d0\u05de\u05d9\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea")
 B.Ni=new A.a4("\u05db\u05e4\u05ea\u05d5\u05e8 \u05dc\u05de\u05d9\u05d3\u05d4","\u05d4\u05d5\u05e1\u05d9\u05e4\u05d5 \u05d0\u05ea \u05d4\u05d4\u05d2\u05d3\u05e8\u05d4 \u05d4\u05de\u05e1\u05d5\u05de\u05e0\u05ea \u05dc\u05e8\u05e9\u05d9\u05de\u05ea \u05d4\u05dc\u05de\u05d9\u05d3\u05d4")
 B.MN=new A.a4("\u05db\u05e4\u05ea\u05d5\u05e8 \u05d7\u05e9\u05d9\u05e4\u05d4","\u05d7\u05e9\u05e4\u05d5 \u05d0\u05ea \u05d4\u05d0\u05d5\u05ea \u05d0\u05d5 \u05d4\u05d4\u05d2\u05d3\u05e8\u05d4 \u05d4\u05de\u05e1\u05d5\u05de\u05e0\u05ea")
-B.Ng=new A.a4("\u05db\u05e4\u05ea\u05d5\u05e8 \u05d3\u05d9\u05d5\u05d5\u05d7","\u05de\u05e6\u05d0\u05ea\u05dd \u05d4\u05d2\u05d3\u05e8\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4? \u05dc\u05d7\u05e6\u05d5 \u05db\u05d3\u05d9 \u05dc\u05d3\u05d5\u05d5\u05d7 \u05e2\u05dc\u05d9\u05d4")
-B.MP=new A.a4("\u05e1\u05d5\u05d2 \u05ea\u05e9\u05d1\u05e5","\u05d4\u05d7\u05dc\u05d9\u05e4\u05d5 \u05d1\u05d9\u05df \u05e1\u05d5\u05d2\u05d9 \u05ea\u05e9\u05d1\u05e6\u05d9 \u05d7\u05e5")
-B.MS=new A.a4("\u05db\u05e4\u05ea\u05d5\u05e8 \u05d9\u05e6\u05d9\u05e8\u05d4","\u05e1\u05d9\u05d9\u05de\u05ea\u05dd? \u05dc\u05d7\u05e6\u05d5 \u05db\u05d3\u05d9 \u05dc\u05d9\u05e6\u05d5\u05e8 \u05ea\u05e9\u05d1\u05e5 \u05d7\u05e5 \u05d7\u05d3\u05e9 \u05d5\u05de\u05d5\u05ea\u05d0\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea")
-B.Nh=new A.a4("\u05d0\u05ea\u05dd \u05de\u05d5\u05db\u05e0\u05d9\u05dd!","\u05ea\u05d9\u05d4\u05e0\u05d5 \u05de\u05ea\u05e9\u05d1\u05e6\u05d9 \u05d7\u05e5 \u05de\u05d5\u05ea\u05d0\u05de\u05d9\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea!")
-B.Ko=new A.ci([B.i_,B.Nf,B.i1,B.Ni,B.i2,B.MN,B.i3,B.Ng,B.i5,B.MP,B.i4,B.MS,B.i6,B.Nh],t.cR)
+B.Nh=new A.a4("\u05db\u05e4\u05ea\u05d5\u05e8 \u05d3\u05d9\u05d5\u05d5\u05d7","\u05de\u05e6\u05d0\u05ea\u05dd \u05d4\u05d2\u05d3\u05e8\u05d4 \u05e9\u05d2\u05d5\u05d9\u05d4? \u05dc\u05d7\u05e6\u05d5 \u05db\u05d3\u05d9 \u05dc\u05d3\u05d5\u05d5\u05d7 \u05e2\u05dc\u05d9\u05d4")
+B.MS=new A.a4("\u05e1\u05d5\u05d2 \u05ea\u05e9\u05d7\u05e5","\u05d4\u05d7\u05dc\u05d9\u05e4\u05d5 \u05d1\u05d9\u05df \u05e1\u05d5\u05d2\u05d9 \u05ea\u05e9\u05d7\u05e6\u05d9\u05dd")
+B.Nd=new A.a4("\u05db\u05e4\u05ea\u05d5\u05e8 \u05d9\u05e6\u05d9\u05e8\u05d4","\u05e1\u05d9\u05d9\u05de\u05ea\u05dd? \u05dc\u05d7\u05e6\u05d5 \u05db\u05d3\u05d9 \u05dc\u05d9\u05e6\u05d5\u05e8 \u05ea\u05e9\u05d7\u05e5 \u05d7\u05d3\u05e9 \u05d5\u05de\u05d5\u05ea\u05d0\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea")
+B.N8=new A.a4("\u05d0\u05ea\u05dd \u05de\u05d5\u05db\u05e0\u05d9\u05dd!","\u05ea\u05d9\u05d4\u05e0\u05d5 \u05de\u05ea\u05e9\u05d7\u05e6\u05d9\u05dd \u05de\u05d5\u05ea\u05d0\u05de\u05d9\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea!")
+B.Ko=new A.ci([B.i_,B.Ng,B.i1,B.Ni,B.i2,B.MN,B.i3,B.Nh,B.i5,B.MS,B.i4,B.Nd,B.i6,B.N8],t.cR)
 B.N9=new A.a4("Welcome to Arrowords!","Memorize faster with personalized arrowords")
 B.Nc=new A.a4("Learn Button","Add the highlighted definition to the learning list")
 B.ML=new A.a4("Reveal Button","Reveal the highlighted letter or definition")
-B.MW=new A.a4("Report Button","Found incorrect definition? Tap to report it")
-B.MQ=new A.a4("Arroword Type","Switch arroword type")
+B.MV=new A.a4("Report Button","Found incorrect definition? Tap to report it")
+B.MP=new A.a4("Arroword Type","Switch arroword type")
 B.MM=new A.a4("Generate Button","Finished? Tap to generate a new personalized arroword")
-B.MU=new A.a4("You are ready!","Enjoy personalized arrowords!")
-B.u4=new A.ci([B.i_,B.N9,B.i1,B.Nc,B.i2,B.ML,B.i3,B.MW,B.i5,B.MQ,B.i4,B.MM,B.i6,B.MU],t.cR)
+B.MT=new A.a4("You are ready!","Enjoy personalized arrowords!")
+B.u4=new A.ci([B.i_,B.N9,B.i1,B.Nc,B.i2,B.ML,B.i3,B.MV,B.i5,B.MP,B.i4,B.MM,B.i6,B.MT],t.cR)
 B.Kh=new A.bk(B.u9,[B.Ko,B.u4],A.aq("bk<m,aP<hG,+(m,m)>>"))
 B.KX={KeyA:0,KeyB:1,KeyC:2,KeyD:3,KeyE:4,KeyF:5,KeyG:6,KeyH:7,KeyI:8,KeyJ:9,KeyK:10,KeyL:11,KeyM:12,KeyN:13,KeyO:14,KeyP:15,KeyQ:16,KeyR:17,KeyS:18,KeyT:19,KeyU:20,KeyV:21,KeyW:22,KeyX:23,KeyY:24,KeyZ:25,Digit1:26,Digit2:27,Digit3:28,Digit4:29,Digit5:30,Digit6:31,Digit7:32,Digit8:33,Digit9:34,Digit0:35,Minus:36,Equal:37,BracketLeft:38,BracketRight:39,Backslash:40,Semicolon:41,Quote:42,Backquote:43,Comma:44,Period:45,Slash:46}
 B.u2=new A.bk(B.KX,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","-","=","[","]","\\",";","'","`",",",".","/"],t.l)
@@ -90073,21 +90073,21 @@ B.MG=new A.a4(0,0)
 B.MH=new A.a4(0,!0)
 B.cc=new A.AN(2,"collapsed")
 B.MK=new A.a4(B.cc,B.cc)
-B.MV=new A.a4(B.y,0)
+B.MU=new A.a4(B.y,0)
 B.i8=new A.AN(0,"left")
 B.i9=new A.AN(1,"right")
-B.MZ=new A.a4(B.i8,B.i9)
+B.MY=new A.a4(B.i8,B.i9)
 B.hL=new A.ck(4,"scrollLeft")
 B.hM=new A.ck(8,"scrollRight")
-B.N0=new A.a4(B.hL,B.hM)
-B.N1=new A.a4(B.hM,B.hL)
-B.N2=new A.a4(!1,!1)
-B.N3=new A.a4(!1,null)
-B.N4=new A.a4(!1,!0)
+B.N_=new A.a4(B.hL,B.hM)
+B.N0=new A.a4(B.hM,B.hL)
+B.N1=new A.a4(!1,!1)
+B.N2=new A.a4(!1,null)
+B.N3=new A.a4(!1,!0)
 B.hI=new A.ck(16,"scrollUp")
 B.hJ=new A.ck(32,"scrollDown")
-B.N7=new A.a4(B.hI,B.hJ)
-B.Nd=new A.a4(B.hJ,B.hI)
+B.N6=new A.a4(B.hI,B.hJ)
+B.Ne=new A.a4(B.hJ,B.hI)
 B.Nj=new A.a4(!0,!1)
 B.Nk=new A.a4(!0,!0)
 B.Nl=new A.a4(B.i9,B.i8)
