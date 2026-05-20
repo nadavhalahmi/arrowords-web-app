@@ -7642,7 +7642,7 @@ aGI(a,b,c){var s=0,r=A.J(t.nA),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$od=A.K(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:p=4
 j=t.N
-n=A.ae(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","27","platform","web"],j,j)
+n=A.ae(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","28","platform","web"],j,j)
 i=A.fc(u.x)
 h=A.ae(["Content-Type","application/json"],j,j)
 s=7
@@ -7711,7 +7711,7 @@ for(;;)switch(s){case 0:o=A.fc(u.x)
 n=t.N
 m=A.ae(["Content-Type","application/json"],n,n)
 s=3
-return A.z(A.atk(o,B.an.nN(A.ae(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","27","platform","web"],n,n),null),m),$async$a2S)
+return A.z(A.atk(o,B.an.nN(A.ae(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","28","platform","web"],n,n),null),m),$async$a2S)
 case 3:l=d
 if(l.b===200){p=B.an.l5(A.W_(A.VK(l.e)).ed(l.w),null)
 o=J.bj(p)
@@ -7737,7 +7737,7 @@ J.eD(n,"isComplete",e)
 J.eD(n,"puzzleEntries",f)
 J.eD(n,"arrowordId",b)
 J.eD(n,"version","1.1.0")
-J.eD(n,"buildNumber","27")
+J.eD(n,"buildNumber","28")
 J.eD(n,"platform","web")
 if(a!=null&&a.a!==0)J.eD(n,"analytics",a)
 s=7
