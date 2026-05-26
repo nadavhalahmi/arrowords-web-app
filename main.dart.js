@@ -7708,7 +7708,7 @@ aIw(a,b,c){var s=0,r=A.M(t.nA),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$oy=A.N(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:p=4
 j=t.N
-n=A.ai(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","29","platform","web"],j,j)
+n=A.ai(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","30","platform","web"],j,j)
 i=A.fg(u.x)
 h=A.ai(["Content-Type","application/json"],j,j)
 s=7
@@ -7777,7 +7777,7 @@ for(;;)switch(s){case 0:o=A.fg(u.x)
 n=t.N
 m=A.ai(["Content-Type","application/json"],n,n)
 s=3
-return A.C(A.auZ(o,B.aq.o4(A.ai(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","29","platform","web"],n,n),null),m),$async$a3Y)
+return A.C(A.auZ(o,B.aq.o4(A.ai(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","30","platform","web"],n,n),null),m),$async$a3Y)
 case 3:l=d
 if(l.b===200){p=B.aq.lg(A.X5(A.WR(l.e)).eh(l.w),null)
 o=J.bh(p)
@@ -7803,7 +7803,7 @@ J.dL(n,"isComplete",e)
 J.dL(n,"puzzleEntries",f)
 J.dL(n,"arrowordId",b)
 J.dL(n,"version","1.1.0")
-J.dL(n,"buildNumber","29")
+J.dL(n,"buildNumber","30")
 J.dL(n,"platform","web")
 if(a!=null&&a.a!==0)J.dL(n,"analytics",a)
 J.dL(n,"recentWordsLimit",a0)
