@@ -7839,7 +7839,7 @@ aJX(a,b,c){var s=0,r=A.K(t.nA),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$oI=A.L(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:p=4
 j=t.N
-n=A.ak(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","33","platform","web"],j,j)
+n=A.ak(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","34","platform","web"],j,j)
 i=A.fn(u.x)
 h=A.ak(["Content-Type","application/json"],j,j)
 s=7
@@ -7908,7 +7908,7 @@ for(;;)switch(s){case 0:o=A.fn(u.x)
 n=t.N
 m=A.ak(["Content-Type","application/json"],n,n)
 s=3
-return A.C(A.awm(o,B.aq.od(A.ak(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","33","platform","web"],n,n),null),m),$async$a4r)
+return A.C(A.awm(o,B.aq.od(A.ak(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","34","platform","web"],n,n),null),m),$async$a4r)
 case 3:l=d
 if(l.b===200){p=B.aq.ll(A.Xt(A.Xe(l.e)).em(l.w),null)
 o=J.bg(p)
@@ -7934,7 +7934,7 @@ J.dV(n,"isComplete",e)
 J.dV(n,"puzzleEntries",f)
 J.dV(n,"arrowordId",b)
 J.dV(n,"version","1.1.0")
-J.dV(n,"buildNumber","33")
+J.dV(n,"buildNumber","34")
 J.dV(n,"platform","web")
 if(a!=null&&a.a!==0)J.dV(n,"analytics",a)
 J.dV(n,"recentWordsLimit",a0)
@@ -42904,7 +42904,7 @@ if(!q.k2||q.id.length===0)return B.ar
 s=q.id
 r=A.V(s).i("X<1,c1>")
 s=A.Z(new A.X(s,new A.ah3(q),r),r.i("ac.E"))
-return A.Ls(70,A.ek(A.kp(!1,B.U,!0,p,A.dn(s,B.y,B.F,B.Y),B.r,B.x,0,p,p,p,p,p,B.d2),p,p),p,p,12,12,p,p)},
+return A.Ls(p,A.ek(A.kp(!1,B.U,!0,p,A.dn(s,B.y,B.F,B.Y),B.r,B.x,0,p,p,p,p,p,B.d2),p,p),p,p,12,12,8,p)},
 N(a){var s,r,q,p,o=this,n=null,m=!o.cx&&!o.ch,l=o.ax,k=t.p,j=A.eq(A.c([A.bW(l.gHh(),n,n,n,n,n,n,n,B.zY,n,n,n),B.Gu],k),B.y,B.F,B.Y,0),i=o.dx,h=i.a===o.gnL()&&o.gnL()>0?B.mQ:B.ep,g=A.cW(12),f=A.fb(i.a===o.gnL()&&o.gnL()>0?B.ne:B.fH,1),e=i.a,d=o.gnL()
 j=A.dn(A.c([j,B.ic,A.cY(n,A.bW("\ud83e\udde9 "+e+" / "+d+" Solved",n,n,n,n,n,n,n,A.cM(n,n,i.a===o.gnL()&&o.gnL()>0?B.n2:B.fN,n,n,n,n,n,n,n,n,11,n,n,B.aK,n,n,!0,n,n,n,n,n,n,n,n),n,n,n),B.r,n,n,new A.ci(h,n,f,g,n,n,B.a1),n,n,n,B.FW,n,n,n)],k),B.y,B.F,B.Y)
 i=o.e==null
