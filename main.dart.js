@@ -7842,7 +7842,7 @@ aK_(a,b,c){var s=0,r=A.K(t.nA),q,p=2,o=[],n,m,l,k,j,i,h,g,f
 var $async$oI=A.L(function(d,e){if(d===1){o.push(e)
 s=p}for(;;)switch(s){case 0:p=4
 j=t.N
-n=A.ak(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","36","platform","web"],j,j)
+n=A.ak(["clientId",b,"type",c.b,"action","generate","version","1.1.0","buildNumber","37","platform","web"],j,j)
 i=A.fn(u.x)
 h=A.ak(["Content-Type","application/json"],j,j)
 s=7
@@ -7911,7 +7911,7 @@ for(;;)switch(s){case 0:o=A.fn(u.x)
 n=t.N
 m=A.ak(["Content-Type","application/json"],n,n)
 s=3
-return A.C(A.awo(o,B.aq.od(A.ak(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","36","platform","web"],n,n),null),m),$async$a4r)
+return A.C(A.awo(o,B.aq.od(A.ak(["action","fetch","clientId",a,"type",b.b,"version","1.1.0","buildNumber","37","platform","web"],n,n),null),m),$async$a4r)
 case 3:l=d
 if(l.b===200){p=B.aq.ll(A.Xu(A.Xf(l.e)).em(l.w),null)
 o=J.bg(p)
@@ -7937,7 +7937,7 @@ J.dU(n,"isComplete",e)
 J.dU(n,"puzzleEntries",f)
 J.dU(n,"arrowordId",b)
 J.dU(n,"version","1.1.0")
-J.dU(n,"buildNumber","36")
+J.dU(n,"buildNumber","37")
 J.dU(n,"platform","web")
 if(a!=null&&a.a!==0)J.dU(n,"analytics",a)
 J.dU(n,"recentWordsLimit",a0)
@@ -42903,7 +42903,7 @@ q=A.c([new A.cp(1,B.b6,B.hD.hI(0.4),B.h,6)],t.E)
 return A.atD(A.ed(A.c([B.VV,A.c1(""+this.fx+"x",p,p,p,p,p,p,p,B.Vi,p,p,p)],t.p),B.y,B.G,B.Y,0),new A.cj(p,p,p,r,q,new A.m3(B.di,B.ft,B.cA,s,p,p),B.a2),B.bg,B.Ft,B.Fw)},
 a4i(){var s=this,r=null
 if(!s.go||!B.z_.v(0,s.fx))return B.ar
-return A.hK(A.zE(r,A.O0(new A.agU(s),r,B.Q,B.nA,new A.cD(s.fx,t.f3),r,new A.al(0,1,t.Y),t.i),r,r,0,0,0,r),!0,r)},
+return A.zE(r,A.hK(A.O0(new A.agU(s),r,B.Q,B.nA,new A.cD(s.fx,t.f3),r,new A.al(0,1,t.Y),t.i),!0,r),r,r,0,0,0,r)},
 agb(a){var s,r=this,q=r.Q,p=A.he(a,!0,t.oI)
 B.b.e5(p,new A.ahV(q))
 s=r.k2
