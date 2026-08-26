@@ -8490,7 +8490,7 @@ var $async$qh=A.D(function(a9,b0){if(a9===1){o.push(b0)
 s=p}for(;;)switch(s){case 0:p=4
 j=t.N
 i=t.z
-n=A.af(["clientId",a1,"type",a7.b,"action","generate","level",a4,"version","1.2.0","buildNumber","55","platform","web"],j,i)
+n=A.af(["clientId",a1,"type",a7.b,"action","generate","level",a4,"version","1.2.0","buildNumber","56","platform","web"],j,i)
 J.fl(n,"words",a8)
 J.fl(n,"badWords",a0)
 J.fl(n,"puzzleEntries",a5)
@@ -8576,7 +8576,7 @@ for(;;)switch(s){case 0:o=A.hu(u.x)
 n=t.N
 m=A.af(["Content-Type","application/json"],n,n)
 s=3
-return A.m(A.aPd(o,B.ax.nN(A.af(["action","fetch","clientId",a,"type",b.b,"version","1.2.0","buildNumber","55","platform","web"],n,n),null),m),$async$aaL)
+return A.m(A.aPd(o,B.ax.nN(A.af(["action","fetch","clientId",a,"type",b.b,"version","1.2.0","buildNumber","56","platform","web"],n,n),null),m),$async$aaL)
 case 3:l=d
 if(l.b===200){p=B.ax.lb(A.aDs(A.aCw(l.e)).f0(l.w),null)
 o=J.bn(p)
