@@ -8495,7 +8495,7 @@ var $async$qo=A.D(function(a9,b0){if(a9===1){o.push(b0)
 s=p}for(;;)switch(s){case 0:p=4
 j=t.N
 i=t.z
-n=A.ah(["clientId",a1,"type",a7.b,"action","generate","level",a4,"version","1.2.0","buildNumber","57","platform","web"],j,i)
+n=A.ah(["clientId",a1,"type",a7.b,"action","generate","level",a4,"version","1.2.0","buildNumber","59","platform","web"],j,i)
 J.fo(n,"words",a8)
 J.fo(n,"badWords",a0)
 J.fo(n,"puzzleEntries",a5)
@@ -8581,7 +8581,7 @@ for(;;)switch(s){case 0:o=A.hx(u.x)
 n=t.N
 m=A.ah(["Content-Type","application/json"],n,n)
 s=3
-return A.m(A.aPZ(o,B.ay.nU(A.ah(["action","fetch","clientId",a,"type",b.b,"version","1.2.0","buildNumber","57","platform","web"],n,n),null),m),$async$ab4)
+return A.m(A.aPZ(o,B.ay.nU(A.ah(["action","fetch","clientId",a,"type",b.b,"version","1.2.0","buildNumber","59","platform","web"],n,n),null),m),$async$ab4)
 case 3:l=d
 if(l.b===200){p=B.ay.le(A.aEd(A.aDg(l.e)).f4(l.w),null)
 o=J.bp(p)
@@ -46744,7 +46744,7 @@ if(B.b.cH(i,g.giX(g)))g.a0(0)
 B.b.ey(i,new A.aoX(h,new A.aoY(h,s,j),l,k))
 return B.b.gV(i)},
 agu(){var s,r,q,p,o,n,m=this
-if(!m.p4||m.e==null||m.ma(!1))return A.aw(t.S)
+if(m.e==null||m.ma(!1))return A.aw(t.S)
 s=m.fx
 if(s==null)s=m.fx=m.I2()
 if(s==null||s===m.Q)return A.aw(t.S)
