@@ -37,6 +37,17 @@
     window.addEventListener("beforeinstallprompt", function (e) {
       window.__pwaInstallPrompt = e;
     });
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('sw_push.js', { scope: './' })
+          .then(function (reg) {
+            console.log('Push Service Worker registered with scope:', reg.scope);
+          })
+          .catch(function (err) {
+            console.warn('Push Service Worker registration failed:', err);
+          });
+      });
+    }
   </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
