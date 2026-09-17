@@ -36,7 +36,12 @@ self.addEventListener('push', (event) => {
 
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
-  const targetUrl = event.notification.data?.url || '/';
+  let targetUrl = event.notification.data?.url || self.registration.scope;
+  if (targetUrl === '/' || targetUrl === './') {
+    targetUrl = self.registration.scope;
+  } else if (!targetUrl.startsWith('http')) {
+    targetUrl = new URL(targetUrl, self.registration.scope).href;
+  }
 
   event.waitUntil(
     self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
