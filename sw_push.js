@@ -36,6 +36,7 @@ self.addEventListener('push', (event) => {
 
 self.addEventListener('notificationclick', (event) => {
   event.notification.close();
+  const tag = event.notification.tag || 'web_push';
   let targetUrl = event.notification.data?.url || self.registration.scope;
   if (targetUrl === '/' || targetUrl === './') {
     targetUrl = self.registration.scope;
@@ -43,10 +44,31 @@ self.addEventListener('notificationclick', (event) => {
     targetUrl = new URL(targetUrl, self.registration.scope).href;
   }
 
+  // Append notification query parameters for launch/navigation detection
+  try {
+    const parsedUrl = new URL(targetUrl);
+    parsedUrl.searchParams.set('from_notif', '1');
+    parsedUrl.searchParams.set('notif_tag', tag);
+    targetUrl = parsedUrl.href;
+  } catch (e) {
+    if (targetUrl.includes('?')) {
+      targetUrl += `&from_notif=1&notif_tag=${encodeURIComponent(tag)}`;
+    } else {
+      targetUrl += `?from_notif=1&notif_tag=${encodeURIComponent(tag)}`;
+    }
+  }
+
   event.waitUntil(
     self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clientList) => {
       for (const client of clientList) {
         if (client.url && 'focus' in client) {
+          try {
+            client.postMessage({
+              type: 'NOTIFICATION_CLICKED',
+              tag: tag,
+              timestamp: new Date().toISOString()
+            });
+          } catch (e) {}
           return client.focus();
         }
       }
