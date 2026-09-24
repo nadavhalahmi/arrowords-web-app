@@ -1,0 +1,217 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 1: 13/7201 words used (72.22% of puzzle, 0.18% of score group)",
+    "Score 0: 5/6075 words used (27.78% of puzzle, 0.08% of score group)",
+    "Total: 18/13276 words used",
+    "Difficulty optimization: 0 learning words used from global user history"
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "צבי",
+      "definition": "deer",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A brown deer lives in the quiet forest."
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "צי",
+      "definition": "fleet",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "A fleet of ships sails together."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "בכי",
+      "definition": "crying",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "I heard the sad baby cry and wail."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "לה",
+      "definition": "to her",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Please give the blue ink pen to her."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "היה",
+      "definition": "was",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "The weather was very cold yesterday."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "לאמומלצ",
+      "definition": "inadvisable",
+      "lengths": [
+        2,
+        5
+      ],
+      "exampleSentence": "Swimming in the bad storm is highly inadvisable."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "בוודאי",
+      "definition": "by all means",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "By all means, please join us today."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "באה",
+      "definition": "coming",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "The slow train is coming right now."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "יומיומי",
+      "definition": "casual",
+      "lengths": [
+        7
+      ],
+      "exampleSentence": "Wear casual clothes to parties."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "אלה",
+      "definition": "goddess",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Athena is a very famous Greek goddess."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "מתקדמ",
+      "definition": "progressive",
+      "lengths": [
+        5
+      ],
+      "exampleSentence": "They use modern and progressive methods."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "מכל",
+      "definition": "vat",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "The big industrial factory vat holds extremely boiling oil."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "יצר",
+      "definition": "urge",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "I felt a strong urge to run."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ירק",
+      "definition": "vegetable",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A crunchy orange carrot is a vegetable."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "פרווה",
+      "definition": "fur",
+      "lengths": [
+        5
+      ],
+      "exampleSentence": "The cat has very soft fur."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "בו",
+      "definition": "in him",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "She saw great deep courage in him."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "סימפתיה",
+      "definition": "sympathy",
+      "lengths": [
+        7
+      ],
+      "exampleSentence": "He showed sympathy for the sick dog."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "הר",
+      "definition": "mountain",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Mount Everest is a tall mountain."
+    }
+  ],
+  "mask_id": "mask_7_7_20",
+  "score_distribution": {
+    "1": 13,
+    "0": 5
+  }
+}

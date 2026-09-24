@@ -1,0 +1,235 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 1: 16/5293 words used (76.19% of puzzle, 0.30% of score group)",
+    "Score 0: 5/8226 words used (23.81% of puzzle, 0.06% of score group)",
+    "Total: 21/13519 words used"
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "הרס",
+      "definition": "destruction",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "The big bomb caused complete destruction of buildings."
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "הס",
+      "definition": "שקט",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "שמנת",
+      "definition": "מוצר חלב שמן",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "ההמ",
+      "definition": "those",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Put those heavy books on the wooden desk."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "דכי",
+      "definition": "גלי הים",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מת",
+      "definition": "שאינו חי",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "תמ",
+      "definition": "שלם",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "הרפ",
+      "definition": "עזוב",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "מש",
+      "definition": "זז",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "רק",
+      "definition": "merely",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "It is merely a small paper cut."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "פשה",
+      "definition": "התרחב (נגע/מחלה)",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "רמש",
+      "definition": "זוחלים",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "ספר",
+      "definition": "גבול",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "ותיק",
+      "definition": "senior",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "The senior teacher has much experience."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 6,
+      "solution": "שה",
+      "definition": "טלה, כבש צעיר",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "לית",
+      "definition": "אין",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "חכמ",
+      "definition": "נבון, פיקח",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "החלקה",
+      "definition": "skid",
+      "lengths": [
+        5
+      ],
+      "exampleSentence": "Ice caused the car to skid badly."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "הד",
+      "definition": "echo",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "I heard my loud echo in the cave."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "חסרתקנה",
+      "definition": "אבוד",
+      "lengths": [
+        3,
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "רפורמה",
+      "definition": "reform",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "The new school reform improved learning."
+    }
+  ],
+  "mask_id": "mask_7_7_15",
+  "score_distribution": {
+    "1": 16,
+    "0": 5
+  }
+}

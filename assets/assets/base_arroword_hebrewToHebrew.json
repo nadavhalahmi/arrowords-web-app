@@ -1,0 +1,210 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 1: 10/2148 words used (52.63% of puzzle, 0.47% of score group)",
+    "Score 0: 9/5327 words used (47.37% of puzzle, 0.17% of score group)",
+    "Total: 19/7475 words used"
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "זרבובית",
+      "definition": "פיה של כלי",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "זד",
+      "definition": "אדם רע",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "פלדה",
+      "definition": "סגסוגת ברזל חזקה",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "ימ",
+      "definition": "מקווה מים גדול ומלוח",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "ביט",
+      "definition": "סיפרה בינארית",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "תו",
+      "definition": "צליל מוזיקלי",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "שררה",
+      "definition": "סמכות",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "דיש",
+      "definition": "הוצאת גרגרים",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "בוהק",
+      "definition": "זוהר, מבריק מאוד",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "וו",
+      "definition": "אנקול לתלייה",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "אדר",
+      "definition": "עץ יער (מייפל)",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "גוזקופ",
+      "definition": "גאווה",
+      "lengths": [
+        2,
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "רישגלי",
+      "definition": "בפומבי",
+      "lengths": [
+        3,
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "רזה",
+      "definition": "כחוש",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "וטו",
+      "definition": "סמכות לבטל החלטה",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "ולד",
+      "definition": "צאצא",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "לא",
+      "definition": "מילת שלילה",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "פאר",
+      "definition": "יופי רב",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "בשרודמ",
+      "definition": "אנושי ופגיע",
+      "lengths": [
+        3,
+        3
+      ]
+    }
+  ],
+  "mask_id": "mask_7_7_10",
+  "score_distribution": {
+    "1": 10,
+    "0": 9
+  }
+}

@@ -1,0 +1,217 @@
+{
+    "num_rows": 7,
+    "num_cols": 7,
+    "comments": [
+        "Word usage summary by score:",
+        "Score 1: 11/3312 words used (61.11% of puzzle, 0.33% of score group)",
+        "Score 0: 7/4877 words used (38.89% of puzzle, 0.14% of score group)",
+        "Total: 18/8189 words used"
+    ],
+    "clues": [
+        {
+            "direction": "right-down",
+            "clue_row": 0,
+            "clue_col": 0,
+            "solution": "כוס",
+            "definition": "copo",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "Drink a glass of cold water."
+        },
+        {
+            "direction": "right",
+            "clue_row": 0,
+            "clue_col": 0,
+            "solution": "כת",
+            "definition": "seita",
+            "lengths": [
+                2
+            ],
+            "exampleSentence": "They belong to a strict, closed religious sect."
+        },
+        {
+            "direction": "left-down",
+            "clue_row": 0,
+            "clue_col": 6,
+            "solution": "שלו",
+            "definition": "sereno",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "The quiet lake is very calm and serene."
+        },
+        {
+            "direction": "down",
+            "clue_row": 0,
+            "clue_col": 6,
+            "solution": "בד",
+            "definition": "tecido",
+            "lengths": [
+                2
+            ],
+            "exampleSentence": "This soft fabric makes a nice shirt."
+        },
+        {
+            "direction": "right",
+            "clue_row": 6,
+            "clue_col": 0,
+            "solution": "רמת",
+            "definition": "nível de",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "The level of water is very high."
+        },
+        {
+            "direction": "up-right",
+            "clue_row": 6,
+            "clue_col": 0,
+            "solution": "רעיונות",
+            "definition": "ideias",
+            "lengths": [
+                7
+            ],
+            "exampleSentence": "We brainstormed many new creative ideas for work."
+        },
+        {
+            "direction": "right",
+            "clue_row": 4,
+            "clue_col": 0,
+            "solution": "תרבותי",
+            "definition": "cultural",
+            "lengths": [
+                6
+            ],
+            "exampleSentence": "Food and music are important cultural traditions."
+        },
+        {
+            "direction": "right-down",
+            "clue_row": 4,
+            "clue_col": 0,
+            "solution": "תער",
+            "definition": "navalha",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "Shave your thick face beard with razor."
+        },
+        {
+            "direction": "left-down",
+            "clue_row": 0,
+            "clue_col": 3,
+            "solution": "תופמרימ",
+            "definition": "pandeiro",
+            "lengths": [
+                3,
+                4
+            ],
+            "exampleSentence": "She shook the tambourine to the music."
+        },
+        {
+            "direction": "down",
+            "clue_row": 3,
+            "clue_col": 5,
+            "solution": "תופ",
+            "definition": "tambor",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "The musician hit the loud drum."
+        },
+        {
+            "direction": "down",
+            "clue_row": 0,
+            "clue_col": 4,
+            "solution": "חסרונ",
+            "definition": "desvantagem",
+            "lengths": [
+                5
+            ],
+            "exampleSentence": "The high price is a big drawback."
+        },
+        {
+            "direction": "down-right",
+            "clue_row": 0,
+            "clue_col": 4,
+            "solution": "חלב",
+            "definition": "leite",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "Farm cows produce white milk for us."
+        },
+        {
+            "direction": "down",
+            "clue_row": 3,
+            "clue_col": 6,
+            "solution": "יתנ",
+            "definition": "dará",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "He will give you a nice present tomorrow."
+        },
+        {
+            "direction": "right",
+            "clue_row": 3,
+            "clue_col": 1,
+            "solution": "מכר",
+            "definition": "conhecido",
+            "lengths": [
+                3
+            ],
+            "exampleSentence": "He is just an acquaintance from work."
+        },
+        {
+            "direction": "down",
+            "clue_row": 1,
+            "clue_col": 3,
+            "solution": "רכבות",
+            "definition": "trens",
+            "lengths": [
+                5
+            ],
+            "exampleSentence": "The fast passenger trains run on tracks."
+        },
+        {
+            "direction": "right",
+            "clue_row": 1,
+            "clue_col": 0,
+            "solution": "וו",
+            "definition": "gancho",
+            "lengths": [
+                2
+            ],
+            "exampleSentence": "Hang your wet coat on the hook."
+        },
+        {
+            "direction": "up-right",
+            "clue_row": 3,
+            "clue_col": 0,
+            "solution": "לספרסוד",
+            "definition": "confidenciar",
+            "lengths": [
+                4,
+                3
+            ],
+            "exampleSentence": "I confide my secret to my friend."
+        },
+        {
+            "direction": "right",
+            "clue_row": 6,
+            "clue_col": 4,
+            "solution": "פנ",
+            "definition": "para que não",
+            "lengths": [
+                2
+            ],
+            "exampleSentence": "Hold on tight lest you accidentally fall down."
+        }
+    ],
+    "mask_id": "mask_7_7_20",
+    "score_distribution": {
+        "1": 11,
+        "0": 7
+    }
+}
