@@ -2,216 +2,221 @@
   "num_rows": 7,
   "num_cols": 7,
   "comments": [
+    "Generated using mask_7_7",
+    "Tolerance: 0.3",
+    "Level: 0.0",
+    "Target hardness: -10000",
+    "Average hardness: -8057.9",
+    "Hardness distribution: easy=16, neutral=0, hard=0",
     "Word usage summary by score:",
-    "Score 1: 13/7201 words used (72.22% of puzzle, 0.18% of score group)",
-    "Score 0: 5/6075 words used (27.78% of puzzle, 0.08% of score group)",
-    "Total: 18/13276 words used",
-    "Difficulty optimization: 0 learning words used from global user history"
+    "Score 1: 16/7203 words used (100.00% of puzzle, 0.22% of score group)",
+    "Score 0: 0/6075 words used (0.00% of puzzle, 0.00% of score group)",
+    "Total: 16/13278 words used"
   ],
   "clues": [
     {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "צבי",
-      "definition": "deer",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "A brown deer lives in the quiet forest."
-    },
-    {
       "direction": "right",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צי",
-      "definition": "fleet",
+      "solution": "פושר",
+      "definition": "lukewarm",
       "lengths": [
-        2
+        4
       ],
-      "exampleSentence": "A fleet of ships sails together."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "בכי",
-      "definition": "crying",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "I heard the sad baby cry and wail."
+      "hardness": -7143,
+      "exampleSentence": "I like to drink lukewarm tea."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "לה",
-      "definition": "to her",
+      "solution": "תו",
+      "definition": "character",
       "lengths": [
         2
       ],
-      "exampleSentence": "Please give the blue ink pen to her."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "היה",
-      "definition": "was",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "The weather was very cold yesterday."
+      "hardness": -9811,
+      "exampleSentence": "A printed letter is a text character."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לאמומלצ",
-      "definition": "inadvisable",
+      "solution": "קלע",
+      "definition": "marksman",
       "lengths": [
-        2,
-        5
+        3
       ],
-      "exampleSentence": "Swimming in the bad storm is highly inadvisable."
+      "hardness": -7778,
+      "exampleSentence": "The expert marksman hit the small target."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "אות",
+      "definition": "omen",
+      "lengths": [
+        3
+      ],
+      "hardness": -9167,
+      "exampleSentence": "A black street cat is bad omen."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 0,
-      "solution": "בוודאי",
-      "definition": "by all means",
+      "solution": "ייחודי",
+      "definition": "unique",
       "lengths": [
         6
       ],
-      "exampleSentence": "By all means, please join us today."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 4,
-      "clue_col": 0,
-      "solution": "באה",
-      "definition": "coming",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "The slow train is coming right now."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "יומיומי",
-      "definition": "casual",
-      "lengths": [
-        7
-      ],
-      "exampleSentence": "Wear casual clothes to parties."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "אלה",
-      "definition": "goddess",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Athena is a very famous Greek goddess."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "מתקדמ",
-      "definition": "progressive",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "They use modern and progressive methods."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "מכל",
-      "definition": "vat",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "The big industrial factory vat holds extremely boiling oil."
+      "hardness": -6000,
+      "exampleSentence": "Every single human fingerprint is truly unique."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 6,
-      "solution": "יצר",
-      "definition": "urge",
+      "solution": "יפה",
+      "definition": "handsome",
       "lengths": [
         3
       ],
-      "exampleSentence": "I felt a strong urge to run."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "ירק",
-      "definition": "vegetable",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "A crunchy orange carrot is a vegetable."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "פרווה",
-      "definition": "fur",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "The cat has very soft fur."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "בו",
-      "definition": "in him",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "She saw great deep courage in him."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "סימפתיה",
-      "definition": "sympathy",
-      "lengths": [
-        7
-      ],
-      "exampleSentence": "He showed sympathy for the sick dog."
+      "hardness": -8571,
+      "exampleSentence": "He is a very handsome young man."
     },
     {
       "direction": "right",
       "clue_row": 6,
-      "clue_col": 4,
-      "solution": "הר",
-      "definition": "mountain",
+      "clue_col": 2,
+      "solution": "מניה",
+      "definition": "stock",
+      "lengths": [
+        4
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Investing in company stock can make money."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 2,
+      "solution": "קליע",
+      "definition": "missile",
+      "lengths": [
+        4
+      ],
+      "hardness": -6667,
+      "exampleSentence": "The weapon fires a flying missile."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "ידני",
+      "definition": "manual",
+      "lengths": [
+        4
+      ],
+      "hardness": -7778,
+      "exampleSentence": "The old car has a manual transmission."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "כנפ",
+      "definition": "wing",
+      "lengths": [
+        3
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Birds use a wing to fly."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "אח",
+      "definition": "sibling",
       "lengths": [
         2
       ],
-      "exampleSentence": "Mount Everest is a tall mountain."
+      "hardness": -9600,
+      "exampleSentence": "My brother is my only close male sibling."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "חוק",
+      "definition": "statute",
+      "lengths": [
+        3
+      ],
+      "hardness": -8824,
+      "exampleSentence": "The parliament passed a new legal statute."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "וכנ",
+      "definition": "as well as",
+      "lengths": [
+        3
+      ],
+      "hardness": -9815,
+      "exampleSentence": "He owns dogs as well as cats."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "ראה",
+      "definition": "[he] saw",
+      "lengths": [
+        3
+      ],
+      "hardness": -8947,
+      "exampleSentence": "He saw the beautiful sunset yesterday."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "ואילו",
+      "definition": "whereas",
+      "lengths": [
+        5
+      ],
+      "hardness": -9048,
+      "exampleSentence": "He likes fast dogs, whereas I like cats."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אלא",
+      "definition": "except",
+      "lengths": [
+        3
+      ],
+      "hardness": -7778,
+      "exampleSentence": "Everyone came to the party except sick John."
     }
   ],
-  "mask_id": "mask_7_7_20",
+  "mask_id": "mask_7_7",
   "score_distribution": {
-    "1": 13,
-    "0": 5
+    "1": 16,
+    "0": 0
+  },
+  "target_hardness": -10000,
+  "average_hardness": -8057.9,
+  "hardness_distribution": {
+    "easy": 16,
+    "neutral": 0,
+    "hard": 0
   }
 }
