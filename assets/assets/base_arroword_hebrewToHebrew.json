@@ -16,7 +16,8 @@
       "definition": "פיה של כלי",
       "lengths": [
         7
-      ]
+      ],
+      "exampleSentence": "מים רותחים זרמו מתוך זרבובית קומקום התה."
     },
     {
       "direction": "right",
@@ -26,7 +27,8 @@
       "definition": "אדם רע",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "האיש הזד הזה ניסה להרוס את שמם הטוב."
     },
     {
       "direction": "left-down",
@@ -36,7 +38,8 @@
       "definition": "סגסוגת ברזל חזקה",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "הגשר החדש נבנה מקורות פלדה עצומות וחזקות במיוחד."
     },
     {
       "direction": "down",
@@ -46,7 +49,8 @@
       "definition": "מקווה מים גדול ומלוח",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "הפלנו את הסירה בלב ים גועש וסוער."
     },
     {
       "direction": "up-right",
@@ -56,7 +60,8 @@
       "definition": "סיפרה בינארית",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "יחידת המידע הבסיסית במחשב נקראת ביט."
     },
     {
       "direction": "right",
@@ -66,7 +71,8 @@
       "definition": "צליל מוזיקלי",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "הזמר ניגן כל תו בדיוק מופת."
     },
     {
       "direction": "down",
@@ -76,7 +82,8 @@
       "definition": "סמכות",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "הפקיד ניצל לרעה את השררה שהופקדה בידיו."
     },
     {
       "direction": "left-down",
@@ -86,7 +93,8 @@
       "definition": "הוצאת גרגרים",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "תהליך הדיש נועד להפריד את הגרגרים מן הקש."
     },
     {
       "direction": "right",
@@ -96,7 +104,8 @@
       "definition": "זוהר, מבריק מאוד",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "בוהק השמש על השלג היה מסנוור במיוחד."
     },
     {
       "direction": "up-right",
@@ -106,7 +115,8 @@
       "definition": "אנקול לתלייה",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "התמונה תלויה בביטחון על וו שקוע בקיר."
     },
     {
       "direction": "down",
@@ -116,7 +126,8 @@
       "definition": "עץ יער (מייפל)",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "עץ האדר משיל את עליו האדומים בסתיו."
     },
     {
       "direction": "down",
@@ -127,7 +138,8 @@
       "lengths": [
         2,
         4
-      ]
+      ],
+      "exampleSentence": "הוא צעד בגו זקוף שהפגין גאווה וביטחון עצמי."
     },
     {
       "direction": "right",
@@ -138,7 +150,8 @@
       "lengths": [
         3,
         3
-      ]
+      ],
+      "exampleSentence": "הוא אמר את דעתו האמיצה ריש גלי מול כולם."
     },
     {
       "direction": "right",
@@ -148,7 +161,8 @@
       "definition": "כחוש",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "הכלב הרזה הסתובב ברחובות וחיפש מעט מזון."
     },
     {
       "direction": "down",
@@ -158,7 +172,8 @@
       "definition": "סמכות לבטל החלטה",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "הם הטילו וטו על ההחלטה של הוועדה המקומית."
     },
     {
       "direction": "right",
@@ -168,7 +183,8 @@
       "definition": "צאצא",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "האם המאושרת החזיקה את הוולד הקטן בזרועותיה ברכות."
     },
     {
       "direction": "down",
@@ -178,7 +194,8 @@
       "definition": "מילת שלילה",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "הוא ענה לו מיד לא ושמר על דעתו."
     },
     {
       "direction": "right",
@@ -188,7 +205,8 @@
       "definition": "יופי רב",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "הגן הבוטני פרח השנה בפאר רב."
     },
     {
       "direction": "right",
@@ -199,7 +217,8 @@
       "lengths": [
         3,
         3
-      ]
+      ],
+      "exampleSentence": "הוא רק בשר ודם ויכול לטעות כמו כולם."
     }
   ],
   "mask_id": "mask_7_7_10",

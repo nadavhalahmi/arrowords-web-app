@@ -16,7 +16,8 @@
       "definition": "bonheur",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "La naissance de leur bébé leur apporte un grand bonheur."
     },
     {
       "direction": "down",
@@ -26,7 +27,8 @@
       "definition": "tu",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Tu manges une pomme rouge ce matin."
     },
     {
       "direction": "down",
@@ -36,7 +38,8 @@
       "definition": "pendant",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Elle a dormi pendant tout le voyage en train."
     },
     {
       "direction": "up-right",
@@ -46,7 +49,8 @@
       "definition": "installer",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Il préfère installer son bureau près de la fenêtre."
     },
     {
       "direction": "down",
@@ -56,7 +60,8 @@
       "definition": "moquerie",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Il faut éviter toute moquerie blessante envers les camarades."
     },
     {
       "direction": "right",
@@ -66,7 +71,8 @@
       "definition": "da",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Il accepte la proposition d'un simple da."
     },
     {
       "direction": "right",
@@ -76,7 +82,8 @@
       "definition": "con",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Ne fais pas le con et écoute attentivement."
     },
     {
       "direction": "right",
@@ -86,7 +93,8 @@
       "definition": "force",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Il faut beaucoup de force pour soulever cette pierre."
     },
     {
       "direction": "down",
@@ -96,7 +104,8 @@
       "definition": "truc",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "J'ai un truc à te montrer."
     },
     {
       "direction": "down",
@@ -106,7 +115,8 @@
       "definition": "établissement",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "L'établissement de ce nouveau commerce prend du temps."
     },
     {
       "direction": "down",
@@ -116,7 +126,8 @@
       "definition": "thé",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "J'aime boire un thé chaud le matin."
     },
     {
       "direction": "right",
@@ -126,7 +137,8 @@
       "definition": "le",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Il prend le stylo et le garde."
     },
     {
       "direction": "down",
@@ -136,7 +148,8 @@
       "definition": "ton",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Ton chat dort sur le canapé."
     },
     {
       "direction": "left-down",
@@ -146,7 +159,8 @@
       "definition": "tas",
       "lengths": [
         5
-      ]
+      ],
+      "exampleSentence": "Il y a un grand tas de feuilles mortes."
     },
     {
       "direction": "right",
@@ -156,7 +170,8 @@
       "definition": "preneur",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Nous cherchons un preneur pour cette belle voiture."
     },
     {
       "direction": "right",
@@ -166,7 +181,8 @@
       "definition": "départ",
       "lengths": [
         5
-      ]
+      ],
+      "exampleSentence": "Le départ pour les vacances est enfin arrivé."
     },
     {
       "direction": "up-right",
@@ -176,7 +192,8 @@
       "definition": "elles",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Elles sont allées au cinéma ensemble."
     },
     {
       "direction": "down",
@@ -186,7 +203,8 @@
       "definition": "âme",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Cette artiste chante avec beaucoup d'âme."
     },
     {
       "direction": "down",
@@ -196,7 +214,8 @@
       "definition": "écouter",
       "lengths": [
         6
-      ]
+      ],
+      "exampleSentence": "J'aime écouter de la musique le soir."
     },
     {
       "direction": "down-right",
@@ -206,7 +225,8 @@
       "definition": "t'",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Je t'offre ce beau cadeau d'anniversaire."
     },
     {
       "direction": "down",
@@ -216,7 +236,8 @@
       "definition": "billet",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Il a payé son billet de train avec un billet de vingt euros."
     },
     {
       "direction": "left-down",
@@ -226,7 +247,8 @@
       "definition": "ou",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Tu préfères le thé ou le café ?"
     },
     {
       "direction": "up-right",
@@ -236,7 +258,8 @@
       "definition": "euh",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Euh, je ne sais pas quoi répondre à cette question."
     },
     {
       "direction": "down",
@@ -246,7 +269,8 @@
       "definition": "hue",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Le fermier crie hue pour faire avancer son cheval."
     },
     {
       "direction": "up-right",
@@ -256,7 +280,8 @@
       "definition": "plaisir",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Elle prend beaucoup de plaisir à peindre."
     },
     {
       "direction": "right-down",
@@ -266,7 +291,8 @@
       "definition": "grâce",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Elle danse avec beaucoup de grâce et d'élégance."
     },
     {
       "direction": "down",
@@ -276,7 +302,8 @@
       "definition": "coin",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Le chat aime dormir dans le coin chaud de la pièce."
     },
     {
       "direction": "right",
@@ -286,7 +313,8 @@
       "definition": "mer",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Nous aimons nager dans la mer chaude en été."
     },
     {
       "direction": "right",
@@ -296,7 +324,8 @@
       "definition": "fougueux",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Le jeune étalon est vif et fougueux."
     },
     {
       "direction": "right",
@@ -306,7 +335,8 @@
       "definition": "d'",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "C'est la couleur d'un beau ciel."
     },
     {
       "direction": "up-right",
@@ -316,7 +346,8 @@
       "definition": "thermique",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Ce manteau offre une excellente isolation thermique."
     },
     {
       "direction": "down",
@@ -326,7 +357,8 @@
       "definition": "moi",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Donnez ce livre à moi s'il vous plaît."
     },
     {
       "direction": "right",
@@ -336,7 +368,8 @@
       "definition": "appel",
       "lengths": [
         4
-      ]
+      ],
+      "exampleSentence": "Un nouvel appel est entré pendant notre réunion de travail."
     },
     {
       "direction": "up-right",
@@ -346,7 +379,8 @@
       "definition": "violoniste",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Le musicien est un violoniste talentueux dans l'orchestre."
     },
     {
       "direction": "down",
@@ -356,7 +390,8 @@
       "definition": "cinq",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Il y a cinq personnes dans ma petite famille."
     },
     {
       "direction": "right-down",
@@ -366,7 +401,8 @@
       "definition": "leur",
       "lengths": [
         3
-      ]
+      ],
+      "exampleSentence": "Le professeur donne un livre de grammaire à leur intention."
     },
     {
       "direction": "down",
@@ -376,7 +412,8 @@
       "definition": "non",
       "lengths": [
         2
-      ]
+      ],
+      "exampleSentence": "Non, je ne connais pas cette adresse."
     }
   ],
   "mask_id": "mask_0",
