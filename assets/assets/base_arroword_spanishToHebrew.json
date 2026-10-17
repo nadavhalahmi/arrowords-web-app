@@ -1,0 +1,208 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "comments": [
+    "Generated starter arroword for Spanish to Hebrew",
+    "Total clues: 18"
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אהב",
+      "definition": "gustó",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El regalo me gustó mucho desde el principio."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "תסיר",
+      "definition": "quite",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Por favor, quite su abrigo antes de entrar."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "ורידימ",
+      "definition": "venas",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "La sangre fluye por nuestras venas."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חוד",
+      "definition": "punta",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El lápiz tiene la punta muy fina."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "הד",
+      "definition": "eco",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Grité en la cueva y escuché mi eco."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "התוודה",
+      "definition": "confesó",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "El ladrón confesó su crimen ante la policía."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "בסדר",
+      "definition": "okey",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Okey, te llamaré por la noche."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "חברה",
+      "definition": "sociedad",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Debemos mejorar nuestra sociedad cada día más."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דרור",
+      "definition": "libertad",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "El preso recuperó su libertad tras muchos años."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עד",
+      "definition": "testigo",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "El testigo vio todo lo que pasó ayer."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עדר",
+      "definition": "manada",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Un gran grupo de vacas forma una manada."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "דקה",
+      "definition": "min",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El tiempo estimado es de un min."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יחד",
+      "definition": "juntas",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Las dos amigas estudian juntas por la tarde."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "דבר",
+      "definition": "hable",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Espero que hable con la verdad."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "אירו",
+      "definition": "euros",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Este libro cuesta quince euros en la librería."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "הנ",
+      "definition": "ellas",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Ellas estudian juntas en la biblioteca."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "דק",
+      "definition": "delgado",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Este papel es muy delgado."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "מהר",
+      "definition": "pronto",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Nos veremos muy pronto en la fiesta."
+    }
+  ]
+}
