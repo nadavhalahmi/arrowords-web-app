@@ -1,0 +1,208 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "comments": [
+    "Generated starter arroword for Portuguese (Portugal) to Hebrew",
+    "Total clues: 18"
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "דלג",
+      "definition": "salta",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Salta esta parte do texto e continua."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "דחופ",
+      "definition": "empurrar",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ajuda-me a empurrar este armário pesado."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "קתולית",
+      "definition": "católica",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Esta igreja catolica e muito antiga."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "טפל",
+      "definition": "tratava",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ela tratava bem dos animais."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "בו",
+      "definition": "nele",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Confio nele para este trabalho."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "לדפקות",
+      "definition": "bater",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Alguém está a bater à porta."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "גחלת",
+      "definition": "brasa",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "A carne assa na brasa quente."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "דפוק",
+      "definition": "fodido",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O carro velho esta completamente fodido."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "איתנ",
+      "definition": "identificou",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ele identificou o problema no motor."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מט",
+      "definition": "mate",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O jogador fez mate no rei."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מגפ",
+      "definition": "bota",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Comprei uma bota nova para o inverno."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "גרמ",
+      "definition": "causou",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O vento forte causou muitos estragos."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ודא",
+      "definition": "certifique-se",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Certifique-se de fechar bem a porta."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "לפי",
+      "definition": "conforme",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Fiz o bolo conforme a receita dizia."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "פיות",
+      "definition": "fadas",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "As fadas aparecem nos contos infantis."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מנ",
+      "definition": "de",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Ele vem de Lisboa."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "טר",
+      "definition": "trágico",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O acidente teve um desfecho tragico."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "תקנ",
+      "definition": "padrão",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Este produto segue um alto padrão de qualidade."
+    }
+  ]
+}
