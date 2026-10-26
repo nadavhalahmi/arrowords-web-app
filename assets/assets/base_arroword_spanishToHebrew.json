@@ -1,208 +1,266 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_10_4",
   "comments": [
-    "Generated starter arroword for Spanish to Hebrew",
-    "Total clues: 18"
+    "Generated starter base arroword for spanishToHebrew",
+    "Mask: mask_7_7_10_4 (7x7)",
+    "Total clues: 20",
+    "Average hardness: -8590.1",
+    "Compound pairs: 1",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "לו",
+      "definition": "le",
+      "lengths": [
+        2
+      ],
+      "hardness": -9932,
+      "exampleSentence": "Le compré un regalo a Juan."
+    },
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אהב",
-      "definition": "gustó",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "El regalo me gustó mucho desde el principio."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "תסיר",
-      "definition": "quite",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Por favor, quite su abrigo antes de entrar."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "ורידימ",
-      "definition": "venas",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "La sangre fluye por nuestras venas."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "חוד",
-      "definition": "punta",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "El lápiz tiene la punta muy fina."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "הד",
-      "definition": "eco",
+      "solution": "לא",
+      "definition": "no",
       "lengths": [
         2
       ],
-      "exampleSentence": "Grité en la cueva y escuché mi eco."
+      "hardness": -9996,
+      "exampleSentence": "No quiero comer sopa caliente hoy."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "ובכנ",
+      "definition": "pues",
+      "lengths": [
+        4
+      ],
+      "hardness": -9415,
+      "exampleSentence": "Pues no sé qué hacer esta tarde."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לנו",
+      "definition": "nos",
+      "lengths": [
+        3
+      ],
+      "hardness": -9892,
+      "exampleSentence": "Ella nos regaló unos libros nuevos."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "קריירה",
+      "definition": "carrera",
+      "lengths": [
+        6
+      ],
+      "hardness": -8293,
+      "exampleSentence": "Él empieza su carrera profesional este año."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "רק",
+      "definition": "sólo",
+      "lengths": [
+        2
+      ],
+      "hardness": -9859,
+      "exampleSentence": "Sólo quiero descansar un poco."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "התוודה",
-      "definition": "confesó",
+      "solution": "אב",
+      "definition": "padre",
       "lengths": [
-        6
+        2
       ],
-      "exampleSentence": "El ladrón confesó su crimen ante la policía."
+      "hardness": -9713,
+      "exampleSentence": "El padre cuida de su hijo."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "מה",
+      "definition": "que",
+      "lengths": [
+        2
+      ],
+      "hardness": -9998,
+      "exampleSentence": "El libro que compré es muy interesante."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "נשק",
+      "definition": "arma",
+      "lengths": [
+        3
+      ],
+      "hardness": -8964,
+      "exampleSentence": "La policía encontró un arma en la calle."
     },
     {
       "direction": "right",
       "clue_row": 2,
-      "clue_col": 0,
-      "solution": "בסדר",
-      "definition": "okey",
+      "clue_col": 1,
+      "solution": "כמו",
+      "definition": "como",
       "lengths": [
-        4
+        3
       ],
-      "exampleSentence": "Okey, te llamaré por la noche."
+      "hardness": -9942,
+      "exampleSentence": "Ella canta como un pájaro feliz."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חברה",
-      "definition": "sociedad",
+      "solution": "צלצל",
+      "definition": "suena",
       "lengths": [
         4
       ],
-      "exampleSentence": "Debemos mejorar nuestra sociedad cada día más."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "דרור",
-      "definition": "libertad",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "El preso recuperó su libertad tras muchos años."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "עד",
-      "definition": "testigo",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "El testigo vio todo lo que pasó ayer."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "עדר",
-      "definition": "manada",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Un gran grupo de vacas forma una manada."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "דקה",
-      "definition": "min",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "El tiempo estimado es de un min."
+      "hardness": -8737,
+      "exampleSentence": "El despertador suena a las siete."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "יחד",
-      "definition": "juntas",
+      "clue_col": 4,
+      "solution": "צי",
+      "definition": "flota",
       "lengths": [
-        3
+        2
       ],
-      "exampleSentence": "Las dos amigas estudian juntas por la tarde."
+      "hardness": -3398,
+      "exampleSentence": "La flota de barcos salió al mar."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "קטנה",
+      "definition": "pequeña",
+      "lengths": [
+        4
+      ],
+      "hardness": -8960,
+      "exampleSentence": "Tengo una casa pequeña pero bonita."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "זה",
+      "definition": "es",
+      "lengths": [
+        2
+      ],
+      "hardness": -9990,
+      "exampleSentence": "Esto es muy importante para mí."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "מר",
+      "definition": "señor",
+      "lengths": [
+        2
+      ],
+      "hardness": -9793,
+      "exampleSentence": "Buenos días, señor López."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "נס",
+      "definition": "milagro",
+      "lengths": [
+        2
+      ],
+      "hardness": -5007,
+      "exampleSentence": "Encontré mis llaves perdidas, fue un milagro."
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 3,
-      "solution": "דבר",
-      "definition": "hable",
+      "clue_col": 4,
+      "solution": "לי",
+      "definition": "me",
       "lengths": [
-        3
+        2
       ],
-      "exampleSentence": "Espero que hable con la verdad."
+      "hardness": -9978,
+      "exampleSentence": "Me gusta el helado de chocolate."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 2,
-      "solution": "אירו",
-      "definition": "euros",
+      "clue_col": 0,
+      "solution": "זמנקצר",
+      "definition": "rato",
       "lengths": [
-        4
+        3,
+        3
       ],
-      "exampleSentence": "Este libro cuesta quince euros en la librería."
+      "hardness": -8058,
+      "exampleSentence": "Me quedaré un rato más en la fiesta."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הנ",
-      "definition": "ellas",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Ellas estudian juntas en la biblioteca."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "דק",
-      "definition": "delgado",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Este papel es muy delgado."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 3,
-      "solution": "מהר",
-      "definition": "pronto",
+      "solution": "הרס",
+      "definition": "destrucción",
       "lengths": [
         3
       ],
-      "exampleSentence": "Nos veremos muy pronto en la fiesta."
+      "hardness": -1945,
+      "exampleSentence": "El terremoto trajo destrucción a la ciudad."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "לה",
+      "definition": "le",
+      "lengths": [
+        2
+      ],
+      "hardness": -9932,
+      "exampleSentence": "Le di una flor a María."
     }
-  ]
+  ],
+  "score_distribution": {
+    "0": 20
+  },
+  "target_hardness": -10000,
+  "average_hardness": -8590.1,
+  "hardness_distribution": {
+    "easy": 20,
+    "neutral": 0,
+    "hard": 0
+  }
 }

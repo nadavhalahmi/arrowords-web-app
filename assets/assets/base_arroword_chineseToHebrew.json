@@ -1,248 +1,266 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_10_2",
   "comments": [
-    "Generated using mask_7_7_5",
-    "Tolerance: 0.3",
-    "Level: 0.0",
-    "Target hardness: 0",
-    "Average hardness: 0.0",
-    "Hardness distribution: easy=0, neutral=18, hard=0",
-    "Word usage summary by score:",
-    "Score 1: 18/215 words used (100.00% of puzzle, 8.37% of score group)",
-    "Score 0: 0/0 words used (0.00% of puzzle, 0.00% of score group)",
-    "Total: 18/215 words used",
-    "Difficulty optimization: 0 learning words used from global user history"
+    "Generated starter base arroword for chineseToHebrew",
+    "Mask: mask_7_7_10_2 (7x7)",
+    "Total clues: 20",
+    "Average hardness: -9166.7",
+    "Compound pairs: 1",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "מה",
+      "definition": "什么",
+      "lengths": [
+        2
+      ],
+      "hardness": -10000,
+      "exampleSentence": "你今天晚上想吃什么？"
+    },
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "לחמ",
-      "definition": "面包",
+      "solution": "מר",
+      "definition": "先生",
       "lengths": [
-        3
+        2
       ],
-      "hardness": 0,
-      "exampleSentence": "我们烤了一条新鲜温热的面包。"
+      "hardness": -10000,
+      "exampleSentence": "这位先生是我的汉语老师。"
     },
     {
-      "direction": "down",
+      "direction": "left-down",
       "clue_row": 0,
-      "clue_col": 2,
-      "solution": "וופל",
-      "definition": "华夫饼",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "吃一块淋着枫糖浆的华夫饼。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "בעלבית",
-      "definition": "房东",
+      "clue_col": 3,
+      "solution": "הכלבסדר",
+      "definition": "没事儿",
       "lengths": [
         3,
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "每月向房东支付房租。"
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "ארצ",
-      "definition": "国家",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "法国是一个欧洲国家。"
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "תו",
-      "definition": "字符",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "印刷出来的字母是一个文字字符。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "חורבות",
-      "definition": "废墟",
-      "lengths": [
-        6
-      ],
-      "hardness": 0,
-      "exampleSentence": "许多游客参观古堡废墟。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "מוצע",
-      "definition": "提议的",
-      "lengths": [
         4
       ],
-      "hardness": 0,
-      "exampleSentence": "他们接受了新提议的城市规划。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "יומי",
-      "definition": "日常的",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "读日报能养成好习惯。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "דליק",
-      "definition": "易燃的",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "让火源远离易燃气体。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מר",
-      "definition": "苦的",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "黑巧克力尝起来很苦。"
+      "hardness": -10000,
+      "exampleSentence": "今天周末我没事儿在家休息。"
     },
     {
       "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מפל",
-      "definition": "瀑布",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "רכב",
+      "definition": "车",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "美丽的河流流入壮观的瀑布。"
+      "hardness": -10000,
+      "exampleSentence": "路上有很多来往的车。"
     },
     {
       "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "פקח",
-      "definition": "检查员",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "כמה",
+      "definition": "多少",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "安全检查员检查了整栋大楼。"
+      "hardness": -10000,
+      "exampleSentence": "桌子上面一共有多少本书？"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "ביניהמ",
+      "definition": "其中",
+      "lengths": [
+        6
+      ],
+      "hardness": -6667,
+      "exampleSentence": "桌子上有水果，其中有苹果。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "אתנ",
+      "definition": "你们",
+      "lengths": [
+        3
+      ],
+      "hardness": -10000,
+      "exampleSentence": "你们明天要去哪里？"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "דרכ",
+      "definition": "路",
+      "lengths": [
+        3
+      ],
+      "hardness": -10000,
+      "exampleSentence": "这条路通向我们的学校。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "לא",
+      "definition": "没",
+      "lengths": [
+        2
+      ],
+      "hardness": -10000,
+      "exampleSentence": "我昨天没有去学校上课。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "מי",
+      "definition": "谁",
+      "lengths": [
+        2
+      ],
+      "hardness": -10000,
+      "exampleSentence": "敲门的人会是谁呢？"
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ליד",
-      "definition": "在旁边",
+      "clue_col": 4,
+      "solution": "הנ",
+      "definition": "她们",
       "lengths": [
-        3
+        2
       ],
-      "hardness": 0,
-      "exampleSentence": "小狗就在温暖的炉火旁边睡觉。"
+      "hardness": -10000,
+      "exampleSentence": "她们几个都是我的好朋友。"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "לשבת",
+      "definition": "坐",
+      "lengths": [
+        4
+      ],
+      "hardness": -10000,
+      "exampleSentence": "请大家在椅子上坐好。"
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 3,
-      "solution": "בול",
-      "definition": "邮票",
+      "clue_col": 1,
+      "solution": "סנט",
+      "definition": "毛",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "把邮票贴在信封上。"
+      "hardness": -10000,
+      "exampleSentence": "这支铅笔的价格是五毛钱。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "או",
+      "definition": "还是",
+      "lengths": [
+        2
+      ],
+      "hardness": -10000,
+      "exampleSentence": "虽然下雨，他还是去了。"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "טרי",
+      "definition": "生",
+      "lengths": [
+        3
+      ],
+      "hardness": -6667,
+      "exampleSentence": "妈妈生了一个小弟弟。"
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 2,
-      "solution": "מימי",
-      "definition": "水生的",
+      "clue_col": 0,
+      "solution": "יד",
+      "definition": "手",
       "lengths": [
-        4
+        2
       ],
-      "hardness": 0,
-      "exampleSentence": "鱼和青蛙是常见的水生动物。"
+      "hardness": -10000,
+      "exampleSentence": "洗手后再吃东西比较卫生。"
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "יש",
+      "definition": "有",
+      "lengths": [
+        2
+      ],
+      "hardness": -10000,
+      "exampleSentence": "我有一个非常幸福的家庭。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "ראה",
+      "definition": "见过",
+      "lengths": [
+        3
+      ],
+      "hardness": -6667,
+      "exampleSentence": "我见过他一次。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חצ",
-      "definition": "飞镖",
+      "solution": "שר",
+      "definition": "部长",
       "lengths": [
         2
       ],
-      "hardness": 0,
-      "exampleSentence": "他向靶子扔了一支锋利的飞镖。"
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "רק",
-      "definition": "仅仅",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "这仅仅是一点小小的纸划伤。"
+      "hardness": -3333,
+      "exampleSentence": "他是我们的部长。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תיק",
-      "definition": "盒子",
+      "solution": "יומ",
+      "definition": "白天",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "把吉他放进硬琴盒里。"
+      "hardness": -10000,
+      "exampleSentence": "太阳在白天给我们带来光明。"
     }
   ],
-  "mask_id": "mask_7_7_5",
   "score_distribution": {
-    "1": 18,
-    "0": 0
+    "0": 20
   },
-  "target_hardness": 0,
-  "average_hardness": 0.0,
+  "target_hardness": -10000,
+  "average_hardness": -9166.7,
   "hardness_distribution": {
-    "easy": 0,
-    "neutral": 18,
+    "easy": 20,
+    "neutral": 0,
     "hard": 0
   }
 }

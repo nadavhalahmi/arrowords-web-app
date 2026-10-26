@@ -1,209 +1,278 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_15",
   "comments": [
-    "Generated starter arroword for Arabic to Hebrew",
-    "Total clues: 18"
+    "Generated starter base arroword for arabicToHebrew",
+    "Mask: mask_7_7_15 (7x7)",
+    "Total clues: 21",
+    "Average hardness: -8726.7",
+    "Compound pairs: 1",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אלכ",
-      "definition": "اذهب",
+      "solution": "כבר",
+      "definition": "لقد",
       "lengths": [
         3
       ],
-      "exampleSentence": "اذهب إلى السينما مع أصدقائي غدا."
+      "hardness": -9978,
+      "exampleSentence": "لقد وصلت قطار القدس في الموعد."
     },
     {
-      "direction": "down",
+      "direction": "right",
       "clue_row": 0,
-      "clue_col": 2,
-      "solution": "עמוד",
-      "definition": "صفحة",
+      "clue_col": 0,
+      "solution": "כל",
+      "definition": "كل",
       "lengths": [
-        4
+        2
       ],
-      "exampleSentence": "اقرأ الصفحة الأولى من الكتاب."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "אתחפצה",
-      "definition": "تودين",
-      "lengths": [
-        2,
-        4
-      ],
-      "exampleSentence": "هل تودين الذهاب معنا إلى السوق؟"
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "כזו",
-      "definition": "تشبه",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "هذه اللعبة تشبه تلك القديمة."
+      "hardness": -9952,
+      "exampleSentence": "أقرأ كتابا مفيدا كل يوم."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "תז",
-      "definition": "مذكرة",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "كتبت المذكرة على دفتر ملاحظاتي الصغير."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "לעזאזל",
-      "definition": "سحقا",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "سحقا لهذا الحظ السيء اليوم."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "כמות",
-      "definition": "الكمية",
+      "solution": "עליכ",
+      "definition": "عليك",
       "lengths": [
         4
       ],
-      "exampleSentence": "الكمية المطلوبة من الطعام غير كافية."
+      "hardness": -9848,
+      "exampleSentence": "عليك أن تكمل عملك اليوم."
     },
     {
       "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "בריא",
-      "definition": "صحي",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "تناول الطعام الطازج هو أسلوب حياة صحي."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
+      "clue_row": 0,
       "clue_col": 6,
-      "solution": "לקבל",
-      "definition": "أقبل",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "أقبل العرض الجديد بكل سرور."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "בכ",
-      "definition": "بك",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "أنا فخور بك وبنجاحك الدائم."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "ביד",
-      "definition": "بيد",
+      "solution": "אמי",
+      "definition": "أمي",
       "lengths": [
         3
       ],
-      "exampleSentence": "أمسكت القلم بيد ثابتة للكتابة."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "יינ",
-      "definition": "خمر",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "يمنع القانون شرب خمر في الأماكن العامة."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "חבל",
-      "definition": "حبل",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "ربط الرجل الصندوق بحبل قوي جدا."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "פרק",
-      "definition": "الحلقة",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "شاهدت الحلقة الأخيرة من المسلسل المفضل."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "יציב",
-      "definition": "مستقر",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "الوضع الاقتصادي مستقر حاليا."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "נג",
-      "definition": "ضدي",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "لماذا تتحدث دائما ضدي في الاجتماع؟"
+      "hardness": -9658,
+      "exampleSentence": "أمي تطبخ طعاما لذيذا كل يوم جمعة."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "כי",
-      "definition": "لأن",
+      "solution": "אתה",
+      "definition": "أنت",
+      "lengths": [
+        3
+      ],
+      "hardness": -9966,
+      "exampleSentence": "أنت طالب مجتهد وذكي جدا."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מי",
+      "definition": "من",
       "lengths": [
         2
       ],
-      "exampleSentence": "غاب أحمد عن المدرسة لأنها كان مريضا."
+      "hardness": -9998,
+      "exampleSentence": "من هو الشخص الذي يقف هناك؟"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "כי",
+      "definition": "إن",
+      "lengths": [
+        2
+      ],
+      "hardness": -9860,
+      "exampleSentence": "أعلم إن العلم نافع للجميع."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "מאז",
+      "definition": "منذ",
+      "lengths": [
+        3
+      ],
+      "hardness": -9792,
+      "exampleSentence": "أتعلم اللغة العربية منذ سنة."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "בה",
+      "definition": "بها",
+      "lengths": [
+        2
+      ],
+      "hardness": -9750,
+      "exampleSentence": "هذه الحديقة الجميلة والأشجار بها."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "לא",
+      "definition": "لا",
+      "lengths": [
+        2
+      ],
+      "hardness": -10000,
+      "exampleSentence": "لا أستطيع الذهاب معك اليوم."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "האל",
-      "definition": "الإله",
+      "solution": "זהב",
+      "definition": "ذهب",
       "lengths": [
         3
       ],
-      "exampleSentence": "نشكر الإله على نعمته الكبيرة."
+      "hardness": -8748,
+      "exampleSentence": "خاتمها مصنوع من الذهب الخالص."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "אבל",
+      "definition": "لكن",
+      "lengths": [
+        3
+      ],
+      "hardness": -9936,
+      "exampleSentence": "الجو جميل اليوم لكنه بارد قليلا."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "לכו",
+      "definition": "اذهبوا",
+      "lengths": [
+        3
+      ],
+      "hardness": -4335,
+      "exampleSentence": "اذهبوا إلى الحديقة واستمتعوا بالوقت هناك."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "לפני",
+      "definition": "قبل",
+      "lengths": [
+        4
+      ],
+      "hardness": -9882,
+      "exampleSentence": "وصلت إلى المحطة قبل القطار بقليل."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 6,
+      "solution": "לב",
+      "definition": "قلب",
+      "lengths": [
+        2
+      ],
+      "hardness": -7030,
+      "exampleSentence": "ينبض قلب الطفل بسرعة كبيرة."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "מהי",
+      "definition": "ماهي",
+      "lengths": [
+        3
+      ],
+      "hardness": -6388,
+      "exampleSentence": "ماهي هوايتك المفضلة في الفراغ."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "סתמ",
+      "definition": "مجرد",
+      "lengths": [
+        3
+      ],
+      "hardness": -9574,
+      "exampleSentence": "كان ذلك مجرد خطأ بسيط في الحساب."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "הסמימ",
+      "definition": "المخدرات",
+      "lengths": [
+        5
+      ],
+      "hardness": -8122,
+      "exampleSentence": "المخدرات تدمر حياة الكثير من الشباب اليوم."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "הא",
+      "definition": "هاه",
+      "lengths": [
+        2
+      ],
+      "hardness": -7360,
+      "exampleSentence": "هاه لقد فهمت ما تقصده الآن تماما."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "הרופאימ",
+      "definition": "الأطباء",
+      "lengths": [
+        7
+      ],
+      "hardness": -4195,
+      "exampleSentence": "يعمل الأطباء بجد في المستشفى الكبير."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "בכלללא",
+      "definition": "أبدا",
+      "lengths": [
+        4,
+        2
+      ],
+      "hardness": -8888,
+      "exampleSentence": "لن أنسى هذه اللحظة الجميلة أبدا."
     }
-  ]
+  ],
+  "score_distribution": {
+    "0": 21
+  },
+  "target_hardness": -10000,
+  "average_hardness": -8726.7,
+  "hardness_distribution": {
+    "easy": 21,
+    "neutral": 0,
+    "hard": 0
+  }
 }

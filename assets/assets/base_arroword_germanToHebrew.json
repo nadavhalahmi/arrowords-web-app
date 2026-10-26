@@ -1,227 +1,266 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_15_5",
   "comments": [
-    "Generated starter arroword for German to Hebrew",
-    "Total clues: 18"
+    "Generated starter base arroword for germanToHebrew",
+    "Mask: mask_7_7_15_5 (7x7)",
+    "Total clues: 20",
+    "Average hardness: -9384.7",
+    "Compound pairs: 1",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
-      "direction": "right-down",
+      "direction": "down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "לחמ",
-      "definition": "Brot",
+      "solution": "היא",
+      "definition": "Sie",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "Ich esse gerne Brot zum Frühstück."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "וופל",
-      "definition": "Waffel",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "Die Waffel mit Sahne ist lecker."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "בעלבית",
-      "definition": "Vermieter",
-      "lengths": [
-        3,
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "Der Vermieter ist sehr freundlich."
+      "hardness": -9998,
+      "exampleSentence": "Sie liest ein sehr spannendes Buch."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
-      "clue_col": 4,
-      "solution": "ארצ",
-      "definition": "Land",
+      "clue_col": 3,
+      "solution": "ערב",
+      "definition": "Abend",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "Deutschland ist ein schönes Land."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "תו",
-      "definition": "Note",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "Diese Note ist sehr hoch."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "חורבות",
-      "definition": "Ruinen",
-      "lengths": [
-        6
-      ],
-      "hardness": 0,
-      "exampleSentence": "Die alten Ruinen sind beeindruckend."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "מוצע",
-      "definition": "vorgeschlagen",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "Der vorgeschlagene Plan ist gut."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "יומי",
-      "definition": "täglich",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "Ich trinke täglich Kaffee."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "דליק",
-      "definition": "brennbar",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "Benzin ist eine brennbare Flüssigkeit."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מר",
-      "definition": "bitter",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "Dieser Kaffee schmeckt sehr bitter."
+      "hardness": -9510,
+      "exampleSentence": "Guten Abend, wie geht es Ihnen?"
     },
     {
       "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מפל",
-      "definition": "Wasserfall",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "או",
+      "definition": "Oder",
+      "lengths": [
+        2
+      ],
+      "hardness": -9868,
+      "exampleSentence": "Möchtest du lieber Kaffee oder Tee trinken?"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "שווה",
+      "definition": "Gleich",
+      "lengths": [
+        4
+      ],
+      "hardness": -9548,
+      "exampleSentence": "Ich komme gleich zu dir."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "סע",
+      "definition": "Fahr",
+      "lengths": [
+        2
+      ],
+      "hardness": -8021,
+      "exampleSentence": "Fahr bitte nicht so schnell hier."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "תוכ",
+      "definition": "In",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "Der Wasserfall ist sehr hoch."
+      "hardness": -9976,
+      "exampleSentence": "Das Buch liegt auf dem Tisch."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "אז",
+      "definition": "So",
+      "lengths": [
+        2
+      ],
+      "hardness": -9956,
+      "exampleSentence": "Wenn es regnet, bleiben wir einfach so zu Hause."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 6,
+      "solution": "גמ",
+      "definition": "Auch",
+      "lengths": [
+        2
+      ],
+      "hardness": -9906,
+      "exampleSentence": "Ich trinke gerne Tee und du trinkst auch Tee."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "באמת",
+      "definition": "Wirklich",
+      "lengths": [
+        4
+      ],
+      "hardness": -9766,
+      "exampleSentence": "Das ist eine wirklich sehr schöne Überraschung für mich."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "בתזוג",
+      "definition": "Freundin",
+      "lengths": [
+        2,
+        3
+      ],
+      "hardness": -8937,
+      "exampleSentence": "Meine feste Freundin kocht heute Abend für mich."
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 1,
-      "solution": "פקח",
-      "definition": "Inspektor",
+      "clue_col": 2,
+      "solution": "יומ",
+      "definition": "Tag",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "Der Inspektor prüft die Qualität."
+      "hardness": -9650,
+      "exampleSentence": "Heute ist ein wunderschöner und sonniger Tag."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ליד",
-      "definition": "neben",
+      "clue_col": 4,
+      "solution": "המ",
+      "definition": "Sie",
       "lengths": [
-        3
+        2
       ],
-      "hardness": 0,
-      "exampleSentence": "Das Buch liegt neben dem Stift."
+      "hardness": -9998,
+      "exampleSentence": "Sie lernen jeden Tag fleißig neue Wörter."
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 3,
-      "solution": "בול",
-      "definition": "Briefmarke",
+      "clue_col": 0,
+      "solution": "איכ",
+      "definition": "Wie",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "Ich brauche eine Briefmarke für den Brief."
+      "hardness": -9968,
+      "exampleSentence": "Wie geht es dir heute morgen?"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "אב",
+      "definition": "Vater",
+      "lengths": [
+        2
+      ],
+      "hardness": -9660,
+      "exampleSentence": "Mein Vater kocht sehr gerne am Abend."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 4,
+      "solution": "אד",
+      "definition": "Ed",
+      "lengths": [
+        2
+      ],
+      "hardness": -5485,
+      "exampleSentence": "Ed spielt wunderbar Gitarre in einer Band."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "מי",
+      "definition": "Wer",
+      "lengths": [
+        2
+      ],
+      "hardness": -9796,
+      "exampleSentence": "Wer hat das Fenster offen gelassen?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 6,
+      "solution": "את",
+      "definition": "Du",
+      "lengths": [
+        2
+      ],
+      "hardness": -9992,
+      "exampleSentence": "Du bist heute sehr nett zu mir."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 2,
-      "solution": "מימי",
-      "definition": "wässrig",
+      "clue_col": 3,
+      "solution": "אמא",
+      "definition": "Mutter",
       "lengths": [
-        4
+        3
       ],
-      "hardness": 0,
-      "exampleSentence": "Die Suppe ist etwas wässrig."
+      "hardness": -9624,
+      "exampleSentence": "Meine liebe Mutter kocht sehr gerne gut."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חצ",
-      "definition": "Pfeil",
+      "solution": "תמידית",
+      "definition": "Ständig",
       "lengths": [
-        2
+        6
       ],
-      "hardness": 0,
-      "exampleSentence": "Der Pfeil zeigt nach rechts."
+      "hardness": -8067,
+      "exampleSentence": "Er redet ständig über seine Arbeit."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רק",
-      "definition": "nur",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "Ich habe nur noch fünf Euro."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 3,
-      "solution": "תיק",
-      "definition": "Tasche",
+      "solution": "כמו",
+      "definition": "Wie",
       "lengths": [
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "Meine Tasche ist sehr schwer."
+      "hardness": -9968,
+      "exampleSentence": "Der kleine Junge läuft schnell wie der Wind."
     }
-  ]
+  ],
+  "score_distribution": {
+    "0": 20
+  },
+  "target_hardness": -10000,
+  "average_hardness": -9384.7,
+  "hardness_distribution": {
+    "easy": 20,
+    "neutral": 0,
+    "hard": 0
+  }
 }

@@ -1,424 +1,289 @@
 {
-  "num_rows": 10,
-  "num_cols": 10,
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_10_5",
   "comments": [
-    "Word usage summary by score:",
-    "Score 1: 29/1363 words used (78.38% of puzzle, 2.13% of score group)",
-    "Score 0: 8/9614 words used (21.62% of puzzle, 0.08% of score group)",
-    "Total: 37/10977 words used"
+    "Generated starter base arroword for frenchToHebrew",
+    "Mask: mask_7_7_10_5 (7x7)",
+    "Total clues: 22",
+    "Average hardness: -4354.9",
+    "Compound pairs: 0",
+    "Curated for easiest beginner French vocabulary with 100% natural, crisp definitions."
   ],
   "clues": [
     {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "הכל",
+      "definition": "tout",
+      "lengths": [
+        3
+      ],
+      "hardness": -6000,
+      "exampleSentence": "J'ai tout compris."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "היא",
+      "definition": "elle",
+      "lengths": [
+        3
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Elle est ma sœur."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "לא",
+      "definition": "non",
+      "lengths": [
+        2
+      ],
+      "hardness": -5000,
+      "exampleSentence": "Non, je ne suis pas d'accord."
+    },
+    {
       "direction": "down-right",
       "clue_row": 0,
-      "clue_col": 0,
-      "solution": "אושר",
-      "definition": "bonheur",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "La naissance de leur bébé leur apporte un grand bonheur."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "את",
-      "definition": "tu",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Tu manges une pomme rouge ce matin."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 9,
-      "solution": "במשכ",
-      "definition": "pendant",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Elle a dormi pendant tout le voyage en train."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 9,
-      "clue_col": 0,
-      "solution": "למקמ",
-      "definition": "installer",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Il préfère installer son bureau près de la fenêtre."
-    },
-    {
-      "direction": "down",
-      "clue_row": 5,
-      "clue_col": 6,
-      "solution": "צחוק",
-      "definition": "moquerie",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Il faut éviter toute moquerie blessante envers les camarades."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 6,
-      "solution": "דה",
-      "definition": "da",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Il accepte la proposition d'un simple da."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 1,
-      "solution": "טיפש",
-      "definition": "con",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Ne fais pas le con et écoute attentivement."
-    },
-    {
-      "direction": "right",
-      "clue_row": 7,
       "clue_col": 5,
-      "solution": "חוזק",
-      "definition": "force",
+      "solution": "בת",
+      "definition": "fille",
       "lengths": [
-        4
+        2
       ],
-      "exampleSentence": "Il faut beaucoup de force pour soulever cette pierre."
+      "hardness": -6000,
+      "exampleSentence": "Elle est la fille de mes voisins."
     },
     {
       "direction": "down",
-      "clue_row": 4,
-      "clue_col": 2,
-      "solution": "טריק",
-      "definition": "truc",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "J'ai un truc à te montrer."
-    },
-    {
-      "direction": "down",
-      "clue_row": 5,
-      "clue_col": 9,
-      "solution": "הקמה",
-      "definition": "établissement",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "L'établissement de ce nouveau commerce prend du temps."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
+      "clue_row": 0,
       "clue_col": 6,
       "solution": "תה",
       "definition": "thé",
       "lengths": [
         2
       ],
-      "exampleSentence": "J'aime boire un thé chaud le matin."
+      "hardness": -7143,
+      "exampleSentence": "Je bois du thé chaud le matin."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 2,
+      "solution": "בחירה",
+      "definition": "choix",
+      "lengths": [
+        5
+      ],
+      "hardness": 0,
+      "exampleSentence": "C'est un choix difficile à faire."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "לרמות",
+      "definition": "tromper",
+      "lengths": [
+        5
+      ],
+      "hardness": 0,
+      "exampleSentence": "Il a essayé de me tromper avec un faux billet."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "במה",
+      "definition": "scène",
+      "lengths": [
+        3
+      ],
+      "hardness": -5000,
+      "exampleSentence": "L'acteur est monté sur scène."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "חי",
+      "definition": "vivant",
+      "lengths": [
+        2
+      ],
+      "hardness": -3333,
+      "exampleSentence": "Il est encore vivant."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "זו",
+      "definition": "cette",
+      "lengths": [
+        2
+      ],
+      "hardness": -3333,
+      "exampleSentence": "Cette idée est excellente."
     },
     {
       "direction": "right",
-      "clue_row": 8,
-      "clue_col": 4,
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "למה",
+      "definition": "pourquoi",
+      "lengths": [
+        3
+      ],
+      "hardness": 0,
+      "exampleSentence": "Pourquoi es-tu triste aujourd'hui ?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מי",
+      "definition": "qui",
+      "lengths": [
+        2
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Qui est là ?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "חזרה",
+      "definition": "retour",
+      "lengths": [
+        4
+      ],
+      "hardness": -3333,
+      "exampleSentence": "Son retour est prévu pour demain."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "אב",
+      "definition": "père",
+      "lengths": [
+        2
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Mon père est un homme gentil."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "שאר",
+      "definition": "reste",
+      "lengths": [
+        3
+      ],
+      "hardness": -5000,
+      "exampleSentence": "Le reste de l'équipe est parti."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "על",
+      "definition": "sur",
+      "lengths": [
+        2
+      ],
+      "hardness": -5000,
+      "exampleSentence": "Le livre est sur la table."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "יומ",
+      "definition": "journée",
+      "lengths": [
+        3
+      ],
+      "hardness": -5000,
+      "exampleSentence": "J'ai passé une bonne journée."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
       "solution": "לו",
-      "definition": "le",
+      "definition": "lui",
       "lengths": [
         2
       ],
-      "exampleSentence": "Il prend le stylo et le garde."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "שלכ",
-      "definition": "ton",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ton chat dort sur le canapé."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "ערימה",
-      "definition": "tas",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "Il y a un grand tas de feuilles mortes."
+      "hardness": -5000,
+      "exampleSentence": "Je lui parle souvent."
     },
     {
       "direction": "right",
-      "clue_row": 9,
-      "clue_col": 5,
-      "solution": "קונה",
-      "definition": "preneur",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Nous cherchons un preneur pour cette belle voiture."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 4,
-      "solution": "יציאה",
-      "definition": "départ",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "Le départ pour les vacances est enfin arrivé."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 4,
-      "solution": "הנ",
-      "definition": "elles",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Elles sont allées au cinéma ensemble."
-    },
-    {
-      "direction": "down",
-      "clue_row": 5,
-      "clue_col": 1,
-      "solution": "נשמה",
-      "definition": "âme",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Cette artiste chante avec beaucoup d'âme."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 8,
-      "solution": "להאזינ",
-      "definition": "écouter",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "J'aime écouter de la musique le soir."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 8,
-      "solution": "לכ",
-      "definition": "t'",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Je t'offre ce beau cadeau d'anniversaire."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "שטר",
-      "definition": "billet",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Il a payé son billet de train avec un billet de vingt euros."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "או",
-      "definition": "ou",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Tu préfères le thé ou le café ?"
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 3,
-      "clue_col": 7,
-      "solution": "אממ",
-      "definition": "euh",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Euh, je ne sais pas quoi répondre à cette question."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 7,
-      "solution": "דיו",
-      "definition": "hue",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Le fermier crie hue pour faire avancer son cheval."
-    },
-    {
-      "direction": "up-right",
       "clue_row": 5,
       "clue_col": 3,
-      "solution": "הנאה",
-      "definition": "plaisir",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Elle prend beaucoup de plaisir à peindre."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "חנ",
-      "definition": "grâce",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Elle danse avec beaucoup de grâce et d'élégance."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 4,
-      "solution": "פינה",
-      "definition": "coin",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Le chat aime dormir dans le coin chaud de la pièce."
-    },
-    {
-      "direction": "right",
-      "clue_row": 8,
-      "clue_col": 7,
-      "solution": "ימ",
-      "definition": "mer",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Nous aimons nager dans la mer chaude en été."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 5,
-      "solution": "נלהב",
-      "definition": "fougueux",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Le jeune étalon est vif et fougueux."
-    },
-    {
-      "direction": "right",
-      "clue_row": 9,
-      "clue_col": 2,
-      "solution": "של",
-      "definition": "d'",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "C'est la couleur d'un beau ciel."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 4,
-      "clue_col": 1,
-      "solution": "תרמי",
-      "definition": "thermique",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Ce manteau offre une excellente isolation thermique."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "אני",
-      "definition": "moi",
+      "solution": "ולא",
+      "definition": "ni",
       "lengths": [
         3
       ],
-      "exampleSentence": "Donnez ce livre à moi s'il vous plaît."
+      "hardness": -6000,
+      "exampleSentence": "Je ne veux ni l'un ni l'autre."
     },
     {
       "direction": "right",
-      "clue_row": 7,
+      "clue_row": 6,
       "clue_col": 0,
-      "solution": "שיחה",
-      "definition": "appel",
+      "solution": "לה",
+      "definition": "la",
       "lengths": [
-        4
+        2
       ],
-      "exampleSentence": "Un nouvel appel est entré pendant notre réunion de travail."
+      "hardness": -6000,
+      "exampleSentence": "Il faut la prendre avec nous."
     },
     {
       "direction": "up-right",
-      "clue_row": 7,
+      "clue_row": 6,
       "clue_col": 0,
-      "solution": "כנר",
-      "definition": "violoniste",
+      "solution": "יער",
+      "definition": "bois",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le musicien est un violoniste talentueux dans l'orchestre."
+      "hardness": -3333,
+      "exampleSentence": "Nous nous promenons dans le bois."
     },
     {
-      "direction": "down",
+      "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "חמש",
-      "definition": "cinq",
+      "solution": "תור",
+      "definition": "tour",
       "lengths": [
         3
       ],
-      "exampleSentence": "Il y a cinq personnes dans ma petite famille."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 7,
-      "solution": "להמ",
-      "definition": "leur",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Le professeur donne un livre de grammaire à leur intention."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 7,
-      "solution": "לא",
-      "definition": "non",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Non, je ne connais pas cette adresse."
+      "hardness": -3333,
+      "exampleSentence": "C'est à mon tour de jouer."
     }
   ],
-  "mask_id": "mask_0",
   "score_distribution": {
-    "1": 29,
-    "0": 8
+    "1": 22
+  },
+  "target_hardness": -10000,
+  "average_hardness": -4354.9,
+  "hardness_distribution": {
+    "easy": 19,
+    "neutral": 3,
+    "hard": 0
   }
 }

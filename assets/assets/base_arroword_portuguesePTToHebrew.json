@@ -1,208 +1,289 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_15_4",
   "comments": [
-    "Generated starter arroword for Portuguese (Portugal) to Hebrew",
-    "Total clues: 18"
+    "Generated starter base arroword for portuguesePTToHebrew",
+    "Mask: mask_7_7_15_4 (7x7)",
+    "Total clues: 22",
+    "Average hardness: -8987.0",
+    "Compound pairs: 0",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "את",
+      "definition": "tu",
+      "lengths": [
+        2
+      ],
+      "hardness": -9904,
+      "exampleSentence": "Tu tens uma voz muito bonita."
+    },
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "דלג",
-      "definition": "salta",
+      "solution": "איכ",
+      "definition": "como",
       "lengths": [
         3
       ],
-      "exampleSentence": "Salta esta parte do texto e continua."
+      "hardness": -9962,
+      "exampleSentence": "Como estás hoje?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "על",
+      "definition": "sobre",
+      "lengths": [
+        2
+      ],
+      "hardness": -9800,
+      "exampleSentence": "O livro está sobre a mesa da sala."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "ערב",
+      "definition": "noite",
+      "lengths": [
+        3
+      ],
+      "hardness": -9774,
+      "exampleSentence": "Gosto de passear ao fim da noite."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 2,
-      "solution": "דחופ",
-      "definition": "empurrar",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Ajuda-me a empurrar este armário pesado."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "קתולית",
-      "definition": "católica",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Esta igreja catolica e muito antiga."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "טפל",
-      "definition": "tratava",
+      "clue_col": 6,
+      "solution": "זמנ",
+      "definition": "tempo",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ela tratava bem dos animais."
+      "hardness": -9808,
+      "exampleSentence": "Não tenho tempo para fazer isso agora."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בו",
-      "definition": "nele",
+      "solution": "לכ",
+      "definition": "te",
       "lengths": [
         2
       ],
-      "exampleSentence": "Confio nele para este trabalho."
+      "hardness": -9914,
+      "exampleSentence": "Dou-te este presente com muito carinho."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "רכב",
+      "definition": "carro",
+      "lengths": [
+        3
+      ],
+      "hardness": -9561,
+      "exampleSentence": "O meu carro novo é azul escuro."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 2,
+      "solution": "בא",
+      "definition": "vem",
+      "lengths": [
+        2
+      ],
+      "hardness": -9523,
+      "exampleSentence": "Ele vem cá logo à tarde."
     },
     {
       "direction": "right",
       "clue_row": 1,
-      "clue_col": 0,
-      "solution": "לדפקות",
-      "definition": "bater",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Alguém está a bater à porta."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "גחלת",
-      "definition": "brasa",
+      "clue_col": 2,
+      "solution": "מרכז",
+      "definition": "centro",
       "lengths": [
         4
       ],
-      "exampleSentence": "A carne assa na brasa quente."
+      "hardness": -8183,
+      "exampleSentence": "Vou ao centro da cidade fazer compras."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "פרס",
+      "definition": "prémio",
+      "lengths": [
+        3
+      ],
+      "hardness": -5640,
+      "exampleSentence": "Ele ganhou o primeiro prémio do concurso."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "דפוק",
-      "definition": "fodido",
+      "solution": "כוכב",
+      "definition": "estrela",
       "lengths": [
         4
       ],
-      "exampleSentence": "O carro velho esta completamente fodido."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "איתנ",
-      "definition": "identificou",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Ele identificou o problema no motor."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מט",
-      "definition": "mate",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "O jogador fez mate no rei."
+      "hardness": -7133,
+      "exampleSentence": "Consigo ver uma estrela brilhante no céu."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מגפ",
-      "definition": "bota",
+      "solution": "עמ",
+      "definition": "com",
       "lengths": [
-        3
+        2
       ],
-      "exampleSentence": "Comprei uma bota nova para o inverno."
+      "hardness": -9984,
+      "exampleSentence": "Gosto de beber café com leite."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "גרמ",
-      "definition": "causou",
+      "solution": "מלא",
+      "definition": "cheio",
       "lengths": [
         3
       ],
-      "exampleSentence": "O vento forte causou muitos estragos."
+      "hardness": -8026,
+      "exampleSentence": "O copo de água está completamente cheio."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ודא",
-      "definition": "certifique-se",
+      "clue_col": 1,
+      "solution": "אפ",
+      "definition": "nariz",
+      "lengths": [
+        2
+      ],
+      "hardness": -6900,
+      "exampleSentence": "O bebé tem o nariz muito pequeno."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "אתה",
+      "definition": "tu",
       "lengths": [
         3
       ],
-      "exampleSentence": "Certifique-se de fechar bem a porta."
+      "hardness": -9904,
+      "exampleSentence": "Tu és um excelente cozinheiro."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "כנ",
+      "definition": "sim",
+      "lengths": [
+        2
+      ],
+      "hardness": -9960,
+      "exampleSentence": "Sim, eu quero ir contigo."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "המ",
+      "definition": "eles",
+      "lengths": [
+        2
+      ],
+      "hardness": -9856,
+      "exampleSentence": "Eles jogam futebol todas as terças-feiras."
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 3,
-      "solution": "לפי",
-      "definition": "conforme",
+      "clue_col": 2,
+      "solution": "ראו",
+      "definition": "viram",
       "lengths": [
         3
       ],
-      "exampleSentence": "Fiz o bolo conforme a receita dizia."
+      "hardness": -7199,
+      "exampleSentence": "Eles viram um filme excelente ontem à noite."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 6,
+      "solution": "לא",
+      "definition": "não",
+      "lengths": [
+        2
+      ],
+      "hardness": -9998,
+      "exampleSentence": "Eu não gosto de café frio."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 2,
-      "solution": "פיות",
-      "definition": "fadas",
+      "clue_col": 0,
+      "solution": "להסתכל",
+      "definition": "olhar",
       "lengths": [
-        4
+        6
       ],
-      "exampleSentence": "As fadas aparecem nos contos infantis."
+      "hardness": -9048,
+      "exampleSentence": "É preciso olhar para os dois lados."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מנ",
-      "definition": "de",
+      "solution": "אמ",
+      "definition": "se",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ele vem de Lisboa."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "טר",
-      "definition": "trágico",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "O acidente teve um desfecho tragico."
+      "hardness": -9982,
+      "exampleSentence": "Se chover, vamos ficar em casa."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תקנ",
-      "definition": "padrão",
+      "solution": "הבא",
+      "definition": "seguinte",
       "lengths": [
         3
       ],
-      "exampleSentence": "Este produto segue um alto padrão de qualidade."
+      "hardness": -7654,
+      "exampleSentence": "Vamos falar sobre isso no capítulo seguinte."
     }
-  ]
+  ],
+  "score_distribution": {
+    "0": 22
+  },
+  "target_hardness": -10000,
+  "average_hardness": -8987.0,
+  "hardness_distribution": {
+    "easy": 22,
+    "neutral": 0,
+    "hard": 0
+  }
 }

@@ -1,217 +1,267 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_10_4",
   "comments": [
-    "Word usage summary by score:",
-    "Score 1: 11/3312 words used (61.11% of puzzle, 0.33% of score group)",
-    "Score 0: 7/4877 words used (38.89% of puzzle, 0.14% of score group)",
-    "Total: 18/8189 words used"
+    "Generated starter base arroword for portugueseToHebrew",
+    "Mask: mask_7_7_10_4 (7x7)",
+    "Total clues: 20",
+    "Average hardness: -6783.1",
+    "Compound pairs: 1",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "כוס",
-      "definition": "copo",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Beba um copo de água fria."
-    },
-    {
       "direction": "right",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "כת",
-      "definition": "seita",
+      "solution": "קר",
+      "definition": "frio",
       "lengths": [
         2
       ],
-      "exampleSentence": "Eles pertencem a uma seita religiosa fechada."
+      "hardness": -8095,
+      "exampleSentence": "O inverno nesta cidade é sempre muito frio."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "fácil",
+      "lengths": [
+        2
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Este exercício de matemática é muito fácil."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
-      "clue_col": 6,
-      "solution": "שלו",
-      "definition": "sereno",
+      "clue_col": 3,
+      "solution": "ראשי",
+      "definition": "principal",
+      "lengths": [
+        4
+      ],
+      "hardness": -8000,
+      "exampleSentence": "Este é o objetivo principal do nosso projeto."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "תשע",
+      "definition": "nove",
       "lengths": [
         3
       ],
-      "exampleSentence": "O lago tranquilo é muito calmo e sereno."
+      "hardness": -7143,
+      "exampleSentence": "Aulas na escola começam às nove horas da manhã."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בד",
-      "definition": "tecido",
+      "solution": "יומשני",
+      "definition": "segunda-feira",
+      "lengths": [
+        3,
+        3
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Segunda-feira é o começo."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "אפ",
+      "definition": "nariz",
       "lengths": [
         2
       ],
-      "exampleSentence": "Este tecido macio faz uma bela camisa."
+      "hardness": -8333,
+      "exampleSentence": "O palhaço tem um nariz vermelho e engraçado."
     },
     {
       "direction": "right",
-      "clue_row": 6,
+      "clue_row": 1,
       "clue_col": 0,
-      "solution": "רמת",
-      "definition": "nível de",
+      "solution": "לא",
+      "definition": "não",
+      "lengths": [
+        2
+      ],
+      "hardness": -8857,
+      "exampleSentence": "Eu não gosto de comer comida muito picante."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "בת",
+      "definition": "filha",
+      "lengths": [
+        2
+      ],
+      "hardness": -8824,
+      "exampleSentence": "A filha ajuda sua mãe na cozinha."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "שני",
+      "definition": "segundo",
       "lengths": [
         3
       ],
-      "exampleSentence": "O nível de água no rio está muito alto."
+      "hardness": -5000,
+      "exampleSentence": "O segundo lugar."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "שבע",
+      "definition": "sete",
+      "lengths": [
+        3
+      ],
+      "hardness": -5000,
+      "exampleSentence": "Uma semana completa tem exatamente sete dias."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "היומ",
+      "definition": "hoje",
+      "lengths": [
+        4
+      ],
+      "hardness": -5000,
+      "exampleSentence": "Hoje é segunda-feira."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "המ",
+      "definition": "estão",
+      "lengths": [
+        2
+      ],
+      "hardness": -6000,
+      "exampleSentence": "Eles estão muito felizes com a nova casa."
     },
     {
       "direction": "up-right",
-      "clue_row": 6,
+      "clue_row": 4,
       "clue_col": 0,
-      "solution": "רעיונות",
-      "definition": "ideias",
+      "solution": "פחית",
+      "definition": "lata",
       "lengths": [
-        7
+        4
       ],
-      "exampleSentence": "Ele sempre traz boas ideias para o projeto."
+      "hardness": -3333,
+      "exampleSentence": "Eu comprei uma lata de refrigerante bem gelada."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "מה",
+      "definition": "o que",
+      "lengths": [
+        2
+      ],
+      "hardness": -9091,
+      "exampleSentence": "O que é isso?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "תה",
+      "definition": "chá",
+      "lengths": [
+        2
+      ],
+      "hardness": -8462,
+      "exampleSentence": "Eu gosto de beber uma xícara de chá quente."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "כנ",
+      "definition": "sim",
+      "lengths": [
+        2
+      ],
+      "hardness": -7143,
+      "exampleSentence": "Sim, eu quero aprender a falar português fluentemente."
     },
     {
       "direction": "right",
       "clue_row": 4,
+      "clue_col": 4,
+      "solution": "יש",
+      "definition": "há",
+      "lengths": [
+        2
+      ],
+      "hardness": -7647,
+      "exampleSentence": "Há muitas flores bonitas no jardim da praça."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
       "clue_col": 0,
-      "solution": "תרבותי",
-      "definition": "cultural",
+      "solution": "מתכוונ",
+      "definition": "pretende",
       "lengths": [
         6
       ],
-      "exampleSentence": "A comida e a música são tradições de valor cultural."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 4,
-      "clue_col": 0,
-      "solution": "תער",
-      "definition": "navalha",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "O barbeiro usa uma navalha afiada."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "תופמרימ",
-      "definition": "pandeiro",
-      "lengths": [
-        3,
-        4
-      ],
-      "exampleSentence": "Ela tocou o pandeiro no ritmo da música."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "תופ",
-      "definition": "tambor",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "O músico bateu com força no tambor."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "חסרונ",
-      "definition": "desvantagem",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "O preço elevado é uma grande desvantagem."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "חלב",
-      "definition": "leite",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Eu gosto de beber um copo de leite quente."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 6,
-      "solution": "יתנ",
-      "definition": "dará",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ele lhe dará um belo presente amanhã."
+      "hardness": -3333,
+      "exampleSentence": "Ele pretende viajar para o Brasil nas férias."
     },
     {
       "direction": "right",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "מכר",
-      "definition": "conhecido",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "ההנ",
+      "definition": "aquelas",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ele é apenas um conhecido do meu trabalho."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "רכבות",
-      "definition": "trens",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "Os trens de passageiros correm velozes nos trilhos."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "וו",
-      "definition": "gancho",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Pendure o seu casaco no gancho da parede."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "לספרסוד",
-      "definition": "confidenciar",
-      "lengths": [
-        4,
-        3
-      ],
-      "exampleSentence": "Decidi confidenciar o meu segredo ao meu melhor amigo."
+      "hardness": -6000,
+      "exampleSentence": "Aquelas montanhas altas estão cobertas de neve branca agora."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 4,
-      "solution": "פנ",
-      "definition": "para que não",
+      "solution": "מי",
+      "definition": "quem",
       "lengths": [
         2
       ],
-      "exampleSentence": "Segure-se com firmeza para que não caia."
+      "hardness": -8400,
+      "exampleSentence": "Quem ganhou o primeiro prêmio do concurso hoje?"
     }
   ],
-  "mask_id": "mask_7_7_20",
   "score_distribution": {
-    "1": 11,
-    "0": 7
+    "1": 12,
+    "0": 8
+  },
+  "target_hardness": -10000,
+  "average_hardness": -6783.1,
+  "hardness_distribution": {
+    "easy": 20,
+    "neutral": 0,
+    "hard": 0
   }
 }
