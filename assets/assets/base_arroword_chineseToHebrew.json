@@ -1,266 +1,210 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_10_2",
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for chineseToHebrew",
-    "Mask: mask_7_7_10_2 (7x7)",
-    "Total clues: 20",
-    "Average hardness: -9166.7",
-    "Compound pairs: 1",
+    "Generated clean beginner starter base arroword for chineseToHebrew",
+    "Total clues: 18",
     "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
-      "direction": "right",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "מה",
-      "definition": "什么",
-      "lengths": [
-        2
-      ],
-      "hardness": -10000,
-      "exampleSentence": "你今天晚上想吃什么？"
-    },
-    {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מר",
-      "definition": "先生",
+      "solution": "באר",
+      "definition": "井",
       "lengths": [
-        2
+        3
       ],
-      "hardness": -10000,
-      "exampleSentence": "这位先生是我的汉语老师。"
+      "exampleSentence": "村子里有一口老井。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "לפיד",
+      "definition": "火炬",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "运动员举着火炬奔跑。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "ויטמינ",
+      "definition": "维生素",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "多吃水果补充维生素。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
-      "clue_col": 3,
-      "solution": "הכלבסדר",
-      "definition": "没事儿",
-      "lengths": [
-        3,
-        4
-      ],
-      "hardness": -10000,
-      "exampleSentence": "今天周末我没事儿在家休息。"
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 0,
       "clue_col": 4,
-      "solution": "רכב",
-      "definition": "车",
+      "solution": "כמו",
+      "definition": "犹如",
       "lengths": [
         3
       ],
-      "hardness": -10000,
-      "exampleSentence": "路上有很多来往的车。"
+      "exampleSentence": "湖水犹如一面镜子。"
     },
     {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "כמה",
-      "definition": "多少",
-      "lengths": [
-        3
-      ],
-      "hardness": -10000,
-      "exampleSentence": "桌子上面一共有多少本书？"
-    },
-    {
-      "direction": "down",
+      "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "ביניהמ",
-      "definition": "其中",
+      "solution": "כנ",
+      "definition": "耿直",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "他性格非常耿直。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "אלמוני",
+      "definition": "默默无闻",
       "lengths": [
         6
       ],
-      "hardness": -6667,
-      "exampleSentence": "桌子上有水果，其中有苹果。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "אתנ",
-      "definition": "你们",
-      "lengths": [
-        3
-      ],
-      "hardness": -10000,
-      "exampleSentence": "你们明天要去哪里？"
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "דרכ",
-      "definition": "路",
-      "lengths": [
-        3
-      ],
-      "hardness": -10000,
-      "exampleSentence": "这条路通向我们的学校。"
+      "exampleSentence": "他曾是个默默无闻的人。"
     },
     {
       "direction": "right",
       "clue_row": 2,
-      "clue_col": 1,
+      "clue_col": 0,
+      "solution": "רפוי",
+      "definition": "无精打采",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "他今天看起来无精打采。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "עדיפ",
+      "definition": "强",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "他的身体比以前强多了。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "מפגש",
+      "definition": "会面",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "我们约好明天下午会面。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
       "solution": "לא",
       "definition": "没",
       "lengths": [
         2
       ],
-      "hardness": -10000,
       "exampleSentence": "我昨天没有去学校上课。"
     },
     {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 4,
-      "solution": "מי",
-      "definition": "谁",
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "לבד",
+      "definition": "独",
       "lengths": [
-        2
+        3
       ],
-      "hardness": -10000,
-      "exampleSentence": "敲门的人会是谁呢？"
+      "exampleSentence": "他独坐在窗前看书。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "במה",
+      "definition": "舞台",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "她在舞台上唱歌很好听。"
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 4,
-      "solution": "הנ",
-      "definition": "她们",
+      "clue_col": 3,
+      "solution": "טעמ",
+      "definition": "味道",
       "lengths": [
-        2
+        3
       ],
-      "hardness": -10000,
-      "exampleSentence": "她们几个都是我的好朋友。"
+      "exampleSentence": "这个苹果的味道很甜。"
     },
     {
-      "direction": "up-right",
+      "direction": "right",
       "clue_row": 4,
-      "clue_col": 0,
-      "solution": "לשבת",
-      "definition": "坐",
+      "clue_col": 3,
+      "solution": "מדפ",
+      "definition": "档",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "请把文件归档。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "דייג",
+      "definition": "渔民",
       "lengths": [
         4
       ],
-      "hardness": -10000,
-      "exampleSentence": "请大家在椅子上坐好。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 1,
-      "solution": "סנט",
-      "definition": "毛",
-      "lengths": [
-        3
-      ],
-      "hardness": -10000,
-      "exampleSentence": "这支铅笔的价格是五毛钱。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 5,
-      "solution": "או",
-      "definition": "还是",
-      "lengths": [
-        2
-      ],
-      "hardness": -10000,
-      "exampleSentence": "虽然下雨，他还是去了。"
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 4,
-      "clue_col": 5,
-      "solution": "טרי",
-      "definition": "生",
-      "lengths": [
-        3
-      ],
-      "hardness": -6667,
-      "exampleSentence": "妈妈生了一个小弟弟。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 0,
-      "solution": "יד",
-      "definition": "手",
-      "lengths": [
-        2
-      ],
-      "hardness": -10000,
-      "exampleSentence": "洗手后再吃东西比较卫生。"
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 5,
-      "clue_col": 0,
-      "solution": "יש",
-      "definition": "有",
-      "lengths": [
-        2
-      ],
-      "hardness": -10000,
-      "exampleSentence": "我有一个非常幸福的家庭。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 3,
-      "solution": "ראה",
-      "definition": "见过",
-      "lengths": [
-        3
-      ],
-      "hardness": -6667,
-      "exampleSentence": "我见过他一次。"
+      "exampleSentence": "渔民们正在海上捕鱼。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שר",
-      "definition": "部长",
+      "solution": "הר",
+      "definition": "高山",
       "lengths": [
         2
       ],
-      "hardness": -3333,
-      "exampleSentence": "他是我们的部长。"
+      "exampleSentence": "他们正在攀登那座高山。"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "אמ",
+      "definition": "倘若",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "倘若你愿意，我们就去。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "יומ",
-      "definition": "白天",
+      "solution": "נפש",
+      "definition": "精神",
       "lengths": [
         3
       ],
-      "hardness": -10000,
-      "exampleSentence": "太阳在白天给我们带来光明。"
+      "exampleSentence": "他精神很好。"
     }
-  ],
-  "score_distribution": {
-    "0": 20
-  },
-  "target_hardness": -10000,
-  "average_hardness": -9166.7,
-  "hardness_distribution": {
-    "easy": 20,
-    "neutral": 0,
-    "hard": 0
-  }
+  ]
 }

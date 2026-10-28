@@ -1,267 +1,210 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_10_4",
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for portugueseToHebrew",
-    "Mask: mask_7_7_10_4 (7x7)",
-    "Total clues: 20",
-    "Average hardness: -6783.1",
-    "Compound pairs: 1",
+    "Generated clean beginner starter base arroword for portugueseToHebrew",
+    "Total clues: 18",
     "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
-      "direction": "right",
+      "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "קר",
-      "definition": "frio",
+      "solution": "זמנ",
+      "definition": "vez",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Esta é a primeira vez que viajo sozinho."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "תאור",
+      "definition": "descrição",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "A descrição do carro novo estava no catálogo."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "כנפיימ",
+      "definition": "asas",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Os pássaros voam alto com suas asas fortes."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "יומ",
+      "definition": "dia",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Hoje é um dia ensolarado e muito alegre."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "בנ",
+      "definition": "filho",
       "lengths": [
         2
       ],
-      "hardness": -8095,
-      "exampleSentence": "O inverno nesta cidade é sempre muito frio."
+      "exampleSentence": "O filho dele estuda na mesma escola."
     },
     {
-      "direction": "right-down",
-      "clue_row": 0,
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מתוכננ",
+      "definition": "planejado",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "O projeto foi planejado com muito cuidado e atenção."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "נאמנ",
+      "definition": "fiel",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O cachorro sempre foi muito fiel ao seu dono."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "אחות",
+      "definition": "irmã",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Minha irmã mais nova estuda na universidade."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "ידני",
+      "definition": "manual",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O carro novo tem câmbio manual e direção hidráulica."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "יש",
+      "definition": "existe",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Existe uma solução simples para este problema difícil."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "יער",
+      "definition": "floresta",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A floresta verde tem árvores muito altas e antigas."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "עמק",
+      "definition": "vale",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O rio corre no vale."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "פאי",
+      "definition": "torta",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Minha mãe fez uma torta de maçã deliciosa."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "יחד",
+      "definition": "juntos",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Nós trabalhamos juntos para terminar o projeto."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "דיונ",
+      "definition": "discussão",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Tivemos uma discussão produtiva sobre o projeto."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "קל",
       "definition": "fácil",
       "lengths": [
         2
       ],
-      "hardness": -6000,
       "exampleSentence": "Este exercício de matemática é muito fácil."
     },
     {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "ראשי",
-      "definition": "principal",
-      "lengths": [
-        4
-      ],
-      "hardness": -8000,
-      "exampleSentence": "Este é o objetivo principal do nosso projeto."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "תשע",
-      "definition": "nove",
-      "lengths": [
-        3
-      ],
-      "hardness": -7143,
-      "exampleSentence": "Aulas na escola começam às nove horas da manhã."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "יומשני",
-      "definition": "segunda-feira",
-      "lengths": [
-        3,
-        3
-      ],
-      "hardness": -6000,
-      "exampleSentence": "Segunda-feira é o começo."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "אפ",
-      "definition": "nariz",
-      "lengths": [
-        2
-      ],
-      "hardness": -8333,
-      "exampleSentence": "O palhaço tem um nariz vermelho e engraçado."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "לא",
-      "definition": "não",
-      "lengths": [
-        2
-      ],
-      "hardness": -8857,
-      "exampleSentence": "Eu não gosto de comer comida muito picante."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "בת",
-      "definition": "filha",
-      "lengths": [
-        2
-      ],
-      "hardness": -8824,
-      "exampleSentence": "A filha ajuda sua mãe na cozinha."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "שני",
-      "definition": "segundo",
-      "lengths": [
-        3
-      ],
-      "hardness": -5000,
-      "exampleSentence": "O segundo lugar."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 1,
-      "solution": "שבע",
-      "definition": "sete",
-      "lengths": [
-        3
-      ],
-      "hardness": -5000,
-      "exampleSentence": "Uma semana completa tem exatamente sete dias."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "היומ",
-      "definition": "hoje",
-      "lengths": [
-        4
-      ],
-      "hardness": -5000,
-      "exampleSentence": "Hoje é segunda-feira."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 4,
-      "solution": "המ",
-      "definition": "estão",
-      "lengths": [
-        2
-      ],
-      "hardness": -6000,
-      "exampleSentence": "Eles estão muito felizes com a nova casa."
-    },
-    {
       "direction": "up-right",
-      "clue_row": 4,
+      "clue_row": 6,
       "clue_col": 0,
-      "solution": "פחית",
-      "definition": "lata",
-      "lengths": [
-        4
-      ],
-      "hardness": -3333,
-      "exampleSentence": "Eu comprei uma lata de refrigerante bem gelada."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 1,
-      "solution": "מה",
-      "definition": "o que",
+      "solution": "שמ",
+      "definition": "nome",
       "lengths": [
         2
       ],
-      "hardness": -9091,
-      "exampleSentence": "O que é isso?"
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 2,
-      "solution": "תה",
-      "definition": "chá",
-      "lengths": [
-        2
-      ],
-      "hardness": -8462,
-      "exampleSentence": "Eu gosto de beber uma xícara de chá quente."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "כנ",
-      "definition": "sim",
-      "lengths": [
-        2
-      ],
-      "hardness": -7143,
-      "exampleSentence": "Sim, eu quero aprender a falar português fluentemente."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 4,
-      "solution": "יש",
-      "definition": "há",
-      "lengths": [
-        2
-      ],
-      "hardness": -7647,
-      "exampleSentence": "Há muitas flores bonitas no jardim da praça."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 0,
-      "solution": "מתכוונ",
-      "definition": "pretende",
-      "lengths": [
-        6
-      ],
-      "hardness": -3333,
-      "exampleSentence": "Ele pretende viajar para o Brasil nas férias."
+      "exampleSentence": "Qual é o seu nome completo, por favor?"
     },
     {
       "direction": "right",
       "clue_row": 6,
-      "clue_col": 0,
-      "solution": "ההנ",
-      "definition": "aquelas",
+      "clue_col": 3,
+      "solution": "מתי",
+      "definition": "quando",
       "lengths": [
         3
       ],
-      "hardness": -6000,
-      "exampleSentence": "Aquelas montanhas altas estão cobertas de neve branca agora."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 4,
-      "solution": "מי",
-      "definition": "quem",
-      "lengths": [
-        2
-      ],
-      "hardness": -8400,
-      "exampleSentence": "Quem ganhou o primeiro prêmio do concurso hoje?"
+      "exampleSentence": "Quando você vem?"
     }
-  ],
-  "score_distribution": {
-    "1": 12,
-    "0": 8
-  },
-  "target_hardness": -10000,
-  "average_hardness": -6783.1,
-  "hardness_distribution": {
-    "easy": 20,
-    "neutral": 0,
-    "hard": 0
-  }
+  ]
 }

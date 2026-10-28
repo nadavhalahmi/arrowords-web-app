@@ -1,267 +1,210 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_15_3",
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for hebrewToHebrew",
-    "Mask: mask_7_7_15_3 (7x7)",
-    "Total clues: 20",
-    "Average hardness: 0.0",
-    "Compound pairs: 1",
-    "Curated for easiest beginner vocabulary with elementary definitions."
+    "Generated clean beginner starter base arroword for hebrewToHebrew",
+    "Total clues: 18",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
-    {
-      "direction": "right",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "צהוב",
-      "definition": "צבע הלימון",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "פרחי החרצית בגינה צבועים בגוון צהוב זוהר."
-    },
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צל",
-      "definition": "היעדר אור ישיר",
+      "solution": "חתנ",
+      "definition": "בן הזוג בחתונה",
       "lengths": [
-        2
+        3
       ],
-      "hardness": 0,
-      "exampleSentence": "ישבנו לנוח בצל העץ הגדול בימי הקיץ החמים."
+      "exampleSentence": "החתן המאושר חיכה לכלה תחת החופה המקושטת."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 5,
-      "solution": "מועדות",
-      "definition": "יעד",
+      "clue_col": 2,
+      "solution": "שהות",
+      "definition": "פנאי",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "הייתה לו שהות מספקת לקרוא את הספר המעניין."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "ורבאלי",
+      "definition": "מילולי",
       "lengths": [
         6
       ],
-      "hardness": 0,
-      "exampleSentence": "המסקנות היו מועדות להביא לשינוי המערכת."
+      "exampleSentence": "הבחינה כוללת בחלקו הראשון מבחן ורבאלי."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
-      "clue_col": 5,
-      "solution": "בעלבית",
-      "definition": "האחראי על הנכס",
+      "clue_col": 4,
+      "solution": "אחו",
+      "definition": "שטח עשב למרעה",
       "lengths": [
-        3,
         3
       ],
-      "hardness": 0,
-      "exampleSentence": "בעל הבית דרש לקבל את דמי השכירות בזמן."
+      "exampleSentence": "פרות רעו בשלווה במרחבי האחו הירוק."
     },
     {
-      "direction": "down",
+      "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "קשר",
-      "definition": "חיבור בין חבלים",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "הימאי עשה קשר חזק כדי לאבטח את הסירה למזח."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 2,
-      "solution": "בגד",
-      "definition": "לבוש, כסות",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "היא קנתה בגד חדש ומפואר לקראת החג."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "עמק",
-      "definition": "אזור נמוך בין הרים",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "הטיול השנתי שלנו כלל הליכה מפרכת בתוך עמק ירוק."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "טל",
-      "definition": "רסיסי לילה, משקעים",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "טיפות הטל כיסו את עלי הצמחים בבוקר."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 2,
-      "clue_col": 1,
-      "solution": "חג",
-      "definition": "מועד, יום טוב",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "חג הסוכות הוא זמן מצוין לשבת עם המשפחה בסוכה."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 1,
-      "solution": "בילוש",
-      "definition": "חקירה ואיסוף מידע בסתר",
-      "lengths": [
-        5
-      ],
-      "hardness": 0,
-      "exampleSentence": "הדוגמה עבור חקירה ואיסוף מידע בסתר ברורה ופשוטה."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חבר",
-      "definition": "ידיד, רע",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "דני הוא חבר אמת שתמיד עומד לצידי בעת צרה."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "בער",
-      "definition": "אחז בו אש",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "המדורה הגדולה בער בעוצמה בלילה הקר."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 0,
-      "solution": "בד",
-      "definition": "חתיכת אריג",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "החייט גזר בד משי יפהפה לשמלת הכלה."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "מד",
-      "definition": "מכשיר מדידה",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "הטכנאי חיבר מד לחץ לבדיקת המערכת."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "יד",
-      "definition": "גף עליון, זרוע",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "הוא הרים את ידו כדי לסמן למורה בכיתה."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 6,
-      "solution": "קו",
-      "definition": "שרטוט ישר",
-      "lengths": [
-        2
-      ],
-      "hardness": 0,
-      "exampleSentence": "שרטט קו ישר בעזרת סרגל ועיפרון מחודד."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "מתוק",
-      "definition": "בעל טעם של סוכר",
-      "lengths": [
-        4
-      ],
-      "hardness": 0,
-      "exampleSentence": "אכלתי עוגת שוקולד מתוקה וטעימה במיוחד."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
       "solution": "הר",
       "definition": "גבעה גבוהה מאוד",
       "lengths": [
         2
       ],
-      "hardness": 0,
       "exampleSentence": "התחלנו בטיפוס מאתגר אל פסגת הר החרמון המושלג."
     },
     {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 1,
-      "solution": "עד",
-      "definition": "בזמן ש...",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "תשחורת",
+      "definition": "צעירות",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "השירים האלה מזכירים לי את ימי התשחורת העליזים."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "נהור",
+      "definition": "אור",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "השמש זרחה והפיצה נהور גדול על פני הארץ."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "רווח",
+      "definition": "שכיח",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "מחלה זו אינה נחשבת לשכיחה אך היא רווחת באזור מסוים."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "אמיד",
+      "definition": "עשיר",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "איש העסקים האמיד תרם סכום נכבד להקמת בית חולים."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רב",
+      "definition": "מורה רוחני",
       "lengths": [
         2
       ],
-      "hardness": 0,
-      "exampleSentence": "חיכיתי לו בתחנה עד שהגיע האוטובוס האחרון."
+      "exampleSentence": "הרב של הקהילה השיב על שאלותיהם ההלכתיות של המתפללים."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רשת",
+      "definition": "התקן ללכידת דגים",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "הדייג פרס את הרשת המיותמת בים."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שאר",
+      "definition": "יתר, מה שנותר",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "לקחתי את השאר של העוגה הביתה."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ברא",
+      "definition": "כרת עצים",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "הם בראו חלק מהיער כדי לסלול דרך חדשה."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אומ",
+      "definition": "ארגון בינלאומי (או״ם)",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "נציג ישראל נאם במועצת הביטחון של האו״ם."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "גלוי",
+      "definition": "חשוף לעין",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "הסוד הפך לגלוי לכל הנוכחים בחדר."
     },
     {
       "direction": "right",
       "clue_row": 6,
-      "clue_col": 4,
-      "solution": "תו",
-      "definition": "סימן",
+      "clue_col": 0,
+      "solution": "רצ",
+      "definition": "נע מהר",
       "lengths": [
         2
       ],
-      "hardness": 0,
-      "exampleSentence": "הספרה תשע היאתו מיוחד במינו."
+      "exampleSentence": "הילד רץ במהירות לעבר האוטובוס המתקרב."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "בא",
+      "definition": "הגיע, הופיע",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "האביב בא ואיתו פריחת הפרחים המרהיבה בשדה."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "יחד",
+      "definition": "בצוותא, במשותף",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "הם עבדו יחד כדי לסיים את המשימה בזמן."
     }
-  ],
-  "score_distribution": {
-    "1": 15,
-    "0": 5
-  },
-  "target_hardness": -10000,
-  "average_hardness": 0,
-  "hardness_distribution": {
-    "easy": 20,
-    "neutral": 0,
-    "hard": 0
-  }
+  ]
 }

@@ -1,289 +1,210 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_10_5",
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for frenchToHebrew",
-    "Mask: mask_7_7_10_5 (7x7)",
-    "Total clues: 22",
-    "Average hardness: -4354.9",
-    "Compound pairs: 0",
-    "Curated for easiest beginner French vocabulary with 100% natural, crisp definitions."
+    "Generated clean beginner starter base arroword for frenchToHebrew",
+    "Total clues: 18",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
-    {
-      "direction": "right",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "הכל",
-      "definition": "tout",
-      "lengths": [
-        3
-      ],
-      "hardness": -6000,
-      "exampleSentence": "J'ai tout compris."
-    },
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "היא",
-      "definition": "elle",
+      "solution": "נפל",
+      "definition": "tombé",
       "lengths": [
         3
       ],
-      "hardness": -6000,
-      "exampleSentence": "Elle est ma sœur."
+      "exampleSentence": "Le livre est tombé de la table sur le sol."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "לשבצ",
+      "definition": "incruster",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Elle aime incruster des perles sur ses robes."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "ישראלי",
+      "definition": "israélien",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Il adore la musique et la culture israélienne."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "לא",
-      "definition": "non",
+      "solution": "אטב",
+      "definition": "attache",
       "lengths": [
-        2
+        3
       ],
-      "hardness": -5000,
-      "exampleSentence": "Non, je ne suis pas d'accord."
+      "exampleSentence": "J'utilise une attache pour tenir ces papiers ensemble."
     },
     {
-      "direction": "down-right",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "בת",
-      "definition": "fille",
-      "lengths": [
-        2
-      ],
-      "hardness": -6000,
-      "exampleSentence": "Elle est la fille de mes voisins."
-    },
-    {
-      "direction": "down",
+      "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "תה",
-      "definition": "thé",
+      "solution": "גנ",
+      "definition": "parc",
       "lengths": [
         2
       ],
-      "hardness": -7143,
-      "exampleSentence": "Je bois du thé chaud le matin."
+      "exampleSentence": "Nous nous promenons dans le parc."
     },
     {
-      "direction": "down",
+      "direction": "right",
       "clue_row": 1,
-      "clue_col": 2,
-      "solution": "בחירה",
-      "definition": "choix",
-      "lengths": [
-        5
-      ],
-      "hardness": 0,
-      "exampleSentence": "C'est un choix difficile à faire."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 4,
-      "solution": "לרמות",
-      "definition": "tromper",
-      "lengths": [
-        5
-      ],
-      "hardness": 0,
-      "exampleSentence": "Il a essayé de me tromper avec un faux billet."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 1,
-      "clue_col": 4,
-      "solution": "במה",
-      "definition": "scène",
-      "lengths": [
-        3
-      ],
-      "hardness": -5000,
-      "exampleSentence": "L'acteur est monté sur scène."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 2,
       "clue_col": 0,
-      "solution": "חי",
-      "definition": "vivant",
+      "solution": "פלטינה",
+      "definition": "platine",
       "lengths": [
-        2
+        6
       ],
-      "hardness": -3333,
-      "exampleSentence": "Il est encore vivant."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 3,
-      "solution": "זו",
-      "definition": "cette",
-      "lengths": [
-        2
-      ],
-      "hardness": -3333,
-      "exampleSentence": "Cette idée est excellente."
+      "exampleSentence": "Ce disque de platine récompense le chanteur pour ses ventes."
     },
     {
       "direction": "right",
       "clue_row": 2,
-      "clue_col": 3,
-      "solution": "למה",
-      "definition": "pourquoi",
-      "lengths": [
-        3
-      ],
-      "hardness": 0,
-      "exampleSentence": "Pourquoi es-tu triste aujourd'hui ?"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
       "clue_col": 0,
-      "solution": "מי",
-      "definition": "qui",
-      "lengths": [
-        2
-      ],
-      "hardness": -6000,
-      "exampleSentence": "Qui est là ?"
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "חזרה",
-      "definition": "retour",
+      "solution": "לשבש",
+      "definition": "détraquer",
       "lengths": [
         4
       ],
-      "hardness": -3333,
-      "exampleSentence": "Son retour est prévu pour demain."
+      "exampleSentence": "L'humidité risque de détraquer cet appareil électronique."
     },
     {
-      "direction": "up-right",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "אב",
-      "definition": "père",
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "חיוב",
+      "definition": "charge",
       "lengths": [
-        2
+        4
       ],
-      "hardness": -6000,
-      "exampleSentence": "Mon père est un homme gentil."
+      "exampleSentence": "J'ai une charge sur mon compte bancaire."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "שליש",
+      "definition": "tiers",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Un tiers des élèves préfère étudier le matin."
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 6,
-      "solution": "שאר",
-      "definition": "reste",
+      "clue_col": 0,
+      "solution": "אח",
+      "definition": "frère",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Mon frère est plus âgé que moi."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "ארצ",
+      "definition": "pays",
       "lengths": [
         3
       ],
-      "hardness": -5000,
-      "exampleSentence": "Le reste de l'équipe est parti."
+      "exampleSentence": "Quel est ton pays d'origine ?"
     },
     {
       "direction": "down",
-      "clue_row": 4,
+      "clue_row": 3,
       "clue_col": 1,
-      "solution": "על",
-      "definition": "sur",
+      "solution": "רגל",
+      "definition": "pied",
       "lengths": [
-        2
+        3
       ],
-      "hardness": -5000,
-      "exampleSentence": "Le livre est sur la table."
+      "exampleSentence": "J'ai mal au pied."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "רחש",
+      "definition": "murmure",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Le murmure du vent est apaisant."
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 1,
-      "solution": "יומ",
-      "definition": "journée",
+      "clue_col": 3,
+      "solution": "איל",
+      "definition": "cerf",
       "lengths": [
         3
       ],
-      "hardness": -5000,
-      "exampleSentence": "J'ai passé une bonne journée."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 5,
-      "solution": "לו",
-      "definition": "lui",
-      "lengths": [
-        2
-      ],
-      "hardness": -5000,
-      "exampleSentence": "Je lui parle souvent."
+      "exampleSentence": "Nous avons aperçu un grand cerf près du lac."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 3,
-      "solution": "ולא",
-      "definition": "ni",
+      "clue_col": 2,
+      "solution": "תלוי",
+      "definition": "dépendant",
       "lengths": [
-        3
+        4
       ],
-      "hardness": -6000,
-      "exampleSentence": "Je ne veux ni l'un ni l'autre."
+      "exampleSentence": "Cet animal est totalement dépendant de sa mère pour vivre."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לה",
-      "definition": "la",
+      "solution": "לב",
+      "definition": "coeur",
       "lengths": [
         2
       ],
-      "hardness": -6000,
-      "exampleSentence": "Il faut la prendre avec nous."
+      "exampleSentence": "Mon cœur bat très fort."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "יער",
-      "definition": "bois",
+      "solution": "חג",
+      "definition": "fête",
       "lengths": [
-        3
+        2
       ],
-      "hardness": -3333,
-      "exampleSentence": "Nous nous promenons dans le bois."
+      "exampleSentence": "Nous allons célébrer la fête de Noël."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תור",
-      "definition": "tour",
+      "solution": "יבש",
+      "definition": "sec",
       "lengths": [
         3
       ],
-      "hardness": -3333,
-      "exampleSentence": "C'est à mon tour de jouer."
+      "exampleSentence": "Le linge est sec maintenant."
     }
-  ],
-  "score_distribution": {
-    "1": 22
-  },
-  "target_hardness": -10000,
-  "average_hardness": -4354.9,
-  "hardness_distribution": {
-    "easy": 19,
-    "neutral": 3,
-    "hard": 0
-  }
+  ]
 }

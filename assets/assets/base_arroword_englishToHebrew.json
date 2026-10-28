@@ -1,248 +1,210 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated using mask_7_7_5",
-    "Tolerance: 0.3",
-    "Level: 0.0",
-    "Target hardness: -10000",
-    "Average hardness: -8230.2",
-    "Hardness distribution: easy=18, neutral=0, hard=0",
-    "Word usage summary by score:",
-    "Score 1: 18/7203 words used (100.00% of puzzle, 0.25% of score group)",
-    "Score 0: 0/6075 words used (0.00% of puzzle, 0.00% of score group)",
-    "Total: 18/13278 words used",
-    "Difficulty optimization: 0 learning words used from global user history"
+    "Generated clean beginner starter base arroword for englishToHebrew",
+    "Total clues: 18",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "לחמ",
-      "definition": "bread",
+      "solution": "שתנ",
+      "definition": "urine",
       "lengths": [
         3
       ],
-      "hardness": -9130,
-      "exampleSentence": "We baked a fresh loaf of warm bread."
+      "exampleSentence": "Kidneys filter blood to produce liquid urine."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "וופל",
-      "definition": "waffle",
+      "solution": "אחימ",
+      "definition": "siblings",
       "lengths": [
         4
       ],
-      "hardness": -9524,
-      "exampleSentence": "Eat a sweet waffle with maple syrup."
+      "exampleSentence": "I have three siblings in my family."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "בעלבית",
-      "definition": "landlord",
+      "solution": "ידידות",
+      "definition": "friendship",
       "lengths": [
-        3,
-        3
+        6
       ],
-      "hardness": -3333,
-      "exampleSentence": "Pay monthly rent money to the landlord."
+      "exampleSentence": "Our strong happy friendship will last forever."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ארצ",
-      "definition": "country",
+      "solution": "דגמ",
+      "definition": "model",
       "lengths": [
         3
       ],
-      "hardness": -8462,
-      "exampleSentence": "France is a European country."
+      "exampleSentence": "I built a small plastic airplane model."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "תו",
-      "definition": "character",
+      "solution": "יד",
+      "definition": "hand",
       "lengths": [
         2
       ],
-      "hardness": -9828,
-      "exampleSentence": "A printed letter is a text character."
+      "exampleSentence": "I have five fingers on my hand."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "חורבות",
-      "definition": "ruins",
+      "solution": "תאגידי",
+      "definition": "corporate",
       "lengths": [
         6
       ],
-      "hardness": -6000,
-      "exampleSentence": "Many tourists visit the old castle ruins."
+      "exampleSentence": "The big business has a new corporate office."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מוצע",
-      "definition": "proposed",
+      "solution": "נחמד",
+      "definition": "nice",
       "lengths": [
         4
       ],
-      "hardness": -6000,
-      "exampleSentence": "They accepted the newly proposed city plan."
+      "exampleSentence": "It is always nice to meet friends."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "יומי",
-      "definition": "daily",
+      "solution": "שותפ",
+      "definition": "fellow",
       "lengths": [
         4
       ],
-      "hardness": -8889,
-      "exampleSentence": "Reading the daily newspaper builds habits."
+      "exampleSentence": "He is a very friendly helpful fellow."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "דליק",
-      "definition": "flammable",
+      "solution": "ברור",
+      "definition": "apparent",
       "lengths": [
         4
       ],
-      "hardness": -6000,
-      "exampleSentence": "Keep fire away from flammable gas."
+      "exampleSentence": "His anger was apparent when he yelled."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מר",
-      "definition": "bitter",
+      "solution": "לא",
+      "definition": "not",
       "lengths": [
         2
       ],
-      "hardness": -9879,
-      "exampleSentence": "The dark chocolate tastes very bitter."
+      "exampleSentence": "I am not tired today."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מפל",
-      "definition": "cascade",
+      "solution": "לחמ",
+      "definition": "bread",
       "lengths": [
         3
       ],
-      "hardness": -8182,
-      "exampleSentence": "The beautiful river ends in a watery cascade."
+      "exampleSentence": "We bake fresh bread in the oven."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "פקח",
-      "definition": "inspector",
+      "solution": "חבר",
+      "definition": "member",
       "lengths": [
         3
       ],
-      "hardness": -7778,
-      "exampleSentence": "The safety inspector checked the whole building."
+      "exampleSentence": "He is a club member here."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ליד",
-      "definition": "beside",
+      "solution": "ישב",
+      "definition": "sat",
       "lengths": [
         3
       ],
-      "hardness": -9355,
-      "exampleSentence": "The dog sleeps right beside the warm fire."
+      "exampleSentence": "He sat on the soft chair."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "בול",
-      "definition": "stamp",
+      "solution": "דור",
+      "definition": "generation",
       "lengths": [
         3
       ],
-      "hardness": -8947,
-      "exampleSentence": "Put a postage stamp on the letter."
+      "exampleSentence": "My grandfather belongs to an older generation."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מימי",
-      "definition": "aquatic",
+      "solution": "אותו",
+      "definition": "him",
       "lengths": [
         4
       ],
-      "hardness": -8333,
-      "exampleSentence": "Fish and frogs are common wet aquatic animals."
+      "exampleSentence": "I saw him at the grocery store."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חצ",
-      "definition": "dart",
+      "solution": "רב",
+      "definition": "much",
       "lengths": [
         2
       ],
-      "hardness": -9773,
-      "exampleSentence": "He threw a sharp dart at the board."
+      "exampleSentence": "I do not have much money to spend."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רק",
-      "definition": "merely",
+      "solution": "אב",
+      "definition": "father",
       "lengths": [
         2
       ],
-      "hardness": -9783,
-      "exampleSentence": "It is merely a small paper cut."
+      "exampleSentence": "A good father loves his young child."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תיק",
-      "definition": "case",
+      "solution": "תפר",
+      "definition": "stitch",
       "lengths": [
         3
       ],
-      "hardness": -8947,
-      "exampleSentence": "Put the guitar in its hard case."
+      "exampleSentence": "The torn shirt needs a tight stitch."
     }
-  ],
-  "mask_id": "mask_7_7_5",
-  "score_distribution": {
-    "1": 18,
-    "0": 0
-  },
-  "target_hardness": -10000,
-  "average_hardness": -8230.2,
-  "hardness_distribution": {
-    "easy": 18,
-    "neutral": 0,
-    "hard": 0
-  }
+  ]
 }

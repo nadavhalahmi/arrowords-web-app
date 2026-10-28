@@ -1,255 +1,177 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_15_4",
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for portuguesePTToHebrew",
-    "Mask: mask_7_7_15_4 (7x7)",
-    "Total clues: 22",
-    "Average hardness: -8987.0",
-    "Compound pairs: 0",
+    "Generated clean beginner starter base arroword for portuguesePTToHebrew",
+    "Total clues: 18",
     "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
-      "direction": "right",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "את",
-      "definition": "tu",
-      "lengths": [
-        2
-      ],
-      "hardness": -9904,
-      "exampleSentence": "Tu tens uma voz muito bonita."
-    },
-    {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "איכ",
-      "definition": "como",
+      "solution": "פעמ",
+      "definition": "vez",
       "lengths": [
         3
       ],
-      "hardness": -9962,
-      "exampleSentence": "Como estás hoje?"
-    },
-    {
-      "direction": "right",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "על",
-      "definition": "sobre",
-      "lengths": [
-        2
-      ],
-      "hardness": -9800,
-      "exampleSentence": "O livro está sobre a mesa da sala."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "ערב",
-      "definition": "noite",
-      "lengths": [
-        3
-      ],
-      "hardness": -9774,
-      "exampleSentence": "Gosto de passear ao fim da noite."
+      "exampleSentence": "Esta foi a primeira vez que fui lá."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 6,
-      "solution": "זמנ",
-      "definition": "tempo",
+      "clue_col": 2,
+      "solution": "נחשב",
+      "definition": "considerado",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ele é considerado o melhor aluno da turma."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "יהודימ",
+      "definition": "judeus",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Muitos judeus vivem em Portugal."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "פקס",
+      "definition": "fax",
       "lengths": [
         3
       ],
-      "hardness": -9808,
-      "exampleSentence": "Não tenho tempo para fazer isso agora."
+      "exampleSentence": "Enviei o documento por fax esta manhã."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "לכ",
-      "definition": "te",
+      "solution": "מי",
+      "definition": "quem",
       "lengths": [
         2
       ],
-      "hardness": -9914,
-      "exampleSentence": "Dou-te este presente com muito carinho."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "רכב",
-      "definition": "carro",
-      "lengths": [
-        3
-      ],
-      "hardness": -9561,
-      "exampleSentence": "O meu carro novo é azul escuro."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 2,
-      "solution": "בא",
-      "definition": "vem",
-      "lengths": [
-        2
-      ],
-      "hardness": -9523,
-      "exampleSentence": "Ele vem cá logo à tarde."
+      "exampleSentence": "Quem bateu à porta da sala?"
     },
     {
       "direction": "right",
       "clue_row": 1,
-      "clue_col": 2,
-      "solution": "מרכז",
-      "definition": "centro",
+      "clue_col": 0,
+      "solution": "ענקיימ",
+      "definition": "enormes",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Aqueles prédios são enormes."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "מחסה",
+      "definition": "abrigo",
       "lengths": [
         4
       ],
-      "hardness": -8183,
-      "exampleSentence": "Vou ao centro da cidade fazer compras."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 3,
-      "solution": "פרס",
-      "definition": "prémio",
-      "lengths": [
-        3
-      ],
-      "hardness": -5640,
-      "exampleSentence": "Ele ganhou o primeiro prémio do concurso."
+      "exampleSentence": "Eles procuraram um abrigo contra a tempestade."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "כוכב",
-      "definition": "estrela",
+      "solution": "רופא",
+      "definition": "médico",
       "lengths": [
         4
       ],
-      "hardness": -7133,
-      "exampleSentence": "Consigo ver uma estrela brilhante no céu."
+      "exampleSentence": "O médico receitou o medicamento necessário."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דרשה",
+      "definition": "sermão",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O padre deu um sermão muito longo."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אח",
+      "definition": "irmão",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O meu irmão mais velho vive no Porto."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עמ",
-      "definition": "com",
+      "solution": "אהב",
+      "definition": "amava",
       "lengths": [
-        2
+        3
       ],
-      "hardness": -9984,
-      "exampleSentence": "Gosto de beber café com leite."
+      "exampleSentence": "Ele amava ler livros antigos à noite."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מלא",
-      "definition": "cheio",
+      "solution": "היא",
+      "definition": "ela",
       "lengths": [
         3
       ],
-      "hardness": -8026,
-      "exampleSentence": "O copo de água está completamente cheio."
+      "exampleSentence": "Ela trabalha num banco em Lisboa."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 1,
-      "solution": "אפ",
-      "definition": "nariz",
-      "lengths": [
-        2
-      ],
-      "hardness": -6900,
-      "exampleSentence": "O bebé tem o nariz muito pequeno."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 4,
-      "solution": "אתה",
-      "definition": "tu",
+      "clue_col": 3,
+      "solution": "ורד",
+      "definition": "rosa",
       "lengths": [
         3
       ],
-      "hardness": -9904,
-      "exampleSentence": "Tu és um excelente cozinheiro."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 4,
-      "solution": "כנ",
-      "definition": "sim",
-      "lengths": [
-        2
-      ],
-      "hardness": -9960,
-      "exampleSentence": "Sim, eu quero ir contigo."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 2,
-      "solution": "המ",
-      "definition": "eles",
-      "lengths": [
-        2
-      ],
-      "hardness": -9856,
-      "exampleSentence": "Eles jogam futebol todas as terças-feiras."
+      "exampleSentence": "Ele ofereceu-me uma rosa vermelha."
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 2,
-      "solution": "ראו",
-      "definition": "viram",
+      "clue_col": 3,
+      "solution": "דור",
+      "definition": "geração",
       "lengths": [
         3
       ],
-      "hardness": -7199,
-      "exampleSentence": "Eles viram um filme excelente ontem à noite."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 6,
-      "solution": "לא",
-      "definition": "não",
-      "lengths": [
-        2
-      ],
-      "hardness": -9998,
-      "exampleSentence": "Eu não gosto de café frio."
+      "exampleSentence": "Esta nova geração usa muito a tecnologia."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 0,
-      "solution": "להסתכל",
-      "definition": "olhar",
+      "clue_col": 2,
+      "solution": "חיפש",
+      "definition": "procurou",
       "lengths": [
-        6
+        4
       ],
-      "hardness": -9048,
-      "exampleSentence": "É preciso olhar para os dois lados."
+      "exampleSentence": "Ela procurou o livro na biblioteca municipal."
     },
     {
       "direction": "right",
@@ -260,30 +182,29 @@
       "lengths": [
         2
       ],
-      "hardness": -9982,
       "exampleSentence": "Se chover, vamos ficar em casa."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "חי",
+      "definition": "vivo",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O peixe ainda está vivo no aquário."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "הבא",
-      "definition": "seguinte",
+      "solution": "מאה",
+      "definition": "século",
       "lengths": [
         3
       ],
-      "hardness": -7654,
-      "exampleSentence": "Vamos falar sobre isso no capítulo seguinte."
+      "exampleSentence": "Vivcemos no século vinte e um."
     }
-  ],
-  "score_distribution": {
-    "0": 22
-  },
-  "target_hardness": -10000,
-  "average_hardness": -8987.0,
-  "hardness_distribution": {
-    "easy": 22,
-    "neutral": 0,
-    "hard": 0
-  }
+  ]
 }
