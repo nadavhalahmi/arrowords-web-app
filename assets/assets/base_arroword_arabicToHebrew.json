@@ -3,7 +3,7 @@
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated clean beginner starter base arroword for arabicToHebrew",
+    "Generated clean starter base arroword for arabicToHebrew",
     "Total clues: 18",
     "Curated for easiest beginner vocabulary with crisp definitions."
   ],
@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שבה",
-      "definition": "فيها",
+      "solution": "זהב",
+      "definition": "ذَهَبْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "هذه المدينة جميلة والناس فيها طيبون."
+      "exampleSentence": "هَذَا الْخَاتَمُ مَصْنُوعٌ مِنَ الذَّهَبِ الْخَالِصْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ברגש",
-      "definition": "بشعور",
+      "solution": "ביקש",
+      "definition": "طَلَبْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "تحدثت الأم إلى طفلها بشعور من الحب."
+      "exampleSentence": "طَلَبَ الْمُعَلِّمُ مِنَ الطُّلَّابِ فَتْحَ الْكِتَابِ الْمَدْرَسِيِّ."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יחידות",
-      "definition": "الوحدات",
+      "solution": "יומיימ",
+      "definition": "يَوْمَيْنْ",
       "lengths": [
         6
       ],
-      "exampleSentence": "تتكون هذه المادة من وحدات صغيرة."
+      "exampleSentence": "سَأَغِيبُ عَنِ الْعَمَلِ لِمُدَّةِ يَوْمَيْنِ فَقَطْ"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "פנו",
-      "definition": "فارغ",
+      "solution": "אחת",
+      "definition": "إِحْدَى",
       "lengths": [
         3
       ],
-      "exampleSentence": "المقعد فارغ يمكنك الجلوس هنا يا صديقي."
+      "exampleSentence": "هَذِهِ إِحْدَى أَجْمَلِ الْمُدُنِ فِي الْعَالَمْ"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "من",
+      "solution": "מר",
+      "definition": "مُرّْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "من هو الشخص الذي يتحدث هناك؟"
+      "exampleSentence": "طَعْمُ هَذَا الدَّوَاءِ مُرٌّ جِدًّا وَلَا أُحِبُّهْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "בבנייה",
-      "definition": "ببناء",
+      "solution": "הבחירה",
+      "definition": "الْخِيَارْ",
       "lengths": [
         6
       ],
-      "exampleSentence": "نحن نهتم ببناء مستقبل أفضل لأطفالنا."
+      "exampleSentence": "كَانَ الْخِيَارُ صَعْبًا بَيْنَ هَذَيْنِ الطَّرِيقَيْنْ"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הרוח",
-      "definition": "الروح",
+      "solution": "ביתו",
+      "definition": "مَنْزِلُهْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "الروح الطيبة تجعل الحياة أجمل."
+      "exampleSentence": "ذَهَبْتُ لِزِيَارَةِ صَدِيقِي فِي مَنْزِلِهِ الْجَدِيدْ."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שורד",
-      "definition": "ينجو",
+      "solution": "צריכ",
+      "definition": "يَنْبَغِي",
       "lengths": [
         4
       ],
-      "exampleSentence": "ينجو الحيوان من الخطر بفضل سرعته."
+      "exampleSentence": "يَنْبَغِي عَلَيْكَ دِرَاسَةُ اللُّغَةِ الْعَرَبِيَّةِ جَيِّدًا"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נדיר",
-      "definition": "نادرة",
+      "solution": "אהבה",
+      "definition": "حُبْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "هذه الفرصة نادرة ولا تتكرر كثيرا."
+      "exampleSentence": "أَشْعُرُ بِحُبٍّ كَبِيرٍ تُجَاهَ عَائِلَتِي وَأَصْدِقَائِي"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חי",
-      "definition": "يعيش",
+      "solution": "רע",
+      "definition": "سَيِّئْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "يعيش الأسد في الغابة الكبيرة."
+      "exampleSentence": "هَذَا الطَّقْسُ سَيِّئٌ جِدًّا الْيَوْمْ"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חמש",
-      "definition": "خمس",
+      "solution": "ראש",
+      "definition": "الرَّأْسْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "اشتريت خمس تفاحات حمراء من السوق اليوم."
+      "exampleSentence": "يَجِبُ حِمَايَةُ الرَّأْسِ عِنْدَ رُكُوبِ الدَّرَّاجَة"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מדד",
-      "definition": "مقياس",
+      "solution": "אמא",
+      "definition": "أُمّْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "هذا المقياس يحدد مستوى الحرارة بدقة."
+      "exampleSentence": "أُمِّي هِيَ أَغْلَى إِنْسَانٍ عِنْدِي"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ישנ",
-      "definition": "نائما",
+      "solution": "מצא",
+      "definition": "وَجَدْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "وجدت صديقي نائما على الأريكة في الصالة."
+      "exampleSentence": "وَجَدَ الطَّالِبُ قَلَمَهُ تَحْتَ الطَّاوِلَةِ الْخَشَبِيَّة"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "דוד",
-      "definition": "عم",
+      "solution": "ירה",
+      "definition": "أَطْلِقْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "عم يسكن في مدينة بعيدة عن هنا."
+      "exampleSentence": "أَطْلَقَ اللَّاعِبُ الْكُرَةَ نَحْوَ الْمَرْمَى بِقُوَّةٍ كَبِيرَة"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "הורי",
-      "definition": "والدي",
+      "solution": "חייב",
+      "definition": "يَجِبْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "والدي يحبان السفر كثيرا في الصيف."
+      "exampleSentence": "يَجِبُ أَنْ أَدْرُسَ لِلِامْتِحَانِ غَدًا"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "דג",
-      "definition": "سمك",
+      "solution": "אז",
+      "definition": "عِنْدَهَا",
       "lengths": [
         2
       ],
-      "exampleSentence": "أحب تناول السمك المشوي مع الأرز."
+      "exampleSentence": "سَأَشْعُرُ بِالسَّعَادَةِ عِنْدَهَا فَقَطْ"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "יד",
-      "definition": "يد",
+      "solution": "עמ",
+      "definition": "مَعْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "غسل الولد يده قبل تناول الطعام."
+      "exampleSentence": "أَنَا أَذْهَبُ إِلَى السُّوقِ مَعَ أُمِّي"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תדר",
-      "definition": "تردد",
+      "solution": "מכה",
+      "definition": "ضَرْبَة",
       "lengths": [
         3
       ],
-      "exampleSentence": "يجب ضبط الراديو على تردد القناة الصحيح."
+      "exampleSentence": "تَلَقَّى اللَّاعِبُ ضَرْبَةً قَوِيَّةً فِي الْمُبَارَاَة"
     }
   ]
 }
