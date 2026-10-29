@@ -10,199 +10,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חצצ",
-      "definition": "gruskorn",
+      "solution": "באג",
+      "definition": "småkryp",
       "lengths": [
         3
       ],
-      "exampleSentence": "Det finns ett viktigt gruskorn här."
+      "exampleSentence": "Barnen tittar på ett litet småkryp i gräset."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "עוגב",
-      "definition": "kroppsorgan",
+      "solution": "לשחק",
+      "definition": "spela",
       "lengths": [
         4
       ],
-      "exampleSentence": "Det finns ett viktigt kroppsorgan här."
+      "exampleSentence": "Vi brukar spela fotboll efter skolan varje fredag."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רעיוני",
-      "definition": "ideologisk",
+      "solution": "הילדימ",
+      "definition": "barn",
       "lengths": [
         6
       ],
-      "exampleSentence": "Det här är ett mycket ideologisk exempel."
+      "exampleSentence": "De har två små barn."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "תיל",
-      "definition": "ledning",
+      "solution": "יומ",
+      "definition": "dag",
       "lengths": [
         3
       ],
-      "exampleSentence": "Det finns ett viktigt ledning här."
+      "exampleSentence": "Idag är en vacker och solig dag."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "וו",
-      "definition": "krok",
+      "solution": "זו",
+      "definition": "denna",
       "lengths": [
         2
       ],
-      "exampleSentence": "Vägen går i stora krokar."
+      "exampleSentence": "Denna väska tillhör min vän."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "צעירות",
-      "definition": "yngling",
+      "solution": "אלוהות",
+      "definition": "gud",
       "lengths": [
         6
       ],
-      "exampleSentence": "Det finns ett viktigt yngling här."
+      "exampleSentence": "I gamla religioner bad man till många gudar."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "צולע",
-      "definition": "förlamad",
+      "solution": "גשמי",
+      "definition": "jordisk",
       "lengths": [
         4
       ],
-      "exampleSentence": "Han är förlamad i benet."
+      "exampleSentence": "Människan har både en andlig och en jordisk sida."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רכוש",
-      "definition": "egenskap",
+      "solution": "חשוכ",
+      "definition": "mörk",
       "lengths": [
         4
       ],
-      "exampleSentence": "Det nya brödet har helt andra egenskaper."
+      "exampleSentence": "Rummet är mörkt utan lampan tänd."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "שכחנ",
-      "definition": "glömsk",
+      "solution": "מאכל",
+      "definition": "rätt",
       "lengths": [
         4
       ],
-      "exampleSentence": "Det här är ett mycket glömsk exempel."
+      "exampleSentence": "Den här traditionella rätten är mycket god."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "צל",
-      "definition": "skugga",
+      "solution": "חג",
+      "definition": "helg",
       "lengths": [
         2
       ],
-      "exampleSentence": "Sitta i skuggan av ett träd."
+      "exampleSentence": "Vi ser fram emot en lång och skön helg."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "צלב",
-      "definition": "korsa",
+      "solution": "חשק",
+      "definition": "sug",
       "lengths": [
         3
       ],
-      "exampleSentence": "Korsa en gata."
+      "exampleSentence": "Jag har ett stort sug efter kaffe."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "לאנ",
-      "definition": "vartåt",
+      "solution": "שמנ",
+      "definition": "fet",
       "lengths": [
         3
       ],
-      "exampleSentence": "Det finns ett viktigt vartåt här."
+      "exampleSentence": "Den här fisken är ganska fet och god."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ירש",
-      "definition": "ärvde",
+      "solution": "לחמ",
+      "definition": "bröd",
       "lengths": [
         3
       ],
-      "exampleSentence": "Hon ärvde ett stort hus av sin farmor."
+      "exampleSentence": "Vi bakar färskt bröd i ugnen varje morgon."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "וככ",
-      "definition": "därmed",
+      "solution": "דשא",
+      "definition": "gräs",
       "lengths": [
         3
       ],
-      "exampleSentence": "Därmed var saken ur världen."
+      "exampleSentence": "Barnen springer och leker på det gröna gräset."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מנוח",
-      "definition": "efterstygn",
+      "solution": "חיוכ",
+      "definition": "leende",
       "lengths": [
         4
       ],
-      "exampleSentence": "Det finns ett viktigt efterstygn här."
+      "exampleSentence": "Ett varmt leende kan göra någons dag bättre."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "undra",
+      "solution": "נע",
+      "definition": "skönt",
       "lengths": [
         2
       ],
-      "exampleSentence": "Jag undrar om du kan hjälpa mig?"
+      "exampleSentence": "Det är skönt att vila efter en lång dag."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לא",
-      "definition": "no",
+      "solution": "גמ",
+      "definition": "också",
       "lengths": [
         2
       ],
-      "exampleSentence": "Hon sa no till erbjudandet."
+      "exampleSentence": "Jag vill också lära mig svenska."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ישנ",
-      "definition": "åldrig",
+      "solution": "מכל",
+      "definition": "behållare",
       "lengths": [
         3
       ],
-      "exampleSentence": "Det här är ett mycket åldrig exempel."
+      "exampleSentence": "Häll mjölken i en ren behållare med lock."
     }
   ]
 }
