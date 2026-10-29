@@ -12,45 +12,45 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "פעמ",
-      "definition": "vez",
+      "solution": "חשב",
+      "definition": "pensou",
       "lengths": [
         3
       ],
-      "exampleSentence": "Esta foi a primeira vez que fui lá."
+      "exampleSentence": "Ele pensou muito antes de dar a resposta."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "נחשב",
-      "definition": "considerado",
+      "solution": "חסומ",
+      "definition": "bloqueado",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ele é considerado o melhor aluno da turma."
+      "exampleSentence": "O acesso à rua está bloqueado hoje."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יהודימ",
-      "definition": "judeus",
+      "solution": "נסיעות",
+      "definition": "viagens",
       "lengths": [
         6
       ],
-      "exampleSentence": "Muitos judeus vivem em Portugal."
+      "exampleSentence": "Adoro fazer viagens longas no verão."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "פקס",
-      "definition": "fax",
+      "solution": "נקי",
+      "definition": "limpo",
       "lengths": [
         3
       ],
-      "exampleSentence": "Enviei o documento por fax esta manhã."
+      "exampleSentence": "O meu quarto está sempre limpo e arrumado."
     },
     {
       "direction": "left-down",
@@ -67,144 +67,144 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "ענקיימ",
-      "definition": "enormes",
+      "solution": "שחקנימ",
+      "definition": "jogadores",
       "lengths": [
         6
       ],
-      "exampleSentence": "Aqueles prédios são enormes."
+      "exampleSentence": "Os jogadores entraram no campo de futebol."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מחסה",
-      "definition": "abrigo",
+      "solution": "בסיס",
+      "definition": "base",
       "lengths": [
         4
       ],
-      "exampleSentence": "Eles procuraram um abrigo contra a tempestade."
+      "exampleSentence": "A base da torre é muito forte."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רופא",
-      "definition": "médico",
+      "solution": "לשרפ",
+      "definition": "queimar",
       "lengths": [
         4
       ],
-      "exampleSentence": "O médico receitou o medicamento necessário."
+      "exampleSentence": "Cuidado para não queimar o pão no forno."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "דרשה",
-      "definition": "sermão",
+      "solution": "דרוס",
+      "definition": "atropelado",
       "lengths": [
         4
       ],
-      "exampleSentence": "O padre deu um sermão muito longo."
+      "exampleSentence": "O gato foi atropelado na rua principal."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אח",
-      "definition": "irmão",
+      "solution": "גב",
+      "definition": "costas",
       "lengths": [
         2
       ],
-      "exampleSentence": "O meu irmão mais velho vive no Porto."
+      "exampleSentence": "Doi-me as costas de estar sentado."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אהב",
-      "definition": "amava",
+      "solution": "גשמ",
+      "definition": "chuva",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ele amava ler livros antigos à noite."
+      "exampleSentence": "A chuva cai forte sobre a cidade hoje."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "היא",
-      "definition": "ela",
+      "solution": "שתק",
+      "definition": "calado",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ela trabalha num banco em Lisboa."
+      "exampleSentence": "Ele ficou calado durante toda a reunião."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ורד",
-      "definition": "rosa",
+      "solution": "ילד",
+      "definition": "criança",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ele ofereceu-me uma rosa vermelha."
+      "exampleSentence": "A criança está a brincar no parque."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "דור",
-      "definition": "geração",
+      "solution": "עשר",
+      "definition": "dez",
       "lengths": [
         3
       ],
-      "exampleSentence": "Esta nova geração usa muito a tecnologia."
+      "exampleSentence": "Comprei dez rosas vermelhas para ti."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חיפש",
-      "definition": "procurou",
+      "solution": "יורו",
+      "definition": "euros",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ela procurou o livro na biblioteca municipal."
+      "exampleSentence": "Eu tenho vinte euros na carteira."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אמ",
-      "definition": "se",
+      "solution": "קל",
+      "definition": "fácil",
       "lengths": [
         2
       ],
-      "exampleSentence": "Se chover, vamos ficar em casa."
+      "exampleSentence": "Este exame de matemática foi muito fácil."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חי",
-      "definition": "vivo",
+      "solution": "בת",
+      "definition": "filha",
       "lengths": [
         2
       ],
-      "exampleSentence": "O peixe ainda está vivo no aquário."
+      "exampleSentence": "A minha filha estuda na escola primária."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מאה",
-      "definition": "século",
+      "solution": "תפס",
+      "definition": "agarrou",
       "lengths": [
         3
       ],
-      "exampleSentence": "Vivcemos no século vinte e um."
+      "exampleSentence": "O menino agarrou a mão da mãe."
     }
   ]
 }

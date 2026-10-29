@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מחט",
-      "definition": "naald",
+      "solution": "יחס",
+      "definition": "betrekking",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ik heb een naald nodig om te naaien."
+      "exampleSentence": "Wat is de betrekking tussen deze twee zaken?"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "מקרר",
-      "definition": "koelkast",
+      "solution": "פלוס",
+      "definition": "plus",
       "lengths": [
         4
       ],
-      "exampleSentence": "Zet de melk terug in de koelkast."
+      "exampleSentence": "Twee plus twee is gelijk aan vier."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שיניימ",
-      "definition": "tanden",
+      "solution": "פלסטיק",
+      "definition": "plastic",
       "lengths": [
         6
       ],
-      "exampleSentence": "Ik poets elke ochtend mijn tanden."
+      "exampleSentence": "Dit flesje is gemaakt van gerecycled plastic."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עיט",
-      "definition": "adelaar",
+      "solution": "טרי",
+      "definition": "recent",
       "lengths": [
         3
       ],
-      "exampleSentence": "De adelaar vliegt hoog in de lucht."
+      "exampleSentence": "Dat is een recent bericht uit de krant."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "wie",
+      "solution": "קר",
+      "definition": "koud",
       "lengths": [
         2
       ],
-      "exampleSentence": "Wie is die man bij de deur?"
+      "exampleSentence": "Het is vandaag erg koud buiten."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "חמישימ",
-      "definition": "vijftig",
+      "solution": "חפרפרת",
+      "definition": "mol",
       "lengths": [
         6
       ],
-      "exampleSentence": "Ik heb precies vijftig euro in mijn zak."
+      "exampleSentence": "Een mol graaft een gang onder de grond."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "טקטי",
-      "definition": "tactische",
+      "solution": "סליל",
+      "definition": "spoel",
       "lengths": [
         4
       ],
-      "exampleSentence": "Hij maakte een slimme tactische beslissing."
+      "exampleSentence": "Er zit veel draad op deze spoel."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "פשוט",
-      "definition": "eenvoudig",
+      "solution": "פולש",
+      "definition": "indringer",
       "lengths": [
         4
       ],
-      "exampleSentence": "Het is een eenvoudig plan voor het weekend."
+      "exampleSentence": "De hond blaft naar de onbekende indringer."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לנער",
-      "definition": "schudden",
+      "solution": "גבוה",
+      "definition": "lang",
       "lengths": [
         4
       ],
-      "exampleSentence": "Je moet de fles sap goed schudden voor gebruik."
+      "exampleSentence": "Mijn broer is erg lang."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יש",
-      "definition": "heeft",
+      "solution": "אח",
+      "definition": "broeder",
       "lengths": [
         2
       ],
-      "exampleSentence": "Zij heeft een mooie rode auto."
+      "exampleSentence": "De broeder werkt hard in het ziekenhuis."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יקר",
-      "definition": "duur",
+      "solution": "אפס",
+      "definition": "nul",
       "lengths": [
         3
       ],
-      "exampleSentence": "Deze nieuwe auto is erg duur."
+      "exampleSentence": "Het getal nul staat voor niets."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "קשר",
-      "definition": "relatie",
+      "solution": "פיל",
+      "definition": "olifant",
       "lengths": [
         3
       ],
-      "exampleSentence": "Zij hebben een hele goede relatie."
+      "exampleSentence": "De olifant is een heel groot dier."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "נפל",
-      "definition": "gevallen",
+      "solution": "ספג",
+      "definition": "opgelopen",
       "lengths": [
         3
       ],
-      "exampleSentence": "De vaas is op de grond gevallen."
+      "exampleSentence": "Hij heeft een zware blessure opgelopen tijdens voetbal."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ישנ",
-      "definition": "oud",
+      "solution": "טוב",
+      "definition": "goed",
       "lengths": [
         3
       ],
-      "exampleSentence": "Dit boek is erg oud en versleten."
+      "exampleSentence": "Het is een heel goed plan."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סיוע",
-      "definition": "medewerking",
+      "solution": "קילו",
+      "definition": "kilo",
       "lengths": [
         4
       ],
-      "exampleSentence": "Bedankt voor uw medewerking bij dit project."
+      "exampleSentence": "Ik koop altijd een kilo appels op de markt."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רצ",
-      "definition": "loper",
+      "solution": "לא",
+      "definition": "nee",
       "lengths": [
         2
       ],
-      "exampleSentence": "Hij is een snelle loper in de wedstrijd."
+      "exampleSentence": "Nee, ik wil geen koffie drinken."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "zes",
+      "solution": "חי",
+      "definition": "leeft",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ik word over zes minuten opgehaald door hem."
+      "exampleSentence": "Mijn grootvader leeft nog steeds in Amsterdam."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מטר",
-      "definition": "meter",
+      "solution": "קשה",
+      "definition": "zwaar",
       "lengths": [
         3
       ],
-      "exampleSentence": "Deze tafel is precies één meter lang."
+      "exampleSentence": "Deze doos is veel te zwaar voor mij."
     }
   ]
 }

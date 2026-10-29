@@ -3,7 +3,7 @@
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated clean starter base arroword for arabicToHebrew",
+    "Generated clean beginner starter base arroword for arabicToHebrew",
     "Total clues: 18",
     "Curated for easiest beginner vocabulary with crisp definitions."
   ],
@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "זהב",
-      "definition": "ذَهَبْ",
+      "solution": "אכל",
+      "definition": "تَنَاوَلْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "هَذَا الْخَاتَمُ مَصْنُوعٌ مِنَ الذَّهَبِ الْخَالِصْ"
+      "exampleSentence": "تَنَاوَلَ الطِّفْلُ وَجْبَةَ الْغَدَاءِ مَعَ عَائِلَتِهْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ביקש",
-      "definition": "طَلَبْ",
+      "solution": "דברי",
+      "definition": "تَحَدَّثِي",
       "lengths": [
         4
       ],
-      "exampleSentence": "طَلَبَ الْمُعَلِّمُ مِنَ الطُّلَّابِ فَتْحَ الْكِتَابِ الْمَدْرَسِيِّ."
+      "exampleSentence": "تَحَدَّثِي مَعِي بِوُضُوحٍ لِكَيْ أَفْهَمَكِ جَيِّدَا"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יומיימ",
-      "definition": "يَوْمَيْنْ",
+      "solution": "רישיונ",
+      "definition": "رُخْصَة",
       "lengths": [
         6
       ],
-      "exampleSentence": "سَأَغِيبُ عَنِ الْعَمَلِ لِمُدَّةِ يَوْمَيْنِ فَقَطْ"
+      "exampleSentence": "حَصَلْتُ عَلَى رُخْصَةِ قِيَادَةِ السَّيَّارَةِ الْجَدِيدَة"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אחת",
-      "definition": "إِحْدَى",
+      "solution": "שוב",
+      "definition": "مُجَدَّدًا",
       "lengths": [
         3
       ],
-      "exampleSentence": "هَذِهِ إِحْدَى أَجْمَلِ الْمُدُنِ فِي الْعَالَمْ"
+      "exampleSentence": "سَأُحَاوِلُ قِرَاءَةَ هَذَا الدَّرْسِ مُجَدَّدًا الْيَوْمْ."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מר",
-      "definition": "مُرّْ",
+      "solution": "מי",
+      "definition": "مَنْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "طَعْمُ هَذَا الدَّوَاءِ مُرٌّ جِدًّا وَلَا أُحِبُّهْ"
+      "exampleSentence": "مَنْ هُوَ الشَّخْصُ الَّذِي يَتَحَدَّثُ هُنَاكْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "הבחירה",
-      "definition": "الْخِيَارْ",
+      "solution": "כדורימ",
+      "definition": "كُرَاتْ",
       "lengths": [
         6
       ],
-      "exampleSentence": "كَانَ الْخِيَارُ صَعْبًا بَيْنَ هَذَيْنِ الطَّرِيقَيْنْ"
+      "exampleSentence": "يَلْعَبُ الْأَطْفَالُ بِكُرَاتٍ مُلَوَّنَةٍ فِي سَاحَةِ الْمَدْرَسَة"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "ביתו",
-      "definition": "مَنْزِلُهْ",
+      "solution": "לבבי",
+      "definition": "قَلْبِيَّة",
       "lengths": [
         4
       ],
-      "exampleSentence": "ذَهَبْتُ لِزِيَارَةِ صَدِيقِي فِي مَنْزِلِهِ الْجَدِيدْ."
+      "exampleSentence": "أَجْرَيْتُ فُحُوصَاتٍ طِبِّيَّةً لِلْوِقَايَةِ مِنَ الْأَمْرَاضِ الْقَلْبِيَّة"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "צריכ",
-      "definition": "يَنْبَغِي",
+      "solution": "בעלה",
+      "definition": "زَوْجُهَا",
       "lengths": [
         4
       ],
-      "exampleSentence": "يَنْبَغِي عَلَيْكَ دِرَاسَةُ اللُّغَةِ الْعَرَبِيَّةِ جَيِّدًا"
+      "exampleSentence": "ذَهَبَتِ الْمَرْأَةُ مَعَ زَوْجِهَا إِلَى السُّوقْ."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "אהבה",
-      "definition": "حُبْ",
+      "solution": "ברור",
+      "definition": "وَاضِحَا",
       "lengths": [
         4
       ],
-      "exampleSentence": "أَشْعُرُ بِحُبٍّ كَبِيرٍ تُجَاهَ عَائِلَتِي وَأَصْدِقَائِي"
+      "exampleSentence": "كَانَ شَرْحُ الدَّرْسِ وَاضِحًا جِدًّا لِلطُّلَّابْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רע",
-      "definition": "سَيِّئْ",
+      "solution": "אח",
+      "definition": "شَقِيقْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "هَذَا الطَّقْسُ سَيِّئٌ جِدًّا الْيَوْمْ"
+      "exampleSentence": "سَافَرَ شَقِيقِي إِلَى الْخَارِجِ لِإِكْمَالِ دِرَاسَتِهِ الْجَامِعِيَّة"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ראש",
-      "definition": "الرَّأْسْ",
+      "solution": "אפי",
+      "definition": "أَنْفِي",
       "lengths": [
         3
       ],
-      "exampleSentence": "يَجِبُ حِمَايَةُ الرَّأْسِ عِنْدَ رُكُوبِ الدَّرَّاجَة"
+      "exampleSentence": "يُؤْلِمُنِي أَنْفِي بِسَبَبِ الزُّكَامِ الشَّدِيدْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "אמא",
-      "definition": "أُمّْ",
+      "solution": "פגש",
+      "definition": "قَابَلْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "أُمِّي هِيَ أَغْلَى إِنْسَانٍ عِنْدِي"
+      "exampleSentence": "قَابَلَ صَدِيقِي الْقَدِيمَ فِي الْمَطَارِ هَذَا الصَّبَاحْ"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "מצא",
-      "definition": "وَجَدْ",
+      "solution": "שבב",
+      "definition": "شَرِيحَة",
       "lengths": [
         3
       ],
-      "exampleSentence": "وَجَدَ الطَّالِبُ قَلَمَهُ تَحْتَ الطَّاوِلَةِ الْخَشَبِيَّة"
+      "exampleSentence": "تَحْتَوِي الْبِطَاقَةُ عَلَى شَرِيحَةٍ إِلِكْتُرُونِيَّةٍ صَغِيرَة"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ירה",
-      "definition": "أَطْلِقْ",
+      "solution": "יער",
+      "definition": "غَابَة",
       "lengths": [
         3
       ],
-      "exampleSentence": "أَطْلَقَ اللَّاعِبُ الْكُرَةَ نَحْوَ الْمَرْمَى بِقُوَّةٍ كَبِيرَة"
+      "exampleSentence": "رَأَيْتُ أَشْجَارًا كَثِيرَةً فِي تِلْكَ الْغَابَة"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חייב",
-      "definition": "يَجِبْ",
+      "solution": "קולו",
+      "definition": "صَوْتَهْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "يَجِبُ أَنْ أَدْرُسَ لِلِامْتِحَانِ غَدًا"
+      "exampleSentence": "سَمِعْتُ صَوْتَهْ يُنَادِي مِنْ بَعِيدْ"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אז",
-      "definition": "عِنْدَهَا",
+      "solution": "שש",
+      "definition": "سِتّْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "سَأَشْعُرُ بِالسَّعَادَةِ عِنْدَهَا فَقَطْ"
+      "exampleSentence": "اشْتَرَيْتُ سِتَّ تُفَّاحَاتٍ مِنَ الْمَتْجَرِ الْكَبِيرْ"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "עמ",
-      "definition": "مَعْ",
+      "solution": "חג",
+      "definition": "عِيدْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "أَنَا أَذْهَبُ إِلَى السُّوقِ مَعَ أُمِّي"
+      "exampleSentence": "نَحْتَفِلُ بِعِيدِ مِيلَادِ صَدِيقِي فِي نِهَايَةِ الْأُسْبُوعْ"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מכה",
-      "definition": "ضَرْبَة",
+      "solution": "נהר",
+      "definition": "نَهْرْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "تَلَقَّى اللَّاعِبُ ضَرْبَةً قَوِيَّةً فِي الْمُبَارَاَة"
+      "exampleSentence": "يَجْرِي نَهْرٌ كَبِيرٌ وَسَطَ الْمَدِينَةِ الْجَمِيلَة"
     }
   ]
 }

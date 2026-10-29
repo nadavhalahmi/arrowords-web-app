@@ -12,45 +12,45 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נפל",
-      "definition": "tombé",
+      "solution": "ברכ",
+      "definition": "genou",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le livre est tombé de la table sur le sol."
+      "exampleSentence": "Il s'est fait mal au genou en jouant au foot."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לשבצ",
-      "definition": "incruster",
+      "solution": "איבר",
+      "definition": "membre",
       "lengths": [
         4
       ],
-      "exampleSentence": "Elle aime incruster des perles sur ses robes."
+      "exampleSentence": "Le bras est un membre très utile du corps."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ישראלי",
-      "definition": "israélien",
+      "solution": "ויטמינ",
+      "definition": "vitamine",
       "lengths": [
         6
       ],
-      "exampleSentence": "Il adore la musique et la culture israélienne."
+      "exampleSentence": "Les oranges fraîches contiennent beaucoup de vitamine C."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אטב",
-      "definition": "attache",
+      "solution": "גשמ",
+      "definition": "pluie",
       "lengths": [
         3
       ],
-      "exampleSentence": "J'utilise une attache pour tenir ces papiers ensemble."
+      "exampleSentence": "La pluie tombe doucement sur les carreaux de la fenêtre."
     },
     {
       "direction": "left-down",
@@ -61,150 +61,150 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Nous nous promenons dans le parc."
+      "exampleSentence": "Les enfants jouent joyeusement dans le parc vert."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "פלטינה",
-      "definition": "platine",
+      "solution": "ראשוני",
+      "definition": "initial",
       "lengths": [
         6
       ],
-      "exampleSentence": "Ce disque de platine récompense le chanteur pour ses ventes."
+      "exampleSentence": "Le résultat initial était différent du résultat final."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לשבש",
-      "definition": "détraquer",
+      "solution": "כימי",
+      "definition": "chimique",
       "lengths": [
         4
       ],
-      "exampleSentence": "L'humidité risque de détraquer cet appareil électronique."
+      "exampleSentence": "Ce produit chimique est dangereux pour la santé."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חיוב",
-      "definition": "charge",
+      "solution": "יקומ",
+      "definition": "cosmos",
       "lengths": [
         4
       ],
-      "exampleSentence": "J'ai une charge sur mon compte bancaire."
+      "exampleSentence": "Le voyageur du cosmos observe les étoiles lointaines."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "שליש",
-      "definition": "tiers",
+      "solution": "פלפל",
+      "definition": "poivre",
       "lengths": [
         4
       ],
-      "exampleSentence": "Un tiers des élèves préfère étudier le matin."
+      "exampleSentence": "Le poivre noir donne du goût à ce plat de viande."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אח",
-      "definition": "frère",
+      "solution": "חד",
+      "definition": "brusque",
       "lengths": [
         2
       ],
-      "exampleSentence": "Mon frère est plus âgé que moi."
+      "exampleSentence": "Son mouvement brusque a fait tomber le verre."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ארצ",
-      "definition": "pays",
+      "solution": "חסר",
+      "definition": "absent",
       "lengths": [
         3
       ],
-      "exampleSentence": "Quel est ton pays d'origine ?"
+      "exampleSentence": "Le joueur clé est absent pour le match de demain."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "רגל",
-      "definition": "pied",
+      "solution": "סגר",
+      "definition": "blocage",
       "lengths": [
         3
       ],
-      "exampleSentence": "J'ai mal au pied."
+      "exampleSentence": "Il y a un blocage sur la route à cause d'un camion."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רחש",
-      "definition": "murmure",
+      "solution": "טיפ",
+      "definition": "astuce",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le murmure du vent est apaisant."
+      "exampleSentence": "Voici une bonne astuce pour nettoyer les vitres facilement."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "איל",
-      "definition": "cerf",
+      "solution": "מקל",
+      "definition": "bâton",
       "lengths": [
         3
       ],
-      "exampleSentence": "Nous avons aperçu un grand cerf près du lac."
+      "exampleSentence": "Le vieil homme marche avec un bâton en bois."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "תלוי",
-      "definition": "dépendant",
+      "solution": "זיופ",
+      "definition": "bidon",
       "lengths": [
         4
       ],
-      "exampleSentence": "Cet animal est totalement dépendant de sa mère pour vivre."
+      "exampleSentence": "Cette histoire est complètement bidon, ne la crois pas."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לב",
-      "definition": "coeur",
+      "solution": "רב",
+      "definition": "innombrable",
       "lengths": [
         2
       ],
-      "exampleSentence": "Mon cœur bat très fort."
+      "exampleSentence": "Il y a des étoiles innombrables dans le ciel nocturne."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חג",
-      "definition": "fête",
+      "solution": "דג",
+      "definition": "poisson",
       "lengths": [
         2
       ],
-      "exampleSentence": "Nous allons célébrer la fête de Noël."
+      "exampleSentence": "Le poisson nage paisiblement dans la rivière."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "יבש",
-      "definition": "sec",
+      "solution": "נמל",
+      "definition": "port",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le linge est sec maintenant."
+      "exampleSentence": "Les grands bateaux entrent dans le port le matin."
     }
   ]
 }

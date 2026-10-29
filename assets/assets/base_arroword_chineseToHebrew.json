@@ -12,105 +12,50 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "באר",
-      "definition": "井",
+      "solution": "זאב",
+      "definition": "狼",
       "lengths": [
         3
       ],
-      "exampleSentence": "村子里有一口老井。"
+      "exampleSentence": "森林里有一只饥饿的狼。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לפיד",
-      "definition": "火炬",
+      "solution": "קשיש",
+      "definition": "高龄",
       "lengths": [
         4
       ],
-      "exampleSentence": "运动员举着火炬奔跑。"
+      "exampleSentence": "这位老人已是高龄。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ויטמינ",
-      "definition": "维生素",
+      "solution": "מטושטש",
+      "definition": "昏",
       "lengths": [
         6
       ],
-      "exampleSentence": "多吃水果补充维生素。"
+      "exampleSentence": "他因为太累而昏倒了。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כמו",
-      "definition": "犹如",
+      "solution": "צדק",
+      "definition": "正义",
       "lengths": [
         3
       ],
-      "exampleSentence": "湖水犹如一面镜子。"
+      "exampleSentence": "我们要维护社会的正义。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "כנ",
-      "definition": "耿直",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "他性格非常耿直。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "אלמוני",
-      "definition": "默默无闻",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "他曾是个默默无闻的人。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "רפוי",
-      "definition": "无精打采",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "他今天看起来无精打采。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "עדיפ",
-      "definition": "强",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "他的身体比以前强多了。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "מפגש",
-      "definition": "会面",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "我们约好明天下午会面。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
       "solution": "לא",
       "definition": "没",
       "lengths": [
@@ -119,92 +64,147 @@
       "exampleSentence": "我昨天没有去学校上课。"
     },
     {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "אקדמאי",
+      "definition": "院士",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "他是一位著名的科学院士。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "בשקט",
+      "definition": "默默",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "他默默地坐在角落里。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "כלוב",
+      "definition": "笼子",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "小鸟被关在笼子里。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "נוסע",
+      "definition": "旅客",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "列车上有许多去北京的旅客。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רב",
+      "definition": "诸多",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "这件事有诸多不便之处。"
+    },
+    {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "לבד",
-      "definition": "独",
+      "solution": "ראש",
+      "definition": "头",
       "lengths": [
         3
       ],
-      "exampleSentence": "他独坐在窗前看书。"
+      "exampleSentence": "这只大象有一个很大的头。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "במה",
-      "definition": "舞台",
+      "solution": "אתמ",
+      "definition": "你们",
       "lengths": [
         3
       ],
-      "exampleSentence": "她在舞台上唱歌很好听。"
+      "exampleSentence": "你们明天要去哪里？"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "טעמ",
-      "definition": "味道",
+      "solution": "וכנ",
+      "definition": "及其",
       "lengths": [
         3
       ],
-      "exampleSentence": "这个苹果的味道很甜。"
+      "exampleSentence": "我们讨论了计划及其影响。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "מדפ",
-      "definition": "档",
+      "solution": "שלו",
+      "definition": "祥和",
       "lengths": [
         3
       ],
-      "exampleSentence": "请把文件归档。"
+      "exampleSentence": "节日里气氛十分祥和。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "דייג",
-      "definition": "渔民",
+      "solution": "מטוס",
+      "definition": "飞机",
       "lengths": [
         4
       ],
-      "exampleSentence": "渔民们正在海上捕鱼。"
+      "exampleSentence": "天空中有一架飞机。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "高山",
+      "solution": "מה",
+      "definition": "什么",
       "lengths": [
         2
       ],
-      "exampleSentence": "他们正在攀登那座高山。"
+      "exampleSentence": "你今天晚上想吃什么？"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אמ",
-      "definition": "倘若",
+      "solution": "בת",
+      "definition": "女儿",
       "lengths": [
         2
       ],
-      "exampleSentence": "倘若你愿意，我们就去。"
+      "exampleSentence": "我们每天使用女儿。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נפש",
-      "definition": "精神",
+      "solution": "שבע",
+      "definition": "饱",
       "lengths": [
         3
       ],
-      "exampleSentence": "他精神很好。"
+      "exampleSentence": "我已经吃饱了。"
     }
   ]
 }

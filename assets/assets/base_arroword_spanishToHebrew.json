@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נהר",
-      "definition": "río",
+      "solution": "פני",
+      "definition": "penny",
       "lengths": [
         3
       ],
-      "exampleSentence": "El río cruza toda la ciudad."
+      "exampleSentence": "Penny es un nombre de chica."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שומע",
-      "definition": "escucho",
+      "solution": "שיחק",
+      "definition": "jugó",
       "lengths": [
         4
       ],
-      "exampleSentence": "Yo escucho atentamente al profesor hablar."
+      "exampleSentence": "El niño jugó con su perro ayer."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ביקשתי",
-      "definition": "pedí",
+      "solution": "אנגליה",
+      "definition": "inglaterra",
       "lengths": [
         6
       ],
-      "exampleSentence": "Pedí un café con leche en el bar."
+      "exampleSentence": "Viajé a Inglaterra el año pasado."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "נכס",
-      "definition": "propiedad",
+      "solution": "חוש",
+      "definition": "sentido",
       "lengths": [
         3
       ],
-      "exampleSentence": "El edificio es un valioso bien propiedad de la empresa."
+      "exampleSentence": "El tacto es un sentido muy importante."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בת",
-      "definition": "hija",
+      "solution": "מי",
+      "definition": "quien",
       "lengths": [
         2
       ],
-      "exampleSentence": "Mi hija mayor estudia medicina en Madrid."
+      "exampleSentence": "Quien ríe último, ríe mejor."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "השכבתי",
-      "definition": "acosté",
+      "solution": "נשואימ",
+      "definition": "casados",
       "lengths": [
         6
       ],
-      "exampleSentence": "Acosté a los niños a las nueve."
+      "exampleSentence": "Mis padres llevan muchos años felizmente casados."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "רוסי",
-      "definition": "ruso",
+      "solution": "יישנ",
+      "definition": "duerma",
       "lengths": [
         4
       ],
-      "exampleSentence": "Mi amigo aprende a hablar el idioma ruso."
+      "exampleSentence": "Espero que él duerma bien esta noche."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מנופ",
-      "definition": "palanca",
+      "solution": "אכינ",
+      "definition": "prepararé",
       "lengths": [
         4
       ],
-      "exampleSentence": "Usamos una palanca para mover la piedra pesada."
+      "exampleSentence": "Prepararé un pastel especial."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "חיכה",
-      "definition": "esperaba",
+      "solution": "הודה",
+      "definition": "reconoció",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ella esperaba el autobús bajo la lluvia fría."
+      "exampleSentence": "Ella reconoció que cometió un error grave."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יש",
-      "definition": "hay",
+      "solution": "בא",
+      "definition": "viene",
       "lengths": [
         2
       ],
-      "exampleSentence": "Hay tres gatos en el patio."
+      "exampleSentence": "Mi hermano viene a visitarnos este fin de semana."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ידע",
-      "definition": "sabría",
+      "solution": "בצק",
+      "definition": "masa",
       "lengths": [
         3
       ],
-      "exampleSentence": "Si estudiara más, sabría la lección."
+      "exampleSentence": "Amasa la harina para hacer el pan."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "דשא",
-      "definition": "césped",
+      "solution": "צמא",
+      "definition": "sed",
       "lengths": [
         3
       ],
-      "exampleSentence": "Cortamos el césped del jardín los sábados."
+      "exampleSentence": "Tengo mucha sed después de correr tanto."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "קמח",
-      "definition": "harina",
+      "solution": "גאה",
+      "definition": "orgulloso",
       "lengths": [
         3
       ],
-      "exampleSentence": "Necesito harina y azúcar para hacer el pan."
+      "exampleSentence": "Estoy muy orgulloso de tu trabajo."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "שני",
-      "definition": "ii",
+      "solution": "לכו",
+      "definition": "id",
       "lengths": [
         3
       ],
-      "exampleSentence": "Estudiamos el capítulo ii del libro."
+      "exampleSentence": "Id a vuestras casas ahora mismo por favor."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "בתוכ",
-      "definition": "dentro",
+      "solution": "נייד",
+      "definition": "móvil",
       "lengths": [
         4
       ],
-      "exampleSentence": "El gato duerme dentro de la caja."
+      "exampleSentence": "Llevo mi teléfono móvil en el bolsillo."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אב",
-      "definition": "padre",
+      "solution": "אח",
+      "definition": "hermano",
       "lengths": [
         2
       ],
-      "exampleSentence": "El padre cuida de su hijo."
+      "exampleSentence": "Mi hermano menor estudia medicina en la universidad."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "seis",
+      "solution": "אמ",
+      "definition": "madre",
       "lengths": [
         2
       ],
-      "exampleSentence": "Tengo seis años de estudiar español."
+      "exampleSentence": "Mi madre prepara un café delicioso cada mañana."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "יפה",
-      "definition": "bello",
+      "solution": "הנה",
+      "definition": "acá",
       "lengths": [
         3
       ],
-      "exampleSentence": "Escuché un poema bello en la clase de arte."
+      "exampleSentence": "Ven acá, por favor."
     }
   ]
 }

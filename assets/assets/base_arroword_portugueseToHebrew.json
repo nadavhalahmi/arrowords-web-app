@@ -12,100 +12,100 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "זמנ",
-      "definition": "vez",
+      "solution": "זהב",
+      "definition": "ouro",
       "lengths": [
         3
       ],
-      "exampleSentence": "Esta é a primeira vez que viajo sozinho."
+      "exampleSentence": "O anel de ouro brilha muito no sol."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "תאור",
-      "definition": "descrição",
+      "solution": "חומר",
+      "definition": "matéria",
       "lengths": [
         4
       ],
-      "exampleSentence": "A descrição do carro novo estava no catálogo."
+      "exampleSentence": "A matéria de ciências é muito interessante."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כנפיימ",
-      "definition": "asas",
+      "solution": "טריקימ",
+      "definition": "truques",
       "lengths": [
         6
       ],
-      "exampleSentence": "Os pássaros voam alto com suas asas fortes."
+      "exampleSentence": "O mágico apresentou vários truques incríveis no palco."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יומ",
-      "definition": "dia",
+      "solution": "חלק",
+      "definition": "parte",
       "lengths": [
         3
       ],
-      "exampleSentence": "Hoje é um dia ensolarado e muito alegre."
+      "exampleSentence": "Esta é a melhor parte do filme."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בנ",
-      "definition": "filho",
+      "solution": "כנ",
+      "definition": "sim",
       "lengths": [
         2
       ],
-      "exampleSentence": "O filho dele estuda na mesma escola."
+      "exampleSentence": "Sim, eu quero aprender a falar português fluentemente."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מתוכננ",
-      "definition": "planejado",
+      "solution": "החלטנו",
+      "definition": "decidimos",
       "lengths": [
         6
       ],
-      "exampleSentence": "O projeto foi planejado com muito cuidado e atenção."
+      "exampleSentence": "Nós decidimos viajar juntos nas férias de verão."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נאמנ",
-      "definition": "fiel",
+      "solution": "בוקר",
+      "definition": "manhã",
       "lengths": [
         4
       ],
-      "exampleSentence": "O cachorro sempre foi muito fiel ao seu dono."
+      "exampleSentence": "A manhã está bonita."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "אחות",
-      "definition": "irmã",
+      "solution": "לשונ",
+      "definition": "língua",
       "lengths": [
         4
       ],
-      "exampleSentence": "Minha irmã mais nova estuda na universidade."
+      "exampleSentence": "Cuidado com a língua."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ידני",
-      "definition": "manual",
+      "solution": "דרמה",
+      "definition": "drama",
       "lengths": [
         4
       ],
-      "exampleSentence": "O carro novo tem câmbio manual e direção hidráulica."
+      "exampleSentence": "Assisti a um drama emocionante no cinema ontem."
     },
     {
       "direction": "down",
@@ -122,89 +122,89 @@
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יער",
-      "definition": "floresta",
+      "solution": "יקר",
+      "definition": "precioso",
       "lengths": [
         3
       ],
-      "exampleSentence": "A floresta verde tem árvores muito altas e antigas."
+      "exampleSentence": "O tempo é o recurso mais precioso que temos."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "עמק",
-      "definition": "vale",
+      "solution": "קשה",
+      "definition": "duro",
       "lengths": [
         3
       ],
-      "exampleSentence": "O rio corre no vale."
+      "exampleSentence": "O pão está duro porque ficou fora da caixa."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "פאי",
-      "definition": "torta",
+      "solution": "ילד",
+      "definition": "menino",
       "lengths": [
         3
       ],
-      "exampleSentence": "Minha mãe fez uma torta de maçã deliciosa."
+      "exampleSentence": "O menino corre alegremente pelo parque com o cachorro."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יחד",
-      "definition": "juntos",
+      "solution": "קשר",
+      "definition": "ligação",
       "lengths": [
         3
       ],
-      "exampleSentence": "Nós trabalhamos juntos para terminar o projeto."
+      "exampleSentence": "Existe uma ligação forte entre os dois países."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "דיונ",
-      "definition": "discussão",
+      "solution": "קיומ",
+      "definition": "existência",
       "lengths": [
         4
       ],
-      "exampleSentence": "Tivemos uma discussão produtiva sobre o projeto."
+      "exampleSentence": "A existência humana é um grande mistério."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קל",
-      "definition": "fácil",
+      "solution": "הר",
+      "definition": "montanha",
       "lengths": [
         2
       ],
-      "exampleSentence": "Este exercício de matemática é muito fácil."
+      "exampleSentence": "A montanha é alta."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שמ",
-      "definition": "nome",
+      "solution": "שש",
+      "definition": "seis",
       "lengths": [
         2
       ],
-      "exampleSentence": "Qual é o seu nome completo, por favor?"
+      "exampleSentence": "Eu tenho seis livros na minha mesa."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מתי",
-      "definition": "quando",
+      "solution": "מנה",
+      "definition": "dose",
       "lengths": [
         3
       ],
-      "exampleSentence": "Quando você vem?"
+      "exampleSentence": "O médico receitou uma dose diária deste remédio."
     }
   ]
 }

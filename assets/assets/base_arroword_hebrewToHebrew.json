@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חתנ",
-      "definition": "בן הזוג בחתונה",
+      "solution": "לאה",
+      "definition": "עייפה",
       "lengths": [
         3
       ],
-      "exampleSentence": "החתן המאושר חיכה לכלה תחת החופה המקושטת."
+      "exampleSentence": "לאחר המסע המפרך היא הייתה לאה ותשושה."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שהות",
-      "definition": "פנאי",
+      "solution": "מבקש",
+      "definition": "רוצה",
       "lengths": [
         4
       ],
-      "exampleSentence": "הייתה לו שהות מספקת לקרוא את הספר המעניין."
+      "exampleSentence": "הוא מבקש לקבל מידע נוסף על הנושא."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ורבאלי",
-      "definition": "מילולי",
+      "solution": "ניוטונ",
+      "definition": "פיזיקאי אנגלי מפורסם",
       "lengths": [
         6
       ],
-      "exampleSentence": "הבחינה כוללת בחלקו הראשון מבחן ורבאלי."
+      "exampleSentence": "אייזק ניוטונ גילה את חוק הכבידה העולמי."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אחו",
-      "definition": "שטח עשב למרעה",
+      "solution": "שוא",
+      "definition": "שקר, דבר כזב",
       "lengths": [
         3
       ],
-      "exampleSentence": "פרות רעו בשלווה במרחבי האחו הירוק."
+      "exampleSentence": "אל תבטח בהבטחות שוא שאין מאחוריהן כלום."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "הר",
-      "definition": "גבעה גבוהה מאוד",
+      "solution": "חי",
+      "definition": "נושם, קיים",
       "lengths": [
         2
       ],
-      "exampleSentence": "התחלנו בטיפוס מאתגר אל פסגת הר החרמון המושלג."
+      "exampleSentence": "הוא עדיין חי באותה עיר שבה נולד."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "תשחורת",
-      "definition": "צעירות",
+      "solution": "אמוניה",
+      "definition": "גז חריף",
       "lengths": [
         6
       ],
-      "exampleSentence": "השירים האלה מזכירים לי את ימי התשחורת העליזים."
+      "exampleSentence": "ריח האמוניה היה חזק מאוד בתוך המעבדה."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נהור",
-      "definition": "אור",
+      "solution": "הבאי",
+      "definition": "שטויות",
       "lengths": [
         4
       ],
-      "exampleSentence": "השמש זרחה והפיצה נהور גדול על פני הארץ."
+      "exampleSentence": "אל תאמין לדבריו, כל מה שאמר היה הבאי מוחלטים."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רווח",
-      "definition": "שכיח",
+      "solution": "גישה",
+      "definition": "דרך התייחסות",
       "lengths": [
         4
       ],
-      "exampleSentence": "מחלה זו אינה נחשבת לשכיחה אך היא רווחת באזור מסוים."
+      "exampleSentence": "יש לו גישה חיובית לכל אתגר בחיים."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "אמיד",
-      "definition": "עשיר",
+      "solution": "מטהר",
+      "definition": "חומר לניקוי וחיטוי",
       "lengths": [
         4
       ],
-      "exampleSentence": "איש העסקים האמיד תרם סכום נכבד להקמת בית חולים."
+      "exampleSentence": "השתמשנו ב<b>מטהר</b> אוויר כדי לרענן את החדר."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "מורה רוחני",
+      "solution": "מה",
+      "definition": "מילת שאלה",
       "lengths": [
         2
       ],
-      "exampleSentence": "הרב של הקהילה השיב על שאלותיהם ההלכתיות של המתפללים."
+      "exampleSentence": "שאלתי אותו מה הוא רוצה לאכול לארוחת ערב."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רשת",
-      "definition": "התקן ללכידת דגים",
+      "solution": "ממש",
+      "definition": "באמת",
       "lengths": [
         3
       ],
-      "exampleSentence": "הדייג פרס את הרשת המיותמת בים."
+      "exampleSentence": "הוא ממש התרגש כששמע את החדשות הטובות."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שאר",
-      "definition": "יתר, מה שנותר",
+      "solution": "מרק",
+      "definition": "תבשיל נוזלי",
       "lengths": [
         3
       ],
-      "exampleSentence": "לקחתי את השאר של העוגה הביתה."
+      "exampleSentence": "אמא הכינה מרק עוף חם וטעים."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ברא",
-      "definition": "כרת עצים",
+      "solution": "וגמ",
+      "definition": "בנוסף, וכן",
       "lengths": [
         3
       ],
-      "exampleSentence": "הם בראו חלק מהיער כדי לסלול דרך חדשה."
+      "exampleSentence": "הוא מורה מצוין, וגם אדם נעים הליכות."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "אומ",
-      "definition": "ארגון בינלאומי (או״ם)",
+      "solution": "טיט",
+      "definition": "בוץ לבנייה",
       "lengths": [
         3
       ],
-      "exampleSentence": "נציג ישראל נאם במועצת הביטחון של האו״ם."
+      "exampleSentence": "הבנאים הקדמונים השתמשו בטיט כדי להדביק לבנים."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "גלוי",
-      "definition": "חשוף לעין",
+      "solution": "מושה",
+      "definition": "מוציא ממים",
       "lengths": [
         4
       ],
-      "exampleSentence": "הסוד הפך לגלוי לכל הנוכחים בחדר."
+      "exampleSentence": "הדייג מושה את הרשת מהים."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רצ",
-      "definition": "נע מהר",
+      "solution": "קל",
+      "definition": "שאינו כבד",
       "lengths": [
         2
       ],
-      "exampleSentence": "הילד רץ במהירות לעבר האוטובוס המתקרב."
+      "exampleSentence": "התיק הזה קל מאוד ונוח לנשיאה."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בא",
-      "definition": "הגיע, הופיע",
+      "solution": "הר",
+      "definition": "גבעה גבוהה מאוד",
       "lengths": [
         2
       ],
-      "exampleSentence": "האביב בא ואיתו פריחת הפרחים המרהיבה בשדה."
+      "exampleSentence": "הטיפוס אל פסגת ההר ארך שעות רבות."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "יחד",
-      "definition": "בצוותא, במשותף",
+      "solution": "נהר",
+      "definition": "זרם מים גדול",
       "lengths": [
         3
       ],
-      "exampleSentence": "הם עבדו יחד כדי לסיים את המשימה בזמן."
+      "exampleSentence": "הנהר הגדול זורם לאורך כל עמק הירדן עד לים הכנרת."
     }
   ]
 }
