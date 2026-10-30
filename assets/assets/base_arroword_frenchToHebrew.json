@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "ברכ",
-      "definition": "genou",
+      "solution": "בינ",
+      "definition": "parmi",
       "lengths": [
         3
       ],
-      "exampleSentence": "Il s'est fait mal au genou en jouant au foot."
+      "exampleSentence": "Il a choisi ce livre parmi tous les autres."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "איבר",
-      "definition": "membre",
+      "solution": "שינה",
+      "definition": "sommeil",
       "lengths": [
         4
       ],
-      "exampleSentence": "Le bras est un membre très utile du corps."
+      "exampleSentence": "Le sommeil est indispensable pour une bonne santé physique."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ויטמינ",
-      "definition": "vitamine",
+      "solution": "אחוזימ",
+      "definition": "pourcentage",
       "lengths": [
         6
       ],
-      "exampleSentence": "Les oranges fraîches contiennent beaucoup de vitamine C."
+      "exampleSentence": "Le magasin offre un pourcentage de réduction sur tout."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "גשמ",
-      "definition": "pluie",
+      "solution": "תרד",
+      "definition": "épinard",
       "lengths": [
         3
       ],
-      "exampleSentence": "La pluie tombe doucement sur les carreaux de la fenêtre."
+      "exampleSentence": "Je mange des épinards avec un peu de beurre."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "גנ",
-      "definition": "parc",
+      "solution": "קל",
+      "definition": "léger",
       "lengths": [
         2
       ],
-      "exampleSentence": "Les enfants jouent joyeusement dans le parc vert."
+      "exampleSentence": "Ce sac à dos est très léger à porter sur les épaules."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "ראשוני",
-      "definition": "initial",
+      "solution": "ישראלי",
+      "definition": "israélien",
       "lengths": [
         6
       ],
-      "exampleSentence": "Le résultat initial était différent du résultat final."
+      "exampleSentence": "Mon ami israélien prépare un délicieux plat traditionnel."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "כימי",
-      "definition": "chimique",
+      "solution": "נידח",
+      "definition": "paumé",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ce produit chimique est dangereux pour la santé."
+      "exampleSentence": "Il habite dans un village très paumé et isolé."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "יקומ",
-      "definition": "cosmos",
+      "solution": "עולל",
+      "definition": "nourrisson",
       "lengths": [
         4
       ],
-      "exampleSentence": "Le voyageur du cosmos observe les étoiles lointaines."
+      "exampleSentence": "Le petit nourrisson dort paisiblement dans son lit."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "פלפל",
-      "definition": "poivre",
+      "solution": "דגול",
+      "definition": "éminent",
       "lengths": [
         4
       ],
-      "exampleSentence": "Le poivre noir donne du goût à ce plat de viande."
+      "exampleSentence": "C 'est un éminent scientifique reconnu dans le monde entier."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חד",
-      "definition": "brusque",
+      "solution": "גב",
+      "definition": "dos",
       "lengths": [
         2
       ],
-      "exampleSentence": "Son mouvement brusque a fait tomber le verre."
+      "exampleSentence": "J'ai mal au dos après avoir porté ce carton."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חסר",
-      "definition": "absent",
+      "solution": "גאה",
+      "definition": "orgueilleux",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le joueur clé est absent pour le match de demain."
+      "exampleSentence": "Il est trop orgueilleux pour demander de l'aide."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "סגר",
-      "definition": "blocage",
+      "solution": "אתר",
+      "definition": "site",
       "lengths": [
         3
       ],
-      "exampleSentence": "Il y a un blocage sur la route à cause d'un camion."
+      "exampleSentence": "Nous visitons un site historique très ancien cet après-midi."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "טיפ",
-      "definition": "astuce",
+      "solution": "ועד",
+      "definition": "comité",
       "lengths": [
         3
       ],
-      "exampleSentence": "Voici une bonne astuce pour nettoyer les vitres facilement."
+      "exampleSentence": "Le comité organise une fête pour tous les employés."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "מקל",
-      "definition": "bâton",
+      "solution": "זוג",
+      "definition": "couple",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le vieil homme marche avec un bâton en bois."
+      "exampleSentence": "Ce jeune couple se marie ce samedi."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "זיופ",
-      "definition": "bidon",
+      "solution": "אילו",
+      "definition": "quelles",
       "lengths": [
         4
       ],
-      "exampleSentence": "Cette histoire est complètement bidon, ne la crois pas."
+      "exampleSentence": "Quelles langues parlez-vous avec vos amis ?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "innombrable",
+      "solution": "רצ",
+      "definition": "coureur",
       "lengths": [
         2
       ],
-      "exampleSentence": "Il y a des étoiles innombrables dans le ciel nocturne."
+      "exampleSentence": "Le coureur rapide traverse la ligne d'arrivée en premier."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "דג",
-      "definition": "poisson",
+      "solution": "בת",
+      "definition": "fille",
       "lengths": [
         2
       ],
-      "exampleSentence": "Le poisson nage paisiblement dans la rivière."
+      "exampleSentence": "Leur fille aînée étudie la médecine à l'université de Lyon."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נמל",
-      "definition": "port",
+      "solution": "מלל",
+      "definition": "texte",
       "lengths": [
         3
       ],
-      "exampleSentence": "Les grands bateaux entrent dans le port le matin."
+      "exampleSentence": "Le texte de la chanson est très poétique."
     }
   ]
 }

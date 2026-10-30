@@ -1,208 +1,210 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for Greek to Hebrew",
-    "Total clues: 18"
+    "Generated clean beginner starter base arroword for greekToHebrew",
+    "Total clues: 18",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אדמ",
-      "definition": "άνθρωπος",
+      "solution": "ההמ",
+      "definition": "εκείνα",
       "lengths": [
         3
       ],
-      "exampleSentence": "Κάθε άνθρωπος έχει τα δικά του όνειρα."
+      "exampleSentence": "Εκείνα τα παιδιά παίζουν στο πάρκο."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "יקומ",
-      "definition": "σύμπαν",
+      "solution": "שטיח",
+      "definition": "χαλί",
       "lengths": [
         4
       ],
-      "exampleSentence": "Το σύμπαν είναι γεμάτο από άγνωστα μυστικά."
+      "exampleSentence": "Το χαλί στο σαλόνι είναι πολύ μαλακό."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רהיטימ",
-      "definition": "έπιπλα",
+      "solution": "מעגלימ",
+      "definition": "κύκλους",
       "lengths": [
         6
       ],
-      "exampleSentence": "Αγοράσαμε καινούργια έπιπλα για το σαλόνι."
+      "exampleSentence": "Σχεδιάζω κύκλους πάνω στο χαρτί με το διαβήτη."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קבר",
-      "definition": "τάφος",
+      "solution": "כתב",
+      "definition": "έγραψε",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ο τάφος είναι στο παλιό νεκροταφείο."
+      "exampleSentence": "Ο μαθητής έγραψε μια έκθεση για το σχολείο."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בנ",
-      "definition": "γιος",
+      "solution": "שש",
+      "definition": "έξι",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ο γιος μου πηγαίνει στο σχολείο κάθε μέρα."
+      "exampleSentence": "Έχω έξι μήλα στο τραπέζι μου."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "דיברנו",
-      "definition": "μιλήσαμε",
+      "solution": "השתמשו",
+      "definition": "χρησιμοποίησαν",
       "lengths": [
         6
       ],
-      "exampleSentence": "Μιλήσαμε για πολλή ώρα στο τηλέφωνο."
+      "exampleSentence": "Οι μαθητές χρησιμοποίησαν υπολογιστές για το μάθημα."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מקרה",
-      "definition": "περίπτωση",
+      "solution": "מטבע",
+      "definition": "νόμισμα",
       "lengths": [
         4
       ],
-      "exampleSentence": "Σε κάθε περίπτωση, θα σε πάρω τηλέφωνο."
+      "exampleSentence": "Αυτό το παλιό νόμισμα είναι πολύ σπάνιο."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "דיונ",
-      "definition": "συζήτησης",
+      "solution": "שומר",
+      "definition": "φύλακας",
       "lengths": [
         4
       ],
-      "exampleSentence": "Το θέμα της συζήτησης είναι πολύ σοβαρό."
+      "exampleSentence": "Ο φύλακας ελέγχει την είσοδο του κτιρίου."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "עלמה",
-      "definition": "δεσποινίδα",
+      "solution": "רחוק",
+      "definition": "μακριά",
       "lengths": [
         4
       ],
-      "exampleSentence": "Η δεσποινίδα περιμένει στην είσοδο."
+      "exampleSentence": "Το σπίτι μου είναι μακριά από το κέντρο."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מי",
-      "definition": "ποιος",
+      "solution": "פה",
+      "definition": "στόμα",
       "lengths": [
         2
       ],
-      "exampleSentence": "Πιος είναι στην πόρτα;"
+      "exampleSentence": "Άνοιξε το στόμα σου για τον γιατρό."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מכמ",
-      "definition": "ραντάρ",
+      "solution": "פתח",
+      "definition": "ανοιξε",
       "lengths": [
         3
       ],
-      "exampleSentence": "Το ραντάρ εντόπισε το αεροπλάνο στον ουρανό."
+      "exampleSentence": "Άνοιξε την πόρτα για να μπει φρέσκος αέρας."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "כדי",
-      "definition": "προκειμένου",
+      "solution": "תרד",
+      "definition": "κατέβεις",
       "lengths": [
         3
       ],
-      "exampleSentence": "Πρέπει να διαβάσεις προκειμένου να περάσεις τις εξετάσεις."
+      "exampleSentence": "Πρέπει να κατέβεις από το λεωφορείο εδώ."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ידע",
-      "definition": "γνώση",
+      "solution": "גשר",
+      "definition": "γέφυρα",
       "lengths": [
         3
       ],
-      "exampleSentence": "Η γνώση είναι πολύ σημαντική στη ζωή."
+      "exampleSentence": "Περνάμε τη γέφυρα για να πάμε στο κέντρο."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "טיל",
-      "definition": "πύραυλο",
+      "solution": "לוח",
+      "definition": "πίνακα",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ο πύραυλος εκτοξεύτηκε στο διάστημα με μεγάλη ταχύτητα."
+      "exampleSentence": "Ο δάσκαλος γράφει στον πίνακα με κιμωλία."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "איומ",
-      "definition": "απειλή",
+      "solution": "שימו",
+      "definition": "βάλτε",
       "lengths": [
         4
       ],
-      "exampleSentence": "Η κλιματική αλλαγή είναι μια μεγάλη απειλή."
+      "exampleSentence": "Βάλτε τα βιβλία σας πάνω στο τραπέζι."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "ימ",
-      "definition": "θάλασσα",
+      "solution": "דג",
+      "definition": "ψάρι",
       "lengths": [
         2
       ],
-      "exampleSentence": "Η θάλασσα είναι πολύ ήρεμη σήμερα."
+      "exampleSentence": "Το ψάρι είναι πολύ υγιεινό φαγητό."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "יד",
-      "definition": "χέρι",
+      "solution": "הר",
+      "definition": "βουνό",
       "lengths": [
         2
       ],
-      "exampleSentence": "Κράτησε το χέρι μου για να περάσουμε."
+      "exampleSentence": "Ανεβήκαμε στο ψηλό βουνό με τα πόδια."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "δόση",
+      "solution": "מרק",
+      "definition": "σούπα",
       "lengths": [
         3
       ],
-      "exampleSentence": "Πρέπει να πάρω τη δόση του φαρμάκου μου."
+      "exampleSentence": "Έφαγα μια ζεστή σούπα για το μεσημεριανό."
     }
   ]
 }

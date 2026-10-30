@@ -1,158 +1,138 @@
 {
   "num_rows": 7,
   "num_cols": 7,
+  "mask_id": "mask_7_7_5",
   "comments": [
-    "Generated starter base arroword for Swedish to Hebrew",
-    "Total clues: 18"
+    "Generated clean beginner starter base arroword for swedishToHebrew",
+    "Total clues: 18",
+    "Curated for easiest beginner vocabulary with crisp definitions."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "באג",
-      "definition": "småkryp",
+      "solution": "לבנ",
+      "definition": "vit",
       "lengths": [
         3
       ],
-      "exampleSentence": "Barnen tittar på ett litet småkryp i gräset."
+      "exampleSentence": "Snön på vintern är helt vit."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לשחק",
-      "definition": "spela",
+      "solution": "הפסק",
+      "definition": "avbryt",
       "lengths": [
         4
       ],
-      "exampleSentence": "Vi brukar spela fotboll efter skolan varje fredag."
+      "exampleSentence": "Avbryt inte filmen, jag tittar på den."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "הילדימ",
-      "definition": "barn",
+      "solution": "חרסינה",
+      "definition": "porslin",
       "lengths": [
         6
       ],
-      "exampleSentence": "De har två små barn."
+      "exampleSentence": "Tallrikarna av porslin står i skåpet."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יומ",
-      "definition": "dag",
+      "solution": "לתת",
+      "definition": "ge",
       "lengths": [
         3
       ],
-      "exampleSentence": "Idag är en vacker och solig dag."
+      "exampleSentence": "Kan du ge mig den röda boken tack?"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "זו",
-      "definition": "denna",
+      "solution": "סל",
+      "definition": "korg",
       "lengths": [
         2
       ],
-      "exampleSentence": "Denna väska tillhör min vän."
+      "exampleSentence": "Jag lägger äpplena i en flätad korg."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "אלוהות",
-      "definition": "gud",
+      "solution": "בהתחלה",
+      "definition": "först",
       "lengths": [
         6
       ],
-      "exampleSentence": "I gamla religioner bad man till många gudar."
+      "exampleSentence": "Först förstod jag ingenting, men sedan klarnade bilden."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "גשמי",
-      "definition": "jordisk",
+      "solution": "נפתר",
+      "definition": "besluten",
       "lengths": [
         4
       ],
-      "exampleSentence": "Människan har både en andlig och en jordisk sida."
+      "exampleSentence": "Hon var besluten att lösa problemet snabbt."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חשוכ",
-      "definition": "mörk",
+      "solution": "כלול",
+      "definition": "ingår",
       "lengths": [
         4
       ],
-      "exampleSentence": "Rummet är mörkt utan lampan tänd."
+      "exampleSentence": "Frukost ingår i priset på hotellet."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מאכל",
-      "definition": "rätt",
+      "solution": "רדיו",
+      "definition": "radio",
       "lengths": [
         4
       ],
-      "exampleSentence": "Den här traditionella rätten är mycket god."
+      "exampleSentence": "Jag lyssnar på nyheterna på radion."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חג",
-      "definition": "helg",
+      "solution": "חי",
+      "definition": "levande",
       "lengths": [
         2
       ],
-      "exampleSentence": "Vi ser fram emot en lång och skön helg."
+      "exampleSentence": "Det är en levande stad med mycket folk."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חשק",
-      "definition": "sug",
+      "solution": "חדק",
+      "definition": "snabel",
       "lengths": [
         3
       ],
-      "exampleSentence": "Jag har ett stort sug efter kaffe."
+      "exampleSentence": "Elefanten dricker vatten med sin långa snabel."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שמנ",
-      "definition": "fet",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Den här fisken är ganska fet och god."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "לחמ",
-      "definition": "bröd",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Vi bakar färskt bröd i ugnen varje morgon."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
       "solution": "דשא",
       "definition": "gräs",
       "lengths": [
@@ -162,47 +142,69 @@
     },
     {
       "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "סכר",
+      "definition": "damm",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Vattnet stoppas av en stor damm i floden."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "ילד",
+      "definition": "barn",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ett litet barn sover sött i sin säng."
+    },
+    {
+      "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חיוכ",
-      "definition": "leende",
+      "solution": "פנוי",
+      "definition": "tillgänglig",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ett varmt leende kan göra någons dag bättre."
+      "exampleSentence": "Dokumentet är tillgängligt för alla anställda."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נע",
-      "definition": "skönt",
+      "solution": "אמ",
+      "definition": "mamma",
       "lengths": [
         2
       ],
-      "exampleSentence": "Det är skönt att vila efter en lång dag."
+      "exampleSentence": "Min mamma lagar väldigt god mat varje dag."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "גמ",
-      "definition": "också",
+      "solution": "יש",
+      "definition": "har",
       "lengths": [
         2
       ],
-      "exampleSentence": "Jag vill också lära mig svenska."
+      "exampleSentence": "Jag har en röd cykel hemma."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מכל",
-      "definition": "behållare",
+      "solution": "הלו",
+      "definition": "hallå",
       "lengths": [
         3
       ],
-      "exampleSentence": "Häll mjölken i en ren behållare med lock."
+      "exampleSentence": "Hallå, är det någon som hör mig nu?"
     }
   ]
 }
