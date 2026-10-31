@@ -1,210 +1,189 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_5",
+  "mask_id": "mask_7_7",
   "comments": [
     "Generated clean beginner starter base arroword for frenchToHebrew",
-    "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Total clues: 16",
+    "Mask: mask_7_7; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
-      "direction": "right-down",
+      "direction": "right",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "בינ",
-      "definition": "parmi",
+      "solution": "כלככ",
+      "definition": "si",
       "lengths": [
-        3
+        2,
+        2
       ],
-      "exampleSentence": "Il a choisi ce livre parmi tous les autres."
+      "exampleSentence": "Elle est si gentille avec tous ses amis."
     },
     {
       "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "שינה",
-      "definition": "sommeil",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Le sommeil est indispensable pour une bonne santé physique."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "אחוזימ",
-      "definition": "pourcentage",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Le magasin offre un pourcentage de réduction sur tout."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "תרד",
-      "definition": "épinard",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Je mange des épinards avec un peu de beurre."
-    },
-    {
-      "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "קל",
-      "definition": "léger",
+      "solution": "לא",
+      "definition": "pas",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ce sac à dos est très léger à porter sur les épaules."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "ישראלי",
-      "definition": "israélien",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Mon ami israélien prépare un délicieux plat traditionnel."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "נידח",
-      "definition": "paumé",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Il habite dans un village très paumé et isolé."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "עולל",
-      "definition": "nourrisson",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Le petit nourrisson dort paisiblement dans son lit."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "דגול",
-      "definition": "éminent",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "C 'est un éminent scientifique reconnu dans le monde entier."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "גב",
-      "definition": "dos",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "J'ai mal au dos après avoir porté ce carton."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "גאה",
-      "definition": "orgueilleux",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Il est trop orgueilleux pour demander de l'aide."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "אתר",
-      "definition": "site",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Nous visitons un site historique très ancien cet après-midi."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ועד",
-      "definition": "comité",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Le comité organise une fête pour tous les employés."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "זוג",
-      "definition": "couple",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ce jeune couple se marie ce samedi."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "אילו",
-      "definition": "quelles",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Quelles langues parlez-vous avec vos amis ?"
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "רצ",
-      "definition": "coureur",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Le coureur rapide traverse la ligne d'arrivée en premier."
+      "exampleSentence": "Ce film n'est pas du tout intéressant."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בת",
-      "definition": "fille",
+      "solution": "קול",
+      "definition": "son",
       "lengths": [
-        2
+        3
       ],
-      "exampleSentence": "Leur fille aînée étudie la médecine à l'université de Lyon."
+      "exampleSentence": "Le son de cette guitare est magnifique."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "אבל",
+      "definition": "mais",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "J'aime le thé mais je préfère le café."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "להשאיר",
+      "definition": "laisser",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Je vais laisser mon manteau sur le lit."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "רקע",
+      "definition": "fond",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "La photo a un beau paysage vert en fond."
     },
     {
       "direction": "right",
       "clue_row": 6,
+      "clue_col": 2,
+      "solution": "מדוע",
+      "definition": "pourquoi",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Pourquoi est-ce que le ciel est bleu ?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 2,
+      "solution": "מנהל",
+      "definition": "chef",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Le chef de l'entreprise a pris une grande décision."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "איזו",
+      "definition": "quelle",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Quelle est votre couleur préférée entre le bleu et le vert ?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
       "clue_col": 3,
-      "solution": "מלל",
-      "definition": "texte",
+      "solution": "חזק",
+      "definition": "fort",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le texte de la chanson est très poétique."
+      "exampleSentence": "Le vent souffle très fort aujourd'hui."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "יש",
+      "definition": "a",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Il y a un chat dans le jardin."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "שלמ",
+      "definition": "entier",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "J'ai passé le weekend entier à lire un livre."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 4,
+      "solution": "אחד",
+      "definition": "un",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "J'ai un chien et un chat chez moi."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "כאנ",
+      "definition": "ici",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "J'habite ici depuis trois ans déjà."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "לעלות",
+      "definition": "monter",
+      "lengths": [
+        5
+      ],
+      "exampleSentence": "Nous allons monter au sommet de la montagne."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עני",
+      "definition": "pauvre",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Il aide souvent les gens pauvres du quartier."
     }
   ]
 }

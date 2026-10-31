@@ -5,187 +5,177 @@
   "comments": [
     "Generated clean beginner starter base arroword for portugueseToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "זהב",
-      "definition": "ouro",
+      "solution": "דלת",
+      "definition": "porta",
       "lengths": [
         3
       ],
-      "exampleSentence": "O anel de ouro brilha muito no sol."
+      "exampleSentence": "Por favor, feche bem a porta ao sair."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "חומר",
-      "definition": "matéria",
+      "solution": "הודו",
+      "definition": "índia",
       "lengths": [
         4
       ],
-      "exampleSentence": "A matéria de ciências é muito interessante."
+      "exampleSentence": "A Índia é um país com uma cultura muito rica."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טריקימ",
-      "definition": "truques",
+      "solution": "זהשיחק",
+      "definition": "jogou",
       "lengths": [
-        6
+        2,
+        4
       ],
-      "exampleSentence": "O mágico apresentou vários truques incríveis no palco."
+      "exampleSentence": "Ele jogou futebol com os amigos na escola."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חלק",
-      "definition": "parte",
+      "solution": "יחד",
+      "definition": "juntos",
       "lengths": [
         3
       ],
-      "exampleSentence": "Esta é a melhor parte do filme."
+      "exampleSentence": "Nós trabalhamos juntos para terminar o projeto."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "כנ",
-      "definition": "sim",
+      "solution": "מי",
+      "definition": "quem",
       "lengths": [
         2
       ],
-      "exampleSentence": "Sim, eu quero aprender a falar português fluentemente."
+      "exampleSentence": "Quem ganhou o primeiro prêmio do concurso hoje?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "החלטנו",
-      "definition": "decidimos",
+      "solution": "להחזיק",
+      "definition": "segurar",
       "lengths": [
         6
       ],
-      "exampleSentence": "Nós decidimos viajar juntos nas férias de verão."
+      "exampleSentence": "É importante segurar a corda com muita força."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "בוקר",
-      "definition": "manhã",
+      "solution": "תודה",
+      "definition": "obrigado",
       "lengths": [
         4
       ],
-      "exampleSentence": "A manhã está bonita."
+      "exampleSentence": "Muito obrigado pela sua ajuda com o trabalho."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לשונ",
-      "definition": "língua",
+      "solution": "ערוצ",
+      "definition": "canal",
       "lengths": [
         4
       ],
-      "exampleSentence": "Cuidado com a língua."
+      "exampleSentence": "Eu assisto ao meu canal favorito na televisão."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "דרמה",
-      "definition": "drama",
+      "solution": "החבר",
+      "definition": "namorado",
       "lengths": [
         4
       ],
-      "exampleSentence": "Assisti a um drama emocionante no cinema ontem."
+      "exampleSentence": "O namorado dela comprou flores para o aniversário."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יש",
-      "definition": "existe",
+      "solution": "לא",
+      "definition": "não",
       "lengths": [
         2
       ],
-      "exampleSentence": "Existe uma solução simples para este problema difícil."
+      "exampleSentence": "Eu não gosto de comer comida muito picante."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יקר",
-      "definition": "precioso",
+      "solution": "לנו",
+      "definition": "nos",
       "lengths": [
         3
       ],
-      "exampleSentence": "O tempo é o recurso mais precioso que temos."
+      "exampleSentence": "Ele nos deu um presente muito legal ontem."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "קשה",
-      "definition": "duro",
+      "solution": "נחש",
+      "definition": "cobra",
       "lengths": [
         3
       ],
-      "exampleSentence": "O pão está duro porque ficou fora da caixa."
+      "exampleSentence": "A cobra verde estava escondida na grama alta."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ילד",
-      "definition": "menino",
+      "solution": "שעה",
+      "definition": "hora",
       "lengths": [
         3
       ],
-      "exampleSentence": "O menino corre alegremente pelo parque com o cachorro."
+      "exampleSentence": "Que hora é?"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "קשר",
-      "definition": "ligação",
+      "solution": "ירח",
+      "definition": "lua",
       "lengths": [
         3
       ],
-      "exampleSentence": "Existe uma ligação forte entre os dois países."
+      "exampleSentence": "A lua brilha intensamente no céu durante a noite."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "קיומ",
-      "definition": "existência",
+      "solution": "רחוב",
+      "definition": "rua",
       "lengths": [
         4
       ],
-      "exampleSentence": "A existência humana é um grande mistério."
+      "exampleSentence": "A rua está vazia."
     },
     {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "הר",
-      "definition": "montanha",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "A montanha é alta."
-    },
-    {
-      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "שש",
@@ -196,15 +186,26 @@
       "exampleSentence": "Eu tenho seis livros na minha mesa."
     },
     {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "אח",
+      "definition": "irmão",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Meu irmão mais velho estuda engenharia na universidade."
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "dose",
+      "solution": "קצר",
+      "definition": "curto",
       "lengths": [
         3
       ],
-      "exampleSentence": "O médico receitou uma dose diária deste remédio."
+      "exampleSentence": "O caminho mais curto para a praia passa aqui."
     }
   ]
 }

@@ -5,30 +5,30 @@
   "comments": [
     "Generated clean beginner starter base arroword for arabicToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אכל",
-      "definition": "تَنَاوَلْ",
+      "solution": "זהב",
+      "definition": "ذَهَبْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "تَنَاوَلَ الطِّفْلُ وَجْبَةَ الْغَدَاءِ مَعَ عَائِلَتِهْ"
+      "exampleSentence": "هَذَا الْخَاتَمُ مَصْنُوعٌ مِنَ الذَّهَبِ الْخَالِصْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "דברי",
-      "definition": "تَحَدَّثِي",
+      "solution": "חייב",
+      "definition": "يَجِبْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "تَحَدَّثِي مَعِي بِوُضُوحٍ لِكَيْ أَفْهَمَكِ جَيِّدَا"
+      "exampleSentence": "يَجِبُ أَنْ أَدْرُسَ لِلِامْتِحَانِ غَدًا"
     },
     {
       "direction": "down",
@@ -45,12 +45,12 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שוב",
-      "definition": "مُجَدَّدًا",
+      "solution": "לבנ",
+      "definition": "أَبْيَضْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "سَأُحَاوِلُ قِرَاءَةَ هَذَا الدَّرْسِ مُجَدَّدًا الْيَوْمْ."
+      "exampleSentence": "الثَّلْجُ فِي الشِّتَاءِ يَكُونُ لَوْنُهُ أَبْيَضْ"
     },
     {
       "direction": "left-down",
@@ -67,144 +67,144 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "כדורימ",
-      "definition": "كُرَاتْ",
+      "solution": "החברימ",
+      "definition": "الْأَصْدِقَاءْ",
       "lengths": [
         6
       ],
-      "exampleSentence": "يَلْعَبُ الْأَطْفَالُ بِكُرَاتٍ مُلَوَّنَةٍ فِي سَاحَةِ الْمَدْرَسَة"
+      "exampleSentence": "الْأَصْدِقَاءُ الْحَقِيقِيُّونَ يُسَاعِدُونَ بَعْضَهُمْ فِي الشَّدَائِدْ"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לבבי",
-      "definition": "قَلْبِيَّة",
+      "solution": "ביני",
+      "definition": "بَيْنِي",
       "lengths": [
         4
       ],
-      "exampleSentence": "أَجْرَيْتُ فُحُوصَاتٍ طِبِّيَّةً لِلْوِقَايَةِ مِنَ الْأَمْرَاضِ الْقَلْبِيَّة"
+      "exampleSentence": "هَذَا السِّرُّ يَبْقَى دَائِمًا بَيْنِي وَبَيْنَ صَدِيقِي"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "בעלה",
-      "definition": "زَوْجُهَا",
+      "solution": "מוצא",
+      "definition": "أَصْلْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "ذَهَبَتِ الْمَرْأَةُ مَعَ زَوْجِهَا إِلَى السُّوقْ."
+      "exampleSentence": "مَا هُوَ أَصْلُ هَذِهِ الْعَائِلَةِ الْكَرِيمَة؟"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ברור",
-      "definition": "وَاضِحَا",
+      "solution": "המאה",
+      "definition": "الْقَرْنْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "كَانَ شَرْحُ الدَّرْسِ وَاضِحًا جِدًّا لِلطُّلَّابْ"
+      "exampleSentence": "نَحْنُ نَعِيشُ فِي الْقَرْنِ الْحَادِي وَالْعِشْرِينْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אח",
-      "definition": "شَقِيقْ",
+      "solution": "על",
+      "definition": "عَلَى",
       "lengths": [
         2
       ],
-      "exampleSentence": "سَافَرَ شَقِيقِي إِلَى الْخَارِجِ لِإِكْمَالِ دِرَاسَتِهِ الْجَامِعِيَّة"
+      "exampleSentence": "الْكِتَابُ مَوْجُودٌ عَلَى الطَّاوِلَةِ الْخَشَبِيَّهْ"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אפי",
-      "definition": "أَنْفِي",
+      "solution": "ערב",
+      "definition": "مَسَاءْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "يُؤْلِمُنِي أَنْفِي بِسَبَبِ الزُّكَامِ الشَّدِيدْ"
+      "exampleSentence": "أَتَمَنَّى لَكَ مَسَاءً سَعِيدًا وَهَادِئَا"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "פגש",
-      "definition": "قَابَلْ",
+      "solution": "ראש",
+      "definition": "الرَّئِيسْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "قَابَلَ صَدِيقِي الْقَدِيمَ فِي الْمَطَارِ هَذَا الصَّبَاحْ"
+      "exampleSentence": "الرَّئِيسُ يَزُورُ الْمَدْرَسَةَ غَدًا صَبَاحًا"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "שבב",
-      "definition": "شَرِيحَة",
+      "solution": "שמה",
+      "definition": "تَضَعْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "تَحْتَوِي الْبِطَاقَةُ عَلَى شَرِيحَةٍ إِلِكْتُرُونِيَّةٍ صَغِيرَة"
+      "exampleSentence": "هِيَ تَضَعُ الْكِتَابَ عَلَى الطَّاوِلَةِ الْخَشَبِيَّة"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יער",
-      "definition": "غَابَة",
+      "solution": "יומ",
+      "definition": "يَوْمْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "رَأَيْتُ أَشْجَارًا كَثِيرَةً فِي تِلْكَ الْغَابَة"
+      "exampleSentence": "هَذَا يَوْمٌ سَعِيدٌ جِدًّا بِالنِّسْبَةِ لِي"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "קולו",
-      "definition": "صَوْتَهْ",
+      "solution": "יוצא",
+      "definition": "يَخْرُجْ",
       "lengths": [
         4
       ],
-      "exampleSentence": "سَمِعْتُ صَوْتَهْ يُنَادِي مِنْ بَعِيدْ"
+      "exampleSentence": "أَخِي يَخْرُجُ مِنَ الْبَيْتِ كُلَّ صَبَاحٍ مُبَكِّرًا"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "سِتّْ",
+      "solution": "שמ",
+      "definition": "هُنَاكْ",
       "lengths": [
         2
       ],
-      "exampleSentence": "اشْتَرَيْتُ سِتَّ تُفَّاحَاتٍ مِنَ الْمَتْجَرِ الْكَبِيرْ"
+      "exampleSentence": "يُوجَدُ شَجَرَةٌ كَبِيرَةٌ هُنَاكَ فِي الْحَدِيقَهْ"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חג",
-      "definition": "عِيدْ",
+      "solution": "לא",
+      "definition": "لَا",
       "lengths": [
         2
       ],
-      "exampleSentence": "نَحْتَفِلُ بِعِيدِ مِيلَادِ صَدِيقِي فِي نِهَايَةِ الْأُسْبُوعْ"
+      "exampleSentence": "لَا أُرِيدُ الذَّهَابَ إِلَى الْمَدْرَسَةِ الْيَوْمْ"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "نَهْرْ",
+      "solution": "נאה",
+      "definition": "وَسِيمْ",
       "lengths": [
         3
       ],
-      "exampleSentence": "يَجْرِي نَهْرٌ كَبِيرٌ وَسَطَ الْمَدِينَةِ الْجَمِيلَة"
+      "exampleSentence": "هَذَا الشَّابُّ وَسِيمٌ جِدًّا وَمُؤَدَّبٌ فِي كَلَامِهْ"
     }
   ]
 }

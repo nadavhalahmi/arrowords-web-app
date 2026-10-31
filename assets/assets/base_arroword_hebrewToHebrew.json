@@ -5,187 +5,177 @@
   "comments": [
     "Generated clean beginner starter base arroword for hebrewToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "לאה",
-      "definition": "עייפה",
+      "solution": "נתנ",
+      "definition": "העניק",
       "lengths": [
         3
       ],
-      "exampleSentence": "לאחר המסע המפרך היא הייתה לאה ותשושה."
+      "exampleSentence": "המורה נתן לכל תלמיד ציון לשבח."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "מבקש",
-      "definition": "רוצה",
+      "solution": "אייר",
+      "definition": "חודש עברי (אביב)",
       "lengths": [
         4
       ],
-      "exampleSentence": "הוא מבקש לקבל מידע נוסף על הנושא."
+      "exampleSentence": "בחודש אייר מזג האוויר נעים ונוח לטיולים."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ניוטונ",
-      "definition": "פיזיקאי אנגלי מפורסם",
+      "solution": "לחמחוק",
+      "definition": "הרגל קבוע",
       "lengths": [
-        6
+        3,
+        3
       ],
-      "exampleSentence": "אייזק ניוטונ גילה את חוק הכבידה העולמי."
+      "exampleSentence": "קריאת העיתון בבוקר היא לחם חוק עבורו."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שוא",
-      "definition": "שקר, דבר כזב",
+      "solution": "ליד",
+      "definition": "סמוך",
       "lengths": [
         3
       ],
-      "exampleSentence": "אל תבטח בהבטחות שוא שאין מאחוריהן כלום."
+      "exampleSentence": "הוא גר בבית קטן ליד הים."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "חי",
-      "definition": "נושם, קיים",
+      "solution": "כנ",
+      "definition": "מעמד",
       "lengths": [
         2
       ],
-      "exampleSentence": "הוא עדיין חי באותה עיר שבה נולד."
+      "exampleSentence": "המיקרופון הוצב על כנ גבוה במרכז הבמה."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "אמוניה",
-      "definition": "גז חריף",
+      "solution": "תאילנד",
+      "definition": "מדינה באסיה",
       "lengths": [
         6
       ],
-      "exampleSentence": "ריח האמוניה היה חזק מאוד בתוך המעבדה."
+      "exampleSentence": "רבים מהישראלים בוחרים לטייל בחופשות בתאילנד."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הבאי",
-      "definition": "שטויות",
+      "solution": "נידח",
+      "definition": "מרוחק",
       "lengths": [
         4
       ],
-      "exampleSentence": "אל תאמין לדבריו, כל מה שאמר היה הבאי מוחלטים."
+      "exampleSentence": "הם בחרו לבלות את החופשה בכפר נידח בהרים."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "גישה",
-      "definition": "דרך התייחסות",
+      "solution": "יופי",
+      "definition": "חן, נוי, הדר",
       "lengths": [
         4
       ],
-      "exampleSentence": "יש לו גישה חיובית לכל אתגר בחיים."
+      "exampleSentence": "היא התפעלה מהיופי המרהיב של השקיעה בים."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מטהר",
-      "definition": "חומר לניקוי וחיטוי",
+      "solution": "מגרש",
+      "definition": "שטח אדמה",
       "lengths": [
         4
       ],
-      "exampleSentence": "השתמשנו ב<b>מטהר</b> אוויר כדי לרענן את החדר."
+      "exampleSentence": "הילדים שיחקו כדורגל בתוך מגרש שכונתי."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מה",
-      "definition": "מילת שאלה",
+      "solution": "חמ",
+      "definition": "בעל טמפרטורה גבוהה",
       "lengths": [
         2
       ],
-      "exampleSentence": "שאלתי אותו מה הוא רוצה לאכול לארוחת ערב."
+      "exampleSentence": "האוויר היה חם מאוד ביום הקיץ."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ממש",
-      "definition": "באמת",
+      "solution": "חדר",
+      "definition": "חלל בבית",
       "lengths": [
         3
       ],
-      "exampleSentence": "הוא ממש התרגש כששמע את החדשות הטובות."
+      "exampleSentence": "הוא סידר את החדר שלו לפני בוא האורחים."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מרק",
-      "definition": "תבשיל נוזלי",
+      "solution": "דהה",
+      "definition": "נחלש צבעו",
       "lengths": [
         3
       ],
-      "exampleSentence": "אמא הכינה מרק עוף חם וטעים."
+      "exampleSentence": "הצבע של החולצה דהה לאחר כביסות רבות."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "וגמ",
-      "definition": "בנוסף, וכן",
+      "solution": "מימ",
+      "definition": "נוזל החיים",
       "lengths": [
         3
       ],
-      "exampleSentence": "הוא מורה מצוין, וגם אדם נעים הליכות."
+      "exampleSentence": "חשוב לשתות הרבה מים ביום חם."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "טיט",
-      "definition": "בוץ לבנייה",
+      "solution": "חוג",
+      "definition": "היקף",
       "lengths": [
         3
       ],
-      "exampleSentence": "הבנאים הקדמונים השתמשו בטיט כדי להדביק לבנים."
+      "exampleSentence": "חוג הפעילות של החברה מתרחב משנה לשנה."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מושה",
-      "definition": "מוציא ממים",
+      "solution": "עופר",
+      "definition": "אייל צעיר",
       "lengths": [
         4
       ],
-      "exampleSentence": "הדייג מושה את הרשת מהים."
+      "exampleSentence": "עופר רך שכב בשקט בין השיחים ביער."
     },
     {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "קל",
-      "definition": "שאינו כבד",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "התיק הזה קל מאוד ונוח לנשיאה."
-    },
-    {
-      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "הר",
@@ -196,15 +186,26 @@
       "exampleSentence": "הטיפוס אל פסגת ההר ארך שעות רבות."
     },
     {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מה",
+      "definition": "מילת שאלה",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "שאלתי אותו מה הוא רוצה לאכול לארוחת ערב."
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "זרם מים גדול",
+      "solution": "קיש",
+      "definition": "מאפה מלוח",
       "lengths": [
         3
       ],
-      "exampleSentence": "הנהר הגדול זורם לאורך כל עמק הירדן עד לים הכנרת."
+      "exampleSentence": "הכנתי קיש פטריות טעים לארוחת הערב."
     }
   ]
 }

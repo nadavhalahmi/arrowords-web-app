@@ -5,52 +5,53 @@
   "comments": [
     "Generated clean beginner starter base arroword for greekToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שאל",
-      "definition": "ρώτησε",
+      "solution": "שמי",
+      "definition": "ονομάζομαι",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ο μαθητής ρώτησε κάτι πολύ ενδιαφέρον."
+      "exampleSentence": "Ονομάζομαι Γιώργος και είμαι από την Ελλάδα."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ממהר",
-      "definition": "βιάζομαι",
+      "solution": "חשוב",
+      "definition": "σημαντικό",
       "lengths": [
         4
       ],
-      "exampleSentence": "Βιάζομαι γιατί έχω αργήσει στη δουλειά."
+      "exampleSentence": "Είναι σημαντικό να τρώμε υγιεινά φαγητά."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "תוכנית",
-      "definition": "σχέδιο",
+      "solution": "שומדבר",
+      "definition": "κανένα",
       "lengths": [
-        6
+        3,
+        3
       ],
-      "exampleSentence": "Έχω ένα καλό σχέδιο για το Σαββατοκύριακο."
+      "exampleSentence": "Δεν υπάρχει κανένα πρόβλημα."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מיד",
-      "definition": "αμέσως",
+      "solution": "נפל",
+      "definition": "έπεσε",
       "lengths": [
         3
       ],
-      "exampleSentence": "Πρέπει να φύγω αμέσως για το γραφείο."
+      "exampleSentence": "Το παιδί έπεσε κάτω και έκλαψε."
     },
     {
       "direction": "left-down",
@@ -67,144 +68,145 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "אמיתית",
-      "definition": "πραγματική",
+      "solution": "מחפשימ",
+      "definition": "ψάχνουν",
       "lengths": [
         6
       ],
-      "exampleSentence": "Αυτή είναι η πραγματική ιστορία του παππού μου."
+      "exampleSentence": "Οι αστυνομικοί ψάχνουν για τον κλέφτη."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "למדו",
-      "definition": "μάθετε",
+      "solution": "ישלו",
+      "definition": "έχει",
       "lengths": [
-        4
+        2,
+        2
       ],
-      "exampleSentence": "Πρέπει να μάθετε τα βασικά της ελληνικής γλώσσας."
+      "exampleSentence": "Έχει ένα αυτοκίνητο."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "תפסו",
-      "definition": "έπιασαν",
+      "solution": "יבוא",
+      "definition": "έρθει",
       "lengths": [
         4
       ],
-      "exampleSentence": "Οι αστυνομικοί έπιασαν τον κλέφτη στο πάρκο."
+      "exampleSentence": "Ελπίζω να έρθει σύντομα η άνοιξη."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "בחור",
-      "definition": "τύπος",
+      "solution": "מראה",
+      "definition": "δείχνει",
       "lengths": [
         4
       ],
-      "exampleSentence": "Είναι ένας πολύ ευγενικός τύπος."
+      "exampleSentence": "Ο χάρτης δείχνει τον δρόμο για το σπίτι."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בא",
-      "definition": "ήρθε",
+      "solution": "על",
+      "definition": "για",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ο πατέρας μου ήρθε χθες από το ταξίδι."
+      "exampleSentence": "Μιλάμε για το νέο μας σχέδιο."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בשר",
-      "definition": "κρέας",
+      "solution": "ערב",
+      "definition": "βράδυ",
       "lengths": [
         3
       ],
-      "exampleSentence": "Δεν τρώω πολύ κρέας στη διατροφή μου."
+      "exampleSentence": "Το βράδυ βγαίνουμε έξω για φαγητό."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שבב",
-      "definition": "τσιπ",
+      "solution": "ראש",
+      "definition": "κεφάλι",
       "lengths": [
         3
       ],
-      "exampleSentence": "Το νέο τσιπ κάνει τον υπολογιστή πολύ πιο γρήγορο."
+      "exampleSentence": "Το κεφάλι μου πονάει από τη δουλειά."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "כתב",
-      "definition": "έγραψε",
+      "solution": "מימ",
+      "definition": "νερό",
       "lengths": [
         3
       ],
-      "exampleSentence": "Ο μαθητής έγραψε μια έκθεση για το σχολείο."
+      "exampleSentence": "Πίνω ένα ποτήρι δροσερό νερό κάθε πρωί."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "נפח",
-      "definition": "όγκο",
+      "solution": "דבר",
+      "definition": "πράγμα",
       "lengths": [
         3
       ],
-      "exampleSentence": "Πρέπει να υπολογίσουμε τον όγκο του κουτιού."
+      "exampleSentence": "Ένα πράγμα είναι σίγουρο, θα περάσουμε καλά."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "ניסו",
-      "definition": "προσπάθησαν",
+      "solution": "לבוא",
+      "definition": "έρθω",
       "lengths": [
         4
       ],
-      "exampleSentence": "Οι μαθητές προσπάθησαν να μάθουν τα ελληνικά."
+      "exampleSentence": "Θέλω να έρθω στο σπίτι σου αύριο."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בנ",
-      "definition": "γιος",
+      "solution": "שמ",
+      "definition": "εκεί",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ο γιος μου πηγαίνει στο σχολείο κάθε μέρα."
+      "exampleSentence": "Το σπίτι μου είναι εκεί πέρα."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אב",
-      "definition": "πάτερ",
+      "solution": "לא",
+      "definition": "δεν",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ο πάτερ μίλησε στους πιστούς στην εκκλησία."
+      "exampleSentence": "Δεν μιλάω αγγλικά καλά."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תור",
-      "definition": "σειρά",
+      "solution": "ראה",
+      "definition": "είδε",
       "lengths": [
         3
       ],
-      "exampleSentence": "Είναι η σειρά μου να παίξω."
+      "exampleSentence": "Ο Γιώργος είδε μια ταινία χθες."
     }
   ]
 }

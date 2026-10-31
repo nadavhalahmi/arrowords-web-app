@@ -5,52 +5,52 @@
   "comments": [
     "Generated clean beginner starter base arroword for italianToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מגנ",
-      "definition": "scudo",
+      "solution": "זמנ",
+      "definition": "tempo",
       "lengths": [
         3
       ],
-      "exampleSentence": "Il soldato tiene in mano uno scudo pesante."
+      "exampleSentence": "Non ho abbastanza tempo per finire questo lavoro."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "רחוק",
-      "definition": "distante",
+      "solution": "כולמ",
+      "definition": "tutti",
       "lengths": [
         4
       ],
-      "exampleSentence": "La scuola non è molto distante da qui."
+      "exampleSentence": "Tutti gli studenti sono già in classe."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "נשארימ",
-      "definition": "rimangono",
+      "solution": "נעליימ",
+      "definition": "scarpe",
       "lengths": [
         6
       ],
-      "exampleSentence": "Solo poche persone rimangono nella sala."
+      "exampleSentence": "Compro un paio di scarpe nuove oggi."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כמו",
-      "definition": "come",
+      "solution": "סוג",
+      "definition": "genere",
       "lengths": [
         3
       ],
-      "exampleSentence": "Parli italiano come un madrelingua."
+      "exampleSentence": "Che genere di musica preferisci ascoltare?"
     },
     {
       "direction": "left-down",
@@ -67,122 +67,122 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "גרמנימ",
-      "definition": "tedeschi",
+      "solution": "מכונית",
+      "definition": "macchina",
       "lengths": [
         6
       ],
-      "exampleSentence": "I turisti tedeschi amano molto viaggiare in Italia."
+      "exampleSentence": "Ho comprato una macchina nuova di colore rosso."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נחוש",
-      "definition": "determinato",
+      "solution": "נוגע",
+      "definition": "riguarda",
       "lengths": [
         4
       ],
-      "exampleSentence": "Il giovane studente è molto determinato a superare l esame."
+      "exampleSentence": "Questo problema riguarda tutti gli studenti della scuola."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "תירס",
-      "definition": "mais",
+      "solution": "משני",
+      "definition": "minore",
       "lengths": [
         4
       ],
-      "exampleSentence": "Le galline mangiano volentieri i chicchi di mais."
+      "exampleSentence": "Questo problema ha un importanza minore per noi."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "רחבה",
-      "definition": "larga",
+      "solution": "הרימ",
+      "definition": "montagne",
       "lengths": [
         4
       ],
-      "exampleSentence": "Questa strada è molto lunga e larga."
+      "exampleSentence": "Le montagne sono coperte di neve bianca."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בא",
-      "definition": "viene",
+      "solution": "לא",
+      "definition": "non",
       "lengths": [
         2
       ],
-      "exampleSentence": "Il treno viene da Roma con ritardo."
+      "exampleSentence": "Non voglio mangiare adesso."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בנק",
-      "definition": "banca",
+      "solution": "לשמ",
+      "definition": "ci",
       "lengths": [
         3
       ],
-      "exampleSentence": "Devo andare in banca a ritirare dei soldi."
+      "exampleSentence": "Ci vado domani mattina."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "נמל",
-      "definition": "porto",
+      "solution": "שמח",
+      "definition": "felice",
       "lengths": [
         3
       ],
-      "exampleSentence": "Molte grandi navi arrivano nel porto."
+      "exampleSentence": "Sono molto felice di vederti oggi."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "אתר",
-      "definition": "sito",
+      "solution": "למה",
+      "definition": "perché",
       "lengths": [
         3
       ],
-      "exampleSentence": "Questo sito internet è molto utile per studiare."
+      "exampleSentence": "Perché non mangi la pasta?"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ריח",
-      "definition": "profumo",
+      "solution": "ישר",
+      "definition": "diritto",
       "lengths": [
         3
       ],
-      "exampleSentence": "Questo fiore ha un profumo dolcissimo."
+      "exampleSentence": "Cammina dritto e poi gira a sinistra."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סירב",
-      "definition": "rifiutato",
+      "solution": "סיני",
+      "definition": "cinese",
       "lengths": [
         4
       ],
-      "exampleSentence": "Lui ha rifiutato la mia offerta di aiuto."
+      "exampleSentence": "Mi piace molto mangiare il cibo cinese."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לא",
-      "definition": "no",
+      "solution": "חג",
+      "definition": "festa",
       "lengths": [
         2
       ],
-      "exampleSentence": "No, non è possibile."
+      "exampleSentence": "Il Natale è una grande festa religiosa."
     },
     {
       "direction": "up-right",
@@ -199,12 +199,12 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מסה",
-      "definition": "massa",
+      "solution": "מימ",
+      "definition": "acqua",
       "lengths": [
         3
       ],
-      "exampleSentence": "La fisica studia la massa dei corpi."
+      "exampleSentence": "Bevo un bicchiere d'acqua fresca."
     }
   ]
 }

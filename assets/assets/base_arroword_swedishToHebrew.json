@@ -5,140 +5,140 @@
   "comments": [
     "Generated clean beginner starter base arroword for swedishToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מקל",
-      "definition": "spö",
+      "solution": "הכל",
+      "definition": "alla",
       "lengths": [
         3
       ],
-      "exampleSentence": "Han fiskar med ett långt fiskespö vid sjön."
+      "exampleSentence": "Alla barn gillar att leka utomhus i solen."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "רקמה",
-      "definition": "vävnad",
+      "solution": "חייב",
+      "definition": "måste",
       "lengths": [
         4
       ],
-      "exampleSentence": "Biologerna studerar celler i muskelvävnad."
+      "exampleSentence": "Du måste läsa den här intressanta boken."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ילידימ",
-      "definition": "urbefolkning",
+      "solution": "להימשכ",
+      "definition": "vara",
       "lengths": [
         6
       ],
-      "exampleSentence": "Landets urbefolkning har en rik kultur."
+      "exampleSentence": "Lektionen kommer att vara i en timme till."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טוב",
-      "definition": "bra",
+      "solution": "מול",
+      "definition": "mot",
       "lengths": [
         3
       ],
-      "exampleSentence": "Det här äpplet smakar mycket bra."
+      "exampleSentence": "Bussen kör mot centralstationen."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
       "solution": "חי",
-      "definition": "levande",
+      "definition": "leva",
       "lengths": [
         2
       ],
-      "exampleSentence": "Det är en levande stad med mycket folk."
+      "exampleSentence": "Det är viktigt att leva hälsosamt."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "קרויימ",
-      "definition": "kallas",
+      "solution": "כחולימ",
+      "definition": "blå",
       "lengths": [
         6
       ],
-      "exampleSentence": "De nya lagarna kallas för viktiga reformer."
+      "exampleSentence": "Havets vågor ser mörkt blå ut."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לקבל",
-      "definition": "acceptera",
+      "solution": "לילה",
+      "definition": "natt",
       "lengths": [
         4
       ],
-      "exampleSentence": "Du måste acceptera regeln för spelet."
+      "exampleSentence": "Det är mycket tyst här på natten."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "כורח",
-      "definition": "behov",
+      "solution": "כיומ",
+      "definition": "nuförtiden",
       "lengths": [
         4
       ],
-      "exampleSentence": "Det är ett stort behov av nya bostäder i staden."
+      "exampleSentence": "Nuförtiden läser vi mest digitala nyheter."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לדבר",
-      "definition": "prata",
+      "solution": "למטה",
+      "definition": "ner",
       "lengths": [
         4
       ],
-      "exampleSentence": "Det är trevligt att prata svenska med min lärare."
+      "exampleSentence": "Katten sprang ner för trappan till köket."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "לא",
-      "definition": "nej",
+      "solution": "על",
+      "definition": "på",
       "lengths": [
         2
       ],
-      "exampleSentence": "Nej, jag har ingen bil."
+      "exampleSentence": "Boken ligger på bordet i rummet."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "לכה",
-      "definition": "lack",
+      "solution": "ערב",
+      "definition": "kväll",
       "lengths": [
         3
       ],
-      "exampleSentence": "Bordet behöver ett nytt lager lack för att skina."
+      "exampleSentence": "Kvällen är sval och skön ute."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "כמה",
-      "definition": "hur",
+      "solution": "ראה",
+      "definition": "såg",
       "lengths": [
         3
       ],
-      "exampleSentence": "Hur mycket kostar den här fina tröjan?"
+      "exampleSentence": "Jag såg en stor hund på gatan."
     },
     {
       "direction": "right",
@@ -155,23 +155,23 @@
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "דוד",
-      "definition": "farbror",
+      "solution": "מימ",
+      "definition": "vatten",
       "lengths": [
         3
       ],
-      "exampleSentence": "Min farbror bor i en stor stad."
+      "exampleSentence": "Jag dricker ett glas kallt vatten varje morgon."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סירב",
-      "definition": "vägrade",
+      "solution": "פשוט",
+      "definition": "lätt",
       "lengths": [
         4
       ],
-      "exampleSentence": "Pojken vägrade att äta upp sin mat."
+      "exampleSentence": "Frågan var ganska lätt att svara på."
     },
     {
       "direction": "right",
@@ -188,23 +188,23 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אמ",
-      "definition": "mamma",
+      "solution": "לא",
+      "definition": "inte",
       "lengths": [
         2
       ],
-      "exampleSentence": "Min mamma lagar väldigt god mat varje dag."
+      "exampleSentence": "Jag vill inte dricka kaffe idag."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מחר",
-      "definition": "imorgon",
+      "solution": "כמה",
+      "definition": "hur",
       "lengths": [
         3
       ],
-      "exampleSentence": "Vi ses igen imorgon bitti."
+      "exampleSentence": "Hur mycket kostar den här fina tröjan?"
     }
   ]
 }
