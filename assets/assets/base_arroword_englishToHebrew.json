@@ -12,45 +12,45 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "תמכ",
-      "definition": "supported",
+      "solution": "בלע",
+      "definition": "swallowed",
       "lengths": [
         3
       ],
-      "exampleSentence": "The thick pillars supported the heavy roof."
+      "exampleSentence": "The big snake swallowed a whole mouse."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לילה",
-      "definition": "night",
+      "solution": "פועל",
+      "definition": "worker",
       "lengths": [
         4
       ],
-      "exampleSentence": "The dark night has bright stars."
+      "exampleSentence": "The hard worker built the house."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ויטמינ",
-      "definition": "vitamin",
+      "solution": "מפעלימ",
+      "definition": "factories",
       "lengths": [
         6
       ],
-      "exampleSentence": "Oranges contain a lot of healthy vitamin C."
+      "exampleSentence": "The busy factories produce cars all day."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שומ",
-      "definition": "garlic",
+      "solution": "צעק",
+      "definition": "shouted",
       "lengths": [
         3
       ],
-      "exampleSentence": "Adding garlic makes the hot soup tasty."
+      "exampleSentence": "He shouted loudly to get my attention."
     },
     {
       "direction": "left-down",
@@ -67,144 +67,144 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מלווימ",
-      "definition": "escorts",
+      "solution": "לפעמימ",
+      "definition": "sometimes",
       "lengths": [
         6
       ],
-      "exampleSentence": "The guard escorts the prisoner to jail."
+      "exampleSentence": "I sometimes eat fresh eggs for breakfast."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "כימי",
-      "definition": "chemical",
+      "solution": "עוקפ",
+      "definition": "devious",
       "lengths": [
         4
       ],
-      "exampleSentence": "This is a chemical reaction."
+      "exampleSentence": "We took a long, devious road."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רופא",
-      "definition": "physician",
+      "solution": "שמשה",
+      "definition": "windowpane",
       "lengths": [
         4
       ],
-      "exampleSentence": "The sick man visited a medical physician."
+      "exampleSentence": "Rain drops hit the clear glass windowpane."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מטרה",
-      "definition": "cause",
+      "solution": "בהיר",
+      "definition": "vivid",
       "lengths": [
         4
       ],
-      "exampleSentence": "They fight for a good cause."
+      "exampleSentence": "Red is a very bright, vivid color."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בא",
-      "definition": "coming",
+      "solution": "סל",
+      "definition": "basket",
       "lengths": [
         2
       ],
-      "exampleSentence": "I hear a fast train coming now."
+      "exampleSentence": "Put the red apples into the basket."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בנה",
-      "definition": "built",
+      "solution": "ספל",
+      "definition": "mug",
       "lengths": [
         3
       ],
-      "exampleSentence": "The worker built a strong brick wall."
+      "exampleSentence": "Fill the ceramic mug with coffee."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "נחש",
-      "definition": "snake",
+      "solution": "פאר",
+      "definition": "splendor",
       "lengths": [
         3
       ],
-      "exampleSentence": "A green snake slithers in the tall grass."
+      "exampleSentence": "The bright fireworks displayed amazing visual splendor."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "טרמ",
-      "definition": "before",
+      "solution": "עשב",
+      "definition": "herb",
       "lengths": [
         3
       ],
-      "exampleSentence": "Wash your hands before you eat."
+      "exampleSentence": "Fresh basil is green and tasty herbs."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "מוט",
-      "definition": "bar",
+      "solution": "למה",
+      "definition": "why",
       "lengths": [
         3
       ],
-      "exampleSentence": "The wild monkey swung on the metal bar."
+      "exampleSentence": "Tell me why you are crying."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סיפר",
-      "definition": "told",
+      "solution": "אישי",
+      "definition": "personal",
       "lengths": [
         4
       ],
-      "exampleSentence": "My father told me a funny story."
+      "exampleSentence": "This is my private and personal letter."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "six",
+      "solution": "רצ",
+      "definition": "runner",
       "lengths": [
         2
       ],
-      "exampleSentence": "I have exactly six red apples."
+      "exampleSentence": "The fast runner won the gold medal."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אח",
-      "definition": "nurse",
+      "solution": "לא",
+      "definition": "not",
       "lengths": [
         2
       ],
-      "exampleSentence": "The male nurse checked the patient's pulse."
+      "exampleSentence": "I am not tired today."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נאה",
-      "definition": "handsome",
+      "solution": "מהר",
+      "definition": "quickly",
       "lengths": [
         3
       ],
-      "exampleSentence": "The very handsome tall man wore a nice suit."
+      "exampleSentence": "Run quickly to catch the fast bus."
     }
   ]
 }
