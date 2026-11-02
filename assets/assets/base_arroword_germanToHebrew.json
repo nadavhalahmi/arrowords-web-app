@@ -1,128 +1,193 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7",
+  "mask_id": "mask_7_7_5",
   "comments": [
     "Generated clean beginner starter base arroword for germanToHebrew",
-    "Total clues: 16",
-    "Mask: mask_7_7; curated for easiest beginner vocabulary."
+    "Total clues: 18",
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
-      "direction": "right",
+      "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אותכ",
-      "definition": "dich",
+      "solution": "גאה",
+      "definition": "stolz",
       "lengths": [
-        4
+        3
       ],
-      "exampleSentence": "Ich freue mich sehr, dich zu sehen."
+      "exampleSentence": "Ich bin sehr stolz auf meine guten Noten."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 6,
-      "solution": "כנ",
-      "definition": "ja",
+      "clue_col": 2,
+      "solution": "נצחי",
+      "definition": "ewig",
       "lengths": [
-        2
+        4
       ],
-      "exampleSentence": "Ja, ich komme heute Abend gerne mit ins Kino."
+      "exampleSentence": "Die Sterne am Nachthimmel leuchten fast ewig."
     },
     {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "חוה",
-      "definition": "Eva",
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להחזיק",
+      "definition": "halten",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Das Seil ist stark genug, um das schwere Gewicht zu halten."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "רגע",
+      "definition": "Moment",
       "lengths": [
         3
       ],
-      "exampleSentence": "Eva isst im Paradies den sprichwörtlichen verbotenen Apfel."
+      "exampleSentence": "Bitte warten Sie einen kurzen Moment."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "מי",
+      "definition": "wer",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Wer hat heute Morgen an der Haustür geklingelt?"
     },
     {
       "direction": "right",
       "clue_row": 1,
-      "clue_col": 3,
-      "solution": "איכ",
-      "definition": "wie",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Wie geht es dir heute?"
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
       "clue_col": 0,
-      "solution": "לשאתשמ",
-      "definition": "heißen",
+      "solution": "אנגליה",
+      "definition": "England",
       "lengths": [
-        4,
-        2
+        6
       ],
-      "exampleSentence": "Mein bester Freund aus der Schule soll Thomas heißen."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 6,
-      "solution": "מחר",
-      "definition": "Morgen",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Morgen besuchen wir unsere Großeltern im Park."
+      "exampleSentence": "England ist bekannt für sein oft regnerisches Wetter."
     },
     {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 2,
-      "solution": "צעיר",
-      "definition": "jung",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "הצעה",
+      "definition": "Vorschlag",
       "lengths": [
         4
       ],
-      "exampleSentence": "Der junge Mann liest gerne Bücher im Park."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 2,
-      "solution": "נעשה",
-      "definition": "gemacht",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Die Hausaufgabe wurde gestern Abend sorgfältig gemacht."
+      "exampleSentence": "Dein guter Vorschlag zur Verbesserung der Arbeit gefällt mir sehr."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רשמי",
-      "definition": "Offiziell",
+      "solution": "בושה",
+      "definition": "Schande",
       "lengths": [
         4
       ],
-      "exampleSentence": "Das ist eine offizielle Bekanntmachung der lokalen Regierung."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 3,
-      "solution": "שמח",
-      "definition": "froh",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ich bin froh, dass du heute zu Besuch kommst."
+      "exampleSentence": "Es ist eine große Schande, wenn man andere Menschen belügt."
     },
     {
       "direction": "down",
       "clue_row": 2,
+      "clue_col": 6,
+      "solution": "רגיל",
+      "definition": "normal",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Das ist ein ganz normaler Arbeitstag für mich."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "על",
+      "definition": "auf",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Das Buch liegt direkt auf dem Tisch."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עני",
+      "definition": "arm",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "In dieser großen Stadt leben leider viele arme Menschen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "נאה",
+      "definition": "hübsch",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Das kleine Mädchen trägt heute ein sehr hübsch Kleid."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
       "clue_col": 3,
+      "solution": "חבר",
+      "definition": "Freund",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Mein bester Freund wohnt gleich nebenan in derselben Straße."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "זוג",
+      "definition": "Paar",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ein junges Paar spaziert Hand in Hand durch den Park."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "שישי",
+      "definition": "Freitag",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Am Freitag freue ich mich auf das Wochenende."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "הר",
+      "definition": "Berg",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Der Berg ist im Winter komplett mit Schnee bedeckt."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
       "solution": "לא",
       "definition": "nicht",
       "lengths": [
@@ -131,59 +196,15 @@
       "exampleSentence": "Ich verstehe diese schwierige Grammatikregel leider noch nicht."
     },
     {
-      "direction": "down-right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "עשנ",
-      "definition": "rauch",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Aus dem Schornstein steigt grauer Rauch auf."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 4,
-      "solution": "תשע",
-      "definition": "neun",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Um genau neun Uhr beginnt unser erster Unterricht."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "כאנ",
-      "definition": "hier",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Wir wohnen jetzt schon drei Jahre hier."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 1,
-      "solution": "שמלות",
-      "definition": "kleider",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "Im Schrank hängen viele bunte Kleider für den Sommer."
-    },
-    {
       "direction": "right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מעל",
-      "definition": "über",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "קהל",
+      "definition": "Publikum",
       "lengths": [
         3
       ],
-      "exampleSentence": "Die Lampe hängt direkt über dem Tisch im Esszimmer."
+      "exampleSentence": "Das Publikum klatschte nach dem Konzert sehr laut."
     }
   ]
 }

@@ -1,23 +1,34 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7",
+  "mask_id": "mask_7_7_0",
   "comments": [
     "Generated clean beginner starter base arroword for dutchToHebrew",
-    "Total clues: 16",
-    "Mask: mask_7_7; curated for easiest beginner vocabulary."
+    "Total clues: 18",
+    "Mask: mask_7_7_0; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
-      "direction": "right",
+      "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "כאשר",
-      "definition": "als",
+      "solution": "עצמ",
+      "definition": "been",
       "lengths": [
-        4
+        3
       ],
-      "exampleSentence": "Als het regent, blijf ik thuis."
+      "exampleSentence": "Een hond kauwt graag op een hard been."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "ריח",
+      "definition": "geur",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "De geur van verse koffie is heerlijk."
     },
     {
       "direction": "down",
@@ -31,37 +42,93 @@
       "exampleSentence": "Wat doe jij in het weekend?"
     },
     {
-      "direction": "up-right",
+      "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "טוב",
-      "definition": "goed",
+      "solution": "שש",
+      "definition": "zes",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Ik word over zes minuten opgehaald door hem."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "מפה",
+      "definition": "kaart",
       "lengths": [
         3
       ],
-      "exampleSentence": "Het is een heel goed plan."
+      "exampleSentence": "Ik kijk op de kaart voor de route."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "קופ",
+      "definition": "aap",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "De aap klimt in de hoge boom."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "שממשפחה",
+      "definition": "achternaam",
+      "lengths": [
+        2,
+        5
+      ],
+      "exampleSentence": "Wat is jouw achternaam?"
     },
     {
       "direction": "right",
       "clue_row": 1,
-      "clue_col": 3,
-      "solution": "אתמ",
-      "definition": "jullie",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Jullie zijn vandaag heel erg druk."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
       "clue_col": 0,
-      "solution": "להאכיל",
-      "definition": "voeden",
+      "solution": "צלילימ",
+      "definition": "geluiden",
       "lengths": [
         6
       ],
-      "exampleSentence": "Het is tijd om de kleine baby te voeden."
+      "exampleSentence": "De zachte geluiden van de muziek maken mij rustig."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "יומ",
+      "definition": "dag",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Het is vandaag een hele mooie dag."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עלו",
+      "definition": "kosten",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "De prijzen van groenten kosten nu meer geld."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "לפעמימ",
+      "definition": "soms",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Soms ga ik in het weekend wandelen."
     },
     {
       "direction": "down",
@@ -75,114 +142,71 @@
       "exampleSentence": "Waarom ben je vandaag zo erg moe?"
     },
     {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "למרותש",
+      "definition": "hoewel",
+      "lengths": [
+        5,
+        1
+      ],
+      "exampleSentence": "Hoewel het regende, gingen we wandelen."
+    },
+    {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 2,
-      "solution": "הנאה",
-      "definition": "plezier",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "מקל",
+      "definition": "stok",
       "lengths": [
-        4
+        3
       ],
-      "exampleSentence": "Ik wens je veel plezier vandaag."
+      "exampleSentence": "De hond rent achter de houten stok aan."
     },
     {
       "direction": "down",
-      "clue_row": 1,
-      "clue_col": 2,
-      "solution": "אוהב",
-      "definition": "houd",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "ישב",
+      "definition": "gezeten",
       "lengths": [
-        4
+        3
       ],
-      "exampleSentence": "Ik houd veel van mijn familie."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "כיסא",
-      "definition": "stoel",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Ik zit op een comfortabele stoel aan tafel."
+      "exampleSentence": "Hij heeft de hele dag op de stoel gezeten."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 3,
-      "solution": "אסמ",
-      "definition": "schuur",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "De boer zet zijn tractor in de schuur."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 3,
-      "solution": "לא",
-      "definition": "niet",
+      "clue_col": 0,
+      "solution": "בת",
+      "definition": "dochter",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ik ga vandaag niet naar buiten."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "אבא",
-      "definition": "vader",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Mijn vader werkt in een groot kantoor."
+      "exampleSentence": "Mijn dochter gaat vandaag naar school."
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 4,
-      "solution": "כאנ",
-      "definition": "hier",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Kom eens hier naar mij toe."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "ראה",
-      "definition": "zie",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ik zie de auto in de straat staan."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
       "clue_col": 1,
-      "solution": "בקלות",
-      "definition": "makkelijk",
+      "solution": "לבש",
+      "definition": "droeg",
       "lengths": [
-        5
+        3
       ],
-      "exampleSentence": "Hij kan deze moeilijke som heel makkelijk oplossen."
+      "exampleSentence": "Zij droeg gisteren een mooie rode jurk."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "קול",
-      "definition": "stem",
+      "clue_col": 1,
+      "solution": "רבע",
+      "definition": "kwart",
       "lengths": [
         3
       ],
-      "exampleSentence": "Zij heeft een erg mooie stem."
+      "exampleSentence": "Het is nu een kwart over drie."
     }
   ]
 }

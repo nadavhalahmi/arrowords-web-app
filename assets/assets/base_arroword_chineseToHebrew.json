@@ -1,188 +1,211 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7",
+  "mask_id": "mask_7_7_5",
   "comments": [
     "Generated clean beginner starter base arroword for chineseToHebrew",
-    "Total clues: 16",
-    "Mask: mask_7_7; curated for easiest beginner vocabulary."
+    "Total clues: 18",
+    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
   ],
   "clues": [
     {
-      "direction": "right",
+      "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "פועל",
-      "definition": "工人",
+      "solution": "כבד",
+      "definition": "重",
       "lengths": [
-        4
+        3
       ],
-      "exampleSentence": "那个工厂有很多好工人。"
+      "exampleSentence": "这个箱子太重我拿不动。"
     },
     {
       "direction": "down",
       "clue_row": 0,
+      "clue_col": 2,
+      "solution": "קודמ",
+      "definition": "先",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "我们先去吃午饭吧。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להחזיק",
+      "definition": "拿",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "请帮我把桌上的那本书拿过来。"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "יומ",
+      "definition": "天",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "这是天。"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
       "clue_col": 6,
-      "solution": "בנ",
-      "definition": "儿子",
+      "solution": "קר",
+      "definition": "冷",
       "lengths": [
         2
       ],
-      "exampleSentence": "我儿子今年上小学三年级。"
+      "exampleSentence": "今天的天气非常冷。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "בקולרמ",
+      "definition": "大声",
+      "lengths": [
+        4,
+        2
+      ],
+      "exampleSentence": "请大家说话声音大声一点。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "דומה",
+      "definition": "一样",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "这两本书完全一样。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "לממש",
+      "definition": "实现",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "他终于实现了自己的梦想。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "בננה",
+      "definition": "香蕉",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "猴子非常喜欢吃甜甜的香蕉。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "פה",
+      "definition": "口",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "这是口。"
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "פעמ",
+      "definition": "次",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "这是我第一次来。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ערב",
+      "definition": "晚上",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "我和妈妈晚上一起散步。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "חלב",
+      "definition": "奶",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "小牛每天都喝妈妈的奶长身体。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "זמנ",
+      "definition": "时候",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "我们每天使用时候。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "סימנ",
+      "definition": "字",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "这个汉字的意思我不太懂。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "בת",
+      "definition": "女儿",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "我们每天使用女儿。"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "עננ",
-      "definition": "云",
+      "solution": "הר",
+      "definition": "山",
       "lengths": [
-        3
+        2
       ],
-      "exampleSentence": "蓝色的天上有一朵白云。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "חלב",
-      "definition": "牛奶",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "我每天早上都喝牛奶。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 0,
-      "solution": "וויכוח",
-      "definition": "争执",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "他们为小事发生争执。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 6,
-      "solution": "חדר",
-      "definition": "房间",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "我的房间很干净明亮。"
+      "exampleSentence": "周末我们一起去爬山吧。"
     },
     {
       "direction": "right",
       "clue_row": 6,
-      "clue_col": 2,
-      "solution": "מספר",
-      "definition": "号",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "这是号。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 2,
-      "solution": "עיונ",
-      "definition": "参考",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "你可以参考这本书。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "חורפ",
-      "definition": "冬天",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "北京的冬天很冷。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
       "clue_col": 3,
-      "solution": "ורד",
-      "definition": "玫瑰",
+      "solution": "קשה",
+      "definition": "难",
       "lengths": [
         3
       ],
-      "exampleSentence": "他送了一束玫瑰。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 3,
-      "solution": "מי",
-      "definition": "谁",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "敲门的人会是谁呢？"
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "תשע",
-      "definition": "九",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "桌子上有九个苹果。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 4,
-      "solution": "כוס",
-      "definition": "杯",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "这是杯。"
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "לחמ",
-      "definition": "面包",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "我早餐喜欢吃牛奶和面包。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 1,
-      "solution": "שמונה",
-      "definition": "八",
-      "lengths": [
-        5
-      ],
-      "exampleSentence": "我今年八岁了。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מימ",
-      "definition": "水",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "口渴了我要喝一杯茶水。"
+      "exampleSentence": "这道数学题对我来说有点难。"
     }
   ]
 }
