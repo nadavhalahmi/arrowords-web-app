@@ -19001,5 +19001,293 @@
   ],
   "ditegli": [
     "תגידו לו"
+  ],
+  "film": [
+    "סרט"
+  ],
+  "finire": [
+    "לסיים"
+  ],
+  "gatto": [
+    "חתול"
+  ],
+  "giacca": [
+    "מעיל"
+  ],
+  "giornata": [
+    "יום"
+  ],
+  "madre": [
+    "אמא"
+  ],
+  "medico": [
+    "רופא"
+  ],
+  "molta": [
+    "הרבה"
+  ],
+  "montagna": [
+    "הר"
+  ],
+  "oggi": [
+    "היום"
+  ],
+  "roma": [
+    "רומא"
+  ],
+  "soldi": [
+    "כסף"
+  ],
+  "strada": [
+    "כביש"
+  ],
+  "verita": [
+    "אמת"
+  ],
+  "vacanze": [
+    "חופשה"
+  ],
+  "febbre": [
+    "חום"
+  ],
+  "italia": [
+    "איטליה"
+  ],
+  "pericolo": [
+    "סכנה"
+  ],
+  "pesanti": [
+    "כבדים"
+  ],
+  "internet": [
+    "אינטרנט"
+  ],
+  "caffe": [
+    "קפה"
+  ],
+  "gente": [
+    "אנשים"
+  ],
+  "nome": [
+    "שם"
+  ],
+  "semaforo": [
+    "רמזור"
+  ],
+  "attentamente": [
+    "בצוותא"
+  ],
+  "campagna": [
+    "כפר"
+  ],
+  "email": [
+    "דואל"
+  ],
+  "grammatica": [
+    "דקדוק"
+  ],
+  "legno": [
+    "עץ"
+  ],
+  "rilassante": [
+    "מרגיע"
+  ],
+  "scatola": [
+    "קופסה"
+  ],
+  "test": [
+    "מבחן"
+  ],
+  "verdura": [
+    "ירק"
+  ],
+  "volentieri": [
+    "ברצון"
+  ],
+  "online": [
+    "מקוון"
+  ],
+  "schiena": [
+    "גב"
+  ],
+  "sodo": [
+    "קשה"
+  ],
+  "tavola": [
+    "שולחן"
+  ],
+  "tv": [
+    "טלוויזיה"
+  ],
+  "visitare": [
+    "לבקר"
+  ],
+  "appena": [
+    "בזה הרגע"
+  ],
+  "attraversare": [
+    "לחצות"
+  ],
+  "citta": [
+    "עיר"
+  ],
+  "luminosa": [
+    "מואר"
+  ],
+  "luogo": [
+    "מקום"
+  ],
+  "mattino": [
+    "בוקר"
+  ],
+  "morbido": [
+    "רך"
+  ],
+  "qualche": [
+    "איזה"
+  ],
+  "utili": [
+    "שימושיים"
+  ],
+  "cucinare": [
+    "לבשל"
+  ],
+  "detective": [
+    "בלש"
+  ],
+  "file": [
+    "קובץ"
+  ],
+  "gattino": [
+    "חתלתול"
+  ],
+  "minestra": [
+    "מרק"
+  ],
+  "parteciperò": [
+    "אשתתף"
+  ],
+  "pronti": [
+    "מוכנים"
+  ],
+  "propri": [
+    "עצמם"
+  ],
+  "quaderno": [
+    "מחברת"
+  ],
+  "radio": [
+    "רדיו"
+  ],
+  "rapidamente": [
+    "מהירות"
+  ],
+  "scaffale": [
+    "מדף"
+  ],
+  "selvatici": [
+    "פראיים"
+  ],
+  "serale": [
+    "ערבי"
+  ],
+  "storici": [
+    "היסטוריים"
+  ],
+  "tanta": [
+    "הרבה"
+  ],
+  "vista": [
+    "נוף"
+  ],
+  "applicazione": [
+    "יישום"
+  ],
+  "approvato": [
+    "אישר"
+  ],
+  "atleti": [
+    "אתלטים"
+  ],
+  "benissimo": [
+    "מצוין"
+  ],
+  "carnevale": [
+    "קרנבל"
+  ],
+  "culturali": [
+    "תרבותיים"
+  ],
+  "duramente": [
+    "בקושי"
+  ],
+  "esitare": [
+    "להסס"
+  ],
+  "ferroviaria": [
+    "רכבתית"
+  ],
+  "lavagna": [
+    "לוח"
+  ],
+  "leale": [
+    "נאמן"
+  ],
+  "maltempo": [
+    "מזג אוויר סוער"
+  ],
+  "milano": [
+    "מילאנו"
+  ],
+  "paesaggi": [
+    "נופים"
+  ],
+  "povere": [
+    "עניות"
+  ],
+  "quotidiana": [
+    "יומיומית"
+  ],
+  "regione": [
+    "אזור"
+  ],
+  "rilasso": [
+    "מתעניין"
+  ],
+  "rock": [
+    "רוק"
+  ],
+  "rubinetto": [
+    "ברז"
+  ],
+  "saper": [
+    "לדעת"
+  ],
+  "savana": [
+    "סוואנה"
+  ],
+  "smartphone": [
+    "סמארטפון"
+  ],
+  "soleggiato": [
+    "שמשי"
+  ],
+  "sportive": [
+    "ספורטיביות"
+  ],
+  "statue": [
+    "פסלים"
+  ],
+  "stradale": [
+    "דרכים"
+  ],
+  "stradali": [
+    "תעבורתיים"
+  ],
+  "straniere": [
+    "זרות"
+  ],
+  "turistica": [
+    "תיירותי"
   ]
 }
