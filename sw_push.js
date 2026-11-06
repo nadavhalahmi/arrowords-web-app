@@ -9,55 +9,6 @@ self.addEventListener('activate', (event) => {
   event.waitUntil(self.clients.claim());
 });
 
-// Same-origin dynamic manifest: rewrite start_url with ?s= from an open client.
-// Static GitHub Pages cannot host a per-user manifest file.
-self.addEventListener('fetch', (event) => {
-  const requestUrl = new URL(event.request.url);
-  if (!requestUrl.pathname.endsWith('/manifest.json')) {
-    return;
-  }
-  event.respondWith((async () => {
-    let token = '';
-    try {
-      const clients = await self.clients.matchAll({
-        type: 'window',
-        includeUncontrolled: true,
-      });
-      for (const client of clients) {
-        try {
-          const clientUrl = new URL(client.url);
-          const s = clientUrl.searchParams.get('s');
-          if (s) {
-            token = s;
-            break;
-          }
-        } catch (_) {}
-      }
-    } catch (_) {}
-
-    const upstream = await fetch(event.request);
-    if (!token) {
-      return upstream;
-    }
-    try {
-      const manifest = await upstream.clone().json();
-      const startUrl = new URL(`?s=${encodeURIComponent(token)}`, self.registration.scope);
-      manifest.start_url = startUrl.href;
-      manifest.scope = self.registration.scope;
-      manifest.id = self.registration.scope;
-      return new Response(JSON.stringify(manifest), {
-        status: 200,
-        headers: {
-          'Content-Type': 'application/manifest+json',
-          'Cache-Control': 'no-store',
-        },
-      });
-    } catch (_) {
-      return upstream;
-    }
-  })());
-});
-
 self.addEventListener('push', (event) => {
   let data = {};
   if (event.data) {
