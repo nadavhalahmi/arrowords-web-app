@@ -72,7 +72,7 @@
       "lengths": [
         6
       ],
-      "exampleSentence": "England ist bekannt für sein oft regnerisches Wetter."
+      "exampleSentence": "England ist bekannt für sein Wetter."
     },
     {
       "direction": "right",
@@ -83,7 +83,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Dein guter Vorschlag zur Verbesserung der Arbeit gefällt mir sehr."
+      "exampleSentence": "Dein neuer Vorschlag für die Arbeit gefällt mir."
     },
     {
       "direction": "down",
@@ -94,7 +94,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Es ist eine große Schande, wenn man andere Menschen belügt."
+      "exampleSentence": "Es ist eine Schande, wenn man lügt."
     },
     {
       "direction": "down",
@@ -105,7 +105,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Das ist ein ganz normaler Arbeitstag für mich."
+      "exampleSentence": "Das ist ein ganz normaler Tag."
     },
     {
       "direction": "down",
@@ -149,7 +149,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Mein bester Freund wohnt gleich nebenan in derselben Straße."
+      "exampleSentence": "Mein bester Freund wohnt nebenan in der Straße."
     },
     {
       "direction": "right",
@@ -193,7 +193,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Ich verstehe diese schwierige Grammatikregel leider noch nicht."
+      "exampleSentence": "Ich verstehe diesen Satz leider nicht."
     },
     {
       "direction": "right",

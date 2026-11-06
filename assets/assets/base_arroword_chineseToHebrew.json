@@ -50,7 +50,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "这是天。"
+      "exampleSentence": "今天真是开心的一天。"
     },
     {
       "direction": "left-down",
@@ -117,7 +117,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "这是口。"
+      "exampleSentence": "孩子张大口吃了一块肉。"
     },
     {
       "direction": "down-right",

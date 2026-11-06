@@ -94,7 +94,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Nuförtiden läser vi mest digitala nyheter."
+      "exampleSentence": "Nuförtiden läser vi mest nyheter på nätet."
     },
     {
       "direction": "down",
@@ -127,7 +127,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Kvällen är sval och skön ute."
+      "exampleSentence": "Denna kväll är fin ute."
     },
     {
       "direction": "down",
@@ -182,7 +182,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Vandringen uppför det höga berget var svår."
+      "exampleSentence": "Att gå uppför det höga berget var svårt."
     },
     {
       "direction": "up-right",

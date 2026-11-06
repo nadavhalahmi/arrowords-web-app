@@ -62,7 +62,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "The thirsty man drank from the empty cup."
+      "exampleSentence": "The glass of water is completely empty."
     },
     {
       "direction": "right",
@@ -162,7 +162,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "An apple is a sweet fruit."
+      "exampleSentence": "An apple is a sweet red fruit."
     },
     {
       "direction": "down",
@@ -173,7 +173,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "I will return in exactly one minute."
+      "exampleSentence": "Wait one minute for the bus."
     },
     {
       "direction": "right",
@@ -195,7 +195,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "She has a very warm personality."
+      "exampleSentence": "The bright sun feels warm on my skin."
     },
     {
       "direction": "right",

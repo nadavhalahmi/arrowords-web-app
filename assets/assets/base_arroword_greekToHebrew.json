@@ -17,7 +17,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Ονομάζομαι Γιώργος και είμαι από την Ελλάδα."
+      "exampleSentence": "Εγώ ονομάζομαι Νίκος από την Ελλάδα."
     },
     {
       "direction": "down",
@@ -28,7 +28,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Είναι σημαντικό να τρώμε υγιεινά φαγητά."
+      "exampleSentence": "Είναι σημαντικό να τρώμε καλά."
     },
     {
       "direction": "down",
@@ -51,7 +51,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Το παιδί έπεσε κάτω και έκλαψε."
+      "exampleSentence": "Το παιδί έπεσε κάτω και φώναξε."
     },
     {
       "direction": "left-down",
@@ -62,7 +62,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Πιος είναι στην πόρτα;"
+      "exampleSentence": "Ποιος είναι αυτός ο άντρας;"
     },
     {
       "direction": "right",
@@ -206,7 +206,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Ο Γιώργος είδε μια ταινία χθες."
+      "exampleSentence": "Ο φίλος μου είδε μια ταινία χθες."
     }
   ]
 }

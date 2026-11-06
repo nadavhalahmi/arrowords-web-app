@@ -17,7 +17,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Por favor, feche bem a porta ao sair."
+      "exampleSentence": "Abra a porta para entrar na sala."
     },
     {
       "direction": "down",
@@ -117,7 +117,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Eu não gosto de comer comida muito picante."
+      "exampleSentence": "Eu não quero isso."
     },
     {
       "direction": "down-right",
@@ -194,7 +194,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Meu irmão mais velho estuda engenharia na universidade."
+      "exampleSentence": "Meu irmão mais novo estuda na escola."
     },
     {
       "direction": "right",
