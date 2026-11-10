@@ -12,45 +12,45 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מגע",
-      "definition": "kontakt",
+      "solution": "מאי",
+      "definition": "maj",
       "lengths": [
         3
       ],
-      "exampleSentence": "Vi håller god kontakt med våra grannar."
+      "exampleSentence": "Vädret är oftast väldigt skönt i maj."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "דולר",
-      "definition": "dollar",
+      "solution": "נכונ",
+      "definition": "rätt",
       "lengths": [
         4
       ],
-      "exampleSentence": "En kopp kaffe kostar fem dollar här."
+      "exampleSentence": "Det är rätt svar på frågan."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להפליא",
-      "definition": "otroligt",
+      "solution": "להתחיל",
+      "definition": "börja",
       "lengths": [
         6
       ],
-      "exampleSentence": "Maten på den nya restaurangen smakar otroligt bra."
+      "exampleSentence": "Vi ska börja läsa den nya boken imorgon."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חוש",
-      "definition": "sinne",
+      "solution": "רגל",
+      "definition": "fot",
       "lengths": [
         3
       ],
-      "exampleSentence": "Människan har fem vanliga sinnen."
+      "exampleSentence": "Jag har ont i min högra fot."
     },
     {
       "direction": "left-down",
@@ -67,144 +67,144 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "גדולימ",
-      "definition": "stora",
+      "solution": "אנגלית",
+      "definition": "engelska",
       "lengths": [
         6
       ],
-      "exampleSentence": "Husen i staden är mycket stora."
+      "exampleSentence": "Hon pratar flytande engelska med turister."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "עושה",
-      "definition": "gör",
+      "solution": "יכלה",
+      "definition": "kunde",
       "lengths": [
         4
       ],
-      "exampleSentence": "Hon gör sina läxor efter skolan varje dag."
+      "exampleSentence": "Hon kunde inte svara på den svåra frågan."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "תניח",
-      "definition": "lägg",
+      "solution": "יפימ",
+      "definition": "fina",
       "lengths": [
         4
       ],
-      "exampleSentence": "Lägg boken på bordet tack."
+      "exampleSentence": "De har väldigt fina blommor i trädgården."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "חומר",
-      "definition": "material",
+      "solution": "קצבה",
+      "definition": "pension",
       "lengths": [
         4
       ],
-      "exampleSentence": "Vi behöver starkt material för att bygga huset."
+      "exampleSentence": "Min farfar lever nu på sin pension."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בא",
-      "definition": "kommer",
+      "solution": "לא",
+      "definition": "inte",
       "lengths": [
         2
       ],
-      "exampleSentence": "Min bror kommer på besök i morgon."
+      "exampleSentence": "Jag vill inte dricka kaffe idag."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "באר",
-      "definition": "källa",
+      "solution": "לאנ",
+      "definition": "vart",
       "lengths": [
         3
       ],
-      "exampleSentence": "Vattnet kommer från en djup källa i skogen."
+      "exampleSentence": "Vart ska du resa i sommar?"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "אחד",
-      "definition": "ett",
+      "solution": "אבל",
+      "definition": "men",
       "lengths": [
         3
       ],
-      "exampleSentence": "Vi köpte ett nytt hus nyligen."
+      "exampleSentence": "Jag vill gå ut, men det regnar ute."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "פתח",
-      "definition": "öppna",
+      "solution": "תיק",
+      "definition": "väska",
       "lengths": [
         3
       ],
-      "exampleSentence": "Kan du vara snäll och öppna fönstret?"
+      "exampleSentence": "Min tunga väska ligger på golvet i hallen."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "לנו",
-      "definition": "oss",
+      "solution": "חפצ",
+      "definition": "sak",
       "lengths": [
         3
       ],
-      "exampleSentence": "Hunden följer med oss till skogen."
+      "exampleSentence": "Det är en viktig sak att diskutera."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סיימ",
-      "definition": "färdig",
+      "solution": "חייב",
+      "definition": "måste",
       "lengths": [
         4
       ],
-      "exampleSentence": "Är du färdig med din mat nu?"
+      "exampleSentence": "Du måste läsa den här intressanta boken."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "דג",
-      "definition": "fisk",
+      "solution": "לב",
+      "definition": "hjärta",
       "lengths": [
         2
       ],
-      "exampleSentence": "Vi åt stekt fisk till middag i går."
+      "exampleSentence": "Mitt hjärta slår fort när jag springer."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אח",
-      "definition": "bror",
+      "solution": "אב",
+      "definition": "far",
       "lengths": [
         2
       ],
-      "exampleSentence": "Min bror spelar gitarr i ett rockband."
+      "exampleSentence": "En god far ställer alltid upp för barnen."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "אחר",
-      "definition": "andra",
+      "solution": "למה",
+      "definition": "varför",
       "lengths": [
         3
       ],
-      "exampleSentence": "De andra barnen leker ute i parken."
+      "exampleSentence": "Varför gråter det lilla barnet nu?"
     }
   ]
 }
