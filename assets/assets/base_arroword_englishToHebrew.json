@@ -28,7 +28,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Well, let us finally start the game."
+      "exampleSentence": "Well, I think you are right."
     },
     {
       "direction": "down",
@@ -149,7 +149,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "The old tired man walks with a cane."
+      "exampleSentence": "This old book is on the table."
     },
     {
       "direction": "right",

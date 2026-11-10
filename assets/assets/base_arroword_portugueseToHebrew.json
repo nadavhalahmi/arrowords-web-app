@@ -17,7 +17,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "Abra a porta para entrar na sala."
+      "exampleSentence": "Feche a porta, por favor."
     },
     {
       "direction": "down",
@@ -62,7 +62,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Quem ganhou o primeiro prêmio do concurso hoje?"
+      "exampleSentence": "Quem é ele?"
     },
     {
       "direction": "right",
@@ -84,7 +84,7 @@
       "lengths": [
         4
       ],
-      "exampleSentence": "Muito obrigado pela sua ajuda com o trabalho."
+      "exampleSentence": "Muito obrigado."
     },
     {
       "direction": "down",
@@ -117,7 +117,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Eu não quero isso."
+      "exampleSentence": "Não, obrigado."
     },
     {
       "direction": "down-right",
@@ -161,7 +161,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "A lua brilha intensamente no céu durante a noite."
+      "exampleSentence": "A lua é brilhante à noite."
     },
     {
       "direction": "right",
@@ -183,7 +183,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Eu tenho seis livros na minha mesa."
+      "exampleSentence": "São seis horas."
     },
     {
       "direction": "up-right",
@@ -194,7 +194,7 @@
       "lengths": [
         2
       ],
-      "exampleSentence": "Meu irmão mais novo estuda na escola."
+      "exampleSentence": "Meu irmão é mais velho."
     },
     {
       "direction": "right",
@@ -205,7 +205,7 @@
       "lengths": [
         3
       ],
-      "exampleSentence": "O caminho mais curto para a praia passa aqui."
+      "exampleSentence": "O tempo é curto."
     }
   ]
 }
