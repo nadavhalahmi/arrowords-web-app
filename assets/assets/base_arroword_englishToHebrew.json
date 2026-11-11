@@ -12,199 +12,199 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "קנס",
-      "definition": "fine",
+      "solution": "מלא",
+      "definition": "full",
       "lengths": [
         3
       ],
-      "exampleSentence": "You pay a fine for speeding."
+      "exampleSentence": "The cup is completely full of sweet juice."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ובכנ",
-      "definition": "well",
+      "solution": "הולמ",
+      "definition": "appropriate",
       "lengths": [
         4
       ],
-      "exampleSentence": "Well, I think you are right."
+      "exampleSentence": "Short pants are not appropriate for a wedding."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מבינימ",
-      "definition": "understand",
+      "solution": "תיאבונ",
+      "definition": "appetite",
       "lengths": [
         6
       ],
-      "exampleSentence": "I hope you understand the clear rules."
+      "exampleSentence": "Hard work gives me an appetite."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טרי",
-      "definition": "fresh",
+      "solution": "מעל",
+      "definition": "above",
       "lengths": [
         3
       ],
-      "exampleSentence": "The bakery sells delicious and warm fresh bread."
+      "exampleSentence": "The blue bird flew high above the trees."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "על",
-      "definition": "on",
+      "solution": "די",
+      "definition": "enough",
       "lengths": [
         2
       ],
-      "exampleSentence": "The cup is on the table."
+      "exampleSentence": "There is enough food for all."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "נורמלי",
-      "definition": "normal",
+      "solution": "להעתיק",
+      "definition": "to copy",
       "lengths": [
         6
       ],
-      "exampleSentence": "This is normal behavior."
+      "exampleSentence": "Do not ever try to copy my homework."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "סביב",
-      "definition": "around",
+      "solution": "אולי",
+      "definition": "perhaps",
       "lengths": [
         4
       ],
-      "exampleSentence": "We walked around the big circle."
+      "exampleSentence": "Perhaps it will rain heavily later today."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שקטה",
-      "definition": "quiet",
+      "solution": "לעקמ",
+      "definition": "to bend",
       "lengths": [
         4
       ],
-      "exampleSentence": "The library is a very quiet place."
+      "exampleSentence": "You can easily bend the soft copper wire."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נייר",
-      "definition": "paper",
+      "solution": "אליל",
+      "definition": "idol",
       "lengths": [
         4
       ],
-      "exampleSentence": "I write notes on white paper."
+      "exampleSentence": "The pop star is my idol."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אמ",
-      "definition": "if",
+      "solution": "פר",
+      "definition": "bull",
       "lengths": [
         2
       ],
-      "exampleSentence": "If it rains, we will stay inside."
+      "exampleSentence": "The strong angry bull has sharp horns."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אכנ",
-      "definition": "indeed",
+      "solution": "פחמ",
+      "definition": "coal",
       "lengths": [
         3
       ],
-      "exampleSentence": "This is indeed a very large strong elephant."
+      "exampleSentence": "Workers dig underground to find black coal."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "כיפ",
-      "definition": "fun",
+      "solution": "חכמ",
+      "definition": "clever",
       "lengths": [
         3
       ],
-      "exampleSentence": "It is fun to mix blue paint."
+      "exampleSentence": "The clever student answered the question easily."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ישנ",
-      "definition": "old",
+      "solution": "אלא",
+      "definition": "except",
       "lengths": [
         3
       ],
-      "exampleSentence": "This old book is on the table."
+      "exampleSentence": "Nothing was left except ash."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "נקי",
-      "definition": "clean",
+      "solution": "בעל",
+      "definition": "husband",
       "lengths": [
         3
       ],
-      "exampleSentence": "Wash your dirty hands to make them clean."
+      "exampleSentence": "Her loving husband bought her red flowers."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "איטי",
-      "definition": "slow",
+      "solution": "חוקי",
+      "definition": "legal",
       "lengths": [
         4
       ],
-      "exampleSentence": "A turtle is a very slow walking animal."
+      "exampleSentence": "Driving a car requires a legal license."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "פה",
-      "definition": "here",
+      "solution": "מר",
+      "definition": "bitter",
       "lengths": [
         2
       ],
-      "exampleSentence": "Please quickly come sit over here right now."
+      "exampleSentence": "The dark chocolate tastes very bitter."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מי",
-      "definition": "who",
+      "solution": "רכ",
+      "definition": "soft",
       "lengths": [
         2
       ],
-      "exampleSentence": "Who is loudly knocking at the front door?"
+      "exampleSentence": "The small cat has soft fur."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מהר",
-      "definition": "fast",
+      "solution": "נמל",
+      "definition": "harbor",
       "lengths": [
         3
       ],
-      "exampleSentence": "The sports car drives very fast today."
+      "exampleSentence": "Many large cargo ships dock at harbors."
     }
   ]
 }
