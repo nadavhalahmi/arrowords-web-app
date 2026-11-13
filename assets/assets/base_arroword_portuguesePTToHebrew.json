@@ -2,191 +2,116 @@
   "num_rows": 7,
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
-    "Generated clean beginner starter base arroword for portuguesePTToHebrew",
+    "Generated beginner starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
-    "Curated for easiest beginner vocabulary with crisp definitions."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "זמנ",
-      "definition": "tempo",
+      "solution": "עיר",
+      "definition": "cidade",
       "lengths": [
         3
       ],
-      "exampleSentence": "Não tenho tempo para fazer isso agora."
+      "exampleSentence": "Lisboa é uma cidade muito bonita e antiga."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "איתכ",
-      "definition": "contigo",
+      "solution": "כולמ",
+      "definition": "todos",
       "lengths": [
         4
       ],
-      "exampleSentence": "Eu quero ir ao cinema contigo."
+      "exampleSentence": "Todos os alunos passaram no exame final."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "הולכימ",
-      "definition": "andam",
+      "solution": "להשאיר",
+      "definition": "deixar",
       "lengths": [
         6
       ],
-      "exampleSentence": "Eles andam de bicicleta todos os dias."
+      "exampleSentence": "Podes deixar as chaves em cima da mesa."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "סוס",
-      "definition": "cavalo",
+      "solution": "הוא",
+      "definition": "ele",
       "lengths": [
         3
       ],
-      "exampleSentence": "O cavalo corre muito rápido no campo."
+      "exampleSentence": "Ele é um bom amigo."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "לב",
-      "definition": "coração",
+      "solution": "מי",
+      "definition": "quem",
       "lengths": [
         2
       ],
-      "exampleSentence": "Sinto o meu coração a bater muito depressa."
+      "exampleSentence": "Quem bateu à porta da sala?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מאוהבת",
-      "definition": "apaixonada",
+      "solution": "יכולימ",
+      "definition": "podem",
       "lengths": [
         6
       ],
-      "exampleSentence": "Ela está completamente apaixonada por ele."
+      "exampleSentence": "Eles podem vir jantar connosco."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "ניסו",
-      "definition": "tentaram",
+      "solution": "רואה",
+      "definition": "vê",
       "lengths": [
         4
       ],
-      "exampleSentence": "Eles tentaram abrir a porta fechada."
+      "exampleSentence": "Ela vê o mar da janela do seu quarto."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מבטא",
-      "definition": "sotaque",
+      "solution": "מביא",
+      "definition": "traz",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ele fala português com um sotaque inglês."
+      "exampleSentence": "Ele traz sempre o jornal para casa."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "הרבה",
-      "definition": "muito",
+      "solution": "שאלה",
+      "definition": "pergunta",
       "lengths": [
         4
       ],
-      "exampleSentence": "Comi muito pão ao pequeno-almoço."
+      "exampleSentence": "Tenho uma pergunta muito importante para ti."
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "על",
-      "definition": "sobre",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "O livro está sobre a mesa da sala."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "ערכ",
-      "definition": "valor",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Este livro tem um grande valor histórico."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "ראש",
-      "definition": "cabeça",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ela tem uma dor de cabeça muito forte hoje."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "למה",
-      "definition": "porquê",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Não sei o porquê de tanta confusão."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "כבר",
-      "definition": "já",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Eu já almocei com os meus amigos."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "היטב",
-      "definition": "bem",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Ela fala português muito bem."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "שמ",
-      "definition": "lá",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "O meu livro está em cima da mesa lá."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
       "clue_col": 0,
       "solution": "לא",
       "definition": "não",
@@ -196,15 +121,92 @@
       "exampleSentence": "Eu não gosto de café frio."
     },
     {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 3,
-      "solution": "מאה",
-      "definition": "cem",
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "להמ",
+      "definition": "lhes",
       "lengths": [
         3
       ],
-      "exampleSentence": "O livro tem exatamente cem páginas."
+      "exampleSentence": "Eu dei o livro lhes ontem à tarde."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "היא",
+      "definition": "ela",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ela trabalha num banco em Lisboa."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "שמש",
+      "definition": "sol",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O sol brilha forte no verão português."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אבא",
+      "definition": "pai",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O meu pai trabalha num escritório."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "חייל",
+      "definition": "soldado",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O soldado protege o seu país."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "אמ",
+      "definition": "se",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Se chover, vamos ficar em casa."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "אי",
+      "definition": "ilha",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Fomos de barco visitar aquela ilha."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "ראה",
+      "definition": "viu",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ele viu um gato preto na rua."
     }
   ]
 }

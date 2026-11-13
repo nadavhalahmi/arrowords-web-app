@@ -1,0 +1,212 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for arabicToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "עלה",
+      "definition": "اصْعَدْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "اصْعَدْ إِلَى الطَّابِقِ الثَّانِي بِبُطْءْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "החזק",
+      "definition": "الْقَوِيّ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "هَذَا الْحِصَانُ هُوَ الْحَيَوَانُ الْقَوِيُّ هُنَا"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "סביבות",
+      "definition": "الْأَرْجَاءْ",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "رَائِحَةُ الزُّهُورِ فِي كُلِّ الْأَرْجَاءْ"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "כפל",
+      "definition": "الضَّرْبْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "تَعَلَّمْنَا الْيَوْمَ جَدْوَلَ الضَّرْبِ فِي حِصَّةِ الْحِسَابْ"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "די",
+      "definition": "كَافِي",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "هذا الطعام كَافِي لجميع الضيوف اليوم."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "להפסיד",
+      "definition": "أَخْسَرْ",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "لَا أُحِبُّ أَخْسَرْ فِي هَذِهِ اللُّعْبَةِ أَبَدًا"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "החלב",
+      "definition": "الْحَلِيبْ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "الْحَلِيبُ مُفِيدٌ جِدًّا لِصِحَّةِ الْأَطْفَالْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "קומו",
+      "definition": "قُومُوا",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "قُومُوا مِنْ أَمَاكِنِكُمْ لِنَبْدَأَ التَّمْرِينَ الرِّيَاضِيّْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "רצית",
+      "definition": "شِئْتْ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "يُمْكِنُكَ الذَّهَابُ حَيْثُ شِئْتَ فِي الْمَسَاءْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עצ",
+      "definition": "شَجَرَة",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "زَرَعْنَا شَجَرَةً كَبِيرَةً فِي حَدِيقَةِ مَنْزِلِنَا"
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עמק",
+      "definition": "وَادِي",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "يقع بيتي القديم في وسط وَادِي أخضر."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "מרק",
+      "definition": "حِسَاءْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "أُمِّي تَصْنَعُ حِسَاءْ لَذِيذًا فِي الشِّتَاءِ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יקר",
+      "definition": "عَزِيزْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "أَنْتَ صَدِيقٌ عَزِيزٌ عَلَى قَلْبِي دَائِمَا"
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בוצ",
+      "definition": "الطِّينْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "تَلَوَّثَتْ مَلَابِسُ الطِّفْلِ بِسَبَبِ اللَّعِبِ فِي الطِّينْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "יומי",
+      "definition": "يَوْمِيّ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "هَذَا هُوَ جَدْوَلِي الْيَوْمِيُّ الْمُعْتَادْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "خَفِيفْ",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "أَكَلْتُ طَعَاماً خَفِيفاً عَلَى الْعَشَاءِ اللَّيْلَة"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "צר",
+      "definition": "ضَيِّقْ",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "هَذَا الطَّرِيقُ ضَيِّقٌ جِدًّا وَلَا تَمُرُّ مِنْهُ السَّيَّارَاتْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "תות",
+      "definition": "التُّوتْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "أُحِبُّ تَنَاوُلَ عَصِيرِ التُّوتِ الطَّازَجِ فِي الصَّبَاحْ"
+    }
+  ]
+}

@@ -2,27 +2,84 @@
   "num_rows": 7,
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
-    "Generated clean beginner starter base arroword for germanToHebrew",
+    "Generated beginner starter base arroword for germanToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אלא",
-      "definition": "sondern",
+      "solution": "אלה",
+      "definition": "diese",
       "lengths": [
         3
       ],
-      "exampleSentence": "Das ist kein Apfel, sondern eine süße Orange."
+      "exampleSentence": "Diese blumen blühen im Garten besonders schön."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
+      "solution": "הרוס",
+      "definition": "zerstört",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Das alte Haus war nach dem starken Sturm völlig zerstört."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "בהריונ",
+      "definition": "schwanger",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Die glückliche Frau ist im neunten Monat schwanger."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "טוב",
+      "definition": "gut",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Das Wetter ist heute wirklich sehr gut für einen Spaziergang."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "מי",
+      "definition": "wer",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Wer hat heute Morgen an der Haustür geklingelt?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "להוביל",
+      "definition": "führen",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Der Mann wird uns durch die Stadt führen."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
       "solution": "הרבה",
       "definition": "viel",
       "lengths": [
@@ -32,147 +89,92 @@
     },
     {
       "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "לכלאחד",
-      "definition": "jedem",
-      "lengths": [
-        3,
-        3
-      ],
-      "exampleSentence": "Das Geschenk bringt Freude in das Leben von jedem."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "קחו",
-      "definition": "nehmt",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Nehmt die Jacken mit, es ist kalt."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "חי",
-      "definition": "lebe",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Ich lebe sehr gerne in dieser schönen bunten Stadt."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "להחליט",
-      "definition": "entscheiden",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Wir müssen jetzt über das Ziel entscheiden."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "ארוכ",
-      "definition": "lange",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Dieser lange Weg zur Schule dauert zu Fuß eine Stunde."
-    },
-    {
-      "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "ברור",
-      "definition": "klar",
+      "solution": "עלזה",
+      "definition": "darüber",
       "lengths": [
-        4
+        2,
+        2
       ],
-      "exampleSentence": "Die Erklärung vom Lehrer war sehr einfach und absolut klar."
+      "exampleSentence": "Wir müssen unbedingt noch einmal darüber sprechen."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נצרכ",
-      "definition": "nötig",
+      "solution": "לדבר",
+      "definition": "reden",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ein warmer Mantel ist im kalten Winter dringend nötig."
+      "exampleSentence": "Wir können am Abend über dieses Thema reden."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עמ",
-      "definition": "mit",
+      "solution": "כנ",
+      "definition": "ja",
       "lengths": [
         2
       ],
-      "exampleSentence": "Ich trinke gerne Kaffee mit Milch und Zucker."
+      "exampleSentence": "Ja, ich komme heute Abend gerne mit ins Kino."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עתה",
-      "definition": "nun",
+      "solution": "כעס",
+      "definition": "Ärger",
       "lengths": [
         3
       ],
-      "exampleSentence": "Es ist schon spät, wir müssen nun nach Hause gehen."
+      "exampleSentence": "Er spürte großen Ärger über die Verspätung des Zuges."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "תיק",
-      "definition": "Tasche",
+      "solution": "עסק",
+      "definition": "Geschäft",
       "lengths": [
         3
       ],
-      "exampleSentence": "Meine Tasche ist schwer und voller Bücher."
+      "exampleSentence": "Mein Vater führt ein kleines Geschäft in der Stadt."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "לבנ",
-      "definition": "weiß",
+      "solution": "רעל",
+      "definition": "Gift",
       "lengths": [
         3
       ],
-      "exampleSentence": "Der Schnee im Winter ist sehr weiß."
+      "exampleSentence": "Manche Pilze im Wald enthalten ein gefährliches Gift."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ארצ",
-      "definition": "Land",
+      "solution": "ילד",
+      "definition": "Kind",
       "lengths": [
         3
       ],
-      "exampleSentence": "Deutschland ist ein großes Land in der Mitte von Europa."
+      "exampleSentence": "Das kleine Kind spielt im Sand."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "בחור",
-      "definition": "Kerl",
+      "solution": "עוזב",
+      "definition": "verlässt",
       "lengths": [
         4
       ],
-      "exampleSentence": "Er ist ein netter Kerl und hilft allen seinen Freunden."
+      "exampleSentence": "Er verlässt jeden Morgen um sieben Uhr das Haus."
     },
     {
       "direction": "right",
@@ -189,23 +191,23 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מי",
-      "definition": "wer",
+      "solution": "נס",
+      "definition": "Wunder",
       "lengths": [
         2
       ],
-      "exampleSentence": "Wer hat heute Morgen an der Haustür geklingelt?"
+      "exampleSentence": "Es ist ein Wunder, dass niemand verletzt wurde."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "דרכ",
-      "definition": "Weg",
+      "solution": "נהר",
+      "definition": "Fluss",
       "lengths": [
         3
       ],
-      "exampleSentence": "Der Weg zur Schule ist heute sehr kurz."
+      "exampleSentence": "Dieser Fluss ist sehr lang und breit."
     }
   ]
 }

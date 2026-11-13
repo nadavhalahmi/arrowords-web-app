@@ -2,209 +2,211 @@
   "num_rows": 7,
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
-    "Generated clean beginner starter base arroword for spanishToHebrew",
+    "Generated beginner starter base arroword for spanishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עמק",
-      "definition": "valle",
+      "solution": "ללא",
+      "definition": "sin",
       "lengths": [
         3
       ],
-      "exampleSentence": "El río cruza todo el valle verde."
+      "exampleSentence": "Vivimos felices y sin ninguna preocupación."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לפני",
-      "definition": "antes",
+      "solution": "היכנ",
+      "definition": "dónde",
       "lengths": [
         4
       ],
-      "exampleSentence": "Ella llegó un poco antes que tú."
+      "exampleSentence": "¿Dónde viven tus abuelos este año?"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כנפיימ",
-      "definition": "alas",
+      "solution": "כישרונ",
+      "definition": "don",
       "lengths": [
         6
       ],
-      "exampleSentence": "El pájaro blanco tiene alas muy grandes."
+      "exampleSentence": "Ella tiene un gran don para la música."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "לאט",
-      "definition": "despacio",
+      "solution": "איש",
+      "definition": "hombre",
       "lengths": [
         3
       ],
-      "exampleSentence": "Por favor, habla más despacio para entender."
+      "exampleSentence": "El hombre lee el periódico en el banco."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "quién",
+      "solution": "בנ",
+      "definition": "hijo",
       "lengths": [
         2
       ],
-      "exampleSentence": "¿Quién ha venido a la puerta?"
+      "exampleSentence": "Mi hijo mayor estudia medicina en la universidad."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מלאכימ",
-      "definition": "ángeles",
+      "solution": "להיכנס",
+      "definition": "entrar",
       "lengths": [
         6
       ],
-      "exampleSentence": "Los niños pequeños parecen pequeños ángeles."
+      "exampleSentence": "Por favor, puedes entrar a la casa."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "קפטנ",
-      "definition": "capitán",
+      "solution": "אישי",
+      "definition": "personal",
       "lengths": [
         4
       ],
-      "exampleSentence": "El capitán dirige el barco con mucha experiencia."
+      "exampleSentence": "Esta es una carta con información muy personal."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "אשלח",
-      "definition": "enviaré",
+      "solution": "בגלל",
+      "definition": "por",
       "lengths": [
         4
       ],
-      "exampleSentence": "Mañana te enviaré toda la información necesaria."
+      "exampleSentence": "No salimos por la lluvia fuerte."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ברור",
-      "definition": "claro",
+      "solution": "עליכ",
+      "definition": "debes",
       "lengths": [
         4
       ],
-      "exampleSentence": "El agua del río es muy clara y limpia."
+      "exampleSentence": "Tú debes descansar un poco después de trabajar."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "על",
-      "definition": "sobre",
+      "solution": "ככ",
+      "definition": "así",
       "lengths": [
         2
       ],
-      "exampleSentence": "El libro está sobre la mesa de madera."
+      "exampleSentence": "Hazlo así para que esté bien."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עני",
-      "definition": "pobre",
+      "solution": "כאנ",
+      "definition": "aquí",
       "lengths": [
         3
       ],
-      "exampleSentence": "El hombre pobre necesita ayuda urgente."
+      "exampleSentence": "Vivo aquí con toda mi familia feliz."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "נאה",
-      "definition": "hermoso",
+      "solution": "אני",
+      "definition": "yo",
       "lengths": [
         3
       ],
-      "exampleSentence": "El jardín de la esquina es muy hermoso."
+      "exampleSentence": "Yo tengo un gato blanco y negro."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "פאב",
-      "definition": "bar",
+      "solution": "שבע",
+      "definition": "siete",
       "lengths": [
         3
       ],
-      "exampleSentence": "Tomamos una cerveza fría en aquel bar."
+      "exampleSentence": "La semana tiene siete días en total."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ישר",
-      "definition": "derecho",
+      "solution": "רגל",
+      "definition": "pie",
       "lengths": [
         3
       ],
-      "exampleSentence": "Camina todo derecho por esta calle hasta la plaza."
+      "exampleSentence": "Me duele el pie derecho al caminar."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אילו",
-      "definition": "cuáles",
+      "solution": "אולי",
+      "definition": "quizá",
       "lengths": [
         4
       ],
-      "exampleSentence": "Dime cuáles prefieres tú."
+      "exampleSentence": "Quizá vayamos al parque esta tarde."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "montaña",
+      "solution": "יש",
+      "definition": "hay",
       "lengths": [
         2
       ],
-      "exampleSentence": "Subimos a la montaña más alta este verano."
+      "exampleSentence": "Hay muchas flores rojas en el jardín."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לא",
-      "definition": "no",
+      "solution": "כנ",
+      "definition": "sí",
       "lengths": [
         2
       ],
-      "exampleSentence": "No quiero comer más pastel hoy."
+      "exampleSentence": "Sí, quiero un vaso de agua fresca."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מחר",
-      "definition": "mañana",
+      "solution": "נלכ",
+      "definition": "vamos",
       "lengths": [
         3
       ],
-      "exampleSentence": "Mañana vamos a visitar a nuestros abuelos."
+      "exampleSentence": "Vamos a la playa este verano."
     }
   ]
 }

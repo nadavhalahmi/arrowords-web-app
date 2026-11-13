@@ -1,0 +1,214 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_0",
+  "starter_band": "intermediate",
+  "roadmap_level": 4,
+  "comments": [
+    "Generated intermediate starter base arroword for spanishToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_0; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "עלה",
+      "definition": "costó",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El billete de tren costó veinte euros."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "חוצ",
+      "definition": "exterior",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El coche está en el exterior."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "עצ",
+      "definition": "madera",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "La mesa de la sala es de madera."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "חנ",
+      "definition": "gracia",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "La niña baila con mucha gracia."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "ברח",
+      "definition": "escapó",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El ladrón se escapó por la ventana abierta."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "שאר",
+      "definition": "resto",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El resto de los alumnos ya se marchó."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "להתפוצצ",
+      "definition": "explotar",
+      "lengths": [
+        7
+      ],
+      "exampleSentence": "El globo puede explotar muy pronto."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "לאידוע",
+      "definition": "desconocido",
+      "lengths": [
+        2,
+        4
+      ],
+      "exampleSentence": "El origen de esta tradición sigue siendo desconocido."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "לאט",
+      "definition": "lentamente",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "El coche avanza lentamente por la calle."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חסד",
+      "definition": "bondad",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ella siempre actúa con bondad hacia los demás."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "דופקלב",
+      "definition": "pulso",
+      "lengths": [
+        4,
+        2
+      ],
+      "exampleSentence": "El esfuerzo físico acelera el pulso cardíaco."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "בטח",
+      "definition": "seguramente",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Seguramente vamos a España el próximo verano."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "אתעדכנ",
+      "definition": "entere",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Espero que me entere de todo pronto."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "קשב",
+      "definition": "atención",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Necesito toda su atención para este proyecto."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "יפנ",
+      "definition": "japón",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Japón es un país con una cultura fascinante."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "רכ",
+      "definition": "suave",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "El pan fresco es muy suave."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "סרח",
+      "definition": "apesta",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ese queso viejo apesta un poco."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ענפ",
+      "definition": "rama",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Un pájaro pequeño canta sobre una rama verde."
+    }
+  ]
+}

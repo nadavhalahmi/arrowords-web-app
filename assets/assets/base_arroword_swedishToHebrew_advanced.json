@@ -1,0 +1,212 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for swedishToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "יאק",
+      "definition": "jak",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "En jak lever högt uppe i bergen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "זיקק",
+      "definition": "kultiverad",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Fabriken har kultiverad olja för att göra den ren."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "רחובות",
+      "definition": "gator",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Det finns många gamla gator i staden."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "צמר",
+      "definition": "garn",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Hon stickar en tröja av rött garn."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "חג",
+      "definition": "högtid",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Julen är en stor högtid i många länder."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "אזמרגד",
+      "definition": "smaragd",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "En smaragd är en fin grön sten."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "קירח",
+      "definition": "skallig",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Min farfar är helt skallig på huvudet."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "רוסי",
+      "definition": "rysk",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Han läser en rysk bok på kvällen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דלפק",
+      "definition": "disk",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Jag betalar vid en disk."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חד",
+      "definition": "spetsig",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Pennan har en spetsig ände som skriver bra."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חמק",
+      "definition": "undgick",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Han undgick precis en olycka på vägen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "מיצ",
+      "definition": "jos",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Barnen dricker gärna söt jos på morgonen."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ורד",
+      "definition": "ros",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Min mamma tycker om att odla en röd ros."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בול",
+      "definition": "frimärke",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Sätt ett frimärke på brevet innan du skickar det."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "תוספ",
+      "definition": "bilaga",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Vi läser en viktig bilaga i tidningen."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "צר",
+      "definition": "trång",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Gången är för trång för att gå igenom."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "די",
+      "definition": "lagom",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Kaffet är lagom varmt att dricka nu."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "תיק",
+      "definition": "portfölj",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Han har alla sina papper i en svart portfölj."
+    }
+  ]
+}

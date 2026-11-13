@@ -1,0 +1,212 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "intermediate",
+  "roadmap_level": 4,
+  "comments": [
+    "Generated intermediate starter base arroword for portuguesePTToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "נמל",
+      "definition": "porto",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O navio entrou no porto com segurança."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "בוחר",
+      "definition": "escolhe",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ela escolhe sempre o livro melhor."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "השאירו",
+      "definition": "deixaram",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Eles deixaram as chaves em cima da mesa."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חוב",
+      "definition": "dívida",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ele pagou toda a dívida ao banco."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "גל",
+      "definition": "onda",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Uma grande onda cobriu a praia."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מבוהלת",
+      "definition": "assustada",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "A criança estava assustada com o cão."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "לובש",
+      "definition": "veste",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O menino veste um casaco azul muito bonito."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "הכיר",
+      "definition": "conheceu",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ele conheceu uma rapariga muito simpática ontem."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "בלבד",
+      "definition": "somente",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Preciso de ajuda somente por dez minutos."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "נס",
+      "definition": "milagre",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Foi um milagre ele ter sobrevivido ao acidente."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "נשר",
+      "definition": "águia",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A águia voa muito alto no céu azul."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שטח",
+      "definition": "território",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O território nacional é muito bonito."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "אהב",
+      "definition": "amava",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ele amava ler livros antigos à noite."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "יכל",
+      "definition": "pôde",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ele pôde terminar o trabalho a tempo."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "יריב",
+      "definition": "adversário",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Respeitamos sempre o nosso adversário."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "חמ",
+      "definition": "quente",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O café está muito quente para beber."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "סט",
+      "definition": "conjunto",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Comprei um belo conjunto de sofás."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "ורד",
+      "definition": "rosa",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ele ofereceu-me uma rosa vermelha."
+    }
+  ]
+}

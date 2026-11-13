@@ -1,0 +1,212 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for italianToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "שמנ",
+      "definition": "ciccione",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Il gatto ciccione dorme sul divano."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "תביא",
+      "definition": "porterai",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Mi porterai un regalo dal tuo viaggio?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "כרישימ",
+      "definition": "squali",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Ci sono molti squali in questo mare."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "נוח",
+      "definition": "comodo",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Questo divano è davvero molto comodo."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "שנ",
+      "definition": "dente",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Ho un piccolo dolore a un dente."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מתוכננ",
+      "definition": "programmato",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Questo viaggio è stato programmato da mesi."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "נבחר",
+      "definition": "eletto",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Il nuovo sindaco è stato eletto ieri."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "עוינ",
+      "definition": "ostile",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "L'ambiente di lavoro è diventato molto ostile."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דרמה",
+      "definition": "dramma",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Quella commedia si è trasformata in un dramma."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "דק",
+      "definition": "sottile",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Ho tagliato il pane a fette molto sottili."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "דשא",
+      "definition": "prato",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "I bambini corrono felici sul prato verde."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שלב",
+      "definition": "stadio",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Siamo in uno stadio molto importante del lavoro."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יעד",
+      "definition": "destinazione",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "La nostra destinazione è Roma."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "שור",
+      "definition": "toro",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Il toro cammina lentamente nel grande prato verde."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "איימ",
+      "definition": "isole",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Il mare ha molte isole bellissime."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "בז",
+      "definition": "falco",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Il falco vola alto nel cielo azzurro."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "leggero",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Mangio una cena leggera questa sera."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "מנה",
+      "definition": "dose",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Prendi una dose di medicina ogni sera."
+    }
+  ]
+}

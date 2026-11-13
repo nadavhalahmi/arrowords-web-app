@@ -1,221 +1,212 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_20_1",
+  "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
-    "Generated clean beginner starter base arroword for frenchToHebrew",
-    "Total clues: 19",
-    "Mask: mask_7_7_20_1; curated for easiest beginner vocabulary."
+    "Generated beginner starter base arroword for frenchToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
   ],
   "clues": [
     {
-      "direction": "down-right",
+      "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צבי",
-      "definition": "cerf",
+      "solution": "גאה",
+      "definition": "fier",
       "lengths": [
         3
       ],
-      "exampleSentence": "Un grand cerf traverse la forêt en courant."
+      "exampleSentence": "Je suis très fier de réussir mes examens de français."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 1,
-      "solution": "בת",
-      "definition": "fille",
+      "clue_col": 2,
+      "solution": "נאלצ",
+      "definition": "obligé",
       "lengths": [
-        2
+        4
       ],
-      "exampleSentence": "Leur fille aînée étudie la médecine à l'université de Lyon."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 1,
-      "solution": "סימפטומ",
-      "definition": "symptôme",
-      "lengths": [
-        7
-      ],
-      "exampleSentence": "La toux est un autre symptôme de cette maladie."
-    },
-    {
-      "direction": "right",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "אב",
-      "definition": "père",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "C'est un père très attentif avec sa famille."
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "אגואיזמ",
-      "definition": "égoïsme",
-      "lengths": [
-        7
-      ],
-      "exampleSentence": "Son égoïsme l'empêche de penser aux besoins des autres."
+      "exampleSentence": "Il a été obligé de changer ses plans."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 6,
-      "solution": "מתיימר",
-      "definition": "prétendu",
+      "clue_col": 4,
+      "solution": "להחזיק",
+      "definition": "avoir",
       "lengths": [
         6
       ],
-      "exampleSentence": "Il est le chef prétendu de cette grande entreprise."
+      "exampleSentence": "Je vais avoir un nouveau chat noir demain."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "רגל",
+      "definition": "pied",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "J'ai mal au pied après avoir marché longtemps."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בשר",
-      "definition": "viande",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Je préfère manger de la viande blanche avec des légumes."
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
-      "clue_col": 3,
-      "solution": "סל",
-      "definition": "panier",
+      "solution": "חי",
+      "definition": "vivant",
       "lengths": [
         2
       ],
-      "exampleSentence": "J'ai mis des fruits dans mon panier."
+      "exampleSentence": "Ce grand écrivain est encore très vivant."
     },
     {
       "direction": "right",
       "clue_row": 1,
-      "clue_col": 3,
-      "solution": "גשמ",
-      "definition": "pluie",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "La pluie tombe doucement sur les carreaux de la fenêtre."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
       "clue_col": 0,
-      "solution": "ממש",
-      "definition": "vraiment",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Il fait vraiment très froid dehors aujourd'hui."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "תמסורת",
-      "definition": "transmission",
+      "solution": "אנגלית",
+      "definition": "anglais",
       "lengths": [
         6
       ],
-      "exampleSentence": "La transmission des documents se fait vite."
+      "exampleSentence": "La langue anglaise est très utile pour voyager."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "האלה",
+      "definition": "ces",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ces enfants jouent joyeusement dans le parc."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "למטה",
+      "definition": "bas",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Le chat est descendu tout en bas de l'arbre."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "לנהל",
+      "definition": "gérer",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Le directeur doit gérer tous les problèmes de l'entreprise."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אב",
+      "definition": "père",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "C'est un père très attentif avec ses enfants."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "ארצ",
+      "definition": "terre",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "La terre tourne lentement autour du soleil."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ראש",
+      "definition": "tête",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Il porte un chapeau noir sur sa tête."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 1,
-      "solution": "פלא",
-      "definition": "miracle",
+      "clue_col": 3,
+      "solution": "חלל",
+      "definition": "vide",
       "lengths": [
         3
       ],
-      "exampleSentence": "La guérison du malade relève du miracle."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "מוט",
-      "definition": "barre",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "L'athlète saute par-dessus la barre en métal."
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 1,
-      "solution": "לא",
-      "definition": "pas",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Je ne mange pas de viande le soir."
+      "exampleSentence": "Il y a un grand vide dans cette pièce."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ימי",
-      "definition": "marin",
+      "solution": "זמנ",
+      "definition": "temps",
       "lengths": [
         3
       ],
-      "exampleSentence": "Les aventures de ce marin sont très passionnantes."
+      "exampleSentence": "Nous avons assez de temps pour visiter le musée."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 3,
-      "solution": "זומ",
-      "definition": "zoom",
+      "clue_col": 2,
+      "solution": "מיטה",
+      "definition": "lit",
       "lengths": [
-        3
+        4
       ],
-      "exampleSentence": "Utilise le zoom de l'appareil pour voir de plus près."
+      "exampleSentence": "Je suis fatigué, je vais me coucher dans mon lit."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אמ",
-      "definition": "si",
+      "solution": "שמ",
+      "definition": "là",
       "lengths": [
         2
       ],
-      "exampleSentence": "Si tu veux, nous pouvons aller au cinéma."
+      "exampleSentence": "Le livre est posé là sur la table."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שלו",
-      "definition": "son",
+      "solution": "בא",
+      "definition": "venu",
       "lengths": [
-        3
+        2
       ],
-      "exampleSentence": "Il cherche son livre rouge partout dans la chambre."
+      "exampleSentence": "Il est venu me rendre visite hier soir."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מטר",
-      "definition": "mètre",
+      "solution": "קהל",
+      "definition": "public",
       "lengths": [
         3
       ],
-      "exampleSentence": "Le couloir mesure exactement trois mètres de longueur."
+      "exampleSentence": "Le public applaudit chaleureusement à la fin du concert."
     }
   ]
 }

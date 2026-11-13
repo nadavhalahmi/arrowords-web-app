@@ -1,0 +1,212 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for portugueseToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אמא",
+      "definition": "mãe",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Minha mãe é amável."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "כוכב",
+      "definition": "estrela",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "A estrela brilha na noite."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "עיפרונ",
+      "definition": "lápis",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Escrevi a minha nota com um lápis preto."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חול",
+      "definition": "areia",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A areia é quente."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "קר",
+      "definition": "frio",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O gelo é frio."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מכוערת",
+      "definition": "feia",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Aquela pintura antiga parece um pouco feia."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "אולי",
+      "definition": "talvez",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Talvez amanhã."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "יבשה",
+      "definition": "seca",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "A terra está muito seca este ano."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "להפר",
+      "definition": "violar",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Não deves violar as regras da escola."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גב",
+      "definition": "costas",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "As costas doem."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גרב",
+      "definition": "meia",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A meia é branca."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "רזה",
+      "definition": "magro",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O meu irmão é alto e muito magro."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "פיל",
+      "definition": "elefante",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O elefante é grande."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "רבה",
+      "definition": "imensa",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ela tem uma alegria imensa hoje."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "חושפ",
+      "definition": "revela",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "A carta revela um grande segredo antigo."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "הר",
+      "definition": "montanha",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "A montanha é alta."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "בז",
+      "definition": "falcão",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O falcão voa muito alto no céu azul."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "נהר",
+      "definition": "rio",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O rio é longo."
+    }
+  ]
+}

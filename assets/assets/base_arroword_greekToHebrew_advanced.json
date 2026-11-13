@@ -1,0 +1,213 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for greekToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "לבנ",
+      "definition": "άσπρο",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Το άσπρο πουκάμισο είναι πολύ καθαρό."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "גדוד",
+      "definition": "τάγμα",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Το τάγμα ξεκίνησε την πορεία του."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להחביא",
+      "definition": "κρύψω",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Θέλω να κρύψω το δώρο για τα γενέθλιά σου."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "מלח",
+      "definition": "αλάτι",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Μην βάλεις πολύ αλάτι στο φαγητό σου."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "בז",
+      "definition": "γεράκι",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Το γεράκι πετάει πολύ ψηλά στον ουρανό."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "בגללזה",
+      "definition": "γιαυτό",
+      "lengths": [
+        4,
+        2
+      ],
+      "exampleSentence": "Είμαι κουρασμένος, γιαυτό δεν θα βγω."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "נדחה",
+      "definition": "απορρίπτεται",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Το χαρτί απορρίπτεται από την επιτροπή."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "תירס",
+      "definition": "καλαμπόκι",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Το καλαμπόκι είναι πολύ νόστιμο ψητό."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "כתומ",
+      "definition": "πορτοκαλί",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Το πορτοκαλί είναι το αγαπημένο μου χρώμα."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רצ",
+      "definition": "έτρεχε",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Το παιδί έτρεχε χαρούμενο μέσα στο δάσος."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רקד",
+      "definition": "χόρεψε",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ο φίλος μου χόρεψε πολύ καλά στο πάρτι."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "קרנ",
+      "definition": "ακτίνα",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Μια ακτίνα μπήκε από το παράθυρο."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "חתכ",
+      "definition": "έκοψε",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ο μάγειρας έκοψε το ψωμί σε φέτες."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בית",
+      "definition": "οικία",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Αυτή είναι η νέα μου οικία."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "אירו",
+      "definition": "ευρώ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Το εισιτήριο κοστίζει μόνο πέντε ευρώ."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "נס",
+      "definition": "θαύμα",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Είναι θαύμα που είμαστε όλοι καλά."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "צר",
+      "definition": "στενό",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Το στενό δρομάκι οδηγεί στην παλιά πόλη."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "אסמ",
+      "definition": "αχυρώνα",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Τα ζώα κοιμούνται μέσα στον αχυρώνα."
+    }
+  ]
+}

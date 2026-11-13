@@ -1,0 +1,212 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for germanToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "סיר",
+      "definition": "Topf",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Die Suppe kocht in dem Topf."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "חצופ",
+      "definition": "frech",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Das Kind hat eine sehr freche Antwort gegeben."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "דינמיט",
+      "definition": "Dynamit",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Früher war Dynamit im tiefen Berg sehr stark."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "דיו",
+      "definition": "Tinte",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ich schreibe den Brief mit Tinte."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "צו",
+      "definition": "Anordnung",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Die Polizei gab eine strenge Anordnung heraus."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "יחידות",
+      "definition": "Einheiten",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Die verschiedenen Einheiten üben gemeinsam für den Einsatz."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "רצוי",
+      "definition": "gewünscht",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ein ruhiger Arbeitsplatz ist sehr gewünscht im Büro."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "חזונ",
+      "definition": "Vision",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Der Künstler hatte eine Vision für sein Bild."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "לחלק",
+      "definition": "verteilen",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Der Lehrer möchte die neuen Hefte an die Schüler verteilen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מר",
+      "definition": "bitter",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Diese dunkle Schokolade schmeckt ein bisschen bitter."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מדפ",
+      "definition": "Regal",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Das Buch im Regal ist sehr alt."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "דבש",
+      "definition": "Honig",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ich esse morgens gerne frisches Brot mit Honig."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "נחל",
+      "definition": "Bach",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ein kleiner Bach fließt mitten durch den grünen Wald."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "מזח",
+      "definition": "Pier",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Die großen Schiffe legen direkt am langen Pier an."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "טיול",
+      "definition": "Ausflug",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Wir machen am Wochenende einen schönen Ausflug in die Berge."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "שנ",
+      "definition": "Zahn",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Der kleine Junge hat einen lockeren Zahn."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "רב",
+      "definition": "Rabbi",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Der Rabbi liest ein altes Buch vor."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "טנק",
+      "definition": "Panzer",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Das Museum zeigt einen Panzer."
+    }
+  ]
+}

@@ -1,212 +1,213 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_0",
+  "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
-    "Generated clean beginner starter base arroword for dutchToHebrew",
+    "Generated beginner starter base arroword for dutchToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_0; curated for easiest beginner vocabulary."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עצמ",
-      "definition": "been",
+      "solution": "עבה",
+      "definition": "dikke",
       "lengths": [
         3
       ],
-      "exampleSentence": "Een hond kauwt graag op een hard been."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "ריח",
-      "definition": "geur",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "De geur van verse koffie is heerlijk."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "מה",
-      "definition": "wat",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Wat doe jij in het weekend?"
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "שש",
-      "definition": "zes",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Ik word over zes minuten opgehaald door hem."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 3,
-      "solution": "מפה",
-      "definition": "kaart",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Ik kijk op de kaart voor de route."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "קופ",
-      "definition": "aap",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "De aap klimt in de hoge boom."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "שממשפחה",
-      "definition": "achternaam",
-      "lengths": [
-        2,
-        5
-      ],
-      "exampleSentence": "Wat is jouw achternaam?"
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "צלילימ",
-      "definition": "geluiden",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "De zachte geluiden van de muziek maken mij rustig."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 3,
-      "solution": "יומ",
-      "definition": "dag",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Het is vandaag een hele mooie dag."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "עלו",
-      "definition": "kosten",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "De prijzen van groenten kosten nu meer geld."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "לפעמימ",
-      "definition": "soms",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Soms ga ik in het weekend wandelen."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 6,
-      "solution": "למה",
-      "definition": "waarom",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Waarom ben je vandaag zo erg moe?"
+      "exampleSentence": "Ik draag een dikke jas in de winter."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "למרותש",
-      "definition": "hoewel",
+      "solution": "כאשר",
+      "definition": "als",
       "lengths": [
-        5,
-        1
+        4
       ],
-      "exampleSentence": "Hoewel het regende, gingen we wandelen."
+      "exampleSentence": "Als het regent, blijf ik thuis."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להישאר",
+      "definition": "blijven",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Ik wil vandaag graag thuis blijven."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "כלל",
+      "definition": "regel",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Er is een belangrijke regel in dit spel."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "על",
+      "definition": "op",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "De kat zit op de tafel."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "בכלללא",
+      "definition": "nergens",
+      "lengths": [
+        4,
+        2
+      ],
+      "exampleSentence": "Ik kan mijn sleutels nergens vinden in huis."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "האלה",
+      "definition": "deze",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Deze boeken zijn voor de nieuwe les."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "לבוא",
+      "definition": "komen",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Wil je morgen bij mij komen eten?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דודה",
+      "definition": "tante",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Mijn tante komt dit weekend op bezoek."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אמ",
+      "definition": "als",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Als je wilt, gaan we samen."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אחר",
+      "definition": "andere",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ik wil graag een andere kleur kiezen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "חיק",
+      "definition": "schoot",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "De kat slaapt lekker op mijn schoot."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ילד",
+      "definition": "jongen",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "De kleine jongen speelt in het park."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "מקל",
-      "definition": "stok",
+      "solution": "שבו",
+      "definition": "waarin",
       "lengths": [
         3
       ],
-      "exampleSentence": "De hond rent achter de houten stok aan."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "ישב",
-      "definition": "gezeten",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Hij heeft de hele dag op de stoel gezeten."
+      "exampleSentence": "Dit is het huis waarin ik ben geboren."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 0,
-      "solution": "בת",
-      "definition": "dochter",
+      "clue_col": 2,
+      "solution": "מאוד",
+      "definition": "heel",
       "lengths": [
-        2
+        4
       ],
-      "exampleSentence": "Mijn dochter gaat vandaag naar school."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "לבש",
-      "definition": "droeg",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Zij droeg gisteren een mooie rode jurk."
+      "exampleSentence": "Het is vandaag heel erg koud."
     },
     {
       "direction": "right",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "רבע",
-      "definition": "kwart",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "licht",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Deze tas is erg licht van gewicht."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מי",
+      "definition": "wie",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Wie is die man bij de deur?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "ראה",
+      "definition": "zie",
       "lengths": [
         3
       ],
-      "exampleSentence": "Het is nu een kwart over drie."
+      "exampleSentence": "Ik zie de auto in de straat staan."
     }
   ]
 }

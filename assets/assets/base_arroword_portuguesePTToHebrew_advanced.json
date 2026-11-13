@@ -1,0 +1,213 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "advanced",
+  "roadmap_level": 7,
+  "comments": [
+    "Generated advanced starter base arroword for portuguesePTToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "קנס",
+      "definition": "multa",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Ele pagou uma multa por estacionar mal."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "תוכנ",
+      "definition": "conteúdo",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "O conteúdo deste livro é muito interessante."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להעביר",
+      "definition": "transferir",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Vou transferir o dinheiro para a conta."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "סנט",
+      "definition": "centavo",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Cada moeda de centavo tem valor."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "שנ",
+      "definition": "dente",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Sinto uma dor num dente hoje."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "נתנלנו",
+      "definition": "deu-nos",
+      "lengths": [
+        3,
+        3
+      ],
+      "exampleSentence": "O professor deu-nos um bom conselho."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "סוטה",
+      "definition": "pervertido",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "A polícia prendeu aquele homem pervertido."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "נוכח",
+      "definition": "perante",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ele ficou calado perante o juiz."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "נלהב",
+      "definition": "entusiasmado",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ele estava muito entusiasmado com a viagem."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גב",
+      "definition": "costas",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Doem-me as costas de estar sentado."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גננ",
+      "definition": "jardineiro",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "O jardineiro cuida das flores de manhã."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "נזק",
+      "definition": "dano",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A tempestade causou grande dano na costa."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "עננ",
+      "definition": "nuvem",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Vi uma nuvem escura no céu."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בול",
+      "definition": "selo",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Preciso de colar um selo nesta carta."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "חיכה",
+      "definition": "esperou",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Ele esperou o autocarro durante vinte minutos."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "leve",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Esta mala é muito leve e prática."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "בז",
+      "definition": "falcão",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "O falcão voa muito alto no céu azul."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "רחב",
+      "definition": "largo",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "A nossa rua é muito comprida e larga."
+    }
+  ]
+}

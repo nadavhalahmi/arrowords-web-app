@@ -2,125 +2,17 @@
   "num_rows": 7,
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
-    "Generated clean beginner starter base arroword for swedishToHebrew",
+    "Generated beginner starter base arroword for swedishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
-      "clue_col": 0,
-      "solution": "מאי",
-      "definition": "maj",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Vädret är oftast väldigt skönt i maj."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "נכונ",
-      "definition": "rätt",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Det är rätt svar på frågan."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "להתחיל",
-      "definition": "börja",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Vi ska börja läsa den nya boken imorgon."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "רגל",
-      "definition": "fot",
-      "lengths": [
-        3
-      ],
-      "exampleSentence": "Jag har ont i min högra fot."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "חי",
-      "definition": "leva",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Det är viktigt att leva hälsosamt."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "אנגלית",
-      "definition": "engelska",
-      "lengths": [
-        6
-      ],
-      "exampleSentence": "Hon pratar flytande engelska med turister."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "יכלה",
-      "definition": "kunde",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Hon kunde inte svara på den svåra frågan."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "יפימ",
-      "definition": "fina",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "De har väldigt fina blommor i trädgården."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "קצבה",
-      "definition": "pension",
-      "lengths": [
-        4
-      ],
-      "exampleSentence": "Min farfar lever nu på sin pension."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "לא",
-      "definition": "inte",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "Jag vill inte dricka kaffe idag."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
       "clue_col": 0,
       "solution": "לאנ",
       "definition": "vart",
@@ -131,80 +23,191 @@
     },
     {
       "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "אבל",
-      "definition": "men",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "מהיר",
+      "definition": "fort",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Det här tåget kör mycket fort."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "רגליימ",
+      "definition": "fötter",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "Jag har ont i mina trötta fötter idag."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חור",
+      "definition": "hål",
       "lengths": [
         3
       ],
-      "exampleSentence": "Jag vill gå ut, men det regnar ute."
+      "exampleSentence": "Det är ett litet hål i min tröja."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "על",
+      "definition": "på",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Boken ligger på bordet i rummet."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "אמורלי",
+      "definition": "säg",
+      "lengths": [
+        4,
+        2
+      ],
+      "exampleSentence": "Säg sanningen till mig."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "נהרג",
+      "definition": "dödad",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Många djur blir dödade i trafiken varje år."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "חלומ",
+      "definition": "dröm",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Jag hade en väldigt läskig dröm i natt."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "נדרש",
+      "definition": "krävs",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "Erfarenhet krävs för detta svåra jobb."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אמ",
+      "definition": "om",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "Jag vet inte om han kommer idag."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אחר",
+      "definition": "andra",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "De andra barnen leker ute i parken."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "חיש",
+      "definition": "fort",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "Snälla, skynda dig och gå fort!"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "תיק",
-      "definition": "väska",
+      "solution": "לחנ",
+      "definition": "visa",
       "lengths": [
         3
       ],
-      "exampleSentence": "Min tunga väska ligger på golvet i hallen."
+      "exampleSentence": "Den gamla svenska visan är mycket vacker."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חפצ",
-      "definition": "sak",
+      "solution": "ילד",
+      "definition": "barn",
       "lengths": [
         3
       ],
-      "exampleSentence": "Det är en viktig sak att diskutera."
+      "exampleSentence": "Ett litet barn sover sött i sin säng."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חייב",
-      "definition": "måste",
+      "solution": "ציור",
+      "definition": "bild",
       "lengths": [
         4
       ],
-      "exampleSentence": "Du måste läsa den här intressanta boken."
+      "exampleSentence": "Det hänger en vacker bild på väggen."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לב",
-      "definition": "hjärta",
+      "solution": "שמ",
+      "definition": "namn",
       "lengths": [
         2
       ],
-      "exampleSentence": "Mitt hjärta slår fort när jag springer."
+      "exampleSentence": "Vad är ditt namn på svenska?"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אב",
-      "definition": "far",
+      "solution": "מי",
+      "definition": "vem",
       "lengths": [
         2
       ],
-      "exampleSentence": "En god far ställer alltid upp för barnen."
+      "exampleSentence": "Vem är din bästa vän i skolan?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "למה",
-      "definition": "varför",
+      "solution": "ממש",
+      "definition": "verkligen",
       "lengths": [
         3
       ],
-      "exampleSentence": "Varför gråter det lilla barnet nu?"
+      "exampleSentence": "Det här kaffet smakar verkligen bra."
     }
   ]
 }

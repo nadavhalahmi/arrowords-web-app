@@ -1,0 +1,213 @@
+{
+  "num_rows": 7,
+  "num_cols": 7,
+  "mask_id": "mask_7_7_5",
+  "starter_band": "intermediate",
+  "roadmap_level": 4,
+  "comments": [
+    "Generated intermediate starter base arroword for arabicToHebrew",
+    "Total clues: 18",
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+  ],
+  "clues": [
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "שמה",
+      "definition": "تُدْعَى",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "تِلْكَ الْفَتَاةُ الصَّغِيرَةُ تُدْعَى سَارَة"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "שקטה",
+      "definition": "هَادِئَة",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "الْقَرْيَةُ هَادِئَةٌ جِدًّا فِي وَقْتِ الصَّبَاحِ الْبَاكِرْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "מחפשימ",
+      "definition": "يَبْحَثُونْ",
+      "lengths": [
+        6
+      ],
+      "exampleSentence": "الطُّلَّابُ يَبْحَثُونَ عَنْ مَعْلُومَاتٍ فِي الْمَكْتَبَةِ الْعَامَّة."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "דור",
+      "definition": "جِيلْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "يجب تعليم جِيلْ جديد بشكل جيد."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "בא",
+      "definition": "أَتَى",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "أَتَى الصَّيْفُ وَبَدَأَتِ الْعُطْلَةُ الْمَدْرَسِيَّة"
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "משומאי",
+      "definition": "لعدم",
+      "lengths": [
+        4,
+        2
+      ],
+      "exampleSentence": "خسر لعدم تنفيذ الأوامر."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "הקרח",
+      "definition": "الْجَلِيدْ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "يَصِيرُ الْجَلِيدْ مَاءً تَحْتَ أَشِعَّةِ الشَّمْسِ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "נמצא",
+      "definition": "يَتَوَاجَدْ",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "يَتَوَاجَدُ الْكَثِيرُ مِنَ النَّاسِ فِي وَسَطِ الْمَدِينَة"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "ועדה",
+      "definition": "لَجْنَة",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "اجْتَمَعَتِ اللَّجْنَةُ لِمُنَاقَشَةِ خُطَّةِ الْعَمَلِ الْجَدِيدَة"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "בת",
+      "definition": "بِنْتْ",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "تِلْكَ بِنْتٌ ذَكِيَّةٌ تُحِبُّ الْقِرَاءَةَ كَثِيرًا."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "בעה",
+      "definition": "صَاحِبَة",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "هِيَ صَاحِبَةُ الشَّرِكَةِ الَّتِي أَعْمَلُ فِيهَا"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ענק",
+      "definition": "ضَخْمْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "رَأَيْتُ فِيلًا ضَخْمًا فِي حَدِيقَةِ الْحَيَوَانْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "פנו",
+      "definition": "فَارِغْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "الْمَقْعَدُ فَارِغٌ يُمْكِنُكَ الْجُلُوسُ هُنَا يَا صَدِيقِي."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "שמע",
+      "definition": "سَمِعْ",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "سَمِعَ الطِّفْلُ صَوْتًا غَرِيبًا فِي الْغُرْفَة"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "כיצד",
+      "definition": "كَيْفِيَّة",
+      "lengths": [
+        4
+      ],
+      "exampleSentence": "تَعَلَّمْتُ كَيْفِيَّةَ صُنْعِ الْخُبْزِ فِي الْبَيْتْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קר",
+      "definition": "بَارِدْ",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "الْجَوُّ بَارِدٌ جِدًّا فِي فَصْلِ الشِّتَاءْ"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "תנ",
+      "definition": "أَعْطْ",
+      "lengths": [
+        2
+      ],
+      "exampleSentence": "أَعْطِ الْكِتَابَ لِصَدِيقِكَ بَعْدَ الْقِرَاءَة"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "מאה",
+      "definition": "مِئَة",
+      "lengths": [
+        3
+      ],
+      "exampleSentence": "قَرَأْتُ مِئَةَ صَفْحَةٍ مِنَ الرِّوَايَةِ هَذَا الْمَسَاءْ."
+    }
+  ]
+}
