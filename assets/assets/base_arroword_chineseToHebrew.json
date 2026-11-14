@@ -16,42 +16,30 @@
       "clue_col": 0,
       "solution": "חלב",
       "definition": "奶",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "小牛每天都喝妈妈的奶长身体。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "היומ",
+      "solution": "היום",
       "definition": "今天",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "今天的天气非常晴朗舒服。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "צהריימ",
+      "solution": "צהריים",
       "definition": "中午",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "我们在学校吃中午饭。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חוצ",
+      "solution": "חוץ",
       "definition": "外",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "外面正在下很大的雨。"
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "מי",
       "definition": "谁",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "敲门的人会是谁呢？"
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "להוציא",
       "definition": "取",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "我去邮局取一个包裹。"
     },
     {
@@ -82,20 +64,14 @@
       "clue_col": 0,
       "solution": "ביצה",
       "definition": "鸡蛋",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "妈妈早上给我煮了一个鸡蛋。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מקיפ",
+      "solution": "מקיף",
       "definition": "全面",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "我们要全面了解这个情况。"
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "הרבה",
       "definition": "多",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "桌子上的苹果太多了。"
     },
     {
@@ -115,20 +88,14 @@
       "clue_col": 0,
       "solution": "מה",
       "definition": "什么",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "你今天晚上想吃什么？"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מימ",
+      "solution": "מים",
       "definition": "水",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "口渴了我要喝一杯茶水。"
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "ירק",
       "definition": "菜",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "桌子上面摆着好几道菜。"
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "רמה",
       "definition": "级",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "这个汉字比赛分为三个级别。"
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "יקר",
       "definition": "贵",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "这件冬天的衣服太贵了。"
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "חייב",
       "definition": "一定",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "你明天考试一定要加油。"
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "קר",
       "definition": "冷",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "今天的天气非常冷。"
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "הר",
       "definition": "山",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "周末我们一起去爬山吧。"
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "מפה",
       "definition": "地图",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "我们在看中国的地图。"
     }
   ]

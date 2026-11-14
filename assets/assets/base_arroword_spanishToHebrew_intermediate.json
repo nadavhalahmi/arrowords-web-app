@@ -16,42 +16,30 @@
       "clue_col": 0,
       "solution": "עלה",
       "definition": "costó",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El billete de tren costó veinte euros."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "חוצ",
+      "solution": "חוץ",
       "definition": "exterior",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El coche está en el exterior."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "עצ",
+      "solution": "עץ",
       "definition": "madera",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "La mesa de la sala es de madera."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חנ",
+      "solution": "חן",
       "definition": "gracia",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "La niña baila con mucha gracia."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 3,
       "solution": "ברח",
       "definition": "escapó",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El ladrón se escapó por la ventana abierta."
     },
     {
@@ -71,32 +56,22 @@
       "clue_col": 5,
       "solution": "שאר",
       "definition": "resto",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El resto de los alumnos ya se marchó."
     },
     {
       "direction": "down-right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להתפוצצ",
+      "solution": "להתפוצץ",
       "definition": "explotar",
-      "lengths": [
-        7
-      ],
       "exampleSentence": "El globo puede explotar muy pronto."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "לאידוע",
+      "solution": "לא ידוע",
       "definition": "desconocido",
-      "lengths": [
-        2,
-        4
-      ],
       "exampleSentence": "El origen de esta tradición sigue siendo desconocido."
     },
     {
@@ -105,9 +80,6 @@
       "clue_col": 3,
       "solution": "לאט",
       "definition": "lentamente",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El coche avanza lentamente por la calle."
     },
     {
@@ -116,21 +88,14 @@
       "clue_col": 0,
       "solution": "חסד",
       "definition": "bondad",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ella siempre actúa con bondad hacia los demás."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דופקלב",
+      "solution": "דופק לב",
       "definition": "pulso",
-      "lengths": [
-        4,
-        2
-      ],
       "exampleSentence": "El esfuerzo físico acelera el pulso cardíaco."
     },
     {
@@ -139,20 +104,14 @@
       "clue_col": 6,
       "solution": "בטח",
       "definition": "seguramente",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Seguramente vamos a España el próximo verano."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אתעדכנ",
+      "solution": "אתעדכן",
       "definition": "entere",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Espero que me entere de todo pronto."
     },
     {
@@ -161,31 +120,22 @@
       "clue_col": 3,
       "solution": "קשב",
       "definition": "atención",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Necesito toda su atención para este proyecto."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 3,
-      "solution": "יפנ",
+      "solution": "יפן",
       "definition": "japón",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Japón es un país con una cultura fascinante."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 0,
-      "solution": "רכ",
+      "solution": "רך",
       "definition": "suave",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "El pan fresco es muy suave."
     },
     {
@@ -194,20 +144,14 @@
       "clue_col": 1,
       "solution": "סרח",
       "definition": "apesta",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ese queso viejo apesta un poco."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ענפ",
+      "solution": "ענף",
       "definition": "rama",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Un pájaro pequeño canta sobre una rama verde."
     }
   ]

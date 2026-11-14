@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "שבת",
       "definition": "sabato",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Sabato andiamo a trovare i nostri nonni."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "קרוב",
       "definition": "vicino",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Il supermercato è molto vicino a casa mia."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "ציבורי",
       "definition": "pubblico",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Prendo sempre il trasporto pubblico per andare al lavoro."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "היא",
       "definition": "lei",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Lei è una studentessa molto brava."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "או",
       "definition": "oppure",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Vuoi un caffè oppure un tè?"
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "בקיצור",
       "definition": "insomma",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Insomma, è stata una giornata lunga."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "תראי",
       "definition": "vedrai",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Tu vedrai una bella vista da qui."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "ירוק",
       "definition": "verde",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "L'erba del giardino è molto verde."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "נדבר",
       "definition": "parliamo",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Parliamo un po della nostra prossima vacanza al mare."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "על",
       "definition": "su",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Il libro di storia è sul tavolo."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "ערב",
       "definition": "sera",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "La sera mi rilasso leggendo un libro."
     },
     {
@@ -137,20 +104,14 @@
       "clue_col": 1,
       "solution": "ראש",
       "definition": "testa",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Mi fa male la testa oggi."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "בינ",
+      "solution": "בין",
       "definition": "tra",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "C'è una grande differenza tra queste cose."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "ורד",
       "definition": "rosa",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ho comprato una rosa rossa per te."
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "כרוב",
       "definition": "cavolo",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "A pranzo mangio la minestra con il cavolo."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "שש",
       "definition": "sei",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Ho comprato sei rose rosse."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "לא",
       "definition": "non",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Non voglio mangiare adesso."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "יקר",
       "definition": "caro",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Questo vestito rosso è molto caro."
     }
   ]

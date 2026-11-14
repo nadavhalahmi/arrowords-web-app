@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "עבה",
       "definition": "dikke",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ik draag een dikke jas in de winter."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "כאשר",
       "definition": "als",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Als het regent, blijf ik thuis."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "להישאר",
       "definition": "blijven",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Ik wil vandaag graag thuis blijven."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "כלל",
       "definition": "regel",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Er is een belangrijke regel in dit spel."
     },
     {
@@ -60,21 +48,14 @@
       "clue_col": 6,
       "solution": "על",
       "definition": "op",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "De kat zit op de tafel."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "בכלללא",
+      "solution": "בכלל לא",
       "definition": "nergens",
-      "lengths": [
-        4,
-        2
-      ],
       "exampleSentence": "Ik kan mijn sleutels nergens vinden in huis."
     },
     {
@@ -83,9 +64,6 @@
       "clue_col": 0,
       "solution": "האלה",
       "definition": "deze",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Deze boeken zijn voor de nieuwe les."
     },
     {
@@ -94,9 +72,6 @@
       "clue_col": 5,
       "solution": "לבוא",
       "definition": "komen",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Wil je morgen bij mij komen eten?"
     },
     {
@@ -105,20 +80,14 @@
       "clue_col": 6,
       "solution": "דודה",
       "definition": "tante",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Mijn tante komt dit weekend op bezoek."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אמ",
+      "solution": "אם",
       "definition": "als",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Als je wilt, gaan we samen."
     },
     {
@@ -127,9 +96,6 @@
       "clue_col": 0,
       "solution": "אחר",
       "definition": "andere",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ik wil graag een andere kleur kiezen."
     },
     {
@@ -138,9 +104,6 @@
       "clue_col": 1,
       "solution": "חיק",
       "definition": "schoot",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "De kat slaapt lekker op mijn schoot."
     },
     {
@@ -149,9 +112,6 @@
       "clue_col": 3,
       "solution": "ילד",
       "definition": "jongen",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "De kleine jongen speelt in het park."
     },
     {
@@ -160,9 +120,6 @@
       "clue_col": 3,
       "solution": "שבו",
       "definition": "waarin",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Dit is het huis waarin ik ben geboren."
     },
     {
@@ -171,9 +128,6 @@
       "clue_col": 2,
       "solution": "מאוד",
       "definition": "heel",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Het is vandaag heel erg koud."
     },
     {
@@ -182,9 +136,6 @@
       "clue_col": 0,
       "solution": "קל",
       "definition": "licht",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Deze tas is erg licht van gewicht."
     },
     {
@@ -193,9 +144,6 @@
       "clue_col": 0,
       "solution": "מי",
       "definition": "wie",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Wie is die man bij de deur?"
     },
     {
@@ -204,9 +152,6 @@
       "clue_col": 3,
       "solution": "ראה",
       "definition": "zie",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ik zie de auto in de straat staan."
     }
   ]

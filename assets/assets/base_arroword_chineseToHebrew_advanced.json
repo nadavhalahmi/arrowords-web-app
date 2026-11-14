@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "חלל",
       "definition": "太空",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "宇航员飞向了太空。"
     },
     {
@@ -27,32 +24,22 @@
       "clue_col": 2,
       "solution": "הבדל",
       "definition": "差别",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "这两个苹果没有差别。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שעוניד",
+      "solution": "שעון יד",
       "definition": "手表",
-      "lengths": [
-        4,
-        2
-      ],
       "exampleSentence": "我有一块手表。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מרצ",
+      "solution": "מרץ",
       "definition": "体力",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "他体力非常好。"
     },
     {
@@ -61,9 +48,6 @@
       "clue_col": 6,
       "solution": "או",
       "definition": "或是",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "你想喝茶或是咖啡？"
     },
     {
@@ -72,9 +56,6 @@
       "clue_col": 0,
       "solution": "להרשות",
       "definition": "许可",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "这里不许可吸烟。"
     },
     {
@@ -83,9 +64,6 @@
       "clue_col": 0,
       "solution": "לבצע",
       "definition": "执行",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "请执行这个新的计划。"
     },
     {
@@ -94,9 +72,6 @@
       "clue_col": 5,
       "solution": "רעוע",
       "definition": "单薄",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "这件衣服看起来很单薄。"
     },
     {
@@ -105,9 +80,6 @@
       "clue_col": 6,
       "solution": "דרמה",
       "definition": "戏",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "这出戏非常精彩。"
     },
     {
@@ -116,9 +88,6 @@
       "clue_col": 0,
       "solution": "בז",
       "definition": "鹰",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "天空中有一只雄鹰在飞。"
     },
     {
@@ -127,9 +96,6 @@
       "clue_col": 0,
       "solution": "בשל",
       "definition": "熟",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "这个苹果还没熟，不要吃。"
     },
     {
@@ -138,9 +104,6 @@
       "clue_col": 1,
       "solution": "שני",
       "definition": "乙",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "他是乙组的选手。"
     },
     {
@@ -149,9 +112,6 @@
       "clue_col": 3,
       "solution": "ורד",
       "definition": "玫瑰",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "他送了一束玫瑰。"
     },
     {
@@ -160,42 +120,30 @@
       "clue_col": 3,
       "solution": "נער",
       "definition": "少年",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "那个少年在公园里踢球。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "היומ",
+      "solution": "היום",
       "definition": "今日",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "今日天气非常好，适合运动。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "ימ",
+      "solution": "ים",
       "definition": "海洋",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "我们要保护海洋环境。"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "זנ",
+      "solution": "זן",
       "definition": "品种",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "这种狗的品种很稀有。"
     },
     {
@@ -204,9 +152,6 @@
       "clue_col": 3,
       "solution": "דעה",
       "definition": "见解",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "他对此有独特的见解。"
     }
   ]

@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "חמש",
       "definition": "πέντε",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Έχω πέντε ευρώ στην τσέπη μου."
     },
     {
@@ -27,43 +24,30 @@
       "clue_col": 2,
       "solution": "תלוי",
       "definition": "εξαρτάται",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Το αν θα πάμε βόλτα εξαρτάται από τον καιρό."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יותרלא",
+      "solution": "יותר לא",
       "definition": "πια",
-      "lengths": [
-        4,
-        2
-      ],
       "exampleSentence": "Δεν μένω πια εδώ."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כאנ",
+      "solution": "כאן",
       "definition": "εδώ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Εγώ μένω εδώ κοντά."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "עמ",
+      "solution": "עם",
       "definition": "με",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Πίνω καφέ με γάλα κάθε πρωί."
     },
     {
@@ -72,9 +56,6 @@
       "clue_col": 0,
       "solution": "מתאימה",
       "definition": "κατάλληλη",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Αυτή η ώρα είναι κατάλληλη για διάβασμα."
     },
     {
@@ -83,9 +64,6 @@
       "clue_col": 0,
       "solution": "שלנו",
       "definition": "μας",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Το σχολείο μας είναι μεγάλο και ωραίο."
     },
     {
@@ -94,9 +72,6 @@
       "clue_col": 5,
       "solution": "חיות",
       "definition": "ζώα",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Τα ζώα θέλουν αγάπη."
     },
     {
@@ -105,20 +80,14 @@
       "clue_col": 6,
       "solution": "תחנה",
       "definition": "στάση",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Η στάση του λεωφορείου είναι ακριβώς μπροστά μας."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "שמ",
+      "solution": "שם",
       "definition": "εκεί",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Το σπίτι μου είναι εκεί πέρα."
     },
     {
@@ -127,9 +96,6 @@
       "clue_col": 0,
       "solution": "שלי",
       "definition": "μου",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Αυτό είναι το βιβλίο μου."
     },
     {
@@ -138,9 +104,6 @@
       "clue_col": 1,
       "solution": "ליד",
       "definition": "δίπλα",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Το σπίτι μου είναι δίπλα στο πάρκο."
     },
     {
@@ -149,9 +112,6 @@
       "clue_col": 3,
       "solution": "תחת",
       "definition": "υπό",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Το παιδί είναι υπό την προστασία μας."
     },
     {
@@ -160,20 +120,14 @@
       "clue_col": 3,
       "solution": "ריח",
       "definition": "μυρωδιά",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Αυτή η μυρωδιά από το φαγητό είναι υπέροχη."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מלונ",
+      "solution": "מלון",
       "definition": "ξενοδοχείο",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Το ξενοδοχείο είναι κοντά στην παραλία."
     },
     {
@@ -182,9 +136,6 @@
       "clue_col": 0,
       "solution": "די",
       "definition": "αρκετά",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Είναι αρκετά αργά για να βγούμε έξω."
     },
     {
@@ -193,9 +144,6 @@
       "clue_col": 0,
       "solution": "מי",
       "definition": "ποιος",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Ποιος είναι αυτός ο άντρας;"
     },
     {
@@ -204,9 +152,6 @@
       "clue_col": 3,
       "solution": "אתה",
       "definition": "εσύ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Εσύ μιλάς πολύ ωραία ελληνικά."
     }
   ]

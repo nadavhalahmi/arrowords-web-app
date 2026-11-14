@@ -16,32 +16,22 @@
       "clue_col": 0,
       "solution": "מלא",
       "definition": "full",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "The cup is completely full of sweet juice."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "המומ",
+      "solution": "המום",
       "definition": "stunned",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "The winner was stunned by her victory."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מצברוח",
+      "solution": "מצב רוח",
       "definition": "mood",
-      "lengths": [
-        3,
-        3
-      ],
       "exampleSentence": "The sad loud music ruined my mood."
     },
     {
@@ -50,9 +40,6 @@
       "clue_col": 4,
       "solution": "שני",
       "definition": "second",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "He won second place in the race."
     },
     {
@@ -61,31 +48,22 @@
       "clue_col": 6,
       "solution": "די",
       "definition": "enough",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "There is enough food for all."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להנמיכ",
+      "solution": "להנמיך",
       "definition": "to lower",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Please lower the volume on the television set."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "אמיצ",
+      "solution": "אמיץ",
       "definition": "brave",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "The brave fireman saved the cat from fire."
     },
     {
@@ -94,9 +72,6 @@
       "clue_col": 5,
       "solution": "מקור",
       "definition": "origin",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "We study the ancient origin of humans."
     },
     {
@@ -105,9 +80,6 @@
       "clue_col": 6,
       "solution": "העתק",
       "definition": "copy",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "I need a copy of this."
     },
     {
@@ -116,31 +88,22 @@
       "clue_col": 0,
       "solution": "פר",
       "definition": "bull",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "The strong angry bull has sharp horns."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "פחמ",
+      "solution": "פחם",
       "definition": "coal",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Workers dig underground to find black coal."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "חכמ",
+      "solution": "חכם",
       "definition": "clever",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "The clever student answered the question easily."
     },
     {
@@ -149,9 +112,6 @@
       "clue_col": 3,
       "solution": "במה",
       "definition": "stage",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "The actors are on the stage."
     },
     {
@@ -160,9 +120,6 @@
       "clue_col": 3,
       "solution": "רקע",
       "definition": "background",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "The green trees look beautiful in the background."
     },
     {
@@ -171,9 +128,6 @@
       "clue_col": 2,
       "solution": "צוות",
       "definition": "team",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "A soccer team plays games to win."
     },
     {
@@ -182,20 +136,14 @@
       "clue_col": 0,
       "solution": "מר",
       "definition": "bitter",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "The dark chocolate tastes very bitter."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רכ",
+      "solution": "רך",
       "definition": "soft",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "The small cat has soft fur."
     },
     {
@@ -204,9 +152,6 @@
       "clue_col": 3,
       "solution": "חרק",
       "definition": "insect",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "The flying buzzing bee is a tiny insect."
     }
   ]

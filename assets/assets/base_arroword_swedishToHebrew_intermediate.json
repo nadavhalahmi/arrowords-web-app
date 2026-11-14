@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "פסל",
       "definition": "skulptur",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Konstnären skapade en vacker skulptur i sten."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "להבה",
       "definition": "flamma",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "En liten flamma brinner i stearinljuset."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "צלילות",
       "definition": "klarhet",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Havets klarhet gjorde att vi såg alla fiskar."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "מקל",
       "definition": "stav",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Personen håller en stav i varje hand."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "די",
       "definition": "lagom",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Kaffet är lagom varmt att dricka nu."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "סלקציה",
       "definition": "urval",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "De gjorde en noggrann urval av de bästa frukterna."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "להלל",
       "definition": "hylla",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Vi vill hylla alla som hjälpte till under krisen."
     },
     {
@@ -93,20 +72,14 @@
       "clue_col": 5,
       "solution": "ממשק",
       "definition": "gränssnitt",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Det nya systemet har ett enkelt gränssnitt."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ידענ",
+      "solution": "ידען",
       "definition": "kunnig",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Hon är mycket kunnig i historia."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "לח",
       "definition": "fuktig",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Gräset är fortfarande fuktig efter regnet."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "לבה",
       "definition": "lava",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Röd lava rinner nerför berget."
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "בנק",
       "definition": "bank",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Jag måste gå till banken för att växla pengar."
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "ימי",
       "definition": "marin",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "De har flera marin fartyg i hamnen."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "למד",
       "definition": "lärd",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Den gamla professoren var mycket lärd."
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "פושע",
       "definition": "brottsling",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Polisen grep en farlig brottsling."
     },
     {
@@ -181,31 +136,22 @@
       "clue_col": 0,
       "solution": "קש",
       "definition": "strå",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Kon åt upp ett grönt strå gräs."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חנ",
+      "solution": "חן",
       "definition": "behag",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Hon har ett naturligt behag i sitt sätt."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תקנ",
+      "solution": "תקן",
       "definition": "korrigera",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Läraren bad oss att korrigera våra fel."
     }
   ]

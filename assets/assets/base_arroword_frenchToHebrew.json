@@ -16,20 +16,14 @@
       "clue_col": 0,
       "solution": "גאה",
       "definition": "fier",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Je suis très fier de réussir mes examens de français."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "נאלצ",
+      "solution": "נאלץ",
       "definition": "obligé",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Il a été obligé de changer ses plans."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "להחזיק",
       "definition": "avoir",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Je vais avoir un nouveau chat noir demain."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "רגל",
       "definition": "pied",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "J'ai mal au pied après avoir marché longtemps."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "חי",
       "definition": "vivant",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Ce grand écrivain est encore très vivant."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "אנגלית",
       "definition": "anglais",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "La langue anglaise est très utile pour voyager."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "האלה",
       "definition": "ces",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ces enfants jouent joyeusement dans le parc."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "למטה",
       "definition": "bas",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Le chat est descendu tout en bas de l'arbre."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "לנהל",
       "definition": "gérer",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Le directeur doit gérer tous les problèmes de l'entreprise."
     },
     {
@@ -115,20 +88,14 @@
       "clue_col": 0,
       "solution": "אב",
       "definition": "père",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "C'est un père très attentif avec ses enfants."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ארצ",
+      "solution": "ארץ",
       "definition": "terre",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "La terre tourne lentement autour du soleil."
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "ראש",
       "definition": "tête",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Il porte un chapeau noir sur sa tête."
     },
     {
@@ -148,20 +112,14 @@
       "clue_col": 3,
       "solution": "חלל",
       "definition": "vide",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Il y a un grand vide dans cette pièce."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "זמנ",
+      "solution": "זמן",
       "definition": "temps",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Nous avons assez de temps pour visiter le musée."
     },
     {
@@ -170,20 +128,14 @@
       "clue_col": 2,
       "solution": "מיטה",
       "definition": "lit",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Je suis fatigué, je vais me coucher dans mon lit."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שמ",
+      "solution": "שם",
       "definition": "là",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Le livre est posé là sur la table."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "בא",
       "definition": "venu",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Il est venu me rendre visite hier soir."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "קהל",
       "definition": "public",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Le public applaudit chaleureusement à la fin du concert."
     }
   ]

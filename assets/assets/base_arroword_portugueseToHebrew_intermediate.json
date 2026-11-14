@@ -14,11 +14,8 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "זמנ",
+      "solution": "זמן",
       "definition": "tempo",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "O tempo voa."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "קודר",
       "definition": "sombrio",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "O dia está muito cinzento e sombrio."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "להעניש",
       "definition": "castigar",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Não devemos castigar as crianças sem razão."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "עור",
       "definition": "pele",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "A pele é suave."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "דק",
       "definition": "fino",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Este papel é muito fino e parte facilmente."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "מקולקל",
       "definition": "estragado",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "O leite está estragado e cheira mal."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "נורה",
       "definition": "lâmpada",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "A lâmpada do meu quarto partiu-se hoje."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "שמאל",
       "definition": "esquerda",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Vire à esquerda."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "נלהב",
       "definition": "entusiasmado",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ele estava muito entusiasmado com a viagem."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "מי",
       "definition": "quem",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Quem é ele?"
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "מחר",
       "definition": "amanhã",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Amanhã chove."
     },
     {
@@ -137,20 +104,14 @@
       "clue_col": 1,
       "solution": "חדש",
       "definition": "novo",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Meu carro é novo."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "עשנ",
+      "solution": "עשן",
       "definition": "fumaça",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Muita fumaça vem da casa agora."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "נמל",
       "definition": "porto",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Os grandes navios chegam todos os dias ao porto."
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "ריאה",
       "definition": "pulmão",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "O pulmão serve para o ar entrar."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "שש",
       "definition": "seis",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "São seis horas."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "יד",
       "definition": "mão",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Lave a mão."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "שלב",
       "definition": "fase",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Estamos entrando em uma nova fase do projeto."
     }
   ]

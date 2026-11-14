@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "יאק",
       "definition": "jak",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "En jak lever högt uppe i bergen."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "זיקק",
       "definition": "kultiverad",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Fabriken har kultiverad olja för att göra den ren."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "רחובות",
       "definition": "gator",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Det finns många gamla gator i staden."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "צמר",
       "definition": "garn",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Hon stickar en tröja av rött garn."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "חג",
       "definition": "högtid",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Julen är en stor högtid i många länder."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "אזמרגד",
       "definition": "smaragd",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "En smaragd är en fin grön sten."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "קירח",
       "definition": "skallig",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Min farfar är helt skallig på huvudet."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "רוסי",
       "definition": "rysk",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Han läser en rysk bok på kvällen."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "דלפק",
       "definition": "disk",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Jag betalar vid en disk."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "חד",
       "definition": "spetsig",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Pennan har en spetsig ände som skriver bra."
     },
     {
@@ -126,20 +96,14 @@
       "clue_col": 0,
       "solution": "חמק",
       "definition": "undgick",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Han undgick precis en olycka på vägen."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מיצ",
+      "solution": "מיץ",
       "definition": "jos",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Barnen dricker gärna söt jos på morgonen."
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "ורד",
       "definition": "ros",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Min mamma tycker om att odla en röd ros."
     },
     {
@@ -159,20 +120,14 @@
       "clue_col": 3,
       "solution": "בול",
       "definition": "frimärke",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Sätt ett frimärke på brevet innan du skickar det."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "תוספ",
+      "solution": "תוסף",
       "definition": "bilaga",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Vi läser en viktig bilaga i tidningen."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "צר",
       "definition": "trång",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Gången är för trång för att gå igenom."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "די",
       "definition": "lagom",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Kaffet är lagom varmt att dricka nu."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "תיק",
       "definition": "portfölj",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Han har alla sina papper i en svart portfölj."
     }
   ]

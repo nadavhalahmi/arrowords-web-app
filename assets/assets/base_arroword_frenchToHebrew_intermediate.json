@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "ממש",
       "definition": "véritablement",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "C'est une personne véritablement généreuse avec tous."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "בושה",
       "definition": "pudeur",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Elle répond aux questions avec beaucoup de pudeur."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "להרחיב",
       "definition": "élargir",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "On doit élargir cette route pour éviter les embouteillages."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "חור",
       "definition": "bled",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Il habite dans un petit bled perdu au milieu de la campagne."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "צב",
       "definition": "tortue",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "La petite tortue marche lentement sur le sentier vert."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "מבולבל",
       "definition": "perplexe",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Le détective resta perplexe devant ce mystérieux indice."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "שורה",
       "definition": "rail",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Le train roule sur le rail en acier."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "עונש",
       "definition": "sanction",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "La sanction est nécessaire pour respecter les règles."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "שביל",
       "definition": "sentier",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ce sentier de montagne est très agréable à marcher."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "גס",
       "definition": "brut",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Le menuisier travaille le bois brut sans aucun vernis."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "גדה",
       "definition": "rive",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "La rivière coule doucement près de la rive."
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "דלק",
       "definition": "carburant",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Le prix du carburant augmente chaque semaine."
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "רעש",
       "definition": "boucan",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Pourquoi faites-vous tout ce boucan dans la chambre ?"
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "חוב",
       "definition": "ardoise",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Le client a payé toute son ardoise au café."
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "מיני",
       "definition": "mini",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Elle porte une jolie jupe mini en été."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "קש",
       "definition": "paille",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Le cheval mange de la paille fraîche dans l'écurie."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "סל",
       "definition": "corbeille",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "J'ai jeté les vieux papiers dans la corbeille."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "בשל",
       "definition": "mûr",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ce fruit est bien mûr et très sucré."
     }
   ]

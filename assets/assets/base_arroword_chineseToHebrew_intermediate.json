@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "שמח",
       "definition": "乐",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "他今天很乐。"
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "ברכה",
       "definition": "福",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "全家人平安就是福。"
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "להזדקק",
       "definition": "需要",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "我需要帮助。"
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "חוט",
       "definition": "线",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "这根线很长。"
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "לב",
       "definition": "心",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "他是我心中的爱。"
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "מבולבל",
       "definition": "迷",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "我有点迷路了。"
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "חרטה",
       "definition": "后悔",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "我真后悔没听你的话。"
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "הרבה",
       "definition": "不少",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "公园里有不少美丽的花。"
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "בכלל",
       "definition": "根本",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "我根本不知道这件事情。"
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "רק",
       "definition": "仅",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "这里仅有三个人。"
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "רמה",
       "definition": "程度",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "他达到了很高程度。"
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "מלא",
       "definition": "充满",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "这个房间里充满欢声笑语。"
     },
     {
@@ -148,20 +112,14 @@
       "clue_col": 3,
       "solution": "זהב",
       "definition": "金",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "这枚戒指是金做的。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "דרכ",
+      "solution": "דרך",
       "definition": "方式",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "我们要用正确的方式学习。"
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "לקבל",
       "definition": "领",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "他去银行领钱。"
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "או",
       "definition": "或",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "你可以喝茶或喝咖啡。"
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "קל",
       "definition": "容易",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "这个问题很容易。"
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "קהל",
       "definition": "人群",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "广场上有很多人群。"
     }
   ]

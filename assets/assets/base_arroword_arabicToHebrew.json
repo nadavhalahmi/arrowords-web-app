@@ -14,11 +14,8 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מהמ",
+      "solution": "מהם",
       "definition": "مِنْهُمْ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "هَؤُلَاءِ أَصْدِقَائِي وَكَثِيرٌ مِنْهُمْ يَسْكُنُونَ هُنَا."
     },
     {
@@ -27,20 +24,14 @@
       "clue_col": 2,
       "solution": "מאוד",
       "definition": "جِدًّا",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "هَذَا الْفِيلْمُ مُمْتِعٌ جِدًّا."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אלוהימ",
+      "solution": "אלוהים",
       "definition": "اللَّهْ",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "اللَّه هو الذي يعلم كل شيء في الكون."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "פתח",
       "definition": "فَتْحْ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "فَتَحَ الْوَلَدُ الْبَابَ لِيَدْخُلَ إِلَى الْغُرْفَة"
     },
     {
@@ -60,20 +48,14 @@
       "clue_col": 6,
       "solution": "מי",
       "definition": "مَنْ",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "مَنْ هُوَ الشَّخْصُ الَّذِي يَتَحَدَّثُ هُنَاكْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "המתאימ",
+      "solution": "המתאים",
       "definition": "الْمُنَاسِبْ",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "هَذَا هُوَ الْوَقْتُ الْمُنَاسِبْ لِلِاتِّصَالِ بِصَدِيقِي"
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "מאחל",
       "definition": "أَتَمَنَّى",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "أَتَمَنَّى لَكَ يَوْمًا سَعِيدًا وَمَلِيئًا بِالنَّجَاحْ."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "לילה",
       "definition": "لَيْلَة",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "قَضَيْنَا لَيْلَةَ جَمِيلَةً تَحْتَ ضَوْءِ الْقَمَرْ"
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "אומר",
       "definition": "يَقُولْ",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "أَبِي يَقُولُ دَائِمًا الصِّدْقُ هُوَ الْأَفْضَلْ"
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "יש",
       "definition": "هُنَاكْ",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "هُنَاكَ كِتَابٌ جَدِيدٌ عَلَى الْمَكْتَبْ"
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "יחד",
       "definition": "جَمِيعاْ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "نَحْنُ نَلْعَبُ جَمِيعاً فِي الْحَدِيقَةِ الْكَبِيرَة"
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "חמש",
       "definition": "خَمْسْ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "اشْتَرَيْتُ خَمْسَ تُفَّاحَاتٍ حَمْرَاءَ مِنَ السُّوقِ الْيَوْمْ"
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "ולא",
       "definition": "وَلَيْسْ",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "هَذَا الْكِتَابُ قَدِيمٌ وَلَيْسَ جَدِيداً عَلَى الْإِطْلَاقْ"
     },
     {
@@ -159,20 +120,14 @@
       "clue_col": 3,
       "solution": "היו",
       "definition": "كَانُوا",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "كَانُوا أَصْدِقَاءَ فِي الْمَدْرَسَةِ الْقَدِيمَة"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "שילמ",
+      "solution": "שילם",
       "definition": "دَفَعْ",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "دَفَعَ الرَّجُلُ ثَمَنَ الطَّعَامِ فِي الْمَطْعَمْ"
     },
     {
@@ -181,20 +136,14 @@
       "clue_col": 0,
       "solution": "שש",
       "definition": "سِتَّة",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "اشتريت سِتَّة أقلام ملونة للمدرسة."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שמ",
+      "solution": "שם",
       "definition": "هُنَاكْ",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "يُوجَدُ شَجَرَةٌ كَبِيرَةٌ هُنَاكَ فِي الْحَدِيقَهْ"
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "מהר",
       "definition": "بِسُرْعَة",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "يَجِبُ أَنْ نَذْهَبَ بِسُرْعَةٍ إِلَى المَدْرَسَة"
     }
   ]

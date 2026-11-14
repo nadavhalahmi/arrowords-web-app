@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "צלל",
       "definition": "dook",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "De zwemmer dook diep in het blauwe water."
     },
     {
@@ -27,20 +24,14 @@
       "clue_col": 2,
       "solution": "עמיד",
       "definition": "taai",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Dit vlees is erg taai om te eten."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ירכיימ",
+      "solution": "ירכיים",
       "definition": "heupen",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Zij beweegt haar heupen op de muziek."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "בנה",
       "definition": "bouwde",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Mijn vader bouwde zelf dit houten huis."
     },
     {
@@ -60,20 +48,14 @@
       "clue_col": 6,
       "solution": "די",
       "definition": "tamelijk",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Het weer is tamelijk goed voor de herfst."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "לעניינ",
+      "solution": "לעניין",
       "definition": "interesseren",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Mij interesseren de verhalen over de geschiedenis."
     },
     {
@@ -82,20 +64,14 @@
       "clue_col": 0,
       "solution": "למהר",
       "definition": "haasten",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Je moet je haasten om de trein te halen."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "תקינ",
+      "solution": "תקין",
       "definition": "normale",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Alles werkt weer volgens de normale procedure."
     },
     {
@@ -104,20 +80,14 @@
       "clue_col": 6,
       "solution": "ברכה",
       "definition": "groet",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Stuur hem een hartelijke groet van mij."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רצ",
+      "solution": "רץ",
       "definition": "rent",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "De hond rent snel door het hele park."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "רקד",
       "definition": "gedanst",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Wij hebben de hele avond samen gedanst."
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "קרע",
       "definition": "scheur",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Er zit een grote scheur in mijn broek."
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "כתב",
       "definition": "verslaggever",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "De verslaggever schrijft een artikel over het nieuws."
     },
     {
@@ -159,20 +120,14 @@
       "clue_col": 3,
       "solution": "יקר",
       "definition": "dierbare",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Zij is een dierbare vriendin van mij."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "שייכ",
+      "solution": "שייך",
       "definition": "behoort",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Dit huis behoort aan mijn ouders."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "עז",
       "definition": "fel",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "De zon schijnt vandaag erg fel."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "צר",
       "definition": "nauw",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "De straat in het oude centrum is erg nauw."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "מנה",
       "definition": "gerecht",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Dit vegetarische gerecht smaakt erg lekker."
     }
   ]

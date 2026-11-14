@@ -16,20 +16,14 @@
       "clue_col": 0,
       "solution": "עיר",
       "definition": "cidade",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Lisboa é uma cidade muito bonita e antiga."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "כולמ",
+      "solution": "כולם",
       "definition": "todos",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Todos os alunos passaram no exame final."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "להשאיר",
       "definition": "deixar",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Podes deixar as chaves em cima da mesa."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "הוא",
       "definition": "ele",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ele é um bom amigo."
     },
     {
@@ -60,20 +48,14 @@
       "clue_col": 6,
       "solution": "מי",
       "definition": "quem",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Quem bateu à porta da sala?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "יכולימ",
+      "solution": "יכולים",
       "definition": "podem",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Eles podem vir jantar connosco."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "רואה",
       "definition": "vê",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ela vê o mar da janela do seu quarto."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "מביא",
       "definition": "traz",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ele traz sempre o jornal para casa."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "שאלה",
       "definition": "pergunta",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Tenho uma pergunta muito importante para ti."
     },
     {
@@ -115,20 +88,14 @@
       "clue_col": 0,
       "solution": "לא",
       "definition": "não",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Eu não gosto de café frio."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "להמ",
+      "solution": "להם",
       "definition": "lhes",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Eu dei o livro lhes ontem à tarde."
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "היא",
       "definition": "ela",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ela trabalha num banco em Lisboa."
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "שמש",
       "definition": "sol",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "O sol brilha forte no verão português."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "אבא",
       "definition": "pai",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "O meu pai trabalha num escritório."
     },
     {
@@ -170,20 +128,14 @@
       "clue_col": 2,
       "solution": "חייל",
       "definition": "soldado",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "O soldado protege o seu país."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אמ",
+      "solution": "אם",
       "definition": "se",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Se chover, vamos ficar em casa."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "אי",
       "definition": "ilha",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Fomos de barco visitar aquela ilha."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "ראה",
       "definition": "viu",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Ele viu um gato preto na rua."
     }
   ]

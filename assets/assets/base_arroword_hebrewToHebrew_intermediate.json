@@ -12,11 +12,8 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נתנ",
+      "solution": "נתן",
       "definition": "העניק",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "המורה נתן לכל תלמיד ציון לשבח."
     },
     {
@@ -25,21 +22,14 @@
       "clue_col": 2,
       "solution": "אייר",
       "definition": "חודש עברי (אביב)",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "בחודש אייר מזג האוויר נעים ונוח לטיולים."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "לחמחוק",
+      "solution": "לחם חוק",
       "definition": "הרגל קבוע",
-      "lengths": [
-        3,
-        3
-      ],
       "exampleSentence": "קריאת העיתון בבוקר היא לחם חוק עבורו."
     },
     {
@@ -48,21 +38,15 @@
       "clue_col": 4,
       "solution": "ליד",
       "definition": "סמוך",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "הוא גר בבית קטן ליד הים."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "כנ",
+      "solution": "כן",
       "definition": "מעמד",
-      "lengths": [
-        2
-      ],
-      "exampleSentence": "המיקרופון הוצב על כנ גבוה במרכז הבמה."
+      "exampleSentence": "המיקרופון הוצב על כן גבוה במרכז הבמה."
     },
     {
       "direction": "right",
@@ -70,9 +54,6 @@
       "clue_col": 0,
       "solution": "תאילנד",
       "definition": "מדינה באסיה",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "רבים מהישראלים בוחרים לטייל בחופשות בתאילנד."
     },
     {
@@ -81,9 +62,6 @@
       "clue_col": 0,
       "solution": "נידח",
       "definition": "מרוחק",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "הם יצאו לטיול ארוך בכפר נידח במרומי ההרים."
     },
     {
@@ -92,9 +70,6 @@
       "clue_col": 5,
       "solution": "יופי",
       "definition": "חן, נוי, הדר",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "היא התפעלה מהיופי המרהיב של השקיעה בים."
     },
     {
@@ -103,20 +78,14 @@
       "clue_col": 6,
       "solution": "מגרש",
       "definition": "שטח אדמה",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "הילדים שיחקו כדורגל בתוך מגרש שכונתי."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חמ",
+      "solution": "חם",
       "definition": "בעל טמפרטורה גבוהה",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "האוויר היה חם מאוד ביום הקיץ."
     },
     {
@@ -125,9 +94,6 @@
       "clue_col": 0,
       "solution": "חדר",
       "definition": "חלל בבית",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "הוא סידר את החדר שלו לפני בוא האורחים."
     },
     {
@@ -136,20 +102,14 @@
       "clue_col": 1,
       "solution": "דהה",
       "definition": "נחלש צבעו",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "הצבע של החולצה דהה לאחר כביסות רבות."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "מימ",
+      "solution": "מים",
       "definition": "נוזל החיים",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "חשוב לשתות הרבה מים ביום חם."
     },
     {
@@ -158,9 +118,6 @@
       "clue_col": 3,
       "solution": "חוג",
       "definition": "היקף",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "חוג הפעילות של החברה מתרחב משנה לשנה."
     },
     {
@@ -169,9 +126,6 @@
       "clue_col": 2,
       "solution": "עופר",
       "definition": "אייל צעיר",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "עופר רך שכב בשקט בין השיחים ביער."
     },
     {
@@ -180,9 +134,6 @@
       "clue_col": 0,
       "solution": "הר",
       "definition": "גבעה גבוהה מאוד",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "הטיפוס אל פסגת ההר ארך שעות רבות."
     },
     {
@@ -191,9 +142,6 @@
       "clue_col": 0,
       "solution": "מה",
       "definition": "מילת שאלה",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "שאלתי אותו מה הוא רוצה לאכול לארוחת ערב."
     },
     {
@@ -202,9 +150,6 @@
       "clue_col": 3,
       "solution": "קיש",
       "definition": "מאפה מלוח",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "הכנתי קיש פטריות טעים לארוחת הערב."
     }
   ]

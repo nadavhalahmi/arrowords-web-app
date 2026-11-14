@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "נחש",
       "definition": "Schlange",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Im Zoo habe ich eine Schlange gesehen."
     },
     {
@@ -27,20 +24,14 @@
       "clue_col": 2,
       "solution": "תמיד",
       "definition": "stets",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Er ist stets freundlich zu allen Menschen."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להזמינ",
+      "solution": "להזמין",
       "definition": "einladen",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Ich möchte meine besten Freunde zu meiner Party einladen."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "חול",
       "definition": "Sand",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Die Kinder spielen am Strand gerne mit warmem Sand."
     },
     {
@@ -60,20 +48,14 @@
       "clue_col": 6,
       "solution": "אי",
       "definition": "Insel",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Das ist eine schöne Insel."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "חתולימ",
+      "solution": "חתולים",
       "definition": "Katzen",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Katzen sind sehr saubere und kluge Haustiere."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "שמלה",
       "definition": "Kleid",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Sie trägt heute ein sehr schönes rotes Kleid."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "ערכה",
       "definition": "Set",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Das Werkzeug kommt in einem praktischen Set."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "מקרר",
       "definition": "Kühlschrank",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Die Milch steht frisch und kalt im Kühlschrank."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "גב",
       "definition": "Rücken",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Nach der Arbeit tut mir oft der Rücken weh."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "גמד",
       "definition": "Zwerg",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Im Märchen wohnt ein kleiner Zwerg tief im dunklen Wald."
     },
     {
@@ -137,20 +104,14 @@
       "clue_col": 1,
       "solution": "מדע",
       "definition": "Wissenschaft",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Die Wissenschaft versucht, die Geheimnisse der Natur zu lösen."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "זעמ",
+      "solution": "זעם",
       "definition": "Wut",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Er spürte große Wut in sich."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "מרק",
       "definition": "Suppe",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Im Winter esse ich gerne eine warme Suppe."
     },
     {
@@ -170,20 +128,14 @@
       "clue_col": 2,
       "solution": "איכר",
       "definition": "Bauer",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Der Bauer arbeitet den ganzen Tag auf dem Feld."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "עמ",
+      "solution": "עם",
       "definition": "Volk",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Das deutsche Volk feiert im Herbst ein Fest."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "בד",
       "definition": "Stoff",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Dieser Stoff ist sehr weich und angenehm zu tragen."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "נהר",
       "definition": "Fluss",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Dieser Fluss ist sehr lang und breit."
     }
   ]

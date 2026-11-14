@@ -16,32 +16,22 @@
       "clue_col": 0,
       "solution": "דרג",
       "definition": "echelon",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "She is in the upper management echelon."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "עלאפ",
+      "solution": "על אף",
       "definition": "notwithstanding",
-      "lengths": [
-        2,
-        2
-      ],
       "exampleSentence": "Notwithstanding the rain, they played soccer."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "תיאבונ",
+      "solution": "תיאבון",
       "definition": "appetite",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Hard work gives me an appetite."
     },
     {
@@ -50,20 +40,14 @@
       "clue_col": 4,
       "solution": "שבו",
       "definition": "whereby",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "This is the method whereby we solve problems."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "שנ",
+      "solution": "שן",
       "definition": "cog",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "The heavy metal cog turns the wheel."
     },
     {
@@ -72,9 +56,6 @@
       "clue_col": 0,
       "solution": "רעבתני",
       "definition": "voracious",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "The totally starving grey wolf has a truly voracious appetite."
     },
     {
@@ -83,9 +64,6 @@
       "clue_col": 0,
       "solution": "גלוי",
       "definition": "overt",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Stealing is an overt breaking of rules."
     },
     {
@@ -94,64 +72,46 @@
       "clue_col": 5,
       "solution": "שוחד",
       "definition": "bribery",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Paying a judge money is illegal bribery."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מלבנ",
+      "solution": "מלבן",
       "definition": "rectangle",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "A rectangle has four long straight sides."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רכ",
+      "solution": "רך",
       "definition": "tender",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "The chicken was tender and easy to chew."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רצפ",
+      "solution": "רצף",
       "definition": "sequence",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Put the puzzle pieces in the right sequence."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "צדפ",
+      "solution": "צדף",
       "definition": "shell",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "I found a pretty shell on the beach."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "אשמ",
+      "solution": "אשם",
       "definition": "culpable",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "He is culpable for the bad crime."
     },
     {
@@ -160,9 +120,6 @@
       "clue_col": 3,
       "solution": "בול",
       "definition": "stamp",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Put a stamp on the letter."
     },
     {
@@ -171,9 +128,6 @@
       "clue_col": 2,
       "solution": "רוחב",
       "definition": "breadth",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Measure the full breadth of wide tables."
     },
     {
@@ -182,9 +136,6 @@
       "clue_col": 0,
       "solution": "פר",
       "definition": "bull",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "The strong angry bull has sharp horns."
     },
     {
@@ -193,20 +144,14 @@
       "clue_col": 0,
       "solution": "כד",
       "definition": "jug",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "He drank fresh milk from a jug."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נדנ",
+      "solution": "נדן",
       "definition": "sheath",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "He put his sword in the sheath."
     }
   ]

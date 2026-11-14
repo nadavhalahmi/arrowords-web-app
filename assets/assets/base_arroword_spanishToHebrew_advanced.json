@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "כאב",
       "definition": "doler",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "A veces puede doler la cabeza al estudiar."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "מגלה",
       "definition": "averigua",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ella siempre averigua la verdad de las cosas."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "תדירות",
       "definition": "frecuencia",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Visito a mis abuelos con mucha frecuencia."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "דיו",
       "definition": "tinta",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "La pluma ya no tiene tinta para escribir."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "אי",
       "definition": "isla",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Esa pequeña isla tiene playas muy hermosas."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "אמיתית",
       "definition": "auténtica",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Ella tiene una sonrisa auténtica."
     },
     {
@@ -82,9 +64,6 @@
       "clue_col": 0,
       "solution": "בגוד",
       "definition": "traicionado",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Él fue traicionado por un amigo."
     },
     {
@@ -93,9 +72,6 @@
       "clue_col": 5,
       "solution": "פורש",
       "definition": "retira",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "El jugador se retira del partido por lesión."
     },
     {
@@ -104,9 +80,6 @@
       "clue_col": 6,
       "solution": "נעדר",
       "definition": "ausente",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "El profesor estuvo ausente toda la semana."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "בד",
       "definition": "tela",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Compré una tela azul para hacer un vestido."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "במה",
       "definition": "estrado",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El director habló desde el estrado principal."
     },
     {
@@ -137,20 +104,14 @@
       "clue_col": 1,
       "solution": "מקל",
       "definition": "bastón",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "El abuelo camina con la ayuda de un bastón."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "יפנ",
+      "solution": "יפן",
       "definition": "japón",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Japón es un país con una cultura fascinante."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "רוע",
       "definition": "maldad",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Debemos luchar contra la maldad del mundo."
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "מורד",
       "definition": "rebelde",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "El joven rebelde no quería seguir las reglas."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "לח",
       "definition": "húmedo",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "El suelo está húmedo después de la lluvia."
     },
     {
@@ -192,9 +144,6 @@
       "clue_col": 0,
       "solution": "דק",
       "definition": "delgado",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Este papel es muy delgado."
     },
     {
@@ -203,9 +152,6 @@
       "clue_col": 3,
       "solution": "תשר",
       "definition": "propina",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Es costumbre dar una propina en el restaurante."
     }
   ]

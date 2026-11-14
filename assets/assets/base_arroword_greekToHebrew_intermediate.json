@@ -16,9 +16,6 @@
       "clue_col": 0,
       "solution": "שמי",
       "definition": "ονομάζομαι",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Εγώ ονομάζομαι Νίκος από την Ελλάδα."
     },
     {
@@ -27,9 +24,6 @@
       "clue_col": 2,
       "solution": "אצבע",
       "definition": "δάχτυλο",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Πονάει το δάχτυλο στο χέρι μου."
     },
     {
@@ -38,9 +32,6 @@
       "clue_col": 4,
       "solution": "הודעות",
       "definition": "μηνύματα",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Έλαβα πολλά μηνύματα στο κινητό μου."
     },
     {
@@ -49,9 +40,6 @@
       "clue_col": 4,
       "solution": "הוא",
       "definition": "εκείνος",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Εκείνος είναι πολύ μεγάλος."
     },
     {
@@ -60,9 +48,6 @@
       "clue_col": 6,
       "solution": "גב",
       "definition": "πλάτη",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Με πονάει λίγο η πλάτη μου."
     },
     {
@@ -71,9 +56,6 @@
       "clue_col": 0,
       "solution": "מאוהבת",
       "definition": "ερωτευμένη",
-      "lengths": [
-        6
-      ],
       "exampleSentence": "Είναι ερωτευμένη με τον καλύτερό της φίλο."
     },
     {
@@ -82,31 +64,22 @@
       "clue_col": 0,
       "solution": "יצאו",
       "definition": "βγήκαν",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Τα παιδιά βγήκαν έξω τώρα."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שומנ",
+      "solution": "שומן",
       "definition": "λίπος",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Το κρέας έχει πολύ λίπος."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ארוכ",
+      "solution": "ארוך",
       "definition": "μακρύ",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Το ταξίδι με το τρένο ήταν πολύ μακρύ."
     },
     {
@@ -115,9 +88,6 @@
       "clue_col": 0,
       "solution": "תא",
       "definition": "κελί",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Το πουλί είναι μέσα στο κελί του."
     },
     {
@@ -126,9 +96,6 @@
       "clue_col": 0,
       "solution": "תשע",
       "definition": "εννέα",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Έχω εννέα αδέρφια στην οικογένειά μου."
     },
     {
@@ -137,9 +104,6 @@
       "clue_col": 1,
       "solution": "שבר",
       "definition": "έσπασε",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Το παιδί έσπασε το βάζο κατά λάθος."
     },
     {
@@ -148,9 +112,6 @@
       "clue_col": 3,
       "solution": "דשא",
       "definition": "γρασίδι",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Το γρασίδι στον κήπο είναι πολύ πράσινο."
     },
     {
@@ -159,9 +120,6 @@
       "clue_col": 3,
       "solution": "עור",
       "definition": "δέρμα",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Το δέρμα μου είναι ευαίσθητο στον ήλιο."
     },
     {
@@ -170,9 +128,6 @@
       "clue_col": 2,
       "solution": "הומו",
       "definition": "γκέι",
-      "lengths": [
-        4
-      ],
       "exampleSentence": "Ο φίλος μου είναι γκέι και είναι πολύ ευτυχισμένος."
     },
     {
@@ -181,9 +136,6 @@
       "clue_col": 0,
       "solution": "רב",
       "definition": "πολύς",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Υπάρχει πολύς κόσμος στην πλατεία σήμερα."
     },
     {
@@ -192,20 +144,14 @@
       "clue_col": 0,
       "solution": "אב",
       "definition": "πάτερ",
-      "lengths": [
-        2
-      ],
       "exampleSentence": "Ο πάτερ είναι στην εκκλησία."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תנכ",
+      "solution": "תנך",
       "definition": "βίβλο",
-      "lengths": [
-        3
-      ],
       "exampleSentence": "Διαβάζω ιστορίες από την Αγία Βίβλο."
     }
   ]
