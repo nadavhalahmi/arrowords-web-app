@@ -22,9 +22,9 @@
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "קודר",
-      "definition": "sombrio",
-      "exampleSentence": "O dia está muito cinzento e sombrio."
+      "solution": "קוטב",
+      "definition": "pólo",
+      "exampleSentence": "O gelo cobre o pólo norte."
     },
     {
       "direction": "down",
@@ -64,7 +64,7 @@
       "clue_col": 0,
       "solution": "נורה",
       "definition": "lâmpada",
-      "exampleSentence": "A lâmpada do meu quarto partiu-se hoje."
+      "exampleSentence": "A lâmpada do meu quarto quebrou hoje."
     },
     {
       "direction": "down",
@@ -86,25 +86,25 @@
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מי",
-      "definition": "quem",
-      "exampleSentence": "Quem é ele?"
+      "solution": "גב",
+      "definition": "costas",
+      "exampleSentence": "As costas doem."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מחר",
-      "definition": "amanhã",
-      "exampleSentence": "Amanhã chove."
+      "solution": "גרב",
+      "definition": "meia",
+      "exampleSentence": "A meia é branca."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "חדש",
-      "definition": "novo",
-      "exampleSentence": "Meu carro é novo."
+      "solution": "רזה",
+      "definition": "magro",
+      "exampleSentence": "O meu irmão é alto e muito magro."
     },
     {
       "direction": "right",
@@ -134,17 +134,17 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "seis",
-      "exampleSentence": "São seis horas."
+      "solution": "הר",
+      "definition": "montanha",
+      "exampleSentence": "A montanha é alta."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "יד",
-      "definition": "mão",
-      "exampleSentence": "Lave a mão."
+      "solution": "בז",
+      "definition": "falcão",
+      "exampleSentence": "O falcão voa muito alto no céu azul."
     },
     {
       "direction": "right",

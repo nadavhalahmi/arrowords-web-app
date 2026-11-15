@@ -14,57 +14,57 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "כאב",
-      "definition": "doler",
-      "exampleSentence": "A veces puede doler la cabeza al estudiar."
+      "solution": "ימי",
+      "definition": "marino",
+      "exampleSentence": "El mundo marino es muy interesante."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "מגלה",
-      "definition": "averigua",
-      "exampleSentence": "Ella siempre averigua la verdad de las cosas."
+      "solution": "עוגה",
+      "definition": "torta",
+      "exampleSentence": "Compramos una torta dulce para la fiesta."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "תדירות",
-      "definition": "frecuencia",
-      "exampleSentence": "Visito a mis abuelos con mucha frecuencia."
+      "solution": "רשימות",
+      "definition": "listas",
+      "exampleSentence": "Hice unas listas con las compras del supermercado."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דיו",
-      "definition": "tinta",
-      "exampleSentence": "La pluma ya no tiene tinta para escribir."
+      "solution": "גור",
+      "definition": "cachorro",
+      "exampleSentence": "El cachorro juega con una pelota pequeña."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "אי",
-      "definition": "isla",
-      "exampleSentence": "Esa pequeña isla tiene playas muy hermosas."
+      "solution": "צב",
+      "definition": "tortuga",
+      "exampleSentence": "La tortuga camina muy despacio por el jardín."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "אמיתית",
-      "definition": "auténtica",
-      "exampleSentence": "Ella tiene una sonrisa auténtica."
+      "solution": "מעורבת",
+      "definition": "involucrada",
+      "exampleSentence": "Ella está muy involucrada en el proyecto social."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "בגוד",
-      "definition": "traicionado",
-      "exampleSentence": "Él fue traicionado por un amigo."
+      "solution": "יורש",
+      "definition": "heredero",
+      "exampleSentence": "El príncipe es el heredero al trono."
     },
     {
       "direction": "down",
@@ -78,9 +78,9 @@
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נעדר",
-      "definition": "ausente",
-      "exampleSentence": "El profesor estuvo ausente toda la semana."
+      "solution": "נחקר",
+      "definition": "averiguado",
+      "exampleSentence": "El problema fue averiguado por el técnico experto."
     },
     {
       "direction": "down",
@@ -118,17 +118,17 @@
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "רוע",
-      "definition": "maldad",
-      "exampleSentence": "Debemos luchar contra la maldad del mundo."
+      "solution": "מוח",
+      "definition": "cerebro",
+      "exampleSentence": "El cerebro humano es muy importante."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מורד",
-      "definition": "rebelde",
-      "exampleSentence": "El joven rebelde no quería seguir las reglas."
+      "solution": "זורק",
+      "definition": "lanza",
+      "exampleSentence": "El jugador lanza el balón muy lejos."
     },
     {
       "direction": "right",

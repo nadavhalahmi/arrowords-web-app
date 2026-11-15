@@ -14,105 +14,105 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חשש",
-      "definition": "receio",
-      "exampleSentence": "Tenho receio de andar de avião."
+      "solution": "אחר",
+      "definition": "outro",
+      "exampleSentence": "Eu quero comprar outro livro interessante."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לקוח",
-      "definition": "cliente",
-      "exampleSentence": "O vendedor falou com cada cliente hoje."
+      "solution": "מאוד",
+      "definition": "muito",
+      "exampleSentence": "Eu gosto muito de comer chocolate quente."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ציבורי",
-      "definition": "público",
-      "exampleSentence": "O transporte público nesta cidade funciona muito bem."
+      "solution": "שימושי",
+      "definition": "útil",
+      "exampleSentence": "Este dicionário é muito útil para estudar."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "נער",
-      "definition": "rapaz",
-      "exampleSentence": "Aquele rapaz é muito educado."
+      "solution": "איש",
+      "definition": "homem",
+      "exampleSentence": "O homem trabalha duro."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "שם",
-      "definition": "lá",
-      "exampleSentence": "O livro está lá em cima na estante."
+      "solution": "די",
+      "definition": "bastante",
+      "exampleSentence": "Ele tem bastante dinheiro para comprar um carro."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "של עצמם",
-      "definition": "próprios",
-      "exampleSentence": "Eles fizeram os seus próprios bolos."
+      "solution": "חמישית",
+      "definition": "quinta",
+      "exampleSentence": "Esta é a quinta tentativa de resolver o problema."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "שקרי",
-      "definition": "falso",
-      "exampleSentence": "O teste provou que o documento era falso."
+      "solution": "ראשי",
+      "definition": "principal",
+      "exampleSentence": "Este é o objetivo principal do nosso projeto."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "טרוף",
-      "definition": "loucura",
-      "exampleSentence": "Andar sem rumo é uma grande loucura."
+      "solution": "זרוע",
+      "definition": "braço",
+      "exampleSentence": "Ele machucou o braço direito enquanto jogava futebol ontem."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נדמה",
-      "definition": "parece",
-      "exampleSentence": "Hoje o céu parece estar muito limpo."
+      "solution": "לדבר",
+      "definition": "falar",
+      "exampleSentence": "É importante falar português com confiança."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רק",
-      "definition": "só",
-      "exampleSentence": "Eu só quero beber um copo de água."
+      "solution": "לא",
+      "definition": "não",
+      "exampleSentence": "Não, obrigado."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ריח",
-      "definition": "cheiro",
-      "exampleSentence": "O cheiro do bolo de chocolate está delicioso."
+      "solution": "לבד",
+      "definition": "sozinho",
+      "exampleSentence": "Ele prefere morar sozinho em seu apartamento."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ילד",
-      "definition": "garoto",
-      "exampleSentence": "O garoto estuda português todas as tardes na escola."
+      "solution": "בית",
+      "definition": "casa",
+      "exampleSentence": "Minha casa fica perto de um parque bonito."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "בטן",
-      "definition": "estômago",
-      "exampleSentence": "Meu estômago dói quando eu como muito doce."
+      "solution": "מזל",
+      "definition": "sorte",
+      "exampleSentence": "Desejo muita sorte para você no seu novo emprego."
     },
     {
       "direction": "right",
@@ -120,39 +120,39 @@
       "clue_col": 3,
       "solution": "ורד",
       "definition": "rosa",
-      "exampleSentence": "Ele ofereceu-me uma rosa vermelha."
+      "exampleSentence": "Ele me ofereceu uma rosa vermelha."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "דרום",
-      "definition": "sul",
-      "exampleSentence": "O vento frio vem do sul hoje."
+      "solution": "חשוב",
+      "definition": "importante",
+      "exampleSentence": "Estudar todos os dias é muito importante para aprender."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "דג",
-      "definition": "peixe",
-      "exampleSentence": "O peixe nada rapidamente na água limpa."
+      "solution": "תן",
+      "definition": "dê",
+      "exampleSentence": "Por favor, dê-me um copo de água."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קל",
-      "definition": "fácil",
-      "exampleSentence": "Este exercício de matemática é muito fácil."
+      "solution": "אי",
+      "definition": "ilha",
+      "exampleSentence": "Eles moram em uma ilha bonita."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "יפה",
-      "definition": "lindo",
-      "exampleSentence": "Ela tem lindos olhos azuis como o mar."
+      "solution": "יער",
+      "definition": "mata",
+      "exampleSentence": "Muitos animais selvagens vivem na mata fechada."
     }
   ]
 }

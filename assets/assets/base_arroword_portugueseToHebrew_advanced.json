@@ -14,145 +14,145 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אמא",
-      "definition": "mãe",
-      "exampleSentence": "Minha mãe é amável."
+      "solution": "אלם",
+      "definition": "mudo",
+      "exampleSentence": "O ator ficou mudo durante a cena."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "כוכב",
-      "definition": "estrela",
-      "exampleSentence": "A estrela brilha na noite."
+      "solution": "הפרה",
+      "definition": "violação",
+      "exampleSentence": "Isso é uma clara violação das regras."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עיפרון",
-      "definition": "lápis",
-      "exampleSentence": "Escrevi a minha nota com um lápis preto."
+      "solution": "עצמאות",
+      "definition": "independência",
+      "exampleSentence": "A independência do país foi declarada este ano."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חול",
-      "definition": "areia",
-      "exampleSentence": "A areia é quente."
+      "solution": "קיר",
+      "definition": "parede",
+      "exampleSentence": "A parede é branca."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "קר",
-      "definition": "frio",
-      "exampleSentence": "O gelo é frio."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "מכוערת",
-      "definition": "feia",
-      "exampleSentence": "Aquela pintura antiga parece um pouco feia."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "אולי",
-      "definition": "talvez",
-      "exampleSentence": "Talvez amanhã."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "יבשה",
-      "definition": "seca",
-      "exampleSentence": "A terra está muito seca este ano."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "להפר",
-      "definition": "violar",
-      "exampleSentence": "Não deves violar as regras da escola."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "גב",
-      "definition": "costas",
-      "exampleSentence": "As costas doem."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "גרב",
-      "definition": "meia",
-      "exampleSentence": "A meia é branca."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "רזה",
-      "definition": "magro",
-      "exampleSentence": "O meu irmão é alto e muito magro."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "פיל",
-      "definition": "elefante",
-      "exampleSentence": "O elefante é grande."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "רבה",
-      "definition": "imensa",
-      "exampleSentence": "Ela tem uma alegria imensa hoje."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "חושף",
-      "definition": "revela",
-      "exampleSentence": "A carta revela um grande segredo antigo."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "הר",
-      "definition": "montanha",
-      "exampleSentence": "A montanha é alta."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
       "solution": "בז",
       "definition": "falcão",
       "exampleSentence": "O falcão voa muito alto no céu azul."
     },
     {
       "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "להיעזר",
+      "definition": "recorrer",
+      "exampleSentence": "Podemos recorrer a um dicionário agora."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "מפרץ",
+      "definition": "baía",
+      "exampleSentence": "Os barcos estão seguros na baía calma."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "זמני",
+      "definition": "temporário",
+      "exampleSentence": "Este emprego é apenas temporário."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "לנחש",
+      "definition": "adivinhar",
+      "exampleSentence": "Você consegue adivinhar qual é o meu número favorito?"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גל",
+      "definition": "onda",
+      "exampleSentence": "Uma grande onda derrubou o castelo de areia."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גאה",
+      "definition": "orgulhosa",
+      "exampleSentence": "Ela está orgulhosa de seu trabalho bem feito."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "אבא",
+      "definition": "pai",
+      "exampleSentence": "Meu pai é forte."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "מזל",
+      "definition": "fortuna",
+      "exampleSentence": "Ele teve a fortuna de ganhar uma viagem maravilhosa."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אמן",
+      "definition": "amém",
+      "exampleSentence": "Todos disseram amém no fim."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "מונח",
+      "definition": "termo",
+      "exampleSentence": "Este termo técnico é difícil de entender."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "אם",
+      "definition": "se",
+      "exampleSentence": "Se chover amanhã, nós vamos ficar em casa."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "לב",
+      "definition": "coração",
+      "exampleSentence": "O coração bate rápido."
+    },
+    {
+      "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "rio",
-      "exampleSentence": "O rio é longo."
+      "solution": "תיש",
+      "definition": "bode",
+      "exampleSentence": "O bode está comendo grama no campo."
     }
   ]
 }

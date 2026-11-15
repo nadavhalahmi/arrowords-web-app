@@ -14,33 +14,33 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שחק",
-      "definition": "giocato",
-      "exampleSentence": "I bambini hanno giocato nel parco."
+      "solution": "שמן",
+      "definition": "olio",
+      "exampleSentence": "Metto un po' di olio sulla pasta."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "קיום",
-      "definition": "esistenza",
-      "exampleSentence": "L'esistenza di vita su altri pianeti è possibile."
+      "solution": "צעדה",
+      "definition": "marcia",
+      "exampleSentence": "I soldati fanno una lunga marcia sotto il sole."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רהיטים",
-      "definition": "mobili",
-      "exampleSentence": "Abbiamo comprato nuovi mobili per la sala."
+      "solution": "רע מאוד",
+      "definition": "malissimo",
+      "exampleSentence": "Oggi mi sento malissimo."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ריב",
-      "definition": "lite",
-      "exampleSentence": "Hanno avuto una piccola lite per la strada."
+      "solution": "אבן",
+      "definition": "pietra",
+      "exampleSentence": "Ho trovato una pietra qui."
     },
     {
       "direction": "left-down",
@@ -54,105 +54,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "חקירות",
-      "definition": "indagini",
-      "exampleSentence": "La polizia continua le indagini sul furto."
+      "solution": "מצב רוח",
+      "definition": "umore",
+      "exampleSentence": "Oggi sono di buon umore."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "קיבה",
-      "definition": "stomaco",
-      "exampleSentence": "Dopo cena ho un piccolo male allo stomaco."
+      "solution": "נענע",
+      "definition": "menta",
+      "exampleSentence": "Prendo un tè freddo con la menta."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "קורא",
-      "definition": "leggo",
-      "exampleSentence": "Io leggo sempre le notizie del mattino."
+      "solution": "סופר",
+      "definition": "scrittore",
+      "exampleSentence": "Questo famoso scrittore ha scritto molti libri."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "חניה",
-      "definition": "parcheggio",
-      "exampleSentence": "Non trovo un parcheggio libero vicino a casa."
+      "solution": "כריך",
+      "definition": "panino",
+      "exampleSentence": "Mangio un panino con il formaggio."
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חן",
-      "definition": "grazia",
-      "exampleSentence": "La ballerina si muove con molta grazia."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חכם",
-      "definition": "saggio",
-      "exampleSentence": "Il vecchio uomo dà sempre un consiglio saggio."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "כסף",
-      "definition": "denaro",
-      "exampleSentence": "Non ho abbastanza denaro per comprare questa macchina."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "יקח",
-      "definition": "porterà",
-      "exampleSentence": "Il treno ti porterà direttamente a Roma."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "טון",
-      "definition": "tono",
-      "exampleSentence": "Non mi piace il tono di voce che usi con me."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "אירי",
-      "definition": "irlandese",
-      "exampleSentence": "Ho visto un ragazzo irlandese a Roma."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
       "clue_col": 0,
       "solution": "פה",
       "definition": "bocca",
       "exampleSentence": "Ho una mela dolce nella mia bocca."
     },
     {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "פיה",
+      "definition": "fata",
+      "exampleSentence": "La fata buona aiuta la principessa."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ירח",
+      "definition": "luna",
+      "exampleSentence": "La luna illumina il cielo scuro della notte."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "מסך",
+      "definition": "schermo",
+      "exampleSentence": "Il nuovo computer ha uno schermo grande."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אור",
+      "definition": "luce",
+      "exampleSentence": "Accendi la luce della cucina, per favore."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "אופי",
+      "definition": "carattere",
+      "exampleSentence": "Mio fratello ha un carattere molto allegro."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "חן",
+      "definition": "grazia",
+      "exampleSentence": "La ballerina si muove con molta grazia."
+    },
+    {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "miracolo",
-      "exampleSentence": "È stato un vero miracolo trovare le chiavi."
+      "solution": "הר",
+      "definition": "montagna",
+      "exampleSentence": "Sali su questa montagna con me."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מאה",
-      "definition": "secolo",
-      "exampleSentence": "Questo castello risale a un vecchio secolo."
+      "solution": "דרך",
+      "definition": "percorso",
+      "exampleSentence": "Questo percorso in montagna è molto lungo e bello."
     }
   ]
 }

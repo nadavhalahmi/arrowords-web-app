@@ -1,158 +1,158 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_0",
+  "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
   "comments": [
     "Generated intermediate starter base arroword for spanishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_0; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עלה",
-      "definition": "costó",
-      "exampleSentence": "El billete de tren costó veinte euros."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "חוץ",
-      "definition": "exterior",
-      "exampleSentence": "El coche está en el exterior."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "עץ",
-      "definition": "madera",
-      "exampleSentence": "La mesa de la sala es de madera."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "חן",
-      "definition": "gracia",
-      "exampleSentence": "La niña baila con mucha gracia."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 3,
-      "solution": "ברח",
-      "definition": "escapó",
-      "exampleSentence": "El ladrón se escapó por la ventana abierta."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "שאר",
-      "definition": "resto",
-      "exampleSentence": "El resto de los alumnos ya se marchó."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "להתפוצץ",
-      "definition": "explotar",
-      "exampleSentence": "El globo puede explotar muy pronto."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "לא ידוע",
-      "definition": "desconocido",
-      "exampleSentence": "El origen de esta tradición sigue siendo desconocido."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 3,
-      "solution": "לאט",
-      "definition": "lentamente",
-      "exampleSentence": "El coche avanza lentamente por la calle."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חסד",
-      "definition": "bondad",
-      "exampleSentence": "Ella siempre actúa con bondad hacia los demás."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "דופק לב",
-      "definition": "pulso",
-      "exampleSentence": "El esfuerzo físico acelera el pulso cardíaco."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 6,
-      "solution": "בטח",
-      "definition": "seguramente",
-      "exampleSentence": "Seguramente vamos a España el próximo verano."
+      "solution": "חצר",
+      "definition": "patio",
+      "exampleSentence": "Los niños juegan al fútbol en el patio."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אתעדכן",
-      "definition": "entere",
-      "exampleSentence": "Espero que me entere de todo pronto."
+      "solution": "הגון",
+      "definition": "decente",
+      "exampleSentence": "Él es un hombre decente y muy trabajador."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "ישירות",
+      "definition": "directamente",
+      "exampleSentence": "El tren va directamente a la capital."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "טרי",
+      "definition": "fresco",
+      "exampleSentence": "Compro pan fresco en la panadería de la esquina."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "אי",
+      "definition": "isla",
+      "exampleSentence": "Esa pequeña isla tiene playas muy hermosas."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "צהריים",
+      "definition": "mediodía",
+      "exampleSentence": "Almorzamos juntos todos los días al mediodía."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "רגיש",
+      "definition": "sensible",
+      "exampleSentence": "Mi hermano es muy sensible y llora con las películas."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "שורש",
+      "definition": "raíz",
+      "exampleSentence": "El árbol tiene una raíz muy grande y fuerte."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "נבחר",
+      "definition": "elegido",
+      "exampleSentence": "Él fue elegido como el nuevo presidente."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עץ",
+      "definition": "madera",
+      "exampleSentence": "La mesa de la sala es de madera."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עשן",
+      "definition": "humo",
+      "exampleSentence": "Sale mucho humo negro de esa gran chimenea."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שבע",
+      "definition": "siete",
+      "exampleSentence": "La semana tiene siete días en total."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ישן",
+      "definition": "antiguo",
+      "exampleSentence": "Visitamos un castillo antiguo en nuestra última excursión."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "קשב",
-      "definition": "atención",
-      "exampleSentence": "Necesito toda su atención para este proyecto."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 3,
-      "solution": "יפן",
-      "definition": "japón",
-      "exampleSentence": "Japón es un país con una cultura fascinante."
+      "solution": "רוב",
+      "definition": "mayoría",
+      "exampleSentence": "La mayoría de los estudiantes prefiere estudiar por la tarde."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 0,
-      "solution": "רך",
-      "definition": "suave",
-      "exampleSentence": "El pan fresco es muy suave."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "סרח",
-      "definition": "apesta",
-      "exampleSentence": "Ese queso viejo apesta un poco."
+      "clue_col": 2,
+      "solution": "אורח",
+      "definition": "invitado",
+      "exampleSentence": "Cada invitado trajo un postre rico."
     },
     {
       "direction": "right",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "ענף",
-      "definition": "rama",
-      "exampleSentence": "Un pájaro pequeño canta sobre una rama verde."
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "עז",
+      "definition": "cabra",
+      "exampleSentence": "La cabra come hierba fresca en el campo."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "צב",
+      "definition": "tortuga",
+      "exampleSentence": "La tortuga camina muy despacio por el jardín."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "תשר",
+      "definition": "propina",
+      "exampleSentence": "Es costumbre dar una propina en el restaurante."
     }
   ]
 }
