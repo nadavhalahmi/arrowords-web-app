@@ -14,9 +14,9 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חלל",
-      "definition": "太空",
-      "exampleSentence": "宇航员飞向了太空。"
+      "solution": "חלש",
+      "definition": "薄弱",
+      "exampleSentence": "他的身体很薄弱。"
     },
     {
       "direction": "down",
@@ -30,105 +30,105 @@
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שעון יד",
-      "definition": "手表",
-      "exampleSentence": "我有一块手表。"
+      "solution": "תעשייה",
+      "definition": "产业",
+      "exampleSentence": "这个产业发展很快。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מרץ",
-      "definition": "体力",
-      "exampleSentence": "他体力非常好。"
+      "solution": "כמו",
+      "definition": "如同",
+      "exampleSentence": "他如同我的亲人一样。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "או",
-      "definition": "或是",
-      "exampleSentence": "你想喝茶或是咖啡？"
+      "solution": "חי",
+      "definition": "活泼",
+      "exampleSentence": "这个孩子非常活泼。"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להרשות",
-      "definition": "许可",
-      "exampleSentence": "这里不许可吸烟。"
+      "solution": "להמתין",
+      "definition": "待",
+      "exampleSentence": "你先待在这里等我回来。"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לבצע",
-      "definition": "执行",
-      "exampleSentence": "请执行这个新的计划。"
+      "solution": "שבוע",
+      "definition": "礼拜",
+      "exampleSentence": "下个礼拜我们要考试。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רעוע",
-      "definition": "单薄",
-      "exampleSentence": "这件衣服看起来很单薄。"
+      "solution": "כריך",
+      "definition": "三明治",
+      "exampleSentence": "我午饭吃了一个三明治。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "דרמה",
-      "definition": "戏",
-      "exampleSentence": "这出戏非常精彩。"
+      "solution": "לקלל",
+      "definition": "骂",
+      "exampleSentence": "请不要随便骂人。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בז",
-      "definition": "鹰",
-      "exampleSentence": "天空中有一只雄鹰在飞。"
+      "solution": "הר",
+      "definition": "高山",
+      "exampleSentence": "他们正在攀登那座高山。"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בשל",
-      "definition": "熟",
-      "exampleSentence": "这个苹果还没熟，不要吃。"
+      "solution": "הנל",
+      "definition": "以上",
+      "exampleSentence": "以上内容请仔细阅读。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שני",
-      "definition": "乙",
-      "exampleSentence": "他是乙组的选手。"
+      "solution": "נקי",
+      "definition": "净",
+      "exampleSentence": "把桌子擦得干干净净。"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ורד",
-      "definition": "玫瑰",
-      "exampleSentence": "他送了一束玫瑰。"
+      "solution": "שכל",
+      "definition": "头脑",
+      "exampleSentence": "他头脑很聪明。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "נער",
-      "definition": "少年",
-      "exampleSentence": "那个少年在公园里踢球。"
+      "solution": "ירק",
+      "definition": "蔬菜",
+      "exampleSentence": "多吃蔬菜对身体好。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "היום",
-      "definition": "今日",
-      "exampleSentence": "今日天气非常好，适合运动。"
+      "solution": "חייל",
+      "definition": "军人",
+      "exampleSentence": "他是一名光荣的军人。"
     },
     {
       "direction": "right",
@@ -142,17 +142,17 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "זן",
-      "definition": "品种",
-      "exampleSentence": "这种狗的品种很稀有。"
+      "solution": "רק",
+      "definition": "只不过",
+      "exampleSentence": "这只不过是一个小错误。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "דעה",
-      "definition": "见解",
-      "exampleSentence": "他对此有独特的见解。"
+      "solution": "הכל",
+      "definition": "全都",
+      "exampleSentence": "大家都全都到了。"
     }
   ]
 }

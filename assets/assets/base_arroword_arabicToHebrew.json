@@ -14,137 +14,137 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מהם",
-      "definition": "مِنْهُمْ",
-      "exampleSentence": "هَؤُلَاءِ أَصْدِقَائِي وَكَثِيرٌ مِنْهُمْ يَسْكُنُونَ هُنَا."
+      "solution": "ממך",
+      "definition": "مِنْكْ",
+      "exampleSentence": "أخذت الكثير من الأشياء مِنْك"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "מאוד",
-      "definition": "جِدًّا",
-      "exampleSentence": "هَذَا الْفِيلْمُ مُمْتِعٌ جِدًّا."
+      "solution": "יותר",
+      "definition": "أَكْثَرْ",
+      "exampleSentence": "أريد أن أقرأ كتباً أَكْثَرْ في هذا المساء."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אלוהים",
-      "definition": "اللَّهْ",
-      "exampleSentence": "اللَّه هو الذي يعلم كل شيء في الكون."
+      "solution": "יודעים",
+      "definition": "يَعْرِفُونْ",
+      "exampleSentence": "هُمْ يَعْرِفُونَ الطَّرِيقَ إِلَى الْمَدْرَسَةِ جَيِّدًا"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "פתח",
-      "definition": "فَتْحْ",
-      "exampleSentence": "فَتَحَ الْوَلَدُ الْبَابَ لِيَدْخُلَ إِلَى الْغُرْفَة"
+      "solution": "חלל",
+      "definition": "الْفَضَاءْ",
+      "exampleSentence": "يُسَافِرُ النَّاسُ إِلَى الْفَضَاءْ لِرُؤْيَةِ الْكَوَاكِبِ."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "مَنْ",
-      "exampleSentence": "مَنْ هُوَ الشَّخْصُ الَّذِي يَتَحَدَّثُ هُنَاكْ"
+      "solution": "או",
+      "definition": "أَوْ",
+      "exampleSentence": "تُرِيدُ شُرْبَ الشَّايِ أَوْ الْقَهْوَة؟"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "המתאים",
-      "definition": "الْمُنَاسِبْ",
-      "exampleSentence": "هَذَا هُوَ الْوَقْتُ الْمُنَاسِبْ لِلِاتِّصَالِ بِصَدِيقِي"
+      "solution": "מיליון",
+      "definition": "مِلْيُونْ",
+      "exampleSentence": "يُوجَدُ مِلْيُونُ نَجْمَةٍ فِي السَّمَاءِ الصَّافِيَةِ لَيْلًا"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מאחל",
-      "definition": "أَتَمَنَّى",
-      "exampleSentence": "أَتَمَنَّى لَكَ يَوْمًا سَعِيدًا وَمَلِيئًا بِالنَّجَاحْ."
+      "solution": "כולו",
+      "definition": "بِأَكْمَلِهْ",
+      "exampleSentence": "أَكَلْتُ التُّفَّاحَةَ بِأَكْمَلِهَا لِأَنَّهَا كَانَتْ لَذِيذَة"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לילה",
-      "definition": "لَيْلَة",
-      "exampleSentence": "قَضَيْنَا لَيْلَةَ جَمِيلَةً تَحْتَ ضَوْءِ الْقَمَرْ"
+      "solution": "קורה",
+      "definition": "يَحْدُثْ",
+      "exampleSentence": "مَا الَّذِي يَحْدُثُ فِي الشَّارِعِ الْآنْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "אומר",
-      "definition": "يَقُولْ",
-      "exampleSentence": "أَبِي يَقُولُ دَائِمًا الصِّدْقُ هُوَ الْأَفْضَلْ"
+      "solution": "הדבר",
+      "definition": "الشَّيْءْ",
+      "exampleSentence": "هَذَا الشَّيْءُ مُهِمٌّ جِدًّا لِلْعَمَلْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יש",
-      "definition": "هُنَاكْ",
-      "exampleSentence": "هُنَاكَ كِتَابٌ جَدِيدٌ عَلَى الْمَكْتَبْ"
+      "solution": "עם",
+      "definition": "مَعْ",
+      "exampleSentence": "أَنَا أَذْهَبُ إِلَى السُّوقِ مَعَ أُمِّي"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "יחד",
-      "definition": "جَمِيعاْ",
-      "exampleSentence": "نَحْنُ نَلْعَبُ جَمِيعاً فِي الْحَدِيقَةِ الْكَبِيرَة"
+      "solution": "עבר",
+      "definition": "مَضَى",
+      "exampleSentence": "مَضَى وَقْتٌ طَوِيلٌ مُنْذُ آخِرِ لِقَاءٍ لَنَا"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "חמש",
-      "definition": "خَمْسْ",
-      "exampleSentence": "اشْتَرَيْتُ خَمْسَ تُفَّاحَاتٍ حَمْرَاءَ مِنَ السُّوقِ الْيَوْمْ"
+      "solution": "בהם",
+      "definition": "بِهِمْ",
+      "exampleSentence": "أَنَا فَخُورٌ بِهِمْ لِأَنَّهُمْ نَجَحُوا فِي دِرَاسَتِهِمْ"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ולא",
-      "definition": "وَلَيْسْ",
-      "exampleSentence": "هَذَا الْكِتَابُ قَدِيمٌ وَلَيْسَ جَدِيداً عَلَى الْإِطْلَاقْ"
+      "solution": "דקה",
+      "definition": "دَقِيقَة",
+      "exampleSentence": "انْتَظِرْنِي دَقِيقَةً وَاحِدَةً وَسَأَكُونُ جَاهِزًا لِلْخُرُوجْ"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "היו",
-      "definition": "كَانُوا",
-      "exampleSentence": "كَانُوا أَصْدِقَاءَ فِي الْمَدْرَسَةِ الْقَدِيمَة"
+      "solution": "עוד",
+      "definition": "الْمَزِيدْ",
+      "exampleSentence": "أُرِيدُ الْمَزِيدَ مِنَ الْمَعْلُومَاتِ عَنْ هَذَا الْمَوْضُوعْ"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "שילם",
-      "definition": "دَفَعْ",
-      "exampleSentence": "دَفَعَ الرَّجُلُ ثَمَنَ الطَّعَامِ فِي الْمَطْعَمْ"
+      "solution": "סירב",
+      "definition": "أَبَى",
+      "exampleSentence": "أَبَى الطفل أكل طعامه اليوم."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "سِتَّة",
-      "exampleSentence": "اشتريت سِتَّة أقلام ملونة للمدرسة."
+      "solution": "מי",
+      "definition": "مَنْ",
+      "exampleSentence": "مَنْ هُوَ الشَّخْصُ الَّذِي يَتَحَدَّثُ هُنَاكْ"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שם",
-      "definition": "هُنَاكْ",
-      "exampleSentence": "يُوجَدُ شَجَرَةٌ كَبِيرَةٌ هُنَاكَ فِي الْحَدِيقَهْ"
+      "solution": "מה",
+      "definition": "مَا",
+      "exampleSentence": "مَا اسْمُكَ يَا أَخِي الصَّغِيرْ"
     },
     {
       "direction": "right",

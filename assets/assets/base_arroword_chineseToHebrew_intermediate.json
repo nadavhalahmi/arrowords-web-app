@@ -22,9 +22,9 @@
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ברכה",
-      "definition": "福",
-      "exampleSentence": "全家人平安就是福。"
+      "solution": "קולב",
+      "definition": "衣架",
+      "exampleSentence": "请把衣服挂在衣架上。"
     },
     {
       "direction": "down",
@@ -38,33 +38,33 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חוט",
-      "definition": "线",
-      "exampleSentence": "这根线很长。"
+      "solution": "טוב",
+      "definition": "美好",
+      "exampleSentence": "祝你一切美好。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "לב",
-      "definition": "心",
-      "exampleSentence": "他是我心中的爱。"
+      "solution": "רק",
+      "definition": "仅",
+      "exampleSentence": "这里仅有三个人。"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מבולבל",
-      "definition": "迷",
-      "exampleSentence": "我有点迷路了。"
+      "solution": "מקולקל",
+      "definition": "糟",
+      "exampleSentence": "这天气真是太糟了。"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "חרטה",
-      "definition": "后悔",
-      "exampleSentence": "我真后悔没听你的话。"
+      "solution": "חובה",
+      "definition": "责任",
+      "exampleSentence": "这次失败是我的责任。"
     },
     {
       "direction": "down",
@@ -86,25 +86,25 @@
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רק",
-      "definition": "仅",
-      "exampleSentence": "这里仅有三个人。"
+      "solution": "כל",
+      "definition": "各",
+      "exampleSentence": "各人有各人的想法。"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רמה",
-      "definition": "程度",
-      "exampleSentence": "他达到了很高程度。"
+      "solution": "כאב",
+      "definition": "痛",
+      "exampleSentence": "我的头很痛。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מלא",
-      "definition": "充满",
-      "exampleSentence": "这个房间里充满欢声笑语。"
+      "solution": "אבא",
+      "definition": "父亲",
+      "exampleSentence": "我的父亲是医生。"
     },
     {
       "direction": "right",
@@ -142,9 +142,9 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קל",
-      "definition": "容易",
-      "exampleSentence": "这个问题很容易。"
+      "solution": "לב",
+      "definition": "心",
+      "exampleSentence": "他是我心中的爱。"
     },
     {
       "direction": "right",

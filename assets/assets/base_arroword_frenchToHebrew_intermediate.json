@@ -14,73 +14,73 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "ממש",
-      "definition": "véritablement",
-      "exampleSentence": "C'est une personne véritablement généreuse avec tous."
+      "solution": "שחר",
+      "definition": "aurore",
+      "exampleSentence": "Les premiers rayons de l'aurore éclairent la vallée."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בושה",
-      "definition": "pudeur",
-      "exampleSentence": "Elle répond aux questions avec beaucoup de pudeur."
+      "solution": "שמחה",
+      "definition": "félicité",
+      "exampleSentence": "Ils vivent dans le calme et la félicité."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להרחיב",
-      "definition": "élargir",
-      "exampleSentence": "On doit élargir cette route pour éviter les embouteillages."
+      "solution": "לייפות",
+      "definition": "embellir",
+      "exampleSentence": "Elle veut embellir son jardin avec des fleurs."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חור",
-      "definition": "bled",
-      "exampleSentence": "Il habite dans un petit bled perdu au milieu de la campagne."
+      "solution": "טמא",
+      "definition": "impur",
+      "exampleSentence": "L'eau de cette rivière est devenue impure et sale."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "צב",
-      "definition": "tortue",
-      "exampleSentence": "La petite tortue marche lentement sur le sentier vert."
+      "solution": "תא",
+      "definition": "cabine",
+      "exampleSentence": "Il entre dans la cabine pour passer un appel."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מבולבל",
-      "definition": "perplexe",
-      "exampleSentence": "Le détective resta perplexe devant ce mystérieux indice."
+      "solution": "חשמלאי",
+      "definition": "électricien",
+      "exampleSentence": "L'électricien répare la lampe dans le salon."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "שורה",
-      "definition": "rail",
-      "exampleSentence": "Le train roule sur le rail en acier."
+      "solution": "רמאי",
+      "definition": "tricheur",
+      "exampleSentence": "Personne n'aime jouer avec un tricheur."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "עונש",
-      "definition": "sanction",
-      "exampleSentence": "La sanction est nécessaire pour respecter les règles."
+      "solution": "מרבי",
+      "definition": "maximal",
+      "exampleSentence": "Nous faisons un effort maximal pour réussir ce projet."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "שביל",
-      "definition": "sentier",
-      "exampleSentence": "Ce sentier de montagne est très agréable à marcher."
+      "solution": "ישיש",
+      "definition": "vieillard",
+      "exampleSentence": "Le vieillard raconte des histoires de sa jeunesse."
     },
     {
       "direction": "down",
@@ -94,49 +94,49 @@
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גדה",
-      "definition": "rive",
-      "exampleSentence": "La rivière coule doucement près de la rive."
+      "solution": "גבה",
+      "definition": "sourcil",
+      "exampleSentence": "Il a une petite cicatrice juste au-dessus du sourcil."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "דלק",
-      "definition": "carburant",
-      "exampleSentence": "Le prix du carburant augmente chaque semaine."
+      "solution": "בלם",
+      "definition": "frein",
+      "exampleSentence": "Appuie sur le frein pour arrêter la voiture."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רעש",
-      "definition": "boucan",
-      "exampleSentence": "Pourquoi faites-vous tout ce boucan dans la chambre ?"
+      "solution": "ימי",
+      "definition": "naval",
+      "exampleSentence": "La base navale accueille plusieurs grands navires militaires."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חוב",
-      "definition": "ardoise",
-      "exampleSentence": "Le client a payé toute son ardoise au café."
+      "solution": "פרש",
+      "definition": "cavalier",
+      "exampleSentence": "Le cavalier monte un beau cheval noir."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מיני",
-      "definition": "mini",
-      "exampleSentence": "Elle porte une jolie jupe mini en été."
+      "solution": "עובי",
+      "definition": "épaisseur",
+      "exampleSentence": "Ce livre a une épaisseur de cinq centimètres."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קש",
-      "definition": "paille",
-      "exampleSentence": "Le cheval mange de la paille fraîche dans l'écurie."
+      "solution": "מר",
+      "definition": "amer",
+      "exampleSentence": "Ce chocolat noir est un peu trop amer à mon goût."
     },
     {
       "direction": "up-right",
@@ -150,9 +150,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "בשל",
-      "definition": "mûr",
-      "exampleSentence": "Ce fruit est bien mûr et très sucré."
+      "solution": "תיש",
+      "definition": "bouc",
+      "exampleSentence": "Le bouc broute de l'herbe fraîche au milieu des rochers."
     }
   ]
 }

@@ -14,145 +14,145 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמי",
-      "definition": "ονομάζομαι",
-      "exampleSentence": "Εγώ ονομάζομαι Νίκος από την Ελλάδα."
+      "solution": "יכל",
+      "definition": "μπόρεσε",
+      "exampleSentence": "Ο αθλητής μπόρεσε να κάνει τον αγώνα."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אצבע",
-      "definition": "δάχτυλο",
-      "exampleSentence": "Πονάει το δάχτυλο στο χέρι μου."
+      "solution": "נוזל",
+      "definition": "υγρό",
+      "exampleSentence": "Το νερό είναι ένα απαραίτητο υγρό για τη ζωή."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "הודעות",
-      "definition": "μηνύματα",
-      "exampleSentence": "Έλαβα πολλά μηνύματα στο κινητό μου."
+      "solution": "ידידות",
+      "definition": "φιλία",
+      "exampleSentence": "Η φιλία είναι ένα πολύτιμο δώρο ζωής."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "הוא",
-      "definition": "εκείνος",
-      "exampleSentence": "Εκείνος είναι πολύ μεγάλος."
+      "solution": "שפם",
+      "definition": "μουστάκι",
+      "exampleSentence": "Ο παππούς μου έχει ένα μεγάλο άσπρο μουστάκι."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "גב",
-      "definition": "πλάτη",
-      "exampleSentence": "Με πονάει λίγο η πλάτη μου."
+      "solution": "אי",
+      "definition": "νησί",
+      "exampleSentence": "Το νησί έχει καθαρό αέρα."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מאוהבת",
-      "definition": "ερωτευμένη",
-      "exampleSentence": "Είναι ερωτευμένη με τον καλύτερό της φίλο."
+      "solution": "כנפיים",
+      "definition": "φτερά",
+      "exampleSentence": "Τα πουλιά ανοίγουν τα φτερά τους και πετούν."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "יצאו",
-      "definition": "βγήκαν",
-      "exampleSentence": "Τα παιδιά βγήκαν έξω τώρα."
+      "solution": "לומד",
+      "definition": "μαθαίνω",
+      "exampleSentence": "Μαθαίνω ελληνικά κάθε μέρα στο σχολείο."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שומן",
-      "definition": "λίπος",
-      "exampleSentence": "Το κρέας έχει πολύ λίπος."
+      "solution": "שולח",
+      "definition": "στέλνει",
+      "exampleSentence": "Ο φίλος μου μου στέλνει ένα μήνυμα κάθε μέρα."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ארוך",
-      "definition": "μακρύ",
-      "exampleSentence": "Το ταξίδι με το τρένο ήταν πολύ μακρύ."
+      "solution": "רבות",
+      "definition": "πολλές",
+      "exampleSentence": "Έχω πολλές δουλειές να κάνω σήμερα."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "תא",
-      "definition": "κελί",
-      "exampleSentence": "Το πουλί είναι μέσα στο κελί του."
+      "solution": "פה",
+      "definition": "στόμα",
+      "exampleSentence": "Άνοιξε το στόμα σου για τον γιατρό."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "תשע",
-      "definition": "εννέα",
-      "exampleSentence": "Έχω εννέα αδέρφια στην οικογένειά μου."
+      "solution": "פסל",
+      "definition": "άγαλμα",
+      "exampleSentence": "Το άγαλμα βρίσκεται στην πλατεία της πόλης."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שבר",
-      "definition": "έσπασε",
-      "exampleSentence": "Το παιδί έσπασε το βάζο κατά λάθος."
+      "solution": "סרן",
+      "definition": "λοχαγός",
+      "exampleSentence": "Ο λοχαγός έδωσε εντολή στους στρατιώτες του."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "דשא",
-      "definition": "γρασίδι",
-      "exampleSentence": "Το γρασίδι στον κήπο είναι πολύ πράσινο."
+      "solution": "ישר",
+      "definition": "ευθεία",
+      "exampleSentence": "Περπάτα ευθεία και θα δεις το πάρκο."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "עור",
-      "definition": "δέρμα",
-      "exampleSentence": "Το δέρμα μου είναι ευαίσθητο στον ήλιο."
+      "solution": "דוב",
+      "definition": "αρκούδα",
+      "exampleSentence": "Είδαμε μια μεγάλη αρκούδα μέσα στο δάσος."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "הומו",
-      "definition": "γκέι",
-      "exampleSentence": "Ο φίλος μου είναι γκέι και είναι πολύ ευτυχισμένος."
+      "solution": "פולו",
+      "definition": "πόλο",
+      "exampleSentence": "Παίζουμε πόλο στην πισίνα κάθε καλοκαίρι."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "πολύς",
-      "exampleSentence": "Υπάρχει πολύς κόσμος στην πλατεία σήμερα."
+      "solution": "נס",
+      "definition": "θαύμα",
+      "exampleSentence": "Είναι θαύμα που είμαστε όλοι καλά."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "אב",
-      "definition": "πάτερ",
-      "exampleSentence": "Ο πάτερ είναι στην εκκλησία."
+      "solution": "הר",
+      "definition": "βουνό",
+      "exampleSentence": "Πήγαμε στο βουνό με τα πόδια."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תנך",
-      "definition": "βίβλο",
-      "exampleSentence": "Διαβάζω ιστορίες από την Αγία Βίβλο."
+      "solution": "תחת",
+      "definition": "υπό",
+      "exampleSentence": "Το παιδί είναι υπό την προστασία μας."
     }
   ]
 }

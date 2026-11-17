@@ -2,6 +2,8 @@
   "num_rows": 7,
   "num_cols": 7,
   "mask_id": "mask_7_7_5",
+  "starter_band": "beginner",
+  "roadmap_level": 1,
   "comments": [
     "Generated clean beginner starter base arroword for hebrewToHebrew",
     "Total clues: 18",

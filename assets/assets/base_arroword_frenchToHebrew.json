@@ -1,158 +1,191 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_5",
+  "mask_id": "mask_7_7_10_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
   "comments": [
-    "Generated beginner starter base arroword for frenchToHebrew",
-    "Total clues: 18",
-    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
+    "Generated starter base arroword for frenchToHebrew",
+    "Mask: mask_7_7_10_5 (7x7)",
+    "Total clues: 22",
+    "Curated for easiest beginner French vocabulary with 100% natural, crisp definitions."
   ],
   "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "הכל",
+      "definition": "tout",
+      "exampleSentence": "Tout le monde est arrivé à la fête."
+    },
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "גאה",
-      "definition": "fier",
-      "exampleSentence": "Je suis très fier de réussir mes examens de français."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "נאלץ",
-      "definition": "obligé",
-      "exampleSentence": "Il a été obligé de changer ses plans."
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "להחזיק",
-      "definition": "avoir",
-      "exampleSentence": "Je vais avoir un nouveau chat noir demain."
+      "solution": "היא",
+      "definition": "elle",
+      "exampleSentence": "Elle chante une jolie chanson française."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רגל",
-      "definition": "pied",
-      "exampleSentence": "J'ai mal au pied après avoir marché longtemps."
+      "solution": "לא",
+      "definition": "non",
+      "exampleSentence": "Non, je préfère rester ici aujourd'hui."
     },
     {
-      "direction": "left-down",
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "בת",
+      "definition": "fille",
+      "exampleSentence": "Leur fille aînée étudie l'économie à l'université."
+    },
+    {
+      "direction": "down",
       "clue_row": 0,
       "clue_col": 6,
+      "solution": "תה",
+      "definition": "thé",
+      "exampleSentence": "Je bois une tasse de thé chaud le matin."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 2,
+      "solution": "בחירה",
+      "definition": "choix",
+      "exampleSentence": "Le choix entre ces deux livres est difficile."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "לרמות",
+      "definition": "tromper",
+      "exampleSentence": "Il a essayé de me tromper avec un faux billet."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "במה",
+      "definition": "scène",
+      "exampleSentence": "Les acteurs entrent sur la scène du théâtre."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 2,
+      "clue_col": 0,
       "solution": "חי",
       "definition": "vivant",
       "exampleSentence": "Ce grand écrivain est encore très vivant."
     },
     {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "אנגלית",
-      "definition": "anglais",
-      "exampleSentence": "La langue anglaise est très utile pour voyager."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "האלה",
-      "definition": "ces",
-      "exampleSentence": "Ces enfants jouent joyeusement dans le parc."
-    },
-    {
       "direction": "down",
       "clue_row": 2,
-      "clue_col": 5,
-      "solution": "למטה",
-      "definition": "bas",
-      "exampleSentence": "Le chat est descendu tout en bas de l'arbre."
+      "clue_col": 3,
+      "solution": "זו",
+      "definition": "cette",
+      "exampleSentence": "Cette belle histoire plaît aux enfants."
     },
     {
-      "direction": "down",
+      "direction": "right",
       "clue_row": 2,
-      "clue_col": 6,
-      "solution": "לנהל",
-      "definition": "gérer",
-      "exampleSentence": "Le directeur doit gérer tous les problèmes de l'entreprise."
+      "clue_col": 3,
+      "solution": "למה",
+      "definition": "pourquoi",
+      "exampleSentence": "Pourquoi tu ne manges pas ta soupe ?"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
+      "solution": "מי",
+      "definition": "qui",
+      "exampleSentence": "Qui a sonné à la porte ?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "חזרה",
+      "definition": "retour",
+      "exampleSentence": "Nous fêtons le retour du printemps."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 1,
       "solution": "אב",
       "definition": "père",
       "exampleSentence": "C'est un père très attentif avec ses enfants."
     },
     {
-      "direction": "down-right",
+      "direction": "down",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "ארץ",
-      "definition": "terre",
-      "exampleSentence": "La terre tourne lentement autour du soleil."
+      "clue_col": 6,
+      "solution": "שאר",
+      "definition": "reste",
+      "exampleSentence": "Les enfants jouent et le reste travaille."
     },
     {
       "direction": "down",
-      "clue_row": 3,
+      "clue_row": 4,
       "clue_col": 1,
-      "solution": "ראש",
-      "definition": "tête",
-      "exampleSentence": "Il porte un chapeau noir sur sa tête."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "חלל",
-      "definition": "vide",
-      "exampleSentence": "Il y a un grand vide dans cette pièce."
+      "solution": "על",
+      "definition": "sur",
+      "exampleSentence": "Le chat dort sur le tapis du salon."
     },
     {
       "direction": "right",
       "clue_row": 4,
-      "clue_col": 3,
-      "solution": "זמן",
-      "definition": "temps",
-      "exampleSentence": "Nous avons assez de temps pour visiter le musée."
+      "clue_col": 1,
+      "solution": "יום",
+      "definition": "journée",
+      "exampleSentence": "Passez une excellente journée en famille."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "לו",
+      "definition": "lui",
+      "exampleSentence": "Je lui ai offert un livre pour son anniversaire."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 2,
-      "solution": "מיטה",
-      "definition": "lit",
-      "exampleSentence": "Je suis fatigué, je vais me coucher dans mon lit."
+      "clue_col": 3,
+      "solution": "ולא",
+      "definition": "ni",
+      "exampleSentence": "Il ne mange ni viande ni poisson le vendredi."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שם",
-      "definition": "là",
-      "exampleSentence": "Le livre est posé là sur la table."
+      "solution": "לה",
+      "definition": "la",
+      "exampleSentence": "Il faut la prendre avec nous."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בא",
-      "definition": "venu",
-      "exampleSentence": "Il est venu me rendre visite hier soir."
+      "solution": "יער",
+      "definition": "bois",
+      "exampleSentence": "Nous aimons faire une promenade dans les bois."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "קהל",
-      "definition": "public",
-      "exampleSentence": "Le public applaudit chaleureusement à la fin du concert."
+      "solution": "תור",
+      "definition": "tour",
+      "exampleSentence": "C'est mon tour de jouer au football."
     }
   ]
 }

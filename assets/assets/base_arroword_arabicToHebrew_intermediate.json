@@ -14,25 +14,25 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמה",
-      "definition": "تُدْعَى",
-      "exampleSentence": "تِلْكَ الْفَتَاةُ الصَّغِيرَةُ تُدْعَى سَارَة"
+      "solution": "שמח",
+      "definition": "مَسْرُورْ",
+      "exampleSentence": "أَنَا مَسْرُورٌ بِقَبُولِ دَعْوَتِكُمْ لِحُضُورِ الحَفْلْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שקטה",
-      "definition": "هَادِئَة",
-      "exampleSentence": "الْقَرْيَةُ هَادِئَةٌ جِدًّا فِي وَقْتِ الصَّبَاحِ الْبَاكِرْ"
+      "solution": "מבנה",
+      "definition": "مَبْنَى",
+      "exampleSentence": "هَذَا الْمَبْنَى قَدِيمٌ جِدًّا وَجَمِيلْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מחפשים",
-      "definition": "يَبْحَثُونْ",
-      "exampleSentence": "الطُّلَّابُ يَبْحَثُونَ عَنْ مَعْلُومَاتٍ فِي الْمَكْتَبَةِ الْعَامَّة."
+      "solution": "חומרים",
+      "definition": "الْمَوَادْ",
+      "exampleSentence": "يَجِبُ حِفْظُ الْمَوَادِّ الْكِيمْيَائِيَّةِ فِي مَكَانٍ آمِنْ"
     },
     {
       "direction": "left-down",
@@ -46,113 +46,113 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בא",
-      "definition": "أَتَى",
-      "exampleSentence": "أَتَى الصَّيْفُ وَبَدَأَتِ الْعُطْلَةُ الْمَدْرَسِيَّة"
+      "solution": "שש",
+      "definition": "سِتّْ",
+      "exampleSentence": "اشْتَرَيْتُ سِتَّ تُفَّاحَاتٍ مِنَ الْمَتْجَرِ الْكَبِيرْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "משום אי",
-      "definition": "لعدم",
-      "exampleSentence": "خسر لعدم تنفيذ الأوامر."
+      "solution": "ממוחשב",
+      "definition": "آلِي",
+      "exampleSentence": "نِظَامُ الْعَمَلِ فِي الشَّرِكَةِ أَصْبَحَ آلِيًّا بِالْكَامِلْ"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הקרח",
-      "definition": "الْجَلِيدْ",
-      "exampleSentence": "يَصِيرُ الْجَلِيدْ مَاءً تَحْتَ أَشِعَّةِ الشَّمْسِ"
+      "solution": "חברו",
+      "definition": "صَدِيقُهْ",
+      "exampleSentence": "ذَهَبَ أَحْمَدُ مَعَ صَدِيقِهِ إِلَى الْمَكْتَبَة"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "נמצא",
-      "definition": "يَتَوَاجَدْ",
-      "exampleSentence": "يَتَوَاجَدُ الْكَثِيرُ مِنَ النَّاسِ فِي وَسَطِ الْمَدِينَة"
+      "solution": "אותה",
+      "definition": "إِيَّاهَا",
+      "exampleSentence": "رَأَيْتُ صَدِيقَتِي وَأَعْطَيْتُهَا إِيَّاهَا هَدِيَّة"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ועדה",
-      "definition": "لَجْنَة",
-      "exampleSentence": "اجْتَمَعَتِ اللَّجْنَةُ لِمُنَاقَشَةِ خُطَّةِ الْعَمَلِ الْجَدِيدَة"
+      "solution": "הבור",
+      "definition": "حُفْرَة",
+      "exampleSentence": "سَقَطَتِ الْكُرَةُ دَاخِلَ الْحُفْرَةِ الْعَمِيقَةِ فِي الْأَرْضْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בת",
-      "definition": "بِنْتْ",
-      "exampleSentence": "تِلْكَ بِنْتٌ ذَكِيَّةٌ تُحِبُّ الْقِرَاءَةَ كَثِيرًا."
+      "solution": "די",
+      "definition": "كَافِي",
+      "exampleSentence": "هذا الطعام كَافِي لجميع الضيوف اليوم."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בעה",
-      "definition": "صَاحِبَة",
-      "exampleSentence": "هِيَ صَاحِبَةُ الشَّرِكَةِ الَّتِي أَعْمَلُ فِيهَا"
+      "solution": "דחה",
+      "definition": "رَفَضْ",
+      "exampleSentence": "رَفَضَ الْمُدِيرُ طَلَبِي بِسَبَبِ ضِيقِ الْوَقْتْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ענק",
-      "definition": "ضَخْمْ",
-      "exampleSentence": "رَأَيْتُ فِيلًا ضَخْمًا فِي حَدِيقَةِ الْحَيَوَانْ"
+      "solution": "חמש",
+      "definition": "خَمْسْ",
+      "exampleSentence": "اشْتَرَيْتُ خَمْسَ تُفَّاحَاتٍ حَمْرَاءَ مِنَ السُّوقِ الْيَوْمْ"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "פנו",
-      "definition": "فَارِغْ",
-      "exampleSentence": "الْمَقْعَدُ فَارِغٌ يُمْكِنُكَ الْجُلُوسُ هُنَا يَا صَدِيقِي."
+      "solution": "מאה",
+      "definition": "مِئَة",
+      "exampleSentence": "قَرَأْتُ مِئَةَ صَفْحَةٍ مِنَ الرِّوَايَةِ هَذَا الْمَسَاءْ."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "שמע",
-      "definition": "سَمِعْ",
-      "exampleSentence": "سَمِعَ الطِّفْلُ صَوْتًا غَرِيبًا فِي الْغُرْفَة"
+      "solution": "רוב",
+      "definition": "أَغْلَبْ",
+      "exampleSentence": "أَغْلَبُ النَّاسِ يُحِبُّونَ الطَّقْسَ الْجَمِيل"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "כיצד",
-      "definition": "كَيْفِيَّة",
-      "exampleSentence": "تَعَلَّمْتُ كَيْفِيَّةَ صُنْعِ الْخُبْزِ فِي الْبَيْتْ"
+      "solution": "ביתו",
+      "definition": "مَنْزِلُهْ",
+      "exampleSentence": "ذَهَبْتُ لِزِيَارَةِ صَدِيقِي فِي مَنْزِلِهِ الْجَدِيدْ."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קר",
-      "definition": "بَارِدْ",
-      "exampleSentence": "الْجَوُّ بَارِدٌ جِدًّا فِي فَصْلِ الشِّتَاءْ"
+      "solution": "שן",
+      "definition": "سِنّْ",
+      "exampleSentence": "سَقَطَتْ سِنُّ الطِّفْلِ الصَّغِيرِ وَهُوَ يَأْكُلُ التُّفَّاحَة"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "תן",
-      "definition": "أَعْطْ",
-      "exampleSentence": "أَعْطِ الْكِتَابَ لِصَدِيقِكَ بَعْدَ الْقِرَاءَة"
+      "solution": "ים",
+      "definition": "الْبَحْرْ",
+      "exampleSentence": "السِّبَاحَةُ فِي الْبَحْرِ مُمْتِعَةٌ جِدًّا فِي الصَّيْفْ"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מאה",
-      "definition": "مِئَة",
-      "exampleSentence": "قَرَأْتُ مِئَةَ صَفْحَةٍ مِنَ الرِّوَايَةِ هَذَا الْمَسَاءْ."
+      "solution": "מהר",
+      "definition": "سَرِيعًا",
+      "exampleSentence": "سَوْفَ نَعُودُ سَرِيعًا إِلَى البَيْتْ"
     }
   ]
 }

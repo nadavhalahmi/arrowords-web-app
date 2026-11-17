@@ -14,17 +14,17 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "כלב",
-      "definition": "cane",
-      "exampleSentence": "Il cane abbaia nel giardino dei vicini."
+      "solution": "שבע",
+      "definition": "sette",
+      "exampleSentence": "La settimana ha sette giorni."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אופן",
-      "definition": "modo",
-      "exampleSentence": "Parla in un modo molto gentile con tutti."
+      "solution": "רצון",
+      "definition": "voglia",
+      "exampleSentence": "Ho molta voglia di mangiare una pizza."
     },
     {
       "direction": "down",
@@ -38,33 +38,33 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "היא",
-      "definition": "lei",
-      "exampleSentence": "Lei è una studentessa molto brava."
+      "solution": "מים",
+      "definition": "acqua",
+      "exampleSentence": "Bevo un bicchiere d'acqua fresca."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "עם",
-      "definition": "con",
-      "exampleSentence": "Vado al mare con i miei amici."
+      "solution": "או",
+      "definition": "oppure",
+      "exampleSentence": "Vuoi un caffè oppure un tè?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "לא יאמן",
-      "definition": "incredibile",
-      "exampleSentence": "Questo paesaggio naturale è incredibile."
+      "solution": "בריאות",
+      "definition": "salute",
+      "exampleSentence": "Mangiare frutta fa bene alla salute."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "בואו",
-      "definition": "venite",
-      "exampleSentence": "Venite a casa mia per cena stasera."
+      "solution": "עצמו",
+      "definition": "sé",
+      "exampleSentence": "Lui pensa sempre solo a sé."
     },
     {
       "direction": "down",
@@ -78,9 +78,9 @@
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "שקטה",
-      "definition": "tranquilla",
-      "exampleSentence": "Vivo in una strada molto tranquilla e silenziosa."
+      "solution": "שלמה",
+      "definition": "intera",
+      "exampleSentence": "Ho letto la storia intera in un'ora."
     },
     {
       "direction": "down",
@@ -118,17 +118,17 @@
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חלק",
-      "definition": "parte",
-      "exampleSentence": "Ho letto solo la prima parte del libro."
+      "solution": "חלל",
+      "definition": "spazio",
+      "exampleSentence": "Gli astronauti viaggiano nello spazio profondo."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סיוט",
-      "definition": "incubo",
-      "exampleSentence": "Ho fatto un brutto incubo stanotte."
+      "solution": "היום",
+      "definition": "oggi",
+      "exampleSentence": "Come stai oggi?"
     },
     {
       "direction": "right",

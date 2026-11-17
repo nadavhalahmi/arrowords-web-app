@@ -22,25 +22,25 @@
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "צעדה",
-      "definition": "marcia",
-      "exampleSentence": "I soldati fanno una lunga marcia sotto il sole."
+      "solution": "צחוק",
+      "definition": "riso",
+      "exampleSentence": "La sua battuta ha provocato un grande riso in sala."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רע מאוד",
-      "definition": "malissimo",
-      "exampleSentence": "Oggi mi sento malissimo."
+      "solution": "מדרגות",
+      "definition": "scale",
+      "exampleSentence": "Uso le scale ogni mattina."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אבן",
-      "definition": "pietra",
-      "exampleSentence": "Ho trovato una pietra qui."
+      "solution": "עלם",
+      "definition": "giovanotto",
+      "exampleSentence": "Quel giovanotto aiuta sempre i vicini anziani."
     },
     {
       "direction": "left-down",
@@ -54,92 +54,84 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מצב רוח",
-      "definition": "umore",
-      "exampleSentence": "Oggi sono di buon umore."
+      "solution": "מצלמות",
+      "definition": "telecamere",
+      "exampleSentence": "Ci sono telecamere di sicurezza in tutta la banca."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נענע",
-      "definition": "menta",
-      "exampleSentence": "Prendo un tè freddo con la menta."
+      "solution": "נחמד",
+      "definition": "simpatico",
+      "exampleSentence": "Il mio nuovo vicino è molto simpatico."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "סופר",
-      "definition": "scrittore",
-      "exampleSentence": "Questo famoso scrittore ha scritto molti libri."
+      "solution": "קיסר",
+      "definition": "imperatore",
+      "exampleSentence": "Cesare fu un famoso imperatore romano."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "כריך",
-      "definition": "panino",
-      "exampleSentence": "Mangio un panino con il formaggio."
+      "solution": "עלים",
+      "definition": "foglie",
+      "exampleSentence": "Gli alberi hanno molte foglie verdi in primavera."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "פה",
-      "definition": "bocca",
-      "exampleSentence": "Ho una mela dolce nella mia bocca."
+      "solution": "צר",
+      "definition": "stretto",
+      "exampleSentence": "Questo vestito è troppo stretto per me."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "פיה",
-      "definition": "fata",
-      "exampleSentence": "La fata buona aiuta la principessa."
+      "solution": "צדק",
+      "definition": "giustizia",
+      "exampleSentence": "La giustizia è importante per tutti noi."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ירח",
-      "definition": "luna",
-      "exampleSentence": "La luna illumina il cielo scuro della notte."
+      "solution": "דקה",
+      "definition": "minuto",
+      "exampleSentence": "Aspetta un minuto, arrivo subito da te."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "מסך",
-      "definition": "schermo",
-      "exampleSentence": "Il nuovo computer ha uno schermo grande."
+      "solution": "רקע",
+      "definition": "sfondo",
+      "exampleSentence": "Ho messo una bella foto sul mio sfondo del computer."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "אור",
-      "definition": "luce",
-      "exampleSentence": "Accendi la luce della cucina, per favore."
+      "solution": "גיל",
+      "definition": "età",
+      "exampleSentence": "A quale età hai preso la patente di guida?"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אופי",
-      "definition": "carattere",
-      "exampleSentence": "Mio fratello ha un carattere molto allegro."
+      "solution": "רוסי",
+      "definition": "russo",
+      "exampleSentence": "Lui parla molto bene il russo."
     },
     {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "חן",
-      "definition": "grazia",
-      "exampleSentence": "La ballerina si muove con molta grazia."
-    },
-    {
-      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "הר",
@@ -147,12 +139,20 @@
       "exampleSentence": "Sali su questa montagna con me."
     },
     {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "רק",
+      "definition": "solamente",
+      "exampleSentence": "Parlo solamente un po' di italiano."
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "דרך",
-      "definition": "percorso",
-      "exampleSentence": "Questo percorso in montagna è molto lungo e bello."
+      "solution": "תרם",
+      "definition": "donato",
+      "exampleSentence": "Ha donato molti libri alla biblioteca comunale."
     }
   ]
 }

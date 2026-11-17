@@ -14,109 +14,101 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "לבן",
-      "definition": "άσπρο",
-      "exampleSentence": "Το άσπρο πουκάμισο είναι πολύ καθαρό."
+      "solution": "עמק",
+      "definition": "κοιλάδα",
+      "exampleSentence": "Το χωριό βρίσκεται μέσα σε μια πράσινη κοιλάδα."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "גדוד",
-      "definition": "τάγμα",
-      "exampleSentence": "Το τάγμα ξεκίνησε την πορεία του."
+      "solution": "טיפה",
+      "definition": "σταγόνα",
+      "exampleSentence": "Μια σταγόνα βροχής έπεσε στο πρόσωπό μου."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להחביא",
-      "definition": "κρύψω",
-      "exampleSentence": "Θέλω να κρύψω το δώρο για τα γενέθλιά σου."
+      "solution": "עוברים",
+      "definition": "περνούν",
+      "exampleSentence": "Πολλοί άνθρωποι περνούν από αυτόν τον δρόμο."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מלח",
-      "definition": "αλάτι",
-      "exampleSentence": "Μην βάλεις πολύ αλάτι στο φαγητό σου."
+      "solution": "קבל",
+      "definition": "δέξου",
+      "exampleSentence": "Δέξου αυτό το δώρο με αγάπη."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בז",
-      "definition": "γεράκι",
-      "exampleSentence": "Το γεράκι πετάει πολύ ψηλά στον ουρανό."
+      "solution": "צו",
+      "definition": "ένταλμα",
+      "exampleSentence": "Ο δικαστής έβγαλε το ένταλμα."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "בגלל זה",
-      "definition": "γιαυτό",
-      "exampleSentence": "Είμαι κουρασμένος, γιαυτό δεν θα βγω."
+      "solution": "מטבעות",
+      "definition": "νομίσματα",
+      "exampleSentence": "Συλλέγω παλιά νομίσματα από όλο τον κόσμο."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נדחה",
-      "definition": "απορρίπτεται",
-      "exampleSentence": "Το χαρτί απορρίπτεται από την επιτροπή."
+      "solution": "קילו",
+      "definition": "κιλό",
+      "exampleSentence": "Θέλω ένα κιλό φρέσκα μήλα τώρα."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "תירס",
-      "definition": "καλαμπόκι",
-      "exampleSentence": "Το καλαμπόκι είναι πολύ νόστιμο ψητό."
+      "solution": "יעיל",
+      "definition": "αποτελεσματικό",
+      "exampleSentence": "Αυτό το φάρμακο είναι πολύ αποτελεσματικό για τον πόνο."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "כתום",
-      "definition": "πορτοκαλί",
-      "exampleSentence": "Το πορτοκαλί είναι το αγαπημένο μου χρώμα."
+      "solution": "תבטח",
+      "definition": "εμπιστέψου",
+      "exampleSentence": "Εμπιστέψου τον εαυτό σου και τις ικανότητές σου."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רץ",
-      "definition": "έτρεχε",
-      "exampleSentence": "Το παιδί έτρεχε χαρούμενο μέσα στο δάσος."
+      "solution": "צר",
+      "definition": "στενό",
+      "exampleSentence": "Το στενό δρομάκι οδηγεί στην παλιά πόλη."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רקד",
-      "definition": "χόρεψε",
-      "exampleSentence": "Ο φίλος μου χόρεψε πολύ καλά στο πάρτι."
+      "solution": "צרה",
+      "definition": "μπελάς",
+      "exampleSentence": "Αυτή η δουλειά είναι μεγάλος μπελάς για μένα."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "קרן",
-      "definition": "ακτίνα",
-      "exampleSentence": "Μια ακτίνα μπήκε από το παράθυρο."
+      "solution": "רכש",
+      "definition": "απέκτησε",
+      "exampleSentence": "Ο επιχειρηματίας απέκτησε μια νέα εταιρεία."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "חתך",
-      "definition": "έκοψε",
-      "exampleSentence": "Ο μάγειρας έκοψε το ψωμί σε φέτες."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
       "clue_col": 3,
       "solution": "בית",
       "definition": "οικία",
@@ -124,35 +116,43 @@
     },
     {
       "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "רעב",
+      "definition": "πείνα",
+      "exampleSentence": "Η πείνα είναι ένα πολύ δυνατό συναίσθημα."
+    },
+    {
+      "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אירו",
-      "definition": "ευρώ",
-      "exampleSentence": "Το εισιτήριο κοστίζει μόνο πέντε ευρώ."
+      "solution": "דייט",
+      "definition": "ραντεβού",
+      "exampleSentence": "Πήγαμε σε ένα ωραίο ραντεβού χθες βράδυ."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "θαύμα",
-      "exampleSentence": "Είναι θαύμα που είμαστε όλοι καλά."
+      "solution": "שן",
+      "definition": "δόντι",
+      "exampleSentence": "Το δόντι μου πονάει πολύ σήμερα."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "צר",
-      "definition": "στενό",
-      "exampleSentence": "Το στενό δρομάκι οδηγεί στην παλιά πόλη."
+      "solution": "רך",
+      "definition": "μαλακό",
+      "exampleSentence": "Το κρεβάτι είναι πολύ μαλακό και άνετο."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "אסם",
-      "definition": "αχυρώνα",
-      "exampleSentence": "Τα ζώα κοιμούνται μέσα στον αχυρώνα."
+      "solution": "מלח",
+      "definition": "αλάτι",
+      "exampleSentence": "Μην βάλεις πολύ αλάτι στο φαγητό σου."
     }
   ]
 }

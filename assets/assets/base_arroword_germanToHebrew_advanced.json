@@ -14,145 +14,145 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "סיר",
-      "definition": "Topf",
-      "exampleSentence": "Die Suppe kocht in dem Topf."
+      "solution": "תיל",
+      "definition": "Draht",
+      "exampleSentence": "Der Zaun besteht aus starkem Draht."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "חצוף",
-      "definition": "frech",
-      "exampleSentence": "Das Kind hat eine sehr freche Antwort gegeben."
+      "solution": "יריד",
+      "definition": "Messe",
+      "exampleSentence": "Auf der Messe werden viele neue Autos gezeigt."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דינמיט",
-      "definition": "Dynamit",
-      "exampleSentence": "Früher war Dynamit im tiefen Berg sehr stark."
+      "solution": "וטרינר",
+      "definition": "Tierarzt",
+      "exampleSentence": "Wir bringen unseren kranken Hund heute zum Tierarzt."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דיו",
-      "definition": "Tinte",
-      "exampleSentence": "Ich schreibe den Brief mit Tinte."
+      "solution": "לחה",
+      "definition": "feucht",
+      "exampleSentence": "Nach dem starken Regen ist die Erde im Garten noch feucht."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "צו",
-      "definition": "Anordnung",
-      "exampleSentence": "Die Polizei gab eine strenge Anordnung heraus."
+      "solution": "בד",
+      "definition": "Stoff",
+      "exampleSentence": "Dieser Stoff ist sehr weich und angenehm zu tragen."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "יחידות",
-      "definition": "Einheiten",
-      "exampleSentence": "Die verschiedenen Einheiten üben gemeinsam für den Einsatz."
+      "solution": "ייחודי",
+      "definition": "einzigartig",
+      "exampleSentence": "Dieses alte Gebäude ist wirklich einzigartig in der Stadt."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "רצוי",
-      "definition": "gewünscht",
-      "exampleSentence": "Ein ruhiger Arbeitsplatz ist sehr gewünscht im Büro."
+      "solution": "לרהט",
+      "definition": "einrichten",
+      "exampleSentence": "Sie wollen ihre neue Wohnung modern einrichten."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חזון",
-      "definition": "Vision",
-      "exampleSentence": "Der Künstler hatte eine Vision für sein Bild."
+      "solution": "עצום",
+      "definition": "enorm",
+      "exampleSentence": "Der Berg hat eine enorm große Höhe."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לחלק",
-      "definition": "verteilen",
-      "exampleSentence": "Der Lehrer möchte die neuen Hefte an die Schüler verteilen."
+      "solution": "מרעה",
+      "definition": "Weide",
+      "exampleSentence": "Die friedlichen Kühe stehen den ganzen Tag auf der grünen Weide."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מר",
-      "definition": "bitter",
-      "exampleSentence": "Diese dunkle Schokolade schmeckt ein bisschen bitter."
+      "solution": "גס",
+      "definition": "grob",
+      "exampleSentence": "Bitte behandeln Sie dieses Glas nicht grob."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מדף",
-      "definition": "Regal",
-      "exampleSentence": "Das Buch im Regal ist sehr alt."
+      "solution": "גמד",
+      "definition": "Zwerg",
+      "exampleSentence": "Im Märchen wohnt ein kleiner Zwerg tief im dunklen Wald."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "דבש",
-      "definition": "Honig",
-      "exampleSentence": "Ich esse morgens gerne frisches Brot mit Honig."
+      "solution": "מלח",
+      "definition": "Salz",
+      "exampleSentence": "Ich brauche etwas Salz für meine Suppe."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "נחל",
-      "definition": "Bach",
-      "exampleSentence": "Ein kleiner Bach fließt mitten durch den grünen Wald."
+      "solution": "רעם",
+      "definition": "Donner",
+      "exampleSentence": "Nach dem hellen Blitz hörten wir sofort den lauten Donner."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "מזח",
-      "definition": "Pier",
-      "exampleSentence": "Die großen Schiffe legen direkt am langen Pier an."
+      "solution": "יצר",
+      "definition": "Trieb",
+      "exampleSentence": "Der natürliche Trieb hilft Tieren beim Überleben."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "טיול",
-      "definition": "Ausflug",
-      "exampleSentence": "Wir machen am Wochenende einen schönen Ausflug in die Berge."
+      "solution": "צנוע",
+      "definition": "bescheiden",
+      "exampleSentence": "Trotz seines Erfolgs ist er immer bescheiden geblieben."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שן",
-      "definition": "Zahn",
-      "exampleSentence": "Der kleine Junge hat einen lockeren Zahn."
+      "solution": "חד",
+      "definition": "scharf",
+      "exampleSentence": "Dieses Messer ist sehr scharf, sei vorsichtig!"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "Rabbi",
-      "exampleSentence": "Der Rabbi liest ein altes Buch vor."
+      "solution": "סל",
+      "definition": "Korb",
+      "exampleSentence": "Ich lege die frischen Äpfel in den Korb."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "טנק",
-      "definition": "Panzer",
-      "exampleSentence": "Das Museum zeigt einen Panzer."
+      "solution": "רמה",
+      "definition": "Niveau",
+      "exampleSentence": "Der Sprachkurs hat ein sehr gutes Niveau."
     }
   ]
 }

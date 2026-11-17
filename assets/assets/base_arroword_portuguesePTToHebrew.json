@@ -14,25 +14,25 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עיר",
-      "definition": "cidade",
-      "exampleSentence": "Lisboa é uma cidade muito bonita e antiga."
+      "solution": "יפה",
+      "definition": "linda",
+      "exampleSentence": "A cidade velha é muito linda."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "כולם",
-      "definition": "todos",
-      "exampleSentence": "Todos os alunos passaram no exame final."
+      "solution": "עבור",
+      "definition": "para",
+      "exampleSentence": "Este presente é para ti."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להשאיר",
-      "definition": "deixar",
-      "exampleSentence": "Podes deixar as chaves em cima da mesa."
+      "solution": "להישאר",
+      "definition": "ficar",
+      "exampleSentence": "Decidi ficar em casa esta noite."
     },
     {
       "direction": "left-down",
@@ -46,113 +46,113 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
+      "solution": "או",
+      "definition": "ou",
+      "exampleSentence": "Queres beber café ou chá quente?"
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "פעולות",
+      "definition": "acções",
+      "exampleSentence": "Devemos tomar acções para proteger o planeta."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "הבאה",
+      "definition": "próxima",
+      "exampleSentence": "A próxima paragem é no centro."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "חלום",
+      "definition": "sonho",
+      "exampleSentence": "Tive um sonho estranho esta noite."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דודה",
+      "definition": "tia",
+      "exampleSentence": "A minha tia vive em Lisboa."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עם",
+      "definition": "com",
+      "exampleSentence": "Gosto de beber café com leite."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עבר",
+      "definition": "passado",
+      "exampleSentence": "O passado não pode ser mudado agora."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "בין",
+      "definition": "entre",
+      "exampleSentence": "Sento-me sempre entre os meus pais."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יחד",
+      "definition": "juntos",
+      "exampleSentence": "Vamos trabalhar juntos para terminar o plano."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "שלו",
+      "definition": "seu",
+      "exampleSentence": "O carro novo é dele e o cão é seu."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "מאוד",
+      "definition": "muito",
+      "exampleSentence": "Gostei muito deste filme."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "נס",
+      "definition": "milagre",
+      "exampleSentence": "Foi um milagre ele ter sobrevivido ao acidente."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
       "solution": "מי",
       "definition": "quem",
       "exampleSentence": "Quem bateu à porta da sala?"
     },
     {
       "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "יכולים",
-      "definition": "podem",
-      "exampleSentence": "Eles podem vir jantar connosco."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "רואה",
-      "definition": "vê",
-      "exampleSentence": "Ela vê o mar da janela do seu quarto."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "מביא",
-      "definition": "traz",
-      "exampleSentence": "Ele traz sempre o jornal para casa."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "שאלה",
-      "definition": "pergunta",
-      "exampleSentence": "Tenho uma pergunta muito importante para ti."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "לא",
-      "definition": "não",
-      "exampleSentence": "Eu não gosto de café frio."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "להם",
-      "definition": "lhes",
-      "exampleSentence": "Eu dei o livro lhes ontem à tarde."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "היא",
-      "definition": "ela",
-      "exampleSentence": "Ela trabalha num banco em Lisboa."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "שמש",
-      "definition": "sol",
-      "exampleSentence": "O sol brilha forte no verão português."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "אבא",
-      "definition": "pai",
-      "exampleSentence": "O meu pai trabalha num escritório."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "חייל",
-      "definition": "soldado",
-      "exampleSentence": "O soldado protege o seu país."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "אם",
-      "definition": "se",
-      "exampleSentence": "Se chover, vamos ficar em casa."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "אי",
-      "definition": "ilha",
-      "exampleSentence": "Fomos de barco visitar aquela ilha."
-    },
-    {
-      "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ראה",
-      "definition": "viu",
-      "exampleSentence": "Ele viu um gato preto na rua."
+      "solution": "רמה",
+      "definition": "nível",
+      "exampleSentence": "O meu nível de português está a melhorar."
     }
   ]
 }

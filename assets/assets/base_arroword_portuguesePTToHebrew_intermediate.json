@@ -22,137 +22,137 @@
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בוחר",
-      "definition": "escolhe",
-      "exampleSentence": "Ela escolhe sempre o livro melhor."
+      "solution": "שוטר",
+      "definition": "policial",
+      "exampleSentence": "O policial ajudou a criança perdida na rua."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "השאירו",
-      "definition": "deixaram",
-      "exampleSentence": "Eles deixaram as chaves em cima da mesa."
+      "solution": "מדענים",
+      "definition": "cientistas",
+      "exampleSentence": "Os cientistas estudam o universo com muita atenção."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חוב",
-      "definition": "dívida",
-      "exampleSentence": "Ele pagou toda a dívida ao banco."
+      "solution": "שער",
+      "definition": "portão",
+      "exampleSentence": "O portão da escola está sempre aberto."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "גל",
-      "definition": "onda",
-      "exampleSentence": "Uma grande onda cobriu a praia."
+      "solution": "ים",
+      "definition": "mar",
+      "exampleSentence": "O mar está calmo para nadar hoje."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מבוהלת",
-      "definition": "assustada",
-      "exampleSentence": "A criança estava assustada com o cão."
+      "solution": "משעממת",
+      "definition": "seca",
+      "exampleSentence": "Esta aula de matemática é muito seca."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לובש",
-      "definition": "veste",
-      "exampleSentence": "O menino veste um casaco azul muito bonito."
+      "solution": "לורד",
+      "definition": "lorde",
+      "exampleSentence": "O lorde vive naquele castelo antigo."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "הכיר",
-      "definition": "conheceu",
-      "exampleSentence": "Ele conheceu uma rapariga muito simpática ontem."
+      "solution": "צחוק",
+      "definition": "riso",
+      "exampleSentence": "O riso dele faz todos rir muito."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "בלבד",
-      "definition": "somente",
-      "exampleSentence": "Preciso de ajuda somente por dez minutos."
+      "solution": "משקל",
+      "definition": "peso",
+      "exampleSentence": "O peso da caixa era muito grande."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "milagre",
-      "exampleSentence": "Foi um milagre ele ter sobrevivido ao acidente."
+      "solution": "גב",
+      "definition": "costas",
+      "exampleSentence": "Doem-me as costas de estar sentado."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "נשר",
-      "definition": "águia",
-      "exampleSentence": "A águia voa muito alto no céu azul."
+      "solution": "גמר",
+      "definition": "terminar",
+      "exampleSentence": "Vou terminar o meu trabalho agora."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שטח",
-      "definition": "território",
-      "exampleSentence": "O território nacional é muito bonito."
+      "solution": "מדע",
+      "definition": "ciência",
+      "exampleSentence": "A ciência estuda os segredos do universo."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "אהב",
-      "definition": "amava",
-      "exampleSentence": "Ele amava ler livros antigos à noite."
+      "solution": "עצם",
+      "definition": "osso",
+      "exampleSentence": "O cão escondeu o osso no jardim."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יכל",
-      "definition": "pôde",
-      "exampleSentence": "Ele pôde terminar o trabalho a tempo."
+      "solution": "נחש",
+      "definition": "cobra",
+      "exampleSentence": "Vi uma cobra no meio da relva."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "יריב",
-      "definition": "adversário",
-      "exampleSentence": "Respeitamos sempre o nosso adversário."
+      "solution": "דיוק",
+      "definition": "precisão",
+      "exampleSentence": "O relógio antigo marca as horas com precisão."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חם",
-      "definition": "quente",
-      "exampleSentence": "O café está muito quente para beber."
+      "solution": "עם",
+      "definition": "povo",
+      "exampleSentence": "Estes povos vivem em pequenas tribos."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "סט",
-      "definition": "conjunto",
-      "exampleSentence": "Comprei um belo conjunto de sofás."
+      "solution": "בד",
+      "definition": "tecido",
+      "exampleSentence": "Este tecido é azul e muito quente."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ורד",
-      "definition": "rosa",
-      "exampleSentence": "Ele ofereceu-me uma rosa vermelha."
+      "solution": "מקל",
+      "definition": "pau",
+      "exampleSentence": "Ele usou um pau para mexer a terra."
     }
   ]
 }

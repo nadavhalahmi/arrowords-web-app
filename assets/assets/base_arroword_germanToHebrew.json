@@ -14,25 +14,25 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אלה",
-      "definition": "diese",
-      "exampleSentence": "Diese blumen blühen im Garten besonders schön."
+      "solution": "למה",
+      "definition": "warum",
+      "exampleSentence": "Warum bist du heute so froh?"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הרוס",
-      "definition": "zerstört",
-      "exampleSentence": "Das alte Haus war nach dem starken Sturm völlig zerstört."
+      "solution": "קרבה",
+      "definition": "Nähe",
+      "exampleSentence": "Sie genießt die Nähe ihrer großen Familie."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "בהריון",
-      "definition": "schwanger",
-      "exampleSentence": "Die glückliche Frau ist im neunten Monat schwanger."
+      "solution": "להחזיק",
+      "definition": "halten",
+      "exampleSentence": "Das Seil ist stark genug, um das schwere Gewicht zu halten."
     },
     {
       "direction": "left-down",
@@ -46,17 +46,17 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "wer",
-      "exampleSentence": "Wer hat heute Morgen an der Haustür geklingelt?"
+      "solution": "רק",
+      "definition": "nur",
+      "exampleSentence": "Ich habe heute nur fünf Euro in meiner Brieftasche."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להוביל",
-      "definition": "führen",
-      "exampleSentence": "Der Mann wird uns durch die Stadt führen."
+      "solution": "מקולקל",
+      "definition": "kaputt",
+      "exampleSentence": "Mein alter Fernseher ist leider kaputt."
     },
     {
       "direction": "right",
@@ -70,89 +70,89 @@
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "על זה",
-      "definition": "darüber",
-      "exampleSentence": "Wir müssen unbedingt noch einmal darüber sprechen."
+      "solution": "בושה",
+      "definition": "Schande",
+      "exampleSentence": "Es ist eine Schande, wenn man lügt."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לדבר",
-      "definition": "reden",
-      "exampleSentence": "Wir können am Abend über dieses Thema reden."
+      "solution": "רגיל",
+      "definition": "normal",
+      "exampleSentence": "Das ist ein ganz normaler Tag."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "כן",
-      "definition": "ja",
-      "exampleSentence": "Ja, ich komme heute Abend gerne mit ins Kino."
+      "solution": "אם",
+      "definition": "wenn",
+      "exampleSentence": "Ich frage mich, ob (wenn) er morgen kommt."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "כעס",
-      "definition": "Ärger",
-      "exampleSentence": "Er spürte großen Ärger über die Verspätung des Zuges."
+      "solution": "אלה",
+      "definition": "diese",
+      "exampleSentence": "Diese blumen blühen im Garten besonders schön."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "עסק",
-      "definition": "Geschäft",
-      "exampleSentence": "Mein Vater führt ein kleines Geschäft in der Stadt."
+      "solution": "ליד",
+      "definition": "bei",
+      "exampleSentence": "Unsere Schule liegt ganz bei dem großen grünen Park."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רעל",
-      "definition": "Gift",
-      "exampleSentence": "Manche Pilze im Wald enthalten ein gefährliches Gift."
+      "solution": "חבר",
+      "definition": "Freund",
+      "exampleSentence": "Mein bester Freund wohnt nebenan in der Straße."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ילד",
-      "definition": "Kind",
-      "exampleSentence": "Das kleine Kind spielt im Sand."
+      "solution": "זוג",
+      "definition": "Paar",
+      "exampleSentence": "Ein junges Paar spaziert Hand in Hand durch den Park."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "עוזב",
-      "definition": "verlässt",
-      "exampleSentence": "Er verlässt jeden Morgen um sieben Uhr das Haus."
+      "solution": "שישי",
+      "definition": "Freitag",
+      "exampleSentence": "Am Freitag freue ich mich auf das Wochenende."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קל",
-      "definition": "leicht",
-      "exampleSentence": "Diese Matheaufgabe ist sehr leicht für mich zu lösen."
+      "solution": "די",
+      "definition": "ziemlich",
+      "exampleSentence": "Das Wetter ist heute draußen ziemlich kalt."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "Wunder",
-      "exampleSentence": "Es ist ein Wunder, dass niemand verletzt wurde."
+      "solution": "מי",
+      "definition": "wer",
+      "exampleSentence": "Wer hat heute Morgen an der Haustür geklingelt?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "Fluss",
-      "exampleSentence": "Dieser Fluss ist sehr lang und breit."
+      "solution": "קהל",
+      "definition": "Publikum",
+      "exampleSentence": "Das Publikum klatschte nach dem Konzert sehr laut."
     }
   ]
 }

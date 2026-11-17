@@ -14,33 +14,33 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שלל",
-      "definition": "magot",
-      "exampleSentence": "Il a trouvé un vieux magot caché dans le grenier."
+      "solution": "נעל",
+      "definition": "soulier",
+      "exampleSentence": "Il a ciré son soulier avant d'aller travailler."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הנאה",
-      "definition": "agrément",
-      "exampleSentence": "Ce jardin offre un cadre plein d'agrément pour se reposer."
+      "solution": "לפוג",
+      "definition": "expirer",
+      "exampleSentence": "Mon abonnement va expirer à la fin du mois."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "פרופיל",
-      "definition": "profil",
-      "exampleSentence": "Il a complété son profil sur le réseau social."
+      "solution": "צריחון",
+      "definition": "tourelle",
+      "exampleSentence": "On aperçoit une petite tourelle sur le toit."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "זרע",
-      "definition": "germe",
-      "exampleSentence": "Le germe de la plante sort doucement de terre."
+      "solution": "טיט",
+      "definition": "glaise",
+      "exampleSentence": "Le potier utilise de la glaise pour façonner un beau vase."
     },
     {
       "direction": "left-down",
@@ -54,105 +54,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להרפות",
-      "definition": "desserrer",
-      "exampleSentence": "Il faut desserrer les vis pour ouvrir la boîte."
+      "solution": "עליצות",
+      "definition": "allégresse",
+      "exampleSentence": "Les enfants courent dans le jardin avec allégresse."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לנער",
-      "definition": "secouer",
-      "exampleSentence": "Il faut secouer la bouteille avant de servir."
+      "solution": "לפטר",
+      "definition": "congédier",
+      "exampleSentence": "Le gérant a dû congédier le cuisinier pour faute grave."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "ארנב",
-      "definition": "lapin",
-      "exampleSentence": "Le petit lapin mange une carotte dans le jardin."
+      "solution": "מקרי",
+      "definition": "accidentel",
+      "exampleSentence": "Cette découverte scientifique était totalement accidentelle."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נקמה",
-      "definition": "représaille",
-      "exampleSentence": "Ils craignent une représaille après cet incident."
+      "solution": "יריב",
+      "definition": "opposant",
+      "exampleSentence": "L'opposant politique a critiqué le nouveau projet."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גס",
-      "definition": "inconvenant",
-      "exampleSentence": "Sa remarque déplacée était vraiment inconvenante ce soir-là."
+      "solution": "לח",
+      "definition": "humide",
+      "exampleSentence": "L'air est très humide après la pluie d'été."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גדה",
-      "definition": "berge",
-      "exampleSentence": "Nous nous asseyons sur la berge pour regarder l'eau."
+      "solution": "לעג",
+      "definition": "moquerie",
+      "exampleSentence": "Sa remarque était pleine de moquerie et méchante."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "דלק",
-      "definition": "carburant",
-      "exampleSentence": "Le prix du carburant augmente chaque semaine."
+      "solution": "עדר",
+      "definition": "troupeau",
+      "exampleSentence": "Le berger surveille son troupeau dans la prairie."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ואן",
-      "definition": "fourgon",
-      "exampleSentence": "Le fourgon transporte tous les meubles du salon."
+      "solution": "ימי",
+      "definition": "nautique",
+      "exampleSentence": "Nous faisons de la voile et d'autres sports nautiques."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "פרק",
-      "definition": "volet",
-      "exampleSentence": "Il reste un dernier volet important à traiter dans ce projet."
+      "solution": "חקר",
+      "definition": "exploration",
+      "exampleSentence": "L'exploration de cette grotte est très dangereuse."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חינם",
-      "definition": "gracieux",
-      "exampleSentence": "Le musée offre un accès gracieux les dimanches."
+      "solution": "סורי",
+      "definition": "syrien",
+      "exampleSentence": "Notre nouveau voisin est un homme syrien très gentil."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קש",
-      "definition": "paille",
-      "exampleSentence": "Le cheval mange de la paille fraîche dans l'écurie."
+      "solution": "רב",
+      "definition": "considérable",
+      "exampleSentence": "Il a fait un effort considérable pour réussir son examen."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "סל",
-      "definition": "corbeille",
-      "exampleSentence": "J'ai jeté les vieux papiers dans la corbeille."
+      "solution": "חד",
+      "definition": "affilé",
+      "exampleSentence": "Le boucher utilise un couteau bien affilé."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "לבה",
-      "definition": "lave",
-      "exampleSentence": "La lave rouge coule lentement le long du volcan en éruption."
+      "solution": "ניב",
+      "definition": "croc",
+      "exampleSentence": "Le chien montre un long croc pointu et blanc."
     }
   ]
 }

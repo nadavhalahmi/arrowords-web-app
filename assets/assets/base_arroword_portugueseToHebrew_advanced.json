@@ -14,121 +14,121 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אלם",
-      "definition": "mudo",
-      "exampleSentence": "O ator ficou mudo durante a cena."
+      "solution": "פחם",
+      "definition": "carvão",
+      "exampleSentence": "Usamos carvão para fazer o churrasco."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הפרה",
-      "definition": "violação",
-      "exampleSentence": "Isso é uma clara violação das regras."
+      "solution": "תושב",
+      "definition": "residente",
+      "exampleSentence": "Ele é um residente antigo desta vila."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עצמאות",
-      "definition": "independência",
-      "exampleSentence": "A independência do país foi declarada este ano."
+      "solution": "תלמידה",
+      "definition": "aluna",
+      "exampleSentence": "A nova aluna chegou cedo à escola."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קיר",
-      "definition": "parede",
-      "exampleSentence": "A parede é branca."
+      "solution": "חלש",
+      "definition": "fraco",
+      "exampleSentence": "Ele está fraco hoje."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בז",
-      "definition": "falcão",
-      "exampleSentence": "O falcão voa muito alto no céu azul."
+      "solution": "או",
+      "definition": "ou",
+      "exampleSentence": "Você prefere tomar café ou chá com leite?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להיעזר",
-      "definition": "recorrer",
-      "exampleSentence": "Podemos recorrer a um dicionário agora."
+      "solution": "חתלתול",
+      "definition": "gatinho",
+      "exampleSentence": "Eu vi um pequeno gatinho na rua."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מפרץ",
-      "definition": "baía",
-      "exampleSentence": "Os barcos estão seguros na baía calma."
+      "solution": "מושל",
+      "definition": "governador",
+      "exampleSentence": "O governador anunciou novas medidas para melhorar a saúde pública."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "זמני",
-      "definition": "temporário",
-      "exampleSentence": "Este emprego é apenas temporário."
+      "solution": "חריג",
+      "definition": "anormal",
+      "exampleSentence": "Este comportamento é completamente anormal."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לנחש",
-      "definition": "adivinhar",
-      "exampleSentence": "Você consegue adivinhar qual é o meu número favorito?"
+      "solution": "רחבה",
+      "definition": "larga",
+      "exampleSentence": "A rua principal da cidade é muito larga."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גל",
-      "definition": "onda",
-      "exampleSentence": "Uma grande onda derrubou o castelo de areia."
+      "solution": "עם",
+      "definition": "com",
+      "exampleSentence": "Eu gosto de tomar café com leite quente."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גאה",
-      "definition": "orgulhosa",
-      "exampleSentence": "Ela está orgulhosa de seu trabalho bem feito."
+      "solution": "עשב",
+      "definition": "erva",
+      "exampleSentence": "As vacas comem a erva verde no campo."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "אבא",
-      "definition": "pai",
-      "exampleSentence": "Meu pai é forte."
+      "solution": "שיא",
+      "definition": "recorde",
+      "exampleSentence": "Ele bateu o recorde mundial de corrida."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "מזל",
-      "definition": "fortuna",
-      "exampleSentence": "Ele teve a fortuna de ganhar uma viagem maravilhosa."
+      "solution": "מחר",
+      "definition": "amanhã",
+      "exampleSentence": "Amanhã vamos fazer uma viagem curta."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "אמן",
-      "definition": "amém",
-      "exampleSentence": "Todos disseram amém no fim."
+      "solution": "ירח",
+      "definition": "lua",
+      "exampleSentence": "A lua é brilhante à noite."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מונח",
-      "definition": "termo",
-      "exampleSentence": "Este termo técnico é difícil de entender."
+      "solution": "נדיב",
+      "definition": "generoso",
+      "exampleSentence": "Ele foi muito generoso com os pobres."
     },
     {
       "direction": "right",
@@ -142,17 +142,17 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לב",
-      "definition": "coração",
-      "exampleSentence": "O coração bate rápido."
+      "solution": "מי",
+      "definition": "quem",
+      "exampleSentence": "Quem é ele?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תיש",
-      "definition": "bode",
-      "exampleSentence": "O bode está comendo grama no campo."
+      "solution": "הגה",
+      "definition": "volante",
+      "exampleSentence": "Segura bem no volante do carro."
     }
   ]
 }

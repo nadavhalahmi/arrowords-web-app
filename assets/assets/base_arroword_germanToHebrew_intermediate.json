@@ -14,33 +14,33 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נחש",
-      "definition": "Schlange",
-      "exampleSentence": "Im Zoo habe ich eine Schlange gesehen."
+      "solution": "שמש",
+      "definition": "Sonne",
+      "exampleSentence": "Die warme Sonne scheint heute den ganzen Tag."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "תמיד",
-      "definition": "stets",
-      "exampleSentence": "Er ist stets freundlich zu allen Menschen."
+      "solution": "יקום",
+      "definition": "Universum",
+      "exampleSentence": "Das Universum ist unendlich groß und voller Geheimnisse."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להזמין",
-      "definition": "einladen",
-      "exampleSentence": "Ich möchte meine besten Freunde zu meiner Party einladen."
+      "solution": "ללא ספק",
+      "definition": "zweifellos",
+      "exampleSentence": "Dieser erfahrene Musiker hat zweifellos ein großes Talent."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חול",
-      "definition": "Sand",
-      "exampleSentence": "Die Kinder spielen am Strand gerne mit warmem Sand."
+      "solution": "דיו",
+      "definition": "Tinte",
+      "exampleSentence": "Ich schreibe den Brief mit Tinte."
     },
     {
       "direction": "left-down",
@@ -54,33 +54,33 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "חתולים",
-      "definition": "Katzen",
-      "exampleSentence": "Katzen sind sehr saubere und kluge Haustiere."
+      "solution": "מיילים",
+      "definition": "Meilen",
+      "exampleSentence": "Wir sind heute viele Meilen durch den großen Wald gewandert."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "שמלה",
-      "definition": "Kleid",
-      "exampleSentence": "Sie trägt heute ein sehr schönes rotes Kleid."
+      "solution": "שקול",
+      "definition": "vernünftig",
+      "exampleSentence": "Es ist vernünftig, bei Regen einen Schirm zu nutzen."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "ערכה",
-      "definition": "Set",
-      "exampleSentence": "Das Werkzeug kommt in einem praktischen Set."
+      "solution": "מוקש",
+      "definition": "Mine",
+      "exampleSentence": "Im alten Garten liegt eine gefährliche Mine."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מקרר",
-      "definition": "Kühlschrank",
-      "exampleSentence": "Die Milch steht frisch und kalt im Kühlschrank."
+      "solution": "נדחה",
+      "definition": "abgelehnt",
+      "exampleSentence": "Der Antrag wurde gestern von der Behörde abgelehnt."
     },
     {
       "direction": "down",
@@ -94,49 +94,49 @@
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גמד",
-      "definition": "Zwerg",
-      "exampleSentence": "Im Märchen wohnt ein kleiner Zwerg tief im dunklen Wald."
+      "solution": "גשם",
+      "definition": "Regen",
+      "exampleSentence": "Bei diesem starken Regen bleiben wir lieber zu Hause."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מדע",
-      "definition": "Wissenschaft",
-      "exampleSentence": "Die Wissenschaft versucht, die Geheimnisse der Natur zu lösen."
+      "solution": "שדה",
+      "definition": "Feld",
+      "exampleSentence": "Auf dem grünen Feld wachsen im Sommer schöne rote Blumen."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "זעם",
-      "definition": "Wut",
-      "exampleSentence": "Er spürte große Wut in sich."
+      "solution": "אמן",
+      "definition": "Künstler",
+      "exampleSentence": "Der Künstler stellt seine neuen Werke aus."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "מרק",
-      "definition": "Suppe",
-      "exampleSentence": "Im Winter esse ich gerne eine warme Suppe."
+      "solution": "סוד",
+      "definition": "Geheimnis",
+      "exampleSentence": "Ich erzähle dir ein großes Geheimnis, aber verrate es keinem."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "איכר",
-      "definition": "Bauer",
-      "exampleSentence": "Der Bauer arbeitet den ganzen Tag auf dem Feld."
+      "solution": "לפקח",
+      "definition": "kontrollieren",
+      "exampleSentence": "Der Lehrer muss die Aufgaben von allen Schüler kontrollieren."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "עם",
-      "definition": "Volk",
-      "exampleSentence": "Das deutsche Volk feiert im Herbst ein Fest."
+      "solution": "הר",
+      "definition": "Berg",
+      "exampleSentence": "Der Berg ist im Winter komplett mit Schnee bedeckt."
     },
     {
       "direction": "up-right",
@@ -150,9 +150,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "Fluss",
-      "exampleSentence": "Dieser Fluss ist sehr lang und breit."
+      "solution": "קשה",
+      "definition": "schwierig",
+      "exampleSentence": "Diese Aufgabe ist heute sehr schwierig."
     }
   ]
 }
