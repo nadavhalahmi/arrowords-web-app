@@ -14,121 +14,121 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "זמן",
-      "definition": "tempo",
-      "exampleSentence": "O tempo voa."
+      "solution": "פאי",
+      "definition": "torta",
+      "exampleSentence": "Minha mãe fez uma torta de maçã deliciosa."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "קוטב",
-      "definition": "pólo",
-      "exampleSentence": "O gelo cobre o pólo norte."
+      "solution": "פותח",
+      "definition": "abre",
+      "exampleSentence": "Ele abre a janela todas as manhãs."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להצדיק",
-      "definition": "justificar",
-      "exampleSentence": "Tens de justificar a tua falta de ontem."
+      "solution": "ייחודי",
+      "definition": "único",
+      "exampleSentence": "Cada pessoa tem um talento único e especial."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עור",
-      "definition": "pele",
-      "exampleSentence": "A pele é suave."
+      "solution": "זרם",
+      "definition": "corrente",
+      "exampleSentence": "A corrente do rio está muito forte."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "דק",
-      "definition": "fino",
-      "exampleSentence": "Este papel é muito fino e parte facilmente."
+      "solution": "רק",
+      "definition": "somente",
+      "exampleSentence": "Compro somente o pão na padaria hoje."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מקולקל",
-      "definition": "estragado",
-      "exampleSentence": "O leite está estragado e cheira mal."
+      "solution": "אפריקה",
+      "definition": "áfrica",
+      "exampleSentence": "A África tem muita gente e história."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נורה",
-      "definition": "lâmpada",
-      "exampleSentence": "A lâmpada do meu quarto quebrou hoje."
+      "solution": "יומי",
+      "definition": "diário",
+      "exampleSentence": "Ele faz um controle diário dos gastos da casa."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מוטו",
-      "definition": "lema",
-      "exampleSentence": "O lema da escola é estudar com alegria."
+      "solution": "שרוף",
+      "definition": "queimado",
+      "exampleSentence": "O pão ficou muito queimado no fogo."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "חריף",
-      "definition": "picante",
-      "exampleSentence": "Este prato de carne é muito picante."
+      "solution": "שדרה",
+      "definition": "avenida",
+      "exampleSentence": "A nossa loja fica na principal avenida da cidade."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גב",
-      "definition": "costas",
-      "exampleSentence": "As costas doem."
+      "solution": "שן",
+      "definition": "dente",
+      "exampleSentence": "O dente está branco."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גרב",
-      "definition": "meia",
-      "exampleSentence": "A meia é branca."
+      "solution": "שמח",
+      "definition": "contente",
+      "exampleSentence": "Fico contente quando vejo meus amigos sorrindo."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "רזה",
-      "definition": "magro",
-      "exampleSentence": "O meu irmão é alto e muito magro."
+      "solution": "מסה",
+      "definition": "massa",
+      "exampleSentence": "A massa deste carro é de uma tonelada."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "צמח",
-      "definition": "planta",
-      "exampleSentence": "Eu tenho uma planta verde."
+      "solution": "חשש",
+      "definition": "receio",
+      "exampleSentence": "Tenho receio de andar de avião."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "דור",
-      "definition": "geração",
-      "exampleSentence": "Cada geração traz novas ideias para mudar o mundo."
+      "solution": "ורד",
+      "definition": "rosa",
+      "exampleSentence": "Ele me ofereceu uma rosa vermelha."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "איטי",
-      "definition": "lento",
-      "exampleSentence": "A tartaruga é lenta."
+      "solution": "כדור",
+      "definition": "bola",
+      "exampleSentence": "As crianças brincam com uma bola vermelha no parque."
     },
     {
       "direction": "right",
@@ -142,17 +142,17 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בז",
-      "definition": "falcão",
-      "exampleSentence": "O falcão voa muito alto no céu azul."
+      "solution": "נס",
+      "definition": "milagre",
+      "exampleSentence": "A melhora dele foi um verdadeiro milagre."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "קוף",
-      "definition": "macaco",
-      "exampleSentence": "O macaco comeu uma banana na árvore."
+      "solution": "יפה",
+      "definition": "belo",
+      "exampleSentence": "A noiva usa um belo vestido branco."
     }
   ]
 }

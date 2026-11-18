@@ -14,145 +14,145 @@
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מיץ",
-      "definition": "saft",
-      "exampleSentence": "Jag häller upp ett glas kall saft till dig."
+      "solution": "קמע",
+      "definition": "maskot",
+      "exampleSentence": "Laget har en liten apa som sin maskot."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "מנוף",
-      "definition": "kran",
-      "exampleSentence": "En stor kran lyfter tunga saker."
+      "solution": "אנין",
+      "definition": "kräsen",
+      "exampleSentence": "Han är en kräsen person som uppskattar god mat."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שעונים",
-      "definition": "klockor",
-      "exampleSentence": "Affären säljer vackra och dyra klockor."
+      "solution": "ריקבון",
+      "definition": "förfall",
+      "exampleSentence": "Frukten visar tecken på tidigt förfall."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דיו",
-      "definition": "bläck",
-      "exampleSentence": "Jag skriver ett brev med svart bläck."
+      "solution": "שוק",
+      "definition": "torg",
+      "exampleSentence": "Det är mycket folk på torget i helgen."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
+      "solution": "חג",
+      "definition": "högtid",
+      "exampleSentence": "Julen är en stor högtid i många länder."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מאורגן",
+      "definition": "organiserad",
+      "exampleSentence": "Detta är en väl organiserad grupp av människor."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "ענקי",
+      "definition": "enorm",
+      "exampleSentence": "Hunden var enorm och vägde femtio kilo."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "רופף",
+      "definition": "slak",
+      "exampleSentence": "Repet hänger slak mellan de två träden."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "שליח",
+      "definition": "kurir",
+      "exampleSentence": "En snabb kurir levererar det hemliga brevet."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "לח",
+      "definition": "fuktig",
+      "exampleSentence": "Gräset är fortfarande fuktigt efter regnet."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "לכן",
+      "definition": "således",
+      "exampleSentence": "Tåget var sent och således missade vi mötet."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "כנף",
+      "definition": "vinge",
+      "exampleSentence": "Fågeln flög iväg med en skadad vinge."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "קרש",
+      "definition": "bräda",
+      "exampleSentence": "Han sågade av en lång bräda i garaget."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בול",
+      "definition": "frimärke",
+      "exampleSentence": "Sätt ett frimärke på brevet innan du skickar det."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "אופי",
+      "definition": "temperament",
+      "exampleSentence": "De har helt olika temperament."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "פר",
+      "definition": "tjur",
+      "exampleSentence": "Den stora tjuren står mitt ute på fältet."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
       "solution": "חן",
       "definition": "behag",
       "exampleSentence": "Hon har ett naturligt behag i sitt sätt."
     },
     {
       "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "ימי שני",
-      "definition": "måndagar",
-      "exampleSentence": "Vi tränar ofta på måndagar."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "צנוע",
-      "definition": "blygsam",
-      "exampleSentence": "Han bor i en blygsam lägenhet mitt i staden."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "רשלן",
-      "definition": "slarvig",
-      "exampleSentence": "Han är lite slarvig med sina läxor."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "דיבה",
-      "definition": "förtal",
-      "exampleSentence": "Det var ett allvarligt förtal mot hennes namn."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "צר",
-      "definition": "trång",
-      "exampleSentence": "Gången är för trång för att gå igenom."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "צלף",
-      "definition": "prickskytt",
-      "exampleSentence": "Prickskytten låg gömd i det höga gräset."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "לכה",
-      "definition": "lack",
-      "exampleSentence": "Bordet behöver ett nytt lager lack för att skina."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ורד",
-      "definition": "ros",
-      "exampleSentence": "Min mamma tycker om att odla en röd ros."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "נשי",
-      "definition": "feminin",
-      "exampleSentence": "Klänningen har ett mjukt och feminint utseende."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "שילב",
-      "definition": "förenad",
-      "exampleSentence": "De två företagen blev en förenad organisation."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "הד",
-      "definition": "eko",
-      "exampleSentence": "Jag hörde ett starkt eko från bergväggen."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "רך",
-      "definition": "len",
-      "exampleSentence": "Katten har en mycket len och mjuk päls."
-    },
-    {
-      "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "portion",
-      "exampleSentence": "En portion mat räcker gott och väl till mig."
+      "solution": "נפח",
+      "definition": "volym",
+      "exampleSentence": "Den här lådan har en stor volym."
     }
   ]
 }
