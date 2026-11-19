@@ -7,152 +7,154 @@
   "comments": [
     "Generated intermediate starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -5013.39"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נמל",
-      "definition": "porto",
-      "exampleSentence": "O navio entrou no porto com segurança."
+      "solution": "רשת",
+      "definition": "rede",
+      "exampleSentence": "O peixe ficou preso na rede."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שוטר",
-      "definition": "policial",
-      "exampleSentence": "O policial ajudou a criança perdida na rua."
+      "solution": "ללמד",
+      "definition": "ensinar",
+      "exampleSentence": "O professor gosta de ensinar matemática."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מדענים",
-      "definition": "cientistas",
-      "exampleSentence": "Os cientistas estudam o universo com muita atenção."
+      "solution": "שימושי",
+      "definition": "útil",
+      "exampleSentence": "Este dicionário é muito útil para estudar."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שער",
-      "definition": "portão",
-      "exampleSentence": "O portão da escola está sempre aberto."
+      "solution": "דיו",
+      "definition": "tinta",
+      "exampleSentence": "A caneta preta ficou sem tinta."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "ים",
-      "definition": "mar",
-      "exampleSentence": "O mar está calmo para nadar hoje."
+      "solution": "אי",
+      "definition": "ilha",
+      "exampleSentence": "Fomos de barco visitar aquela ilha."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "משעממת",
-      "definition": "seca",
-      "exampleSentence": "Esta aula de matemática é muito seca."
+      "solution": "שלישית",
+      "definition": "terceira",
+      "exampleSentence": "Esta é a terceira vez que pergunto."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לורד",
-      "definition": "lorde",
-      "exampleSentence": "O lorde vive naquele castelo antigo."
+      "solution": "תלוי",
+      "definition": "pendurado",
+      "exampleSentence": "O quadro está pendurado na parede."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "צחוק",
-      "definition": "riso",
-      "exampleSentence": "O riso dele faz todos rir muito."
+      "solution": "ירוק",
+      "definition": "verde",
+      "exampleSentence": "O semáforo ficou verde e nós avançámos."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "משקל",
-      "definition": "peso",
-      "exampleSentence": "O peso da caixa era muito grande."
+      "solution": "נדיר",
+      "definition": "raro",
+      "exampleSentence": "Este pássaro é muito raro de encontrar aqui."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גב",
-      "definition": "costas",
-      "exampleSentence": "Doem-me as costas de estar sentado."
+      "solution": "פה",
+      "definition": "boca",
+      "exampleSentence": "Ele abriu a boca para falar."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גמר",
-      "definition": "terminar",
-      "exampleSentence": "Vou terminar o meu trabalho agora."
+      "solution": "פחד",
+      "definition": "receio",
+      "exampleSentence": "Tenho receio de chegar atrasado."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מדע",
-      "definition": "ciência",
-      "exampleSentence": "A ciência estuda os segredos do universo."
+      "solution": "חרש",
+      "definition": "surdo",
+      "exampleSentence": "O menino surdo fala com as mãos."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "עצם",
-      "definition": "osso",
-      "exampleSentence": "O cão escondeu o osso no jardim."
+      "solution": "מין",
+      "definition": "espécie",
+      "exampleSentence": "Esta espécie de planta é rara."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "נחש",
-      "definition": "cobra",
-      "exampleSentence": "Vi uma cobra no meio da relva."
+      "solution": "ורד",
+      "definition": "rosa",
+      "exampleSentence": "Ele ofereceu-me uma rosa vermelha."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "דיוק",
-      "definition": "precisão",
-      "exampleSentence": "O relógio antigo marca as horas com precisão."
+      "solution": "נשוי",
+      "definition": "casado",
+      "exampleSentence": "O meu irmão mais velho é casado."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "עם",
-      "definition": "povo",
-      "exampleSentence": "Estes povos vivem em pequenas tribos."
+      "solution": "שש",
+      "definition": "seis",
+      "exampleSentence": "Comprei seis maçãs vermelhas no mercado."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בד",
-      "definition": "tecido",
-      "exampleSentence": "Este tecido é azul e muito quente."
+      "solution": "הר",
+      "definition": "montanha",
+      "exampleSentence": "Aquela montanha é muito alta e difícil."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מקל",
-      "definition": "pau",
-      "exampleSentence": "Ele usou um pau para mexer a terra."
+      "solution": "יקר",
+      "definition": "caro",
+      "exampleSentence": "Este relógio é demasiado caro para mim."
     }
-  ]
+  ],
+  "avg_hardness": -5013.39
 }

@@ -7,24 +7,25 @@
   "comments": [
     "Generated beginner starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
+    "Avg hardness: -8522.94"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "יפה",
-      "definition": "linda",
-      "exampleSentence": "A cidade velha é muito linda."
+      "solution": "צמא",
+      "definition": "sede",
+      "exampleSentence": "Tenho muita sede neste momento."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "עבור",
-      "definition": "para",
-      "exampleSentence": "Este presente é para ti."
+      "solution": "בהיר",
+      "definition": "claro",
+      "exampleSentence": "Prefiro usar camisas de cor clara."
     },
     {
       "direction": "down",
@@ -38,33 +39,33 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "הוא",
-      "definition": "ele",
-      "exampleSentence": "Ele é um bom amigo."
+      "solution": "טוב",
+      "definition": "bom",
+      "exampleSentence": "Este livro é muito bom de ler."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "או",
-      "definition": "ou",
-      "exampleSentence": "Queres beber café ou chá quente?"
+      "solution": "לב",
+      "definition": "coração",
+      "exampleSentence": "Sinto o meu coração a bater muito depressa."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "פעולות",
-      "definition": "acções",
-      "exampleSentence": "Devemos tomar acções para proteger o planeta."
+      "solution": "מבולבל",
+      "definition": "confuso",
+      "exampleSentence": "O aluno estava confuso com o exercício difícil."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הבאה",
-      "definition": "próxima",
-      "exampleSentence": "A próxima paragem é no centro."
+      "solution": "אהבה",
+      "definition": "amor",
+      "exampleSentence": "O amor é a coisa mais importante na vida."
     },
     {
       "direction": "down",
@@ -154,5 +155,6 @@
       "definition": "nível",
       "exampleSentence": "O meu nível de português está a melhorar."
     }
-  ]
+  ],
+  "avg_hardness": -8522.94
 }

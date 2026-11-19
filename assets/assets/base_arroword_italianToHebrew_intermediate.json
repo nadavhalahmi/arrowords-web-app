@@ -7,40 +7,41 @@
   "comments": [
     "Generated intermediate starter base arroword for italianToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -5002.33"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמן",
-      "definition": "olio",
-      "exampleSentence": "Metto un po' di olio sulla pasta."
+      "solution": "ספה",
+      "definition": "divano",
+      "exampleSentence": "Il gatto dorme sul divano."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "צחוק",
-      "definition": "riso",
-      "exampleSentence": "La sua battuta ha provocato un grande riso in sala."
+      "solution": "עצים",
+      "definition": "alberi",
+      "exampleSentence": "Ci sono molti alberi alti nel parco."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מדרגות",
-      "definition": "scale",
-      "exampleSentence": "Uso le scale ogni mattina."
+      "solution": "להשתגע",
+      "definition": "impazzire",
+      "exampleSentence": "Con tutto questo rumore rischio di impazzire."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עלם",
-      "definition": "giovanotto",
-      "exampleSentence": "Quel giovanotto aiuta sempre i vicini anziani."
+      "solution": "חול",
+      "definition": "sabbia",
+      "exampleSentence": "I bambini giocano con la sabbia al mare."
     },
     {
       "direction": "left-down",
@@ -54,105 +55,106 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מצלמות",
-      "definition": "telecamere",
-      "exampleSentence": "Ci sono telecamere di sicurezza in tutta la banca."
+      "solution": "פעולות",
+      "definition": "azioni",
+      "exampleSentence": "Le sue azioni dimostrano grande coraggio oggi."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נחמד",
-      "definition": "simpatico",
-      "exampleSentence": "Il mio nuovo vicino è molto simpatico."
+      "solution": "הצלה",
+      "definition": "salvezza",
+      "exampleSentence": "L'uomo ha trovato la salvezza sulla barca."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "קיסר",
-      "definition": "imperatore",
-      "exampleSentence": "Cesare fu un famoso imperatore romano."
+      "solution": "לשיר",
+      "definition": "cantare",
+      "exampleSentence": "Mi piace molto cantare sotto la doccia."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "עלים",
-      "definition": "foglie",
-      "exampleSentence": "Gli alberi hanno molte foglie verdi in primavera."
+      "solution": "מעשה",
+      "definition": "atto",
+      "exampleSentence": "Aiutare gli altri è un nobile atto."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "צר",
-      "definition": "stretto",
-      "exampleSentence": "Questo vestito è troppo stretto per me."
+      "solution": "חן",
+      "definition": "grazia",
+      "exampleSentence": "La ballerina si muove con molta grazia."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "צדק",
-      "definition": "giustizia",
-      "exampleSentence": "La giustizia è importante per tutti noi."
+      "solution": "חכם",
+      "definition": "saggio",
+      "exampleSentence": "Il vecchio uomo dà sempre un consiglio saggio."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "דקה",
-      "definition": "minuto",
-      "exampleSentence": "Aspetta un minuto, arrivo subito da te."
+      "solution": "כסף",
+      "definition": "denaro",
+      "exampleSentence": "Non ho abbastanza denaro per comprare questa macchina."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רקע",
-      "definition": "sfondo",
-      "exampleSentence": "Ho messo una bella foto sul mio sfondo del computer."
+      "solution": "שלם",
+      "definition": "completo",
+      "exampleSentence": "Questo esercizio è completo e corretto."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "גיל",
-      "definition": "età",
-      "exampleSentence": "A quale età hai preso la patente di guida?"
+      "solution": "תשע",
+      "definition": "nove",
+      "exampleSentence": "La lezione inizia alle ore nove."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "רוסי",
-      "definition": "russo",
-      "exampleSentence": "Lui parla molto bene il russo."
+      "solution": "רגיש",
+      "definition": "sensibile",
+      "exampleSentence": "Il bambino è molto sensibile e piange facilmente."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "montagna",
-      "exampleSentence": "Sali su questa montagna con me."
+      "solution": "פה",
+      "definition": "bocca",
+      "exampleSentence": "Ho una mela dolce nella mia bocca."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רק",
-      "definition": "solamente",
-      "exampleSentence": "Parlo solamente un po' di italiano."
+      "solution": "נס",
+      "definition": "miracolo",
+      "exampleSentence": "È stato un vero miracolo trovare le chiavi."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תרם",
-      "definition": "donato",
-      "exampleSentence": "Ha donato molti libri alla biblioteca comunale."
+      "solution": "ערה",
+      "definition": "sveglia",
+      "exampleSentence": "La mattina presto sono già sveglia."
     }
-  ]
+  ],
+  "avg_hardness": -5002.33
 }

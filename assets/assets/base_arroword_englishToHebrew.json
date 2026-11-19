@@ -7,152 +7,154 @@
   "comments": [
     "Generated beginner starter base arroword for englishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
+    "Avg hardness: -9407.22"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מלא",
-      "definition": "full",
-      "exampleSentence": "The cup is completely full of sweet juice."
+      "solution": "רמה",
+      "definition": "level",
+      "exampleSentence": "The game has a very hard level."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "המום",
-      "definition": "stunned",
-      "exampleSentence": "The winner was stunned by her victory."
+      "solution": "בעיה",
+      "definition": "problem",
+      "exampleSentence": "I need help solving this difficult problem."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מצב רוח",
-      "definition": "mood",
-      "exampleSentence": "The sad loud music ruined my mood."
+      "solution": "להרגיש",
+      "definition": "to feel",
+      "exampleSentence": "I feel happy when I see my friends."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שני",
-      "definition": "second",
-      "exampleSentence": "He won second place in the race."
+      "solution": "קור",
+      "definition": "cold",
+      "exampleSentence": "Ice and snow bring freezing winter cold."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "די",
-      "definition": "enough",
-      "exampleSentence": "There is enough food for all."
+      "solution": "גב",
+      "definition": "back",
+      "exampleSentence": "My lower back hurts from lifting heavy boxes."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להנמיך",
-      "definition": "to lower",
-      "exampleSentence": "Please lower the volume on the television set."
+      "solution": "מבולבל",
+      "definition": "confused",
+      "exampleSentence": "I am confused by wrong directions."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "אמיץ",
-      "definition": "brave",
-      "exampleSentence": "The brave fireman saved the cat from fire."
+      "solution": "הערה",
+      "definition": "comment",
+      "exampleSentence": "She tried to interject a comment."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מקור",
-      "definition": "origin",
-      "exampleSentence": "We study the ancient origin of humans."
+      "solution": "חשוד",
+      "definition": "suspect",
+      "exampleSentence": "Police suspect him of the crime."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "העתק",
-      "definition": "copy",
-      "exampleSentence": "I need a copy of this."
+      "solution": "ברכה",
+      "definition": "blessing",
+      "exampleSentence": "The priest gave the baby a blessing."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "פר",
-      "definition": "bull",
-      "exampleSentence": "The strong angry bull has sharp horns."
+      "solution": "דק",
+      "definition": "thin",
+      "exampleSentence": "The paper is very white and thin."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "פחם",
-      "definition": "coal",
-      "exampleSentence": "Workers dig underground to find black coal."
+      "solution": "דקה",
+      "definition": "minute",
+      "exampleSentence": "I will return in exactly one minute."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "חכם",
-      "definition": "clever",
-      "exampleSentence": "The clever student answered the question easily."
+      "solution": "קצב",
+      "definition": "rate",
+      "exampleSentence": "My heart beats at a fast rate."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "במה",
-      "definition": "stage",
-      "exampleSentence": "The actors are on the stage."
+      "solution": "רחב",
+      "definition": "wide",
+      "exampleSentence": "The very wide river is hard to cross."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "רקע",
-      "definition": "background",
-      "exampleSentence": "The green trees look beautiful in the background."
+      "solution": "גשר",
+      "definition": "bridge",
+      "exampleSentence": "The stone bridge crosses over the deep river."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "צוות",
-      "definition": "team",
-      "exampleSentence": "A soccer team plays games to win."
+      "solution": "חיוך",
+      "definition": "smile",
+      "exampleSentence": "He has a broad smile."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מר",
-      "definition": "bitter",
-      "exampleSentence": "The dark chocolate tastes very bitter."
+      "solution": "בר",
+      "definition": "wild",
+      "exampleSentence": "This wild plant grows in the field."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רך",
-      "definition": "soft",
-      "exampleSentence": "The small cat has soft fur."
+      "solution": "קץ",
+      "definition": "end",
+      "exampleSentence": "We reached the very end of the string."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "חרק",
-      "definition": "insect",
-      "exampleSentence": "The flying buzzing bee is a tiny insect."
+      "solution": "שדה",
+      "definition": "field",
+      "exampleSentence": "The cow is in the field."
     }
-  ]
+  ],
+  "avg_hardness": -9407.22
 }

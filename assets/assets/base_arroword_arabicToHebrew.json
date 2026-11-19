@@ -4,155 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -8792.61,
   "comments": [
     "Generated beginner starter base arroword for arabicToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
+    "Avg hardness: -8792.61"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "להם",
-      "definition": "لَهُمْ",
-      "exampleSentence": "أَرْسَلْتُ لَهُمْ رِسَالَةً لِأُخْبِرَهُمْ بِمَوْعِدِ الِاجْتِمَاعْ"
+      "solution": "זהב",
+      "definition": "ذَهَبْ",
+      "exampleSentence": "هَذَا الْخَاتَمُ مَصْنُوعٌ مِنَ الذَّهَبِ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "סיבה",
-      "definition": "سَبَبْ",
-      "exampleSentence": "ما هو سَبَب الغياب اليوم"
+      "solution": "מתחת",
+      "definition": "تَحْتْ",
+      "exampleSentence": "الْقِطَّةُ تَجْلِسُ تَحْتَ الطَّاوِلَةِ الْخَشَبِيَّة"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "פעמיים",
-      "definition": "مَرَّتَيْنْ",
-      "exampleSentence": "أَغْسِلُ أَسْنَانِي مَرَّتَيْنِ فِي الْيَوْمْ"
+      "solution": "הכלבים",
+      "definition": "الْكِلَابْ",
+      "exampleSentence": "تُحِبُّ الْكِلَابُ اللَّعِبَ فِي الْحَدِيقَةِ الْعَامَّة"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ליד",
-      "definition": "بِجَانِبْ",
-      "exampleSentence": "يَجْلِسُ الطَّالِبُ بِجَانِبِ صَدِيقِهِ فِي الْفَصْلْ"
+      "solution": "לנו",
+      "definition": "لَنَا",
+      "exampleSentence": "هَذَا الْبَيْتُ الْكَبِيرُ مِلْكٌ لَنَا جَمِيعًا"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "או",
-      "definition": "أَوْ",
-      "exampleSentence": "تُرِيدُ شُرْبَ الشَّايِ أَوْ الْقَهْوَة؟"
+      "solution": "די",
+      "definition": "كَفَى",
+      "exampleSentence": "كَفَى كَلَامًا، حَانَ وَقْتُ الْعَمَلِ الْآنْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "הסיפור",
-      "definition": "الْقِصَّة",
-      "exampleSentence": "قَرَأْتُ الْقِصَّةَ لِلْأَطْفَالِ قَبْلَ النَّوْمِ مُبَاشَرَة"
+      "solution": "המנהיג",
+      "definition": "الْقَائِدْ",
+      "exampleSentence": "الْقَائِدُ يَتَحَدَّثُ إِلَى شَعْبِهِ بِكُلِّ ثِقَةٍ وَشَجَاعَة"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מידע",
-      "definition": "الْمَعْلُومَاتْ",
-      "exampleSentence": "هَذِهِ الْمَعْلُومَاتُ مُفِيدَةٌ جِدًّا لِمَشْرُوعِي الدِّرَاسِيّ"
+      "solution": "בתוך",
+      "definition": "دَاخِلْ",
+      "exampleSentence": "وَضَعْتُ الطَّعَامَ دَاخِلَ الثَّلَّاجَةِ الْكَبِيرَهْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "אולי",
-      "definition": "رُبَّمَا",
-      "exampleSentence": "رُبَّمَا نَذْهَبُ إِلَى الْحَدِيقَةِ غَدَا"
+      "solution": "מילה",
+      "definition": "كَلِمَة",
+      "exampleSentence": "كَتَبْتُ كَلِمَةً وَاحِدَةً فِي دَفْتَرِ الْمُلَاحَظَاتْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "תמיד",
-      "definition": "دَائِمًا",
-      "exampleSentence": "أَنَا دَائِمًا أَسْتَيْقِظُ مُبَكِّرًا لِلذَّهَابِ لِلْعَمَلْ"
+      "solution": "הנהר",
+      "definition": "النَّهْرْ",
+      "exampleSentence": "يَجْرِي النَّهْرُ بِبُطْءٍ عَبْرَ وَسَطِ الْمَدِينَة"
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "עם",
-      "definition": "مَعْ",
-      "exampleSentence": "أَنَا أَذْهَبُ إِلَى السُّوقِ مَعَ أُمِّي"
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "עשה",
-      "definition": "فَعَلْ",
-      "exampleSentence": "مَاذَا فَعَلْتَ فِي عُطْلَةِ نِهَايَةِ الْأُسْبُوعِ الْمَاضِي"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "שים",
-      "definition": "ضَعْ",
-      "exampleSentence": "ضَعْ الْكِتَابَ عَلَى الطَّاوِلَةِ يَا بُنَيّ"
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "מאת",
-      "definition": "مِنْ",
-      "exampleSentence": "هَذِهِ الرِّسَالَةُ مِنْ صَدِيقِي الْقَدِيمْ"
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "יום",
-      "definition": "يَوْمْ",
-      "exampleSentence": "هَذَا يَوْمٌ سَعِيدٌ جِدًّا بِالنِّسْبَةِ لِي"
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "גילי",
-      "definition": "عُمْرِي",
-      "exampleSentence": "عُمْرِي الْآنَ عِشْرُونَ سَنَةً بِالضَّبْطْ"
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "מה",
-      "definition": "مَا",
-      "exampleSentence": "مَا اسْمُكَ يَا أَخِي الصَّغِيرْ"
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
       "clue_col": 0,
       "solution": "מי",
       "definition": "مَنْ",
       "exampleSentence": "مَنْ هُوَ الشَّخْصُ الَّذِي يَتَحَدَّثُ هُنَاكْ"
     },
     {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מאת",
+      "definition": "مِنْ",
+      "exampleSentence": "هَذِهِ الرِّسَالَةُ مِنْ صَدِيقِي الْقَدِيمْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "אשר",
+      "definition": "الَّذِي",
+      "exampleSentence": "هَذَا هُوَ الرَّجُلُ الَّذِي سَاعَدَنِي أَمْسْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "למה",
+      "definition": "لِمَاذَا",
+      "exampleSentence": "لِمَاذَا تَدْرُسُ اللُّغَةَ الْعَرَبِيَّةَ الْيَوْمْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בין",
+      "definition": "بَيْنْ",
+      "exampleSentence": "يَجْلِسُ الطَّالِبُ بَيْنَ صَدِيقِهِ وَمُعَلِّمِهْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "לילה",
+      "definition": "لَيْلَة",
+      "exampleSentence": "قَضَيْنَا لَيْلَةَ جَمِيلَةً تَحْتَ ضَوْءِ الْقَمَرْ"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "רק",
+      "definition": "فَقَطْ",
+      "exampleSentence": "لَدَيَّ قَلَمٌ وَاحِدٌ فَقَطْ فِي حَقِيبَتِي"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "יש",
+      "definition": "يُوجَدْ",
+      "exampleSentence": "يُوجَدُ الْكَثِيرُ مِنَ الْمَاءِ فِي الْكُوبْ"
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מיד",
-      "definition": "حَالَا",
-      "exampleSentence": "يَجِبُ عَلَيْنَا نَرْجِعُ إِلَى الْبَيْتِ حَالَا"
+      "solution": "מהר",
+      "definition": "بِسُرْعَة",
+      "exampleSentence": "يَجِبُ أَنْ نَذْهَبَ بِسُرْعَةٍ إِلَى المَدْرَسَة"
     }
   ]
 }

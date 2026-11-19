@@ -7,40 +7,41 @@
   "comments": [
     "Generated advanced starter base arroword for frenchToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
+    "Avg hardness: -1518.00"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נעל",
-      "definition": "soulier",
-      "exampleSentence": "Il a ciré son soulier avant d'aller travailler."
+      "solution": "ענף",
+      "definition": "rameau",
+      "exampleSentence": "Elle pose un rameau d'olivier sur la table."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לפוג",
-      "definition": "expirer",
-      "exampleSentence": "Mon abonnement va expirer à la fin du mois."
+      "solution": "חרון",
+      "definition": "courroux",
+      "exampleSentence": "Le roi a manifesté son courroux face à cette nouvelle."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "צריחון",
-      "definition": "tourelle",
-      "exampleSentence": "On aperçoit une petite tourelle sur le toit."
+      "solution": "שייכות",
+      "definition": "appartenance",
+      "exampleSentence": "Cette carte d'identité prouve mon appartenance à ce club."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טיט",
-      "definition": "glaise",
-      "exampleSentence": "Le potier utilise de la glaise pour façonner un beau vase."
+      "solution": "גיא",
+      "definition": "ravin",
+      "exampleSentence": "La rivière coule au fond du ravin profond."
     },
     {
       "direction": "left-down",
@@ -54,57 +55,57 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "עליצות",
-      "definition": "allégresse",
-      "exampleSentence": "Les enfants courent dans le jardin avec allégresse."
+      "solution": "נחישות",
+      "definition": "fermeté",
+      "exampleSentence": "Le directeur a pris cette décision avec fermeté."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לפטר",
-      "definition": "congédier",
-      "exampleSentence": "Le gérant a dû congédier le cuisinier pour faute grave."
+      "solution": "פראי",
+      "definition": "farouche",
+      "exampleSentence": "Ce petit lapin est très farouche et s'enfuit vite."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מקרי",
-      "definition": "accidentel",
-      "exampleSentence": "Cette découverte scientifique était totalement accidentelle."
+      "solution": "משדר",
+      "definition": "transmetteur",
+      "exampleSentence": "Le transmetteur transmet les données vers le serveur."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "יריב",
-      "definition": "opposant",
-      "exampleSentence": "L'opposant politique a critiqué le nouveau projet."
+      "solution": "יליד",
+      "definition": "indigène",
+      "exampleSentence": "Cette plante indigène pousse bien dans notre région."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "לח",
-      "definition": "humide",
-      "exampleSentence": "L'air est très humide après la pluie d'été."
+      "solution": "אח",
+      "definition": "infirmier",
+      "exampleSentence": "L'infirmier prend soin des patients à l'hôpital."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "לעג",
-      "definition": "moquerie",
-      "exampleSentence": "Sa remarque était pleine de moquerie et méchante."
+      "solution": "אגן",
+      "definition": "cuvette",
+      "exampleSentence": "Remplissez la cuvette avec de l'eau tiède."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "עדר",
-      "definition": "troupeau",
-      "exampleSentence": "Le berger surveille son troupeau dans la prairie."
+      "solution": "גדה",
+      "definition": "berge",
+      "exampleSentence": "Nous nous asseyons sur la berge pour regarder l'eau."
     },
     {
       "direction": "right",
@@ -118,41 +119,42 @@
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חקר",
-      "definition": "exploration",
-      "exampleSentence": "L'exploration de cette grotte est très dangereuse."
+      "solution": "כשל",
+      "definition": "défaillance",
+      "exampleSentence": "La défaillance du moteur a causé l'arrêt du train."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סורי",
-      "definition": "syrien",
-      "exampleSentence": "Notre nouveau voisin est un homme syrien très gentil."
+      "solution": "סודי",
+      "definition": "confidentiel",
+      "exampleSentence": "Cette information professionnelle doit rester strictement confidentielle."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "considérable",
-      "exampleSentence": "Il a fait un effort considérable pour réussir son examen."
+      "solution": "הר",
+      "definition": "mont",
+      "exampleSentence": "Le mont Blanc est un très grand sommet."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "חד",
-      "definition": "affilé",
-      "exampleSentence": "Le boucher utilise un couteau bien affilé."
+      "definition": "aigu",
+      "exampleSentence": "Ce couteau a un bout très aigu et dangereux."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ניב",
-      "definition": "croc",
-      "exampleSentence": "Le chien montre un long croc pointu et blanc."
+      "solution": "תרד",
+      "definition": "épinard",
+      "exampleSentence": "Popeye mange toujours un bol d'épinard pour être fort."
     }
-  ]
+  ],
+  "avg_hardness": -1518.0
 }

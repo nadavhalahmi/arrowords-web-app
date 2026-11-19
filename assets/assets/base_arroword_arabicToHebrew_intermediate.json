@@ -4,35 +4,37 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
+  "avg_hardness": -4961.11,
   "comments": [
     "Generated intermediate starter base arroword for arabicToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -4961.11"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אשם",
-      "definition": "مُذْنِبْ",
-      "exampleSentence": "الْقَاضِي قَالَ الرَّجُلُ لَيْسَ مُذْنِبًا"
+      "solution": "בהם",
+      "definition": "بِهِمْ",
+      "exampleSentence": "أَنَا فَخُورٌ بِهِمْ لِأَنَّهُمْ نَجَحُوا فِي دِرَاسَتِهِمْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "עונה",
-      "definition": "فَصْلْ",
-      "exampleSentence": "فَصْلُ الصَّيْفِ هُوَ الْمُفَضَّلُ عِنْدِي دَائِمًا"
+      "solution": "מבקש",
+      "definition": "يَطْلُبْ",
+      "exampleSentence": "يَطْلُبُ الطَّالِبُ الْمُسَاعَدَةَ مِنْ مُعَلِّمِهِ فِي الدَّرْسْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יומיים",
-      "definition": "يَوْمَيْنْ",
-      "exampleSentence": "سَأَغِيبُ عَنِ الْعَمَلِ لِمُدَّةِ يَوْمَيْنِ فَقَطْ"
+      "solution": "אנרגיה",
+      "definition": "طَاقَة",
+      "exampleSentence": "يَحْتَاجُ الْجِسْمُ إِلَى طَاقَةٍ لِلْقِيَامِ بِالْعَمَلْ"
     },
     {
       "direction": "left-down",
@@ -54,105 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "שעתיים",
-      "definition": "سَاعَتَيْنْ",
-      "exampleSentence": "انْتَظَرْتُ الْحَافِلَةَ لِمُدَّةِ سَاعَتَيْنِ فِي الْمَحَطَّة"
+      "solution": "המתאים",
+      "definition": "الْمُنَاسِبْ",
+      "exampleSentence": "هَذَا هُوَ الْوَقْتُ الْمُنَاسِبْ لِلِاتِّصَالِ بِصَدِيقِي"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מוחו",
-      "definition": "عَقْلُهْ",
-      "exampleSentence": "عَقْلُهُ يَعْمَلُ بِذَكَاءٍ فِي حَلِّ الْمَسَائِلْ"
+      "solution": "מבחן",
+      "definition": "اخْتِبَارْ",
+      "exampleSentence": "سَأُقَدِّمُ اخْتِبَارَ اللُّغَةِ الْعَرَبِيَّةِ غَدًا فِي الْمَدْرَسَهْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "נשיא",
-      "definition": "رَئِيسْ",
-      "exampleSentence": "هُوَ رَئِيسُ الشَّرِكَةِ الَّتِي أَعْمَلُ فِيهَا."
+      "solution": "מבנה",
+      "definition": "مَبْنَى",
+      "exampleSentence": "هَذَا الْمَبْنَى قَدِيمٌ جِدًّا وَجَمِيلْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "הבנה",
-      "definition": "فَهْمْ",
-      "exampleSentence": "الْقِرَاءَةُ تُسَاعِدُ عَلَى زِيَادَةِ فَهْمِ اللُّغَةِ الْعَرَبِيَّة"
+      "solution": "הרים",
+      "definition": "جِبَالْ",
+      "exampleSentence": "تُغَطِّي الثُّلُوجُ جِبَالْ هَذِهِ الْمَدِينَة"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "דג",
-      "definition": "سَمَكْ",
-      "exampleSentence": "أُحِبُّ تَنَاوُلَ السَّمَكِ الْمَشْوِيِّ مَعَ الْأَرُزْ"
+      "solution": "די",
+      "definition": "كَفَى",
+      "exampleSentence": "كَفَى كَلَامًا، حَانَ وَقْتُ الْعَمَلِ الْآنْ"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "דעה",
-      "definition": "رَأْي",
-      "exampleSentence": "مَا هُوَ رَأْيُكَ فِي هَذَا الْفِيلْمِ الْجَدِيدْ"
+      "solution": "דבש",
+      "definition": "الْعَسَلْ",
+      "exampleSentence": "الْعَسَلُ مُفِيدٌ جِدًّا لِصِحَّةِ الْإِنْسَانِ فِي الشِّتَاءْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ענף",
-      "definition": "غصن",
-      "exampleSentence": "أترى ذلك العصفور الصغير على الغصن؟"
+      "solution": "בדק",
+      "definition": "فَحَصْ",
+      "exampleSentence": "فَحَصَ الْمُهَنْدِسُ الْجِهَازَ لِيَعْرِفَ سَبَبَ الْعُطْلْ"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "طَبَقْ",
-      "exampleSentence": "طَلَبْتُ طَبَقْ طَعَامٍ لَذِيذٍ بِالْمَطْعَم"
+      "solution": "רמה",
+      "definition": "مُسْتَوَى",
+      "exampleSentence": "وَصَلَ الطَّالِبُ إِلَى مُسْتَوَى عَالٍ فِي الدِّرَاسَة"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ישב",
-      "definition": "جلس",
-      "exampleSentence": "جلس في مؤخرة الحافلة."
+      "solution": "גבר",
+      "definition": "رَجُلْ",
+      "exampleSentence": "رَأَيْتُ رَجُلًا يُسَاعِدُ الْعَجُوزَ فِي عُبُورِ الطَّرِيقْ"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "היין",
-      "definition": "الْخَمْرْ",
-      "exampleSentence": "يَمْنَعُ الْقَانُونُ شُرْبَ الْخَمْرِ فِي الْأَمَاكِنِ الْعَامَّة"
+      "solution": "ביני",
+      "definition": "بَيْنِي",
+      "exampleSentence": "هَذَا السِّرُّ يَبْقَى دَائِمًا بَيْنِي وَبَيْنَ صَدِيقِي"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "פה",
-      "definition": "فَمْ",
-      "exampleSentence": "يَجِبُ أَنْ تَغْسِلَ فَمَكَ بَعْدَ الْأَكْلْ"
+      "solution": "קל",
+      "definition": "سَهْلْ",
+      "exampleSentence": "هَذَا الِاخْتِبَارُ كَانَ سَهْلًا جِدّاً لِلْجَمِيعْ"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "גן",
-      "definition": "حَدِيقَة",
-      "exampleSentence": "نَلْعَبُ كُرَةَ الْقَدَمِ فِي حَدِيقَةِ الْمَنْزِلِ الْكَبِيرَة"
+      "solution": "יד",
+      "definition": "يَدْ",
+      "exampleSentence": "غَسَلَ الْوَلَدُ يَدَهُ قَبْلَ تَنَاوُلِ الطَّعَامْ"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מאה",
-      "definition": "مِئَة",
-      "exampleSentence": "قَرَأْتُ مِئَةَ صَفْحَةٍ مِنَ الرِّوَايَةِ هَذَا الْمَسَاءْ."
+      "solution": "ההם",
+      "definition": "أُولَئِكْ",
+      "exampleSentence": "أُولَئِكَ هُمُ الرِّجَالُ الطَّيِّبُونَ فِي الْقَرْيَةِ"
     }
   ]
 }

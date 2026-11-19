@@ -4,134 +4,144 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -9685.61,
   "comments": [
     "Generated beginner starter base arroword for frenchToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
+    "Avg hardness: -9685.61"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "סלע",
-      "definition": "pierre",
-      "exampleSentence": "Une lourde pierre sert de base à ce vieux monument."
+      "solution": "הנה",
+      "definition": "voilà",
+      "exampleSentence": "Voilà votre commande de livres pour la rentrée."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הזאת",
-      "definition": "cette",
-      "exampleSentence": "Cette semaine, nous allons visiter Paris."
+      "solution": "ובכן",
+      "definition": "alors",
+      "exampleSentence": "Alors, tu as aimé le film d'hier ?"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "בהריון",
-      "definition": "enceinte",
-      "exampleSentence": "La chatte est enceinte et aura des petits bientôt."
+      "solution": "מלוכלך",
+      "definition": "sale",
+      "exampleSentence": "Ses chaussures sont très sale après la pluie."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יער",
-      "definition": "bois",
-      "exampleSentence": "Nous aimons faire une promenade dans les bois."
+      "solution": "ורד",
+      "definition": "rose",
+      "exampleSentence": "Le jardinier a planté un beau rosier avec une rose rouge."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "qui",
-      "exampleSentence": "Qui a sonné à la porte ?"
+      "solution": "כל",
+      "definition": "tout",
+      "exampleSentence": "Il mange tout le gâteau au chocolat."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להעביר",
-      "definition": "passer",
-      "exampleSentence": "Peux-tu me passer le sel, s'il te plaît ?"
+      "solution": "נורמלי",
+      "definition": "normal",
+      "exampleSentence": "Il est tout à fait normal d'avoir peur parfois."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "עזרה",
-      "definition": "aide",
-      "exampleSentence": "J'ai besoin de ton aide pour porter cette valise."
+      "solution": "הבדל",
+      "definition": "différence",
+      "exampleSentence": "Il y a une grande différence entre ces deux couleurs."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "אורח",
-      "definition": "invité",
-      "exampleSentence": "Nous avons préparé un délicieux dîner pour notre invité."
+      "solution": "לבוא",
+      "definition": "venir",
+      "exampleSentence": "Tu veux venir chez moi ce soir ?"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "שמאל",
-      "definition": "gauche",
-      "exampleSentence": "Tournez à gauche après la boulangerie."
+      "solution": "ארנב",
+      "definition": "lapin",
+      "exampleSentence": "Le petit lapin mange une carotte dans le jardin."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אך",
-      "definition": "mais",
-      "exampleSentence": "Il est petit, mais il est très fort."
+      "solution": "מה",
+      "definition": "quoi",
+      "exampleSentence": "De quoi parlez-vous avec autant d'intérêt ?"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אמת",
-      "definition": "vérité",
-      "exampleSentence": "Il est important de dire toujours la vérité."
+      "solution": "מין",
+      "definition": "sorte",
+      "exampleSentence": "Je n'aime pas cette sorte de comportement."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מנה",
-      "definition": "plat",
-      "exampleSentence": "Ce restaurant propose un plat du jour délicieux."
+      "solution": "ירח",
+      "definition": "lune",
+      "exampleSentence": "La lune brille magnifiquement dans le ciel nocturne."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ראש",
-      "definition": "tête",
-      "exampleSentence": "Il porte un chapeau noir sur sa tête."
+      "solution": "ולא",
+      "definition": "ni",
+      "exampleSentence": "Il ne mange ni viande ni poisson le vendredi."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יום",
-      "definition": "jour",
-      "exampleSentence": "Chaque jour apporte de nouvelles opportunités d'apprendre."
+      "solution": "כבר",
+      "definition": "déjà",
+      "exampleSentence": "Le train est déjà parti quand nous sommes arrivés."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "נורא",
-      "definition": "horrible",
-      "exampleSentence": "Ce monstre dans le film fait une peur horrible."
+      "solution": "מלון",
+      "definition": "hôtel",
+      "exampleSentence": "Nous passons la nuit dans un hôtel confortable."
     },
     {
       "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "חם",
+      "definition": "chaud",
+      "exampleSentence": "Le café est très chaud ce matin."
+    },
+    {
+      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "הר",
@@ -139,20 +149,12 @@
       "exampleSentence": "Il y a de la neige sur la montagne."
     },
     {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "כן",
-      "definition": "oui",
-      "exampleSentence": "Oui, je veux bien un peu d'eau."
-    },
-    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נחל",
-      "definition": "rivière",
-      "exampleSentence": "Les enfants se baignent dans la rivière."
+      "solution": "כאב",
+      "definition": "mal",
+      "exampleSentence": "J'ai mal à la tête après cette longue journée."
     }
   ]
 }

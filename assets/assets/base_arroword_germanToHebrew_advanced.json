@@ -7,128 +7,129 @@
   "comments": [
     "Generated advanced starter base arroword for germanToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
+    "Avg hardness: -4.89"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "תיל",
-      "definition": "Draht",
-      "exampleSentence": "Der Zaun besteht aus starkem Draht."
+      "solution": "רשת",
+      "definition": "Netz",
+      "exampleSentence": "Der Fischer wirft sein großes Netz ins blaue Meer."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "יריד",
-      "definition": "Messe",
-      "exampleSentence": "Auf der Messe werden viele neue Autos gezeigt."
+      "solution": "יועץ",
+      "definition": "Berater",
+      "exampleSentence": "Ein guter Berater hilft Ihnen bei wichtigen Fragen."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "וטרינר",
-      "definition": "Tierarzt",
-      "exampleSentence": "Wir bringen unseren kranken Hund heute zum Tierarzt."
+      "solution": "ורידים",
+      "definition": "Adern",
+      "exampleSentence": "Das Blut fließt durch unsere Adern durch den ganzen Körper."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "לחה",
-      "definition": "feucht",
-      "exampleSentence": "Nach dem starken Regen ist die Erde im Garten noch feucht."
+      "solution": "צמא",
+      "definition": "Durst",
+      "exampleSentence": "Nach dem langen Lauf hatte ich großen Durst."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "בד",
-      "definition": "Stoff",
-      "exampleSentence": "Dieser Stoff ist sehr weich und angenehm zu tragen."
+      "solution": "שש",
+      "definition": "sechs",
+      "exampleSentence": "Auf dem Würfel ist die Zahl sechs zu sehen."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "ייחודי",
-      "definition": "einzigartig",
-      "exampleSentence": "Dieses alte Gebäude ist wirklich einzigartig in der Stadt."
+      "solution": "שימושי",
+      "definition": "nützlich",
+      "exampleSentence": "Dieses kleine Buch ist sehr nützlich für die Reise."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לרהט",
-      "definition": "einrichten",
-      "exampleSentence": "Sie wollen ihre neue Wohnung modern einrichten."
+      "solution": "תואר",
+      "definition": "Abschluss",
+      "exampleSentence": "Nach dem Studium feiert sie ihren Abschluss."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "עצום",
-      "definition": "enorm",
-      "exampleSentence": "Der Berg hat eine enorm große Höhe."
+      "solution": "חיוך",
+      "definition": "Lächeln",
+      "exampleSentence": "Dein Lächeln macht mich jeden Tag sehr glücklich."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מרעה",
-      "definition": "Weide",
-      "exampleSentence": "Die friedlichen Kühe stehen den ganzen Tag auf der grünen Weide."
+      "solution": "סופר",
+      "definition": "Autor",
+      "exampleSentence": "Der bekannte Autor schreibt gerade an einem neuen Roman."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גס",
-      "definition": "grob",
-      "exampleSentence": "Bitte behandeln Sie dieses Glas nicht grob."
+      "solution": "חם",
+      "definition": "warm",
+      "exampleSentence": "Das Wetter ist heute so schön und warm."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גמד",
-      "definition": "Zwerg",
-      "exampleSentence": "Im Märchen wohnt ein kleiner Zwerg tief im dunklen Wald."
+      "solution": "חפץ",
+      "definition": "Gegenstand",
+      "exampleSentence": "Dieses alte Buch ist ein sehr wertvoller Gegenstand."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מלח",
-      "definition": "Salz",
-      "exampleSentence": "Ich brauche etwas Salz für meine Suppe."
+      "solution": "פרח",
+      "definition": "Blume",
+      "exampleSentence": "Sie hat eine schöne rote Blume im Garten."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רעם",
-      "definition": "Donner",
-      "exampleSentence": "Nach dem hellen Blitz hörten wir sofort den lauten Donner."
+      "solution": "יחס",
+      "definition": "Verhältnis",
+      "exampleSentence": "Das Verhältnis zwischen den beiden Nachbarn ist sehr gut."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יצר",
-      "definition": "Trieb",
-      "exampleSentence": "Der natürliche Trieb hilft Tieren beim Überleben."
+      "solution": "דיו",
+      "definition": "Tinte",
+      "exampleSentence": "Ich schreibe den Brief mit Tinte."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "צנוע",
-      "definition": "bescheiden",
-      "exampleSentence": "Trotz seines Erfolgs ist er immer bescheiden geblieben."
+      "solution": "זיוף",
+      "definition": "Fälschung",
+      "exampleSentence": "Das teure Gemälde im Museum stellte sich als Fälschung heraus."
     },
     {
       "direction": "right",
@@ -142,17 +143,18 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "סל",
-      "definition": "Korb",
-      "exampleSentence": "Ich lege die frischen Äpfel in den Korb."
+      "solution": "מר",
+      "definition": "Herr",
+      "exampleSentence": "Guten Morgen, Herr Müller, wie geht es Ihnen heute?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "רמה",
-      "definition": "Niveau",
-      "exampleSentence": "Der Sprachkurs hat ein sehr gutes Niveau."
+      "solution": "מכר",
+      "definition": "Bekannte",
+      "exampleSentence": "Er ist ein guter Bekannte von meinem Bruder."
     }
-  ]
+  ],
+  "avg_hardness": -4.89
 }

@@ -4,27 +4,29 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
+  "avg_hardness": -3518.61,
   "comments": [
     "Generated advanced starter base arroword for englishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
+    "Avg hardness: -3518.61"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "דרג",
-      "definition": "echelon",
-      "exampleSentence": "She is in the upper management echelon."
+      "solution": "פרס",
+      "definition": "award",
+      "exampleSentence": "The best actor won a shiny award."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "על אף",
-      "definition": "notwithstanding",
-      "exampleSentence": "Notwithstanding the rain, they played soccer."
+      "solution": "עמיד",
+      "definition": "durable",
+      "exampleSentence": "Thick cloth is a strong durable fabric."
     },
     {
       "direction": "down",
@@ -38,17 +40,17 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שבו",
-      "definition": "whereby",
-      "exampleSentence": "This is the method whereby we solve problems."
+      "solution": "כבל",
+      "definition": "cable",
+      "exampleSentence": "The thick steel grey cable holds the heavy bridge."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "שן",
-      "definition": "cog",
-      "exampleSentence": "The heavy metal cog turns the wheel."
+      "solution": "זן",
+      "definition": "breed",
+      "exampleSentence": "That animal is a smart dog breed."
     },
     {
       "direction": "right",
@@ -62,97 +64,97 @@
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "גלוי",
-      "definition": "overt",
-      "exampleSentence": "Stealing is an overt breaking of rules."
+      "solution": "סמלי",
+      "definition": "symbolic",
+      "exampleSentence": "The white dove is a symbolic bird."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שוחד",
-      "definition": "bribery",
-      "exampleSentence": "Paying a judge money is illegal bribery."
+      "solution": "גומי",
+      "definition": "rubber",
+      "exampleSentence": "Car tires are made of strong black rubber."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מלבן",
-      "definition": "rectangle",
-      "exampleSentence": "A rectangle has four long straight sides."
+      "solution": "נציב",
+      "definition": "commissioner",
+      "exampleSentence": "The city police commissioner leads the local force."
     },
     {
       "direction": "down",
       "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רץ",
+      "definition": "runner",
+      "exampleSentence": "The fast runner won the gold medal."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רעד",
+      "definition": "tremor",
+      "exampleSentence": "The earthquake caused a small ground tremor."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "עור",
+      "definition": "leather",
+      "exampleSentence": "He will polish his black leather shoes."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "אגן",
+      "definition": "pelvis",
+      "exampleSentence": "The leg bone connects to the pelvis."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בוץ",
+      "definition": "mire",
+      "exampleSentence": "Dirty farm pigs roll in wet mire."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "קומי",
+      "definition": "comedic",
+      "exampleSentence": "The funny actor has great comedic skills."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "רך",
       "definition": "tender",
       "exampleSentence": "The chicken was tender and easy to chew."
     },
     {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "רצף",
-      "definition": "sequence",
-      "exampleSentence": "Put the puzzle pieces in the right sequence."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "צדף",
-      "definition": "shell",
-      "exampleSentence": "I found a pretty shell on the beach."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "אשם",
-      "definition": "culpable",
-      "exampleSentence": "He is culpable for the bad crime."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "בול",
-      "definition": "stamp",
-      "exampleSentence": "Put a stamp on the letter."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "רוחב",
-      "definition": "breadth",
-      "exampleSentence": "Measure the full breadth of wide tables."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "פר",
-      "definition": "bull",
-      "exampleSentence": "The strong angry bull has sharp horns."
-    },
-    {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "כד",
-      "definition": "jug",
-      "exampleSentence": "He drank fresh milk from a jug."
+      "solution": "צו",
+      "definition": "edict",
+      "exampleSentence": "The mayor signed a new edict."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נדן",
-      "definition": "sheath",
-      "exampleSentence": "He put his sword in the sheath."
+      "solution": "ניב",
+      "definition": "idiom",
+      "exampleSentence": "A piece of cake is a common idiom."
     }
   ]
 }

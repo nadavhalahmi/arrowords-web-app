@@ -7,152 +7,154 @@
   "comments": [
     "Generated advanced starter base arroword for chineseToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
+    "Avg hardness: 0.00"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חלש",
-      "definition": "薄弱",
-      "exampleSentence": "他的身体很薄弱。"
+      "solution": "צלם",
+      "definition": "摄影师",
+      "exampleSentence": "摄影师拍了很多照片。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הבדל",
-      "definition": "差别",
-      "exampleSentence": "这两个苹果没有差别。"
+      "solution": "הרכב",
+      "definition": "组合",
+      "exampleSentence": "我们组合起来。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "תעשייה",
-      "definition": "产业",
-      "exampleSentence": "这个产业发展很快。"
+      "solution": "אזרחות",
+      "definition": "国籍",
+      "exampleSentence": "请填写你的国籍。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כמו",
-      "definition": "如同",
-      "exampleSentence": "他如同我的亲人一样。"
+      "solution": "דרך",
+      "definition": "方式",
+      "exampleSentence": "我们要用正确的方式学习。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "חי",
-      "definition": "活泼",
-      "exampleSentence": "这个孩子非常活泼。"
+      "solution": "או",
+      "definition": "或是",
+      "exampleSentence": "你想喝茶或是咖啡？"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להמתין",
-      "definition": "待",
-      "exampleSentence": "你先待在这里等我回来。"
+      "solution": "להראות",
+      "definition": "显示",
+      "exampleSentence": "他显示了实力。"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "שבוע",
-      "definition": "礼拜",
-      "exampleSentence": "下个礼拜我们要考试。"
+      "solution": "מרכז",
+      "definition": "心",
+      "exampleSentence": "他是我心中的爱。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "כריך",
-      "definition": "三明治",
-      "exampleSentence": "我午饭吃了一个三明治。"
+      "solution": "עצמו",
+      "definition": "本身",
+      "exampleSentence": "问题本身并不难解决。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לקלל",
-      "definition": "骂",
-      "exampleSentence": "请不要随便骂人。"
+      "solution": "לרצף",
+      "definition": "铺",
+      "exampleSentence": "工人在地上铺了地毯。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "高山",
-      "exampleSentence": "他们正在攀登那座高山。"
+      "solution": "בד",
+      "definition": "布",
+      "exampleSentence": "妈妈买了一块漂亮的布。"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "הנל",
-      "definition": "以上",
-      "exampleSentence": "以上内容请仔细阅读。"
+      "solution": "בלב",
+      "definition": "心中",
+      "exampleSentence": "老师的教导一直记在我心中。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "נקי",
-      "definition": "净",
-      "exampleSentence": "把桌子擦得干干净净。"
+      "solution": "ליד",
+      "definition": "跟前",
+      "exampleSentence": "他站在我的跟前。"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "שכל",
-      "definition": "头脑",
-      "exampleSentence": "他头脑很聪明。"
+      "solution": "רעל",
+      "definition": "毒",
+      "exampleSentence": "我们要远离毒品。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ירק",
-      "definition": "蔬菜",
-      "exampleSentence": "多吃蔬菜对身体好。"
+      "solution": "חצר",
+      "definition": "院",
+      "exampleSentence": "他住在学校的医院旁边。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חייל",
-      "definition": "军人",
-      "exampleSentence": "他是一名光荣的军人。"
+      "solution": "חומץ",
+      "definition": "醋",
+      "exampleSentence": "他吃醋的样子很可爱。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "ים",
-      "definition": "海洋",
-      "exampleSentence": "我们要保护海洋环境。"
+      "solution": "דג",
+      "definition": "鱼",
+      "exampleSentence": "河里有很多游来游去的鱼。"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רק",
-      "definition": "只不过",
-      "exampleSentence": "这只不过是一个小错误。"
+      "solution": "די",
+      "definition": "相当",
+      "exampleSentence": "他相当聪明。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "הכל",
-      "definition": "全都",
-      "exampleSentence": "大家都全都到了。"
+      "solution": "תוף",
+      "definition": "鼓",
+      "exampleSentence": "他在练习打鼓。"
     }
-  ]
+  ],
+  "avg_hardness": 0.0
 }

@@ -4,142 +4,136 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -9747.56,
   "comments": [
     "Generated beginner starter base arroword for swedishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
+    "Avg hardness: -9747.56"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שלם",
-      "definition": "hel",
-      "exampleSentence": "Hela familjen samlas runt bordet för middag."
+      "solution": "אתם",
+      "definition": "ni",
+      "exampleSentence": "Hur mår ni alla idag?"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הרבה",
-      "definition": "mycket",
-      "exampleSentence": "Det regnade mycket i helgen."
+      "solution": "מוטב",
+      "definition": "bättre",
+      "exampleSentence": "Det är bättre att fråga om du är osäker."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אחריות",
-      "definition": "ansvar",
-      "exampleSentence": "Som förälder har man ett stort ansvar för barnen."
+      "solution": "נעליים",
+      "definition": "skor",
+      "exampleSentence": "Jag måste köpa nya skor inför vintern."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מתי",
-      "definition": "när",
-      "exampleSentence": "När åker du till Sverige på semester?"
+      "solution": "עוד",
+      "definition": "fortfarande",
+      "exampleSentence": "Hon väntar fortfarande på bussen i kylan."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "אם",
-      "definition": "om",
-      "exampleSentence": "Jag vet inte om han kommer idag."
+      "solution": "או",
+      "definition": "eller",
+      "exampleSentence": "Vill du ha kaffe eller te till frukost?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להתאמן",
-      "definition": "träna",
-      "exampleSentence": "Jag brukar träna på gymmet efter jobbet."
+      "solution": "תמונות",
+      "definition": "bilder",
+      "exampleSentence": "Barnen målade vackra bilder på lektionen."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מריח",
-      "definition": "luktar",
-      "exampleSentence": "Maten luktar mycket gott i köket."
+      "solution": "מודע",
+      "definition": "medveten",
+      "exampleSentence": "Hon är medveten om risken med att simma."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שולח",
-      "definition": "skickar",
-      "exampleSentence": "Hon skickar ett brev till sin gamla vän."
+      "solution": "חלום",
+      "definition": "dröm",
+      "exampleSentence": "Jag hade en väldigt läskig dröm i natt."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "עמית",
-      "definition": "kollega",
-      "exampleSentence": "Jag brukar fika med en trevlig kollega på eftermiddagen."
+      "solution": "נדרש",
+      "definition": "krävs",
+      "exampleSentence": "Erfarenhet krävs för detta svåra jobb."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "קל",
-      "definition": "lätt",
-      "exampleSentence": "Väskan är lätt att bära."
+      "solution": "כל",
+      "definition": "alla",
+      "exampleSentence": "Alla barn i skolan gillar att leka tillsammans."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "קרה",
-      "definition": "hände",
-      "exampleSentence": "Vad hände här i går kväll?"
+      "solution": "כאב",
+      "definition": "ont",
+      "exampleSentence": "Jag har ont i min fot."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ראש",
-      "definition": "huvud",
-      "exampleSentence": "Jag har ont i mitt huvud idag."
+      "solution": "אבל",
+      "definition": "men",
+      "exampleSentence": "Jag vill gå ut, men det regnar ute."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רשע",
-      "definition": "elak",
-      "exampleSentence": "Det är inte snällt att vara elak mot andra."
+      "solution": "לחן",
+      "definition": "visa",
+      "exampleSentence": "Den gamla svenska visan är mycket vacker."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יום",
-      "definition": "dag",
-      "exampleSentence": "Idag är en vacker och solig dag."
+      "solution": "ילד",
+      "definition": "barn",
+      "exampleSentence": "Ett litet barn sover sött i sin säng."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אולי",
-      "definition": "kanske",
-      "exampleSentence": "Kanske kommer hon på besök i eftermiddag."
+      "solution": "ציור",
+      "definition": "bild",
+      "exampleSentence": "Det hänger en vacker bild på väggen."
     },
     {
       "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "שם",
-      "definition": "namn",
-      "exampleSentence": "Vad är ditt namn på svenska?"
-    },
-    {
-      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "לא",
@@ -147,12 +141,20 @@
       "exampleSentence": "Jag vill inte dricka kaffe idag."
     },
     {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "לב",
+      "definition": "hjärta",
+      "exampleSentence": "Mitt hjärta slår fort när jag springer."
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תחת",
-      "definition": "under",
-      "exampleSentence": "Boken ligger under den stora stolen."
+      "solution": "ממש",
+      "definition": "verkligen",
+      "exampleSentence": "Det här kaffet smakar verkligen bra."
     }
   ]
 }

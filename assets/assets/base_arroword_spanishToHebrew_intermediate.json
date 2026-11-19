@@ -7,7 +7,8 @@
   "comments": [
     "Generated intermediate starter base arroword for spanishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-3333. Hand-curate before shipping.",
+    "Avg hardness: -3328.11"
   ],
   "clues": [
     {
@@ -154,5 +155,6 @@
       "definition": "propina",
       "exampleSentence": "Es costumbre dar una propina en el restaurante."
     }
-  ]
+  ],
+  "avg_hardness": -3328.11
 }

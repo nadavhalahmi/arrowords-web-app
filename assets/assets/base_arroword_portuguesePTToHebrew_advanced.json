@@ -7,7 +7,8 @@
   "comments": [
     "Generated advanced starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping."
+    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping.",
+    "Avg hardness: 1028.28"
   ],
   "clues": [
     {
@@ -154,5 +155,6 @@
       "definition": "bode",
       "exampleSentence": "O bode está a comer relva no campo."
     }
-  ]
+  ],
+  "avg_hardness": 1028.28
 }
