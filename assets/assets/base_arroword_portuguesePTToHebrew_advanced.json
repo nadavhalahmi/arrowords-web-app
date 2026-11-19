@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
+  "avg_hardness": -374.17,
   "comments": [
     "Generated advanced starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping.",
-    "Avg hardness: 1028.28"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
+    "Avg hardness: -374.17"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "ספק",
-      "definition": "fornecedor",
-      "exampleSentence": "Eles mudaram de fornecedor este mês."
+      "solution": "צמד",
+      "definition": "dupla",
+      "exampleSentence": "Eles formam uma dupla muito boa."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "יוצר",
-      "definition": "criador",
-      "exampleSentence": "Ele é o criador desta bela obra."
+      "solution": "אוזן",
+      "definition": "orelha",
+      "exampleSentence": "A minha orelha dói um pouco hoje."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "נמצאות",
-      "definition": "encontradas",
-      "exampleSentence": "As chaves foram encontradas na cozinha."
+      "solution": "רהיטים",
+      "definition": "móveis",
+      "exampleSentence": "Comprámos novos móveis para a sala."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קנס",
-      "definition": "multa",
-      "exampleSentence": "Ele pagou uma multa por estacionar mal."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 6,
-      "solution": "גס",
-      "definition": "bruto",
-      "exampleSentence": "Ele teve um comportamento muito bruto com o colega."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "פיננסי",
-      "definition": "financeiro",
-      "exampleSentence": "Ele trabalha no plano financeiro do banco."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "קוסם",
-      "definition": "feiticeiro",
-      "exampleSentence": "O velho feiticeiro vivia na floresta."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "מלאי",
-      "definition": "inventário",
-      "exampleSentence": "Fizemos o inventário da loja esta semana."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "חמוש",
-      "definition": "armado",
-      "exampleSentence": "A polícia deteve o suspeito armado."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "בד",
-      "definition": "tecido",
-      "exampleSentence": "Este tecido é azul e muito quente."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "בשר",
-      "definition": "carne",
-      "exampleSentence": "Prefiro comer carne com batatas fritas."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "שקע",
-      "definition": "tomada",
-      "exampleSentence": "Liguei o telemóvel à tomada na parede."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
       "solution": "צמח",
       "definition": "planta",
       "exampleSentence": "Eu tenho uma planta verde."
     },
     {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "די",
+      "definition": "bastante",
+      "exampleSentence": "Este exercício é bastante fácil de fazer."
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מאמרים",
+      "definition": "artigos",
+      "exampleSentence": "Li vários artigos interessantes no jornal hoje."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "דוחה",
+      "definition": "repugnante",
+      "exampleSentence": "O cheiro da comida era repugnante."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "בריא",
+      "definition": "saudável",
+      "exampleSentence": "Comer fruta fresca todos os dias é muito saudável."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "שירה",
+      "definition": "poesia",
+      "exampleSentence": "Ela escreve poesia todos os dias."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "שש",
+      "definition": "seis",
+      "exampleSentence": "Comprei seis maçãs vermelhas no mercado."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "שכן",
+      "definition": "vizinho",
+      "exampleSentence": "O meu vizinho é muito simpático."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "כנה",
+      "definition": "sincera",
+      "exampleSentence": "Ela deu-me uma opinião sincera sobre o plano."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יבש",
+      "definition": "seco",
+      "exampleSentence": "O pão está muito seco hoje."
+    },
+    {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "אלם",
-      "definition": "mudo",
-      "exampleSentence": "O ator ficou mudo durante a cena."
+      "solution": "טרי",
+      "definition": "fresca",
+      "exampleSentence": "Bebemos uma água fresca no verão."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "בואו",
-      "definition": "venham",
-      "exampleSentence": "Venham cá ver este belo jardim."
+      "solution": "צייר",
+      "definition": "pintor",
+      "exampleSentence": "O pintor terminou o quadro ontem."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "עם",
-      "definition": "povo",
-      "exampleSentence": "Estes povos vivem em pequenas tribos."
+      "solution": "הר",
+      "definition": "montanha",
+      "exampleSentence": "Aquela montanha é muito alta e difícil."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "דק",
-      "definition": "fino",
-      "exampleSentence": "Este papel é muito fino e parte facilmente."
+      "solution": "שן",
+      "definition": "dente",
+      "exampleSentence": "Sinto uma dor num dente hoje."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תיש",
-      "definition": "bode",
-      "exampleSentence": "O bode está a comer relva no campo."
+      "solution": "מאה",
+      "definition": "cem",
+      "exampleSentence": "O livro tem exatamente cem páginas."
     }
-  ],
-  "avg_hardness": 1028.28
+  ]
 }

@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
+  "avg_hardness": -4.5,
   "comments": [
     "Generated advanced starter base arroword for arabicToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=3333. Hand-curate before shipping.",
-    "Avg hardness: 2134.61"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
+    "Avg hardness: -4.50"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
+      "solution": "יקר",
+      "definition": "غالي",
+      "exampleSentence": "دمك غالي جدا يا صديقي العزيز."
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "טעון",
+      "definition": "مُحَمَّلْ",
+      "exampleSentence": "هَذَا الْهَاتِفُ مُحَمَّلٌ بِالْكَثِيرِ مِنَ الصُّوَرِ الْجَمِيلَة"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "נהדרים",
+      "definition": "رَائِعِينْ",
+      "exampleSentence": "كان الأولاد رَائِعِينْ في الحفل المدرسيّ."
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
       "solution": "חלב",
       "definition": "حَلِيبْ",
       "exampleSentence": "أَشْرَبُ كُوبًا مِنَ الْحَلِيبِ الدَّافِئِ كُلَّ صَبَاحْ"
     },
     {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "המסר",
-      "definition": "الْمَغْزَى",
-      "exampleSentence": "الْمَغْزَى مِنَ الرِّسَالَةِ هُوَ أَهَمِّيَّةُ الْعَمَلِ الْجَمَاعِيّْ"
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "מבקרים",
-      "definition": "زوار",
-      "exampleSentence": "المدينة جاهزة لاستقبال زوار."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "קיר",
-      "definition": "جِدَارْ",
-      "exampleSentence": "عَلَّقْنَا صُورَةً جَمِيلَةً عَلَى جِدَارِ الْغُرْفَة"
-    },
-    {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "תן",
-      "definition": "أَعْطْ",
-      "exampleSentence": "أَعْطِ الْكِتَابَ لِصَدِيقِكَ بَعْدَ الْقِرَاءَة"
+      "solution": "אי",
+      "definition": "جَزِيرَة",
+      "exampleSentence": "تِلْكَ الْجَزِيرَةُ جَمِيلَةٌ جِدًّا وَسَطَ الْبَحْرْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להימנע",
-      "definition": "تَجَنُّبْ",
-      "exampleSentence": "يَجِبُ تَجَنُّبُ الْأَكْلِ غَيْرِ الصِّحِّيِّ لِلْحِفَاظِ عَلَى الصِّحَّة"
+      "solution": "קטלנית",
+      "definition": "قَاتِلَة",
+      "exampleSentence": "هَذِهِ ضَرْبَة قَاتِلَة لِذَلِكَ الْحَيَوَانِ"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "במרב",
-      "definition": "بِأَقْصَى",
-      "exampleSentence": "حَاوَلْتُ الْوُصُولَ إِلَى الْبَيْتِ بِأَقْصَى سُرْعَةٍ مُمْكِنَة"
+      "solution": "רעבה",
+      "definition": "جَائِعَة",
+      "exampleSentence": "الْقِطَّةُ جَائِعَةٌ جِدًّا وَتَبْحَثُ عَنِ الطَّعَامْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "הציל",
-      "definition": "أَنْقَذْ",
-      "exampleSentence": "أَنْقَذَ الرَّجُلُ الْقِطَّةَ مِنْ وَسَطِ الطَّرِيقِ الْمُزْدَحَمْ"
+      "solution": "עודף",
+      "definition": "زَائِدْ",
+      "exampleSentence": "هَذَا الْوَزْنُ الزَّائِدُ يُسَبِّبُ تَعَباً كَبِيراً لِلْجِسْمْ"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "להפך",
-      "definition": "بِالْعَكْسْ",
-      "exampleSentence": "ظَنَنْتُ أَنَّهُ حَزِينٌ وَلَكِنْ بِالْعَكْسِ هُوَ سَعِيدْ."
+      "solution": "הבנה",
+      "definition": "الْفَهْمْ",
+      "exampleSentence": "الْفَهْمُ الْجَيِّدُ لِلْكَلَامِ يَتَطَلَّبُ تَرْكِيزًا"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עץ",
-      "definition": "خشب",
-      "exampleSentence": "هذا الخشب صلب جدا لا يمكنني قطعه."
+      "solution": "אח",
+      "definition": "شَقِيقْ",
+      "exampleSentence": "سَافَرَ شَقِيقِي إِلَى الْخَارِجِ لِإِكْمَالِ دِرَاسَتِهِ الْجَامِعِيَّة"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עפר",
-      "definition": "التُّرَابْ",
-      "exampleSentence": "وَضَعَ الْفَلَّاحُ الْحَبَّ فِي التُّرَابْ"
+      "solution": "אבן",
+      "definition": "حَجَرْ",
+      "exampleSentence": "وَضَعَ الْوَلَدُ حَجَرْ صَغِيرًا فِي النَّهْرِ"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "פרח",
-      "definition": "زَهْرَة",
-      "exampleSentence": "أَخَذْتُ زَهْرَةً حَمْرَاءَ مِنَ الْحَدِيقَةِ"
+      "solution": "במה",
+      "definition": "بِمَاذَا",
+      "exampleSentence": "بِمَاذَا تُفَكِّرُ فِي هَذِهِ اللَّحْظَةِ يَا صَدِيقِي"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "קהל",
-      "definition": "الْحَشْدْ",
-      "exampleSentence": "شَاهَدَ الْحَشْدْ العَرَبِيَّ الفَنَّانَ الكَبِير"
+      "solution": "דעה",
+      "definition": "رَأْي",
+      "exampleSentence": "مَا هُوَ رَأْيُكَ فِي هَذَا الْفِيلْمِ الْجَدِيدْ"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "רצה",
-      "definition": "أَرَادْ",
-      "exampleSentence": "هُوَ أَرَادَ شِرَاءَ كِتَابٍ جَدِيدٍ لِلْقِرَاءَة"
+      "solution": "רוב",
+      "definition": "الْغَالِبْ",
+      "exampleSentence": "فِي الْغَالِبِ أَذْهَبُ إِلَى الْعَمَلِ مَشْيًا عَلَى الْأَقْدَامْ"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "עייף",
-      "definition": "مُرْهَقْ",
-      "exampleSentence": "كَانَ الْعَامِلُ مُرْهَقًا بَعْدَ سَاعَاتِ الْعَمَلِ الشَّاقَّة"
+      "solution": "עידן",
+      "definition": "عَصْرْ",
+      "exampleSentence": "نَحْنُ نَعِيشُ فِي عَصْرِ التِّكْنُولُوجْيَا وَالسُّرْعَة"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חד",
-      "definition": "حَادْ",
-      "exampleSentence": "هَذَا السِّكِّينُ حَادٌّ جِدًّا فَاحْذَرْ عِنْدَ اسْتِخْدَامِهْ"
+      "solution": "הר",
+      "definition": "جَبَلْ",
+      "exampleSentence": "تَسَلَّقْنَا الْجَبَلَ الْعَالِيَ فِي الصَّبَاحِ الْبَاكِرْ"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "צר",
-      "definition": "ضَيِّقْ",
-      "exampleSentence": "هَذَا الطَّرِيقُ ضَيِّقٌ جِدًّا وَلَا تَمُرُّ مِنْهُ السَّيَّارَاتْ"
+      "solution": "חם",
+      "definition": "سَاخِنْ",
+      "exampleSentence": "شَرِبْتُ كُوبًا مِنَ الشَّايِ السَّاخِنِ فِي الصَّبَاحْ"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מלך",
-      "definition": "مَلِكْ",
-      "exampleSentence": "كَانَ الْمَلِكُ عَادِلًا مَعَ كُلِّ شَعْبِهْ"
+      "solution": "מפה",
+      "definition": "خَرِيطَة",
+      "exampleSentence": "نَحْتَاجُ إِلَى خَرِيطَةٍ لِنَعْرِفَ طَرِيقَنَا"
     }
-  ],
-  "avg_hardness": 2134.61
+  ]
 }
