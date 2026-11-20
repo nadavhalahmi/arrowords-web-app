@@ -4,135 +4,144 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
+  "avg_hardness": -5000.0,
   "comments": [
     "Generated advanced starter base arroword for chineseToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
-    "Avg hardness: 0.00"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -5000.00"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צלם",
-      "definition": "摄影师",
-      "exampleSentence": "摄影师拍了很多照片。"
+      "solution": "אמא",
+      "definition": "母亲",
+      "exampleSentence": "母亲给了我很多爱。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הרכב",
-      "definition": "组合",
-      "exampleSentence": "我们组合起来。"
+      "solution": "לריב",
+      "definition": "吵架",
+      "exampleSentence": "他们因为小事吵架。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "אזרחות",
-      "definition": "国籍",
-      "exampleSentence": "请填写你的国籍。"
+      "solution": "כישרון",
+      "definition": "人才",
+      "exampleSentence": "他是公司的人才。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דרך",
-      "definition": "方式",
-      "exampleSentence": "我们要用正确的方式学习。"
+      "solution": "חוץ",
+      "definition": "外面",
+      "exampleSentence": "房子外面有花园。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "או",
-      "definition": "或是",
-      "exampleSentence": "你想喝茶或是咖啡？"
+      "solution": "כל",
+      "definition": "各",
+      "exampleSentence": "各人有各人的想法。"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להראות",
-      "definition": "显示",
-      "exampleSentence": "他显示了实力。"
+      "solution": "מלוכלך",
+      "definition": "脏",
+      "exampleSentence": "你的鞋子怎么这么脏？"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מרכז",
-      "definition": "心",
-      "exampleSentence": "他是我心中的爱。"
+      "solution": "ארצי",
+      "definition": "全国",
+      "exampleSentence": "全国各地都在庆祝节日。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "עצמו",
-      "definition": "本身",
-      "exampleSentence": "问题本身并不难解决。"
+      "solution": "לילה",
+      "definition": "夜",
+      "exampleSentence": "美丽的夜空有很多星星。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לרצף",
-      "definition": "铺",
-      "exampleSentence": "工人在地上铺了地毯。"
+      "solution": "מחבר",
+      "definition": "作者",
+      "exampleSentence": "这本书的作者很有名。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בד",
-      "definition": "布",
-      "exampleSentence": "妈妈买了一块漂亮的布。"
+      "solution": "כד",
+      "definition": "瓶",
+      "exampleSentence": "桌子上放着一瓶矿泉水。"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "בלב",
-      "definition": "心中",
-      "exampleSentence": "老师的教导一直记在我心中。"
+      "solution": "כאב",
+      "definition": "痛",
+      "exampleSentence": "我的头很痛。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ליד",
-      "definition": "跟前",
-      "exampleSentence": "他站在我的跟前。"
+      "solution": "אגף",
+      "definition": "部门",
+      "exampleSentence": "这是公司的部门。"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רעל",
-      "definition": "毒",
-      "exampleSentence": "我们要远离毒品。"
+      "solution": "שלם",
+      "definition": "全",
+      "exampleSentence": "全家人一起快乐地吃晚饭。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חצר",
-      "definition": "院",
-      "exampleSentence": "他住在学校的医院旁边。"
+      "solution": "ריח",
+      "definition": "味道",
+      "exampleSentence": "这个苹果的味道很甜。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חומץ",
-      "definition": "醋",
-      "exampleSentence": "他吃醋的样子很可爱。"
+      "solution": "קולב",
+      "definition": "衣架",
+      "exampleSentence": "请把衣服挂在衣架上。"
     },
     {
       "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "פה",
+      "definition": "嘴",
+      "exampleSentence": "小妹妹笑得合不拢嘴。"
+    },
+    {
+      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "דג",
@@ -140,21 +149,12 @@
       "exampleSentence": "河里有很多游来游去的鱼。"
     },
     {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "די",
-      "definition": "相当",
-      "exampleSentence": "他相当聪明。"
-    },
-    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תוף",
-      "definition": "鼓",
-      "exampleSentence": "他在练习打鼓。"
+      "solution": "נהר",
+      "definition": "河",
+      "exampleSentence": "夏天很多人在清澈的河里游泳。"
     }
-  ],
-  "avg_hardness": 0.0
+  ]
 }

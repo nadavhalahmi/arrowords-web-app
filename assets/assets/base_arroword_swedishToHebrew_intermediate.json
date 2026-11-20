@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
+  "avg_hardness": -7499.11,
   "comments": [
     "Generated intermediate starter base arroword for swedishToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4997.33"
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -7499.11"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עמק",
-      "definition": "dal",
-      "exampleSentence": "Huset ligger vackert nere i den gröna dalen."
+      "solution": "דשא",
+      "definition": "gräs",
+      "exampleSentence": "Barnen springer och leker på det gröna gräset."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אדיר",
-      "definition": "väldig",
-      "exampleSentence": "Det står ett väldig träd framför huset."
+      "solution": "איכר",
+      "definition": "bonde",
+      "exampleSentence": "En bonde arbetar hårt på sin gård varje dag."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רישיון",
-      "definition": "licens",
-      "exampleSentence": "Han har en giltig licens för att fiska i sjön."
+      "solution": "תמידית",
+      "definition": "ständigt",
+      "exampleSentence": "Det är en ständigt pågående trafik på gatan."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מום",
-      "definition": "defekt",
-      "exampleSentence": "Bilen har en liten teknisk defekt i motorn."
+      "solution": "אפל",
+      "definition": "skum",
+      "exampleSentence": "Det är lite skumt i hörnet av rummet."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "חג",
-      "definition": "helg",
-      "exampleSentence": "Vi ser fram emot en lång och skön helg."
+      "solution": "זן",
+      "definition": "ras",
+      "exampleSentence": "Vilken ras är din hund?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מאורגן",
-      "definition": "organiserad",
-      "exampleSentence": "Detta är en väl organiserad grupp av människor."
+      "solution": "שאפתני",
+      "definition": "ambitiös",
+      "exampleSentence": "Han är en mycket ambitiös student i skolan."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "קדמי",
-      "definition": "främre",
-      "exampleSentence": "Han satt på en av de främre raderna."
+      "solution": "אילם",
+      "definition": "stum",
+      "exampleSentence": "Filmen var helt stum utan tal."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "ערני",
-      "definition": "vaksam",
-      "exampleSentence": "Hunden är vaksam och skyddar huset mot inbrott."
+      "solution": "דלוק",
+      "definition": "tänd",
+      "exampleSentence": "Lampan är fortfarande tänd i köket."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "רכיב",
-      "definition": "komponent",
-      "exampleSentence": "Varje komponent i motorn måste kontrolleras noga."
+      "solution": "עידן",
+      "definition": "ålder",
+      "exampleSentence": "Denna byggnad är från en annan historisk ålder."
     },
     {
       "direction": "down",
       "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גס",
+      "definition": "rå",
+      "exampleSentence": "Han var mycket rå och otrevlig mot sin granne."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "גשר",
+      "definition": "bro",
+      "exampleSentence": "Vi måste gå över denna gamla bro."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שלם",
+      "definition": "komplett",
+      "exampleSentence": "Det är komplett när allt är klart."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ידע",
+      "definition": "kunskap",
+      "exampleSentence": "Hon har stor kunskap om historia och natur."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "דלי",
+      "definition": "hink",
+      "exampleSentence": "Hämta en hink med vatten."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "ציוד",
+      "definition": "utrustning",
+      "exampleSentence": "Vi behöver ny utrustning för vår resa."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מר",
+      "definition": "bitter",
+      "exampleSentence": "Han var bitter efter att ha förlorat matchen."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "סל",
       "definition": "korg",
       "exampleSentence": "Jag lägger äpplena i en flätad korg."
     },
     {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "ספר",
-      "definition": "frisör",
-      "exampleSentence": "Jag ska gå till min frisör för att klippa håret."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "פחד",
-      "definition": "fasa",
-      "exampleSentence": "Mörkret fyllde barnen med stor fasa."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "שער",
-      "definition": "port",
-      "exampleSentence": "Vi möts utanför den stora porten klockan sju."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "ירך",
-      "definition": "lår",
-      "exampleSentence": "Han fick ont i sitt lår."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "עוני",
-      "definition": "fattigdom",
-      "exampleSentence": "De kämpar mot svår fattigdom i området."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "דק",
-      "definition": "tunn",
-      "exampleSentence": "Skriv ett brev på detta tunna papper."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "לח",
-      "definition": "fuktig",
-      "exampleSentence": "Gräset är fortfarande fuktigt efter regnet."
-    },
-    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ניב",
-      "definition": "dialekt",
-      "exampleSentence": "Den här dialekten är svår att förstå för utlänningar."
+      "solution": "תקן",
+      "definition": "standard",
+      "exampleSentence": "Den här produkten håller en hög standard."
     }
-  ],
-  "avg_hardness": -4997.33
+  ]
 }

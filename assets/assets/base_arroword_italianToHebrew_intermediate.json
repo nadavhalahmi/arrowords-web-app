@@ -4,44 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
+  "avg_hardness": -7202.61,
   "comments": [
     "Generated intermediate starter base arroword for italianToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5002.33"
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -7202.61"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "ספה",
-      "definition": "divano",
-      "exampleSentence": "Il gatto dorme sul divano."
+      "solution": "לחם",
+      "definition": "pane",
+      "exampleSentence": "Compro sempre del pane fresco ogni mattina."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "עצים",
-      "definition": "alberi",
-      "exampleSentence": "Ci sono molti alberi alti nel parco."
+      "solution": "להגן",
+      "definition": "proteggere",
+      "exampleSentence": "Dobbiamo proteggere la natura e gli animali."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להשתגע",
-      "definition": "impazzire",
-      "exampleSentence": "Con tutto questo rumore rischio di impazzire."
+      "solution": "מכתבים",
+      "definition": "lettere",
+      "exampleSentence": "Ho ricevuto due lettere dalla mia famiglia oggi."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חול",
-      "definition": "sabbia",
-      "exampleSentence": "I bambini giocano con la sabbia al mare."
+      "solution": "קול",
+      "definition": "voce",
+      "exampleSentence": "La sua voce è molto dolce e calma."
     },
     {
       "direction": "left-down",
@@ -55,69 +56,61 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "פעולות",
-      "definition": "azioni",
-      "exampleSentence": "Le sue azioni dimostrano grande coraggio oggi."
+      "solution": "חלומות",
+      "definition": "sogni",
+      "exampleSentence": "I bambini fanno sempre bei sogni la notte."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הצלה",
-      "definition": "salvezza",
-      "exampleSentence": "L'uomo ha trovato la salvezza sulla barca."
+      "solution": "מהלך",
+      "definition": "corso",
+      "exampleSentence": "Nel corso della riunione abbiamo parlato del progetto."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לשיר",
-      "definition": "cantare",
-      "exampleSentence": "Mi piace molto cantare sotto la doccia."
+      "solution": "שעון",
+      "definition": "orologio",
+      "exampleSentence": "Ho comprato un nuovo orologio da polso."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מעשה",
-      "definition": "atto",
-      "exampleSentence": "Aiutare gli altri è un nobile atto."
+      "solution": "עלמה",
+      "definition": "signorina",
+      "exampleSentence": "La signorina Rossi insegna matematica."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חן",
-      "definition": "grazia",
-      "exampleSentence": "La ballerina si muove con molta grazia."
+      "solution": "עץ",
+      "definition": "albero",
+      "exampleSentence": "C'è un grande albero verde nel giardino."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חכם",
-      "definition": "saggio",
-      "exampleSentence": "Il vecchio uomo dà sempre un consiglio saggio."
+      "solution": "עין",
+      "definition": "occhio",
+      "exampleSentence": "Ho polvere nell'occhio."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "כסף",
-      "definition": "denaro",
-      "exampleSentence": "Non ho abbastanza denaro per comprare questa macchina."
+      "solution": "ירח",
+      "definition": "luna",
+      "exampleSentence": "La luna illumina il cielo scuro della notte."
     },
     {
       "direction": "right",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "שלם",
-      "definition": "completo",
-      "exampleSentence": "Questo esercizio è completo e corretto."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
       "clue_col": 3,
       "solution": "תשע",
       "definition": "nove",
@@ -125,36 +118,43 @@
     },
     {
       "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בעל",
+      "definition": "marito",
+      "exampleSentence": "Suo marito lavora in un ufficio postale."
+    },
+    {
+      "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "רגיש",
-      "definition": "sensibile",
-      "exampleSentence": "Il bambino è molto sensibile e piange facilmente."
+      "solution": "איום",
+      "definition": "minaccia",
+      "exampleSentence": "La minaccia del maltempo ha cancellato la festa."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "פה",
-      "definition": "bocca",
-      "exampleSentence": "Ho una mela dolce nella mia bocca."
+      "solution": "חם",
+      "definition": "caldo",
+      "exampleSentence": "Oggi fa molto caldo in spiaggia."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "miracolo",
-      "exampleSentence": "È stato un vero miracolo trovare le chiavi."
+      "solution": "צר",
+      "definition": "stretto",
+      "exampleSentence": "Questo vestito è troppo stretto per me."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ערה",
-      "definition": "sveglia",
-      "exampleSentence": "La mattina presto sono già sveglia."
+      "solution": "מנה",
+      "definition": "portata",
+      "exampleSentence": "La prima portata di pesce era deliziosa."
     }
-  ],
-  "avg_hardness": -5002.33
+  ]
 }

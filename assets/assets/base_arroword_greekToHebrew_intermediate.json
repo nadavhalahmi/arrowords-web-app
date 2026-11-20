@@ -4,44 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
+  "avg_hardness": -6665.44,
   "comments": [
     "Generated intermediate starter base arroword for greekToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5004.89"
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -6665.44"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חכם",
-      "definition": "έξυπνος",
-      "exampleSentence": "Ο αδελφός μου είναι πολύ έξυπνος μαθητής."
+      "solution": "מתי",
+      "definition": "πότε",
+      "exampleSentence": "Πότε θα έρθεις να με δεις;"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "יומן",
-      "definition": "ημερολόγιο",
-      "exampleSentence": "Γράφω κάθε μέρα στο ημερολόγιο."
+      "solution": "שוטר",
+      "definition": "αστυνομικός",
+      "exampleSentence": "Ο αστυνομικός είναι στο δρόμο."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רגליים",
-      "definition": "πόδια",
-      "exampleSentence": "Τα πόδια μου πονάνε από το περπάτημα."
+      "solution": "ביטחון",
+      "definition": "σιγουριά",
+      "exampleSentence": "Μιλάει με πολλή σιγουριά για αυτό."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רשת",
-      "definition": "δίκτυο",
-      "exampleSentence": "Το δίκτυο δεν λειτουργεί καλά σήμερα."
+      "solution": "גוף",
+      "definition": "σώμα",
+      "exampleSentence": "Το σώμα χρειάζεται ξεκούραση μετά τη δουλειά."
     },
     {
       "direction": "left-down",
@@ -55,106 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "כישרון",
-      "definition": "ταλέντο",
-      "exampleSentence": "Έχεις μεγάλο ταλέντο στη μουσική."
+      "solution": "תשובות",
+      "definition": "απαντήσεις",
+      "exampleSentence": "Οι απαντήσεις στις ερωτήσεις είναι στο βιβλίο."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מותג",
-      "definition": "μάρκα",
-      "exampleSentence": "Αυτή η μάρκα ρούχων είναι πολύ γνωστή στην Ελλάδα."
+      "solution": "יופי",
+      "definition": "ομορφιά",
+      "exampleSentence": "Η ομορφιά της φύσης είναι μεγάλη."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חשוד",
-      "definition": "ύποπτος",
-      "exampleSentence": "Ο ύποπτος είναι μακριά από εδώ."
+      "solution": "עמדה",
+      "definition": "θέση",
+      "exampleSentence": "Βρήκα μια καλή θέση στο λεωφορείο."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מרתף",
-      "definition": "υπόγειο",
-      "exampleSentence": "Βάζω τα πράγματα στο υπόγειο."
+      "solution": "משמר",
+      "definition": "φρουρά",
+      "exampleSentence": "Η φρουρά είναι στην είσοδο."
     },
     {
       "direction": "down",
       "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חי",
+      "definition": "ζωντανός",
+      "exampleSentence": "Είναι πολύ ζωντανός και χαρούμενος άνθρωπος."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חבר",
+      "definition": "φίλος",
+      "exampleSentence": "Ο φίλος μου είναι πολύ ευγενικός άνθρωπος."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "במה",
+      "definition": "σκηνή",
+      "exampleSentence": "Ο ηθοποιός ανέβηκε στη σκηνή τώρα."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "טעם",
+      "definition": "γεύση",
+      "exampleSentence": "Αυτό το φαγητό έχει πολύ ωραία γεύση."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "חמש",
+      "definition": "πέντε",
+      "exampleSentence": "Έχω πέντε ευρώ στην τσέπη μου."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "קודם",
+      "definition": "πρώτα",
+      "exampleSentence": "Πρώτα θα φάω και μετά θα φύγω."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "הר",
       "definition": "βουνό",
       "exampleSentence": "Πήγαμε στο βουνό με τα πόδια."
     },
     {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "ההן",
-      "definition": "εκείνες",
-      "exampleSentence": "Εκείνες οι γυναίκες είναι οι δασκάλες μας."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "הבא",
-      "definition": "επόμενο",
-      "exampleSentence": "Το επόμενο λεωφορείο έρχεται σε λίγο."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "לחם",
-      "definition": "ψωμί",
-      "exampleSentence": "Αγόρασα φρέσκο ψωμί από τον φούρνο."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "ישר",
-      "definition": "κατευθείαν",
-      "exampleSentence": "Πήγαινε κατευθείαν στο σπίτι μετά τη δουλειά."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "חיות",
-      "definition": "ζώα",
-      "exampleSentence": "Τα ζώα θέλουν αγάπη."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "אי",
-      "definition": "νησί",
-      "exampleSentence": "Το νησί έχει καθαρό αέρα."
-    },
-    {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "πολύς",
-      "exampleSentence": "Υπάρχει πολύς κόσμος στην πλατεία σήμερα."
+      "solution": "ים",
+      "definition": "θάλασσα",
+      "exampleSentence": "Η θάλασσα είναι πολύ ήρεμη σήμερα."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מדף",
-      "definition": "ράφι",
-      "exampleSentence": "Το βιβλίο είναι πάνω στο ράφι της βιβλιοθήκης."
+      "solution": "נהר",
+      "definition": "ποτάμι",
+      "exampleSentence": "Το ποτάμι έχει πολύ καθαρό νερό."
     }
-  ],
-  "avg_hardness": -5004.89
+  ]
 }

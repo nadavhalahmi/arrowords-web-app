@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
+  "avg_hardness": -7499.28,
   "comments": [
     "Generated intermediate starter base arroword for frenchToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5001.78"
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -7499.28"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "פסל",
-      "definition": "sculpture",
-      "exampleSentence": "L'artiste expose une belle sculpture en marbre."
+      "solution": "אסם",
+      "definition": "grange",
+      "exampleSentence": "Le foin est rangé dans la vieille grange."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "נמהר",
-      "definition": "précipité",
-      "exampleSentence": "Son départ précipité a surpris tous ses amis."
+      "solution": "מוכר",
+      "definition": "marchand",
+      "exampleSentence": "Le marchand crie pour attirer les clients vers son stand."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קרפיון",
-      "definition": "carpe",
-      "exampleSentence": "La carpe nage tranquillement dans l'étang."
+      "solution": "כפילות",
+      "definition": "répétition",
+      "exampleSentence": "Il y a une répétition inutile dans ce texte."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "גדה",
-      "definition": "rive",
-      "exampleSentence": "La rivière coule doucement près de la rive."
+      "solution": "גיס",
+      "definition": "beau-frère",
+      "exampleSentence": "Mon beau-frère vient passer le weekend avec nous."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "חי",
-      "definition": "vif",
-      "exampleSentence": "Le feu de cheminée a un éclat très vif."
+      "solution": "צו",
+      "definition": "mandat",
+      "exampleSentence": "Le juge a signé un mandat d'arrêt pour le suspect."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "סנדקית",
-      "definition": "marraine",
-      "exampleSentence": "Ma marraine m'offre un cadeau pour mon anniversaire."
+      "solution": "סמיכות",
+      "definition": "proximité",
+      "exampleSentence": "La proximité des maisons crée une rue animée."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "למהר",
-      "definition": "presser",
-      "exampleSentence": "Ne me pressez pas, je fais de mon mieux."
+      "solution": "מוסף",
+      "definition": "supplément",
+      "exampleSentence": "J'ai lu le supplément culturel du journal."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "נרחב",
-      "definition": "vaste",
-      "exampleSentence": "Le jardin possède un espace vert très vaste."
+      "solution": "פסוק",
+      "definition": "verset",
+      "exampleSentence": "Le prêtre lit un verset de la Bible."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לקלל",
-      "definition": "maudire",
-      "exampleSentence": "Il ne faut jamais maudire son prochain dans la colère."
+      "solution": "התקף",
+      "definition": "crise",
+      "exampleSentence": "Il a fait une crise de nerfs hier."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חם",
-      "definition": "chaleureux",
-      "exampleSentence": "Nous avons reçu un accueil très chaleureux."
+      "solution": "תא",
+      "definition": "cabine",
+      "exampleSentence": "Il entre dans la cabine pour passer un appel."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חסר",
-      "definition": "manquant",
-      "exampleSentence": "Il y a un ingrédient manquant dans cette recette."
+      "solution": "תפר",
+      "definition": "suture",
+      "exampleSentence": "Le médecin a fait une petite suture sur la blessure."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "סדק",
-      "definition": "fissure",
-      "exampleSentence": "Une fissure est apparue sur le mur après le tremblement de terre."
+      "solution": "פיה",
+      "definition": "fée",
+      "exampleSentence": "La petite fille rêve d'une gentille fée magique."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "פנל",
-      "definition": "panneau",
-      "exampleSentence": "Un grand panneau indique la direction de la gare."
+      "solution": "יפה",
+      "definition": "bel",
+      "exampleSentence": "C'est un bel automne ensoleillé."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ירק",
-      "definition": "légume",
-      "exampleSentence": "La carotte est un légume très bon pour la santé."
+      "solution": "לסת",
+      "definition": "mâchoire",
+      "exampleSentence": "Il a une douleur à la mâchoire."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "זוחל",
-      "definition": "reptile",
-      "exampleSentence": "Le serpent est un reptile qui vit au soleil."
+      "solution": "רווק",
+      "definition": "célibataire",
+      "exampleSentence": "Mon frère est célibataire et il cherche un appartement."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קש",
-      "definition": "paille",
-      "exampleSentence": "Le cheval mange de la paille fraîche dans l'écurie."
+      "solution": "הר",
+      "definition": "mont",
+      "exampleSentence": "Le mont Blanc est un très grand sommet."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מד",
-      "definition": "compteur",
-      "exampleSentence": "Regarde le compteur pour vérifier la vitesse actuelle."
+      "solution": "אי",
+      "definition": "île",
+      "exampleSentence": "Nous passons nos vacances sur une île."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נבל",
-      "definition": "crapule",
-      "exampleSentence": "Cette crapule a volé le sac de la dame."
+      "solution": "תקף",
+      "definition": "valable",
+      "exampleSentence": "Ce billet de train est valable pendant une semaine entière."
     }
-  ],
-  "avg_hardness": -5001.78
+  ]
 }

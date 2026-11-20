@@ -4,44 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
+  "avg_hardness": -4999.28,
   "comments": [
     "Generated advanced starter base arroword for frenchToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
-    "Avg hardness: -1518.00"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -4999.28"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "ענף",
-      "definition": "rameau",
-      "exampleSentence": "Elle pose un rameau d'olivier sur la table."
+      "solution": "בצל",
+      "definition": "oignon",
+      "exampleSentence": "Il faut couper un oignon pour la soupe."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "חרון",
-      "definition": "courroux",
-      "exampleSentence": "Le roi a manifesté son courroux face à cette nouvelle."
+      "solution": "נבזי",
+      "definition": "infâme",
+      "exampleSentence": "Son comportement infâme a blessé tous ses amis."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "שייכות",
-      "definition": "appartenance",
-      "exampleSentence": "Cette carte d'identité prouve mon appartenance à ce club."
+      "solution": "עריצות",
+      "definition": "tyrannie",
+      "exampleSentence": "Le peuple a lutté pour briser la tyrannie du roi."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "גיא",
-      "definition": "ravin",
-      "exampleSentence": "La rivière coule au fond du ravin profond."
+      "solution": "סיר",
+      "definition": "casserole",
+      "exampleSentence": "La casserole est sur le feu pour cuire les pâtes."
     },
     {
       "direction": "left-down",
@@ -55,106 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "נחישות",
-      "definition": "fermeté",
-      "exampleSentence": "Le directeur a pris cette décision avec fermeté."
+      "solution": "צניעות",
+      "definition": "décence",
+      "exampleSentence": "Il faut avoir la décence de respecter les autres."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "פראי",
-      "definition": "farouche",
-      "exampleSentence": "Ce petit lapin est très farouche et s'enfuit vite."
+      "solution": "לברר",
+      "definition": "clarifier",
+      "exampleSentence": "Le professeur va clarifier ce point difficile du cours."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "משדר",
-      "definition": "transmetteur",
-      "exampleSentence": "Le transmetteur transmet les données vers le serveur."
+      "solution": "רווק",
+      "definition": "célibataire",
+      "exampleSentence": "Mon frère est célibataire et il cherche un appartement."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "יליד",
-      "definition": "indigène",
-      "exampleSentence": "Cette plante indigène pousse bien dans notre région."
+      "solution": "קפדן",
+      "definition": "sévère",
+      "exampleSentence": "Le professeur est sévère mais juste avec les élèves."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אח",
-      "definition": "infirmier",
-      "exampleSentence": "L'infirmier prend soin des patients à l'hôpital."
+      "solution": "רץ",
+      "definition": "coureur",
+      "exampleSentence": "Le coureur a gagné la course de marathon."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "אגן",
-      "definition": "cuvette",
-      "exampleSentence": "Remplissez la cuvette avec de l'eau tiède."
+      "solution": "ראי",
+      "definition": "miroir",
+      "exampleSentence": "Elle se regarde dans le miroir avant de sortir."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "גדה",
-      "definition": "berge",
-      "exampleSentence": "Nous nous asseyons sur la berge pour regarder l'eau."
+      "solution": "אגס",
+      "definition": "poire",
+      "exampleSentence": "J'aime manger une poire bien mûre au goûter."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ימי",
-      "definition": "nautique",
-      "exampleSentence": "Nous faisons de la voile et d'autres sports nautiques."
+      "solution": "ירק",
+      "definition": "légume",
+      "exampleSentence": "La carotte est un légume très bon pour la santé."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "כשל",
-      "definition": "défaillance",
-      "exampleSentence": "La défaillance du moteur a causé l'arrêt du train."
+      "solution": "צוף",
+      "definition": "nectar",
+      "exampleSentence": "L'abeille récolte le doux nectar des fleurs sauvages."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סודי",
-      "definition": "confidentiel",
-      "exampleSentence": "Cette information professionnelle doit rester strictement confidentielle."
+      "solution": "נווד",
+      "definition": "vagabond",
+      "exampleSentence": "Le vagabond voyage de ville en ville sans maison."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "mont",
-      "exampleSentence": "Le mont Blanc est un très grand sommet."
+      "solution": "סל",
+      "definition": "corbeille",
+      "exampleSentence": "J'ai jeté les vieux papiers dans la corbeille."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חד",
-      "definition": "aigu",
-      "exampleSentence": "Ce couteau a un bout très aigu et dangereux."
+      "solution": "צג",
+      "definition": "moniteur",
+      "exampleSentence": "Je regarde les images sur mon moniteur d'ordinateur."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תרד",
-      "definition": "épinard",
-      "exampleSentence": "Popeye mange toujours un bol d'épinard pour être fort."
+      "solution": "תקן",
+      "definition": "norme",
+      "exampleSentence": "Cette machine respecte toutes les normes de sécurité."
     }
-  ],
-  "avg_hardness": -1518.0
+  ]
 }

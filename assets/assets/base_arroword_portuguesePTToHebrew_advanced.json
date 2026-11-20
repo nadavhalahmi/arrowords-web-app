@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
-  "avg_hardness": -374.17,
+  "avg_hardness": -4995.56,
   "comments": [
     "Generated advanced starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
-    "Avg hardness: -374.17"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -4995.56"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צמד",
-      "definition": "dupla",
-      "exampleSentence": "Eles formam uma dupla muito boa."
+      "solution": "כלה",
+      "definition": "noiva",
+      "exampleSentence": "A noiva estava muito bonita no casamento."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אוזן",
-      "definition": "orelha",
-      "exampleSentence": "A minha orelha dói um pouco hoje."
+      "solution": "הסכם",
+      "definition": "tratado",
+      "exampleSentence": "O tratado foi assinado por ambos os países."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "רהיטים",
-      "definition": "móveis",
-      "exampleSentence": "Comprámos novos móveis para a sala."
+      "solution": "מרגלים",
+      "definition": "espiões",
+      "exampleSentence": "O filme fala sobre espiões durante a guerra."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "צמח",
-      "definition": "planta",
-      "exampleSentence": "Eu tenho uma planta verde."
+      "solution": "עשב",
+      "definition": "erva",
+      "exampleSentence": "O gato gosta de comer erva no jardim."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "די",
-      "definition": "bastante",
-      "exampleSentence": "Este exercício é bastante fácil de fazer."
+      "solution": "אי",
+      "definition": "ilha",
+      "exampleSentence": "Fomos de barco visitar aquela ilha."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מאמרים",
-      "definition": "artigos",
-      "exampleSentence": "Li vários artigos interessantes no jornal hoje."
+      "solution": "להשמיד",
+      "definition": "destruir",
+      "exampleSentence": "O fogo pode destruir a floresta inteira."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "דוחה",
-      "definition": "repugnante",
-      "exampleSentence": "O cheiro da comida era repugnante."
+      "solution": "הסבר",
+      "definition": "explicação",
+      "exampleSentence": "O professor deu uma boa explicação sobre o tema."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "בריא",
-      "definition": "saudável",
-      "exampleSentence": "Comer fruta fresca todos os dias é muito saudável."
+      "solution": "שומן",
+      "definition": "gordura",
+      "exampleSentence": "Devemos evitar o excesso de gordura na comida."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "שירה",
-      "definition": "poesia",
-      "exampleSentence": "Ela escreve poesia todos os dias."
+      "solution": "מחנה",
+      "definition": "acampamento",
+      "exampleSentence": "Fomos para um acampamento no verão passado."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "seis",
-      "exampleSentence": "Comprei seis maçãs vermelhas no mercado."
+      "solution": "חן",
+      "definition": "graça",
+      "exampleSentence": "Ela tem muita graça quando conta anedotas."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "שכן",
-      "definition": "vizinho",
-      "exampleSentence": "O meu vizinho é muito simpático."
+      "solution": "חכם",
+      "definition": "esperto",
+      "exampleSentence": "O rapaz foi esperto e resolveu o enigma rapidamente."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "כנה",
-      "definition": "sincera",
-      "exampleSentence": "Ela deu-me uma opinião sincera sobre o plano."
+      "solution": "כסף",
+      "definition": "prata",
+      "exampleSentence": "Este anel bonito é feito de prata."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "יבש",
-      "definition": "seco",
-      "exampleSentence": "O pão está muito seco hoje."
+      "solution": "גשם",
+      "definition": "chuva",
+      "exampleSentence": "A chuva cai forte sobre a cidade hoje."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "טרי",
-      "definition": "fresca",
-      "exampleSentence": "Bebemos uma água fresca no verão."
+      "solution": "לוח",
+      "definition": "quadro",
+      "exampleSentence": "O professor escreveu no quadro."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "צייר",
-      "definition": "pintor",
-      "exampleSentence": "O pintor terminou o quadro ontem."
+      "solution": "סימן",
+      "definition": "sinal",
+      "exampleSentence": "O semáforo mudou para o sinal verde."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "montanha",
-      "exampleSentence": "Aquela montanha é muito alta e difícil."
+      "solution": "פה",
+      "definition": "boca",
+      "exampleSentence": "Ele abriu a boca para falar."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שן",
-      "definition": "dente",
-      "exampleSentence": "Sinto uma dor num dente hoje."
+      "solution": "נס",
+      "definition": "milagre",
+      "exampleSentence": "Foi um milagre ele ter sobrevivido ao acidente."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מאה",
-      "definition": "cem",
-      "exampleSentence": "O livro tem exatamente cem páginas."
+      "solution": "מנה",
+      "definition": "prato",
+      "exampleSentence": "Este prato típico é muito saboroso."
     }
   ]
 }

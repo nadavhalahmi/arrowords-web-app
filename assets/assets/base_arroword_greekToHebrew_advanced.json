@@ -4,44 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 7,
+  "avg_hardness": -4957.83,
   "comments": [
     "Generated advanced starter base arroword for greekToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=advanced; target_hardness=0. Hand-curate before shipping.",
-    "Avg hardness: -75.67"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -4957.83"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמש",
-      "definition": "ήλιος",
-      "exampleSentence": "Ο ήλιος λάμπει δυνατά σήμερα το πρωί."
+      "solution": "ספק",
+      "definition": "αμφιβολία",
+      "exampleSentence": "Δεν έχω καμία αμφιβολία για την απόφασή σου."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שטיח",
-      "definition": "χαλί",
-      "exampleSentence": "Το χαλί στο σαλόνι είναι πολύ μαλακό."
+      "solution": "קיבה",
+      "definition": "στομάχι",
+      "exampleSentence": "Με πονάει το στομάχι μου από το πολύ φαγητό."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מתקנים",
-      "definition": "εγκαταστάσεις",
-      "exampleSentence": "Οι εγκαταστάσεις είναι εδώ."
+      "solution": "דואגים",
+      "definition": "ανησυχείτε",
+      "exampleSentence": "Γιατί ανησυχείτε τόσο πολύ για το αύριο;"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דיו",
-      "definition": "μελάνι",
-      "exampleSentence": "Το μελάνι τελείωσε από το στυλό."
+      "solution": "קול",
+      "definition": "φωνή",
+      "exampleSentence": "Έχει μια πολύ γλυκιά φωνή."
     },
     {
       "direction": "left-down",
@@ -55,97 +56,97 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "משימות",
-      "definition": "αποστολές",
-      "exampleSentence": "Έχω πολλές αποστολές μέσα στη μέρα."
+      "solution": "פקודות",
+      "definition": "εντολές",
+      "exampleSentence": "Ο πλοίαρχος δίνει εντολές στο πλήρωμα."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "שטות",
-      "definition": "ανοησία",
-      "exampleSentence": "Μην λες τέτοια ανοησία, δεν είναι αλήθεια."
+      "solution": "קילו",
+      "definition": "κιλό",
+      "exampleSentence": "Θέλω ένα κιλό φρέσκα μήλα τώρα."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רצון",
-      "definition": "επιθυμία",
-      "exampleSentence": "Έχω την επιθυμία να ταξιδέψω σε όλο τον κόσμο."
+      "solution": "גאון",
+      "definition": "ιδιοφυία",
+      "exampleSentence": "Εκείνος ήταν μια μεγάλη επιστημονική ιδιοφυία."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נחמה",
-      "definition": "παρηγοριά",
-      "exampleSentence": "Τα λόγια σου είναι μεγάλη παρηγοριά για μένα."
+      "solution": "מהנה",
+      "definition": "διασκεδαστικό",
+      "exampleSentence": "Το παιχνίδι είναι πολύ διασκεδαστικό για όλους."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "צר",
-      "definition": "στενό",
-      "exampleSentence": "Το στενό δρομάκι οδηγεί στην παλιά πόλη."
+      "solution": "בן",
+      "definition": "γιος",
+      "exampleSentence": "Ο γιος μου πηγαίνει στο σχολείο κάθε μέρα."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "צמח",
-      "definition": "φυτό",
-      "exampleSentence": "Βάζω νερό στο φυτό κάθε μέρα."
+      "solution": "במה",
+      "definition": "σκηνή",
+      "exampleSentence": "Ο ηθοποιός ανέβηκε στη σκηνή τώρα."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מכר",
-      "definition": "πούλησε",
-      "exampleSentence": "Ο πατέρας μου πούλησε το παλιό του αυτοκίνητο."
+      "solution": "מסע",
+      "definition": "ταξίδι",
+      "exampleSentence": "Το ταξίδι μας ήταν πολύ μεγάλο."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "קרן",
-      "definition": "ακτίνα",
-      "exampleSentence": "Μια ακτίνα μπήκε από το παράθυρο."
+      "solution": "אגם",
+      "definition": "λίμνη",
+      "exampleSentence": "Είδαμε μια μεγάλη λίμνη στο χωριό."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "נצח",
-      "definition": "αιωνιότητα",
-      "exampleSentence": "Η αγάπη τους μοιάζει μια αιωνιότητα."
+      "solution": "גאה",
+      "definition": "περήφανος",
+      "exampleSentence": "Είμαι πολύ περήφανος για τον γιο μου."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "קיום",
-      "definition": "ύπαρξη",
-      "exampleSentence": "Η ύπαρξη του κόσμου είναι μεγάλη."
+      "solution": "ציון",
+      "definition": "βαθμό",
+      "exampleSentence": "Πήρα έναν καλό βαθμό στο τεστ μαθηματικών."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "πολύς",
-      "exampleSentence": "Υπάρχει πολύς κόσμος στην πλατεία σήμερα."
+      "solution": "על",
+      "definition": "επί",
+      "exampleSentence": "Το βιβλίο είναι επί του γραφείου."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רך",
-      "definition": "μαλακό",
-      "exampleSentence": "Το κρεβάτι είναι πολύ μαλακό και άνετο."
+      "solution": "נס",
+      "definition": "θαύμα",
+      "exampleSentence": "Είναι θαύμα που είμαστε όλοι καλά."
     },
     {
       "direction": "right",
@@ -155,6 +156,5 @@
       "definition": "δόση",
       "exampleSentence": "Πρέπει να πάρω τη δόση μου."
     }
-  ],
-  "avg_hardness": -75.67
+  ]
 }

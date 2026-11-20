@@ -4,29 +4,29 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
-  "avg_hardness": -5000.11,
+  "avg_hardness": -5740.89,
   "comments": [
     "Generated intermediate starter base arroword for chineseToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5000.11"
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -5740.89"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עמל",
-      "definition": "辛苦",
-      "exampleSentence": "他工作非常辛苦。"
+      "solution": "שמש",
+      "definition": "太阳",
+      "exampleSentence": "今天的太阳很好。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לבוש",
-      "definition": "服装",
-      "exampleSentence": "演员们的服装非常漂亮。"
+      "solution": "לקחת",
+      "definition": "取",
+      "exampleSentence": "我去邮局取一个包裹。"
     },
     {
       "direction": "down",
@@ -40,9 +40,9 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טוב",
-      "definition": "不错",
-      "exampleSentence": "这家餐厅的菜味道很不错。"
+      "solution": "עור",
+      "definition": "皮",
+      "exampleSentence": "这件衣服是真皮的。"
     },
     {
       "direction": "left-down",
@@ -64,9 +64,9 @@
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לבבי",
-      "definition": "亲切",
-      "exampleSentence": "老师对学生很亲切。"
+      "solution": "שקרי",
+      "definition": "假",
+      "exampleSentence": "这个花瓶里的花是假的。"
     },
     {
       "direction": "down",
@@ -80,33 +80,33 @@
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מחיר",
-      "definition": "价格",
-      "exampleSentence": "这个价格很便宜。"
+      "solution": "מחבר",
+      "definition": "作者",
+      "exampleSentence": "这本书的作者很有名。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
       "solution": "רק",
-      "definition": "仅",
-      "exampleSentence": "这里仅有三个人。"
+      "definition": "只",
+      "exampleSentence": "我只是开个玩笑，别生气。"
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "ראש",
-      "definition": "头",
-      "exampleSentence": "这只大象有一个很大的头。"
+      "solution": "רשת",
+      "definition": "网",
+      "exampleSentence": "我用电脑在网上面买书。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "אלף",
-      "definition": "千",
-      "exampleSentence": "这里有几千本书。"
+      "solution": "שלג",
+      "definition": "雪",
+      "exampleSentence": "今天外面下雪了。"
     },
     {
       "direction": "right",
@@ -128,17 +128,17 @@
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אולי",
-      "definition": "也许",
-      "exampleSentence": "他今天下午也许会来办公室找你。"
+      "solution": "קולב",
+      "definition": "衣架",
+      "exampleSentence": "请把衣服挂在衣架上。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "פה",
-      "definition": "嘴",
-      "exampleSentence": "小妹妹笑得合不拢嘴。"
+      "solution": "גן",
+      "definition": "公园",
+      "exampleSentence": "我和朋友周末去公园散步。"
     },
     {
       "direction": "up-right",

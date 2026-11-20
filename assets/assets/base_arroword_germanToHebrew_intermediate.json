@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 4,
-  "avg_hardness": -5013.17,
+  "avg_hardness": -7067.78,
   "comments": [
     "Generated intermediate starter base arroword for germanToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; band=intermediate; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5013.17"
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -7067.78"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמח",
-      "definition": "froh",
-      "exampleSentence": "Ich bin froh, dass du heute zu Besuch kommst."
+      "solution": "שבע",
+      "definition": "sieben",
+      "exampleSentence": "Eine Woche hat genau sieben Tage von Montag bis Sonntag."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בודד",
-      "definition": "einsam",
-      "exampleSentence": "Der alte Mann wohnt ganz allein und fühlt sich oft einsam."
+      "solution": "חודש",
+      "definition": "Monat",
+      "exampleSentence": "Der nächste Monat bringt viele spannende Aufgaben für uns."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להמשיך",
-      "definition": "weitermachen",
-      "exampleSentence": "Wir müssen nach einer kurzen Pause weitermachen."
+      "solution": "רגליים",
+      "definition": "Beine",
+      "exampleSentence": "Nach dem Sport tun mir die Beine weh."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דוב",
-      "definition": "Bär",
-      "exampleSentence": "Im tiefen Wald wohnt ein großer brauner Bär."
+      "solution": "הון",
+      "definition": "Vermögen",
+      "exampleSentence": "Er hat durch harte Arbeit ein großes Vermögen aufgebaut."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "גב",
-      "definition": "Rücken",
-      "exampleSentence": "Nach der Arbeit tut mir oft der Rücken weh."
+      "solution": "אי",
+      "definition": "Insel",
+      "exampleSentence": "Das ist eine schöne Insel."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מבולבל",
-      "definition": "verwirrt",
-      "exampleSentence": "Der kleine Junge sah etwas verwirrt aus im großen Bahnhof."
+      "solution": "בחורים",
+      "definition": "Jungs",
+      "exampleSentence": "Die Jungs spielen draußen auf dem Rasen Fußball."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "חובה",
-      "definition": "Pflicht",
-      "exampleSentence": "Das ist eine wichtige Pflicht für alle."
+      "solution": "עונג",
+      "definition": "Vergnügen",
+      "exampleSentence": "Es ist mir ein großes Vergnügen."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "צליל",
-      "definition": "Ton",
-      "exampleSentence": "Ich höre einen hohen Ton aus dem Radio."
+      "solution": "מעשי",
+      "definition": "praktisch",
+      "exampleSentence": "Dieser Kurs bietet viele nützliche und praktische Tipps für den Alltag."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "חברה",
-      "definition": "Unternehmen",
-      "exampleSentence": "Dieses internationale Unternehmen hat Büros in ganz Europa."
+      "solution": "ידיד",
+      "definition": "Freund",
+      "exampleSentence": "Er ist ein guter Freund, mit dem ich gerne rede."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חד",
-      "definition": "scharf",
-      "exampleSentence": "Dieses Messer ist sehr scharf, sei vorsichtig!"
+      "solution": "יד",
+      "definition": "Hand",
+      "exampleSentence": "Reiche mir deine Hand."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חרד",
-      "definition": "besorgt",
-      "exampleSentence": "Die Mutter ist sehr besorgt, weil ihr Kind Fieber hat."
+      "solution": "יבש",
+      "definition": "trocken",
+      "exampleSentence": "Nach dem Regen ist die Straße schnell wieder trocken."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "רגל",
-      "definition": "Bein",
-      "exampleSentence": "Nach dem langen Lauf schmerzt mein Bein."
+      "solution": "בין",
+      "definition": "zwischen",
+      "exampleSentence": "Die Grenzen zwischen den Ländern sind oft friedlich."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "מצח",
-      "definition": "Stirn",
-      "exampleSentence": "Sie hat ein Tuch auf ihrer Stirn."
+      "solution": "למי",
+      "definition": "wem",
+      "exampleSentence": "Wem gehört dieses blaue Fahrrad im Hof?"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "שלב",
-      "definition": "Phase",
-      "exampleSentence": "Wir sind jetzt in einer wichtigen neuen Phase."
+      "solution": "יעד",
+      "definition": "Ziel",
+      "exampleSentence": "Unser Ziel ist der Berg im Land."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "נייר",
-      "definition": "Papier",
-      "exampleSentence": "Ich brauche ein Blatt Papier für diesen Brief."
+      "solution": "שישי",
+      "definition": "Freitag",
+      "exampleSentence": "Am Freitag freue ich mich auf das Wochenende."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לב",
-      "definition": "Herz",
-      "exampleSentence": "Das Herz bewegt das Blut im Körper."
+      "solution": "נס",
+      "definition": "Wunder",
+      "exampleSentence": "Es ist ein Wunder, dass niemand verletzt wurde."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "דג",
-      "definition": "Fisch",
-      "exampleSentence": "Der frische Fisch schwimmt schnell im klaren Wasser."
+      "solution": "די",
+      "definition": "ziemlich",
+      "exampleSentence": "Das Wetter ist heute draußen ziemlich kalt."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "כלה",
-      "definition": "Braut",
-      "exampleSentence": "Die schöne Braut trägt ein langes weißes Kleid."
+      "solution": "מיד",
+      "definition": "sofort",
+      "exampleSentence": "Bitte räume dein Zimmer sofort auf."
     }
   ]
 }
