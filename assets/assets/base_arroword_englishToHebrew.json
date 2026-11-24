@@ -4,132 +4,133 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -9551.11,
   "comments": [
     "Generated beginner starter base arroword for englishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
-    "Avg hardness: -9407.22"
+    "Avg hardness: -9551.11"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "רמה",
-      "definition": "level",
-      "exampleSentence": "The game has a very hard level."
+      "solution": "אחר",
+      "definition": "another",
+      "exampleSentence": "If you do not like this shirt, try another one."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בעיה",
-      "definition": "problem",
-      "exampleSentence": "I need help solving this difficult problem."
+      "solution": "מוכן",
+      "definition": "ready",
+      "exampleSentence": "Dinner is hot and ready to eat."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להרגיש",
-      "definition": "to feel",
-      "exampleSentence": "I feel happy when I see my friends."
+      "solution": "שאריות",
+      "definition": "remains",
+      "exampleSentence": "I threw away the remains of my dinner."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קור",
-      "definition": "cold",
-      "exampleSentence": "Ice and snow bring freezing winter cold."
+      "solution": "כיף",
+      "definition": "fun",
+      "exampleSentence": "It is fun to mix blue paint."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "גב",
-      "definition": "back",
-      "exampleSentence": "My lower back hurts from lifting heavy boxes."
+      "solution": "די",
+      "definition": "enough",
+      "exampleSentence": "There is enough food for all."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מבולבל",
-      "definition": "confused",
-      "exampleSentence": "I am confused by wrong directions."
+      "solution": "חמישים",
+      "definition": "fifty",
+      "exampleSentence": "Fifty percent is exactly one half."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הערה",
-      "definition": "comment",
-      "exampleSentence": "She tried to interject a comment."
+      "solution": "רופא",
+      "definition": "doctor",
+      "exampleSentence": "The doctor gave me a pill."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חשוד",
-      "definition": "suspect",
-      "exampleSentence": "Police suspect him of the crime."
+      "solution": "עשוי",
+      "definition": "made",
+      "exampleSentence": "This table is made of hard wood."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ברכה",
-      "definition": "blessing",
-      "exampleSentence": "The priest gave the baby a blessing."
+      "solution": "מרחק",
+      "definition": "distance",
+      "exampleSentence": "The distance between the two cities is huge."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "דק",
-      "definition": "thin",
-      "exampleSentence": "The paper is very white and thin."
+      "solution": "קר",
+      "definition": "cold",
+      "exampleSentence": "Winter weather is very freezing and cold."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "דקה",
-      "definition": "minute",
-      "exampleSentence": "I will return in exactly one minute."
+      "solution": "קרן",
+      "definition": "horn",
+      "exampleSentence": "The angry bull has a sharp, pointed horn."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "קצב",
-      "definition": "rate",
-      "exampleSentence": "My heart beats at a fast rate."
+      "solution": "רכב",
+      "definition": "car",
+      "exampleSentence": "He drives a fast red sports car."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "רחב",
-      "definition": "wide",
-      "exampleSentence": "The very wide river is hard to cross."
+      "solution": "רעם",
+      "definition": "thunder",
+      "exampleSentence": "Loud thunder scared the sleeping baby."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "גשר",
-      "definition": "bridge",
-      "exampleSentence": "The stone bridge crosses over the deep river."
+      "solution": "ישר",
+      "definition": "straight",
+      "exampleSentence": "Draw a long, straight line on paper."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חיוך",
-      "definition": "smile",
-      "exampleSentence": "He has a broad smile."
+      "solution": "רווח",
+      "definition": "space",
+      "exampleSentence": "Leave a blank space between the written words."
     },
     {
       "direction": "right",
@@ -143,18 +144,17 @@
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "קץ",
-      "definition": "end",
-      "exampleSentence": "We reached the very end of the string."
+      "solution": "רך",
+      "definition": "soft",
+      "exampleSentence": "The small cat has soft fur."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "שדה",
-      "definition": "field",
-      "exampleSentence": "The cow is in the field."
+      "solution": "תיק",
+      "definition": "bag",
+      "exampleSentence": "Put your books inside the school bag."
     }
-  ],
-  "avg_hardness": -9407.22
+  ]
 }

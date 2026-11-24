@@ -4,69 +4,69 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4983.67,
+  "avg_hardness": -5012.33,
   "comments": [
     "Generated advanced starter base arroword for italianToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4983.67"
+    "Avg hardness: -5012.33"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עשן",
-      "definition": "fumo",
-      "exampleSentence": "Il fumo fa molto male alla salute."
+      "solution": "גשם",
+      "definition": "pioggia",
+      "exampleSentence": "La pioggia bagna tutte le strade della città."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לשבת",
-      "definition": "sedere",
-      "exampleSentence": "Sono stanco e voglio sedere su questa sedia."
+      "solution": "חוות",
+      "definition": "fattoria",
+      "exampleSentence": "Gli animali vivono nella grande fattoria."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חיילים",
-      "definition": "soldati",
-      "exampleSentence": "I soldati camminano insieme sulla strada principale."
+      "solution": "רגילים",
+      "definition": "normali",
+      "exampleSentence": "Questi sono giorni normali senza eventi particolari."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דיו",
-      "definition": "inchiostro",
-      "exampleSentence": "La penna nera non ha più inchiostro."
+      "solution": "אות",
+      "definition": "segnale",
+      "exampleSentence": "Il semaforo rosso è un segnale."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "או",
-      "definition": "oppure",
-      "exampleSentence": "Vuoi un caffè oppure un tè?"
+      "solution": "די",
+      "definition": "piuttosto",
+      "exampleSentence": "Questo esercizio è piuttosto difficile per me."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "שליחות",
-      "definition": "commissione",
-      "exampleSentence": "Devo fare una piccola commissione in centro."
+      "solution": "שחורים",
+      "definition": "neri",
+      "exampleSentence": "I gatti neri camminano silenziosi nella notte."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נשוי",
-      "definition": "sposato",
-      "exampleSentence": "Mio fratello è sposato da due anni."
+      "solution": "מותג",
+      "definition": "marchio",
+      "exampleSentence": "Questo marchio di scarpe è molto famoso in Italia."
     },
     {
       "direction": "down",

@@ -4,45 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
-  "avg_hardness": -7478.5,
+  "avg_hardness": -7103.33,
   "comments": [
     "Generated intermediate starter base arroword for dutchToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
-    "Avg hardness: -7478.50"
+    "Avg hardness: -7103.33"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "עשן",
-      "definition": "rook",
-      "exampleSentence": "Er komt veel rook uit het dak."
+      "solution": "נאה",
+      "definition": "knap",
+      "exampleSentence": "Dat is een heel knap jongetje."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בצדק",
-      "definition": "terecht",
-      "exampleSentence": "Hij werd terecht door de leraar geholpen."
+      "solution": "לפתע",
+      "definition": "ineens",
+      "exampleSentence": "Het begon ineens hard te regenen."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עיניים",
-      "definition": "ogen",
-      "exampleSentence": "Zij heeft mooie blauwe ogen."
+      "solution": "מדרגות",
+      "definition": "trap",
+      "exampleSentence": "Ik loop elke dag de trap op naar boven."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כוח",
-      "definition": "macht",
-      "exampleSentence": "De koning heeft veel macht in het land."
+      "solution": "כיס",
+      "definition": "zak",
+      "exampleSentence": "Ik heb mijn sleutels in mijn zak."
     },
     {
       "direction": "left-down",
@@ -56,105 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "שבועות",
-      "definition": "weken",
-      "exampleSentence": "Ik ga over twee weken op vakantie."
+      "solution": "אלימות",
+      "definition": "geweld",
+      "exampleSentence": "Er is geen plaats voor geweld in onze samenleving."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נצחי",
-      "definition": "eeuwig",
-      "exampleSentence": "De liefde tussen hen voelt bijna eeuwig aan."
+      "solution": "הפסד",
+      "definition": "verlies",
+      "exampleSentence": "Het verlies van de wedstrijd was erg jammer."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מעיל",
-      "definition": "jas",
-      "exampleSentence": "Het is koud, trek je warme jas aan."
+      "solution": "כאלו",
+      "definition": "zulke",
+      "exampleSentence": "Zulke mensen zijn altijd erg vriendelijk."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לרפא",
-      "definition": "genezen",
-      "exampleSentence": "De dokter probeert de zieke patiënt te genezen."
+      "solution": "בהיר",
+      "definition": "helder",
+      "exampleSentence": "De lucht is vandaag erg helder en blauw."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חי",
-      "definition": "levend",
-      "exampleSentence": "Hij is een levend voorbeeld voor ons."
+      "solution": "תא",
+      "definition": "cel",
+      "exampleSentence": "De gevangene zit in een kleine cel."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חשק",
-      "definition": "zin",
-      "exampleSentence": "Ik heb vandaag echt zin in een wandeling."
+      "solution": "תשע",
+      "definition": "negen",
+      "exampleSentence": "Ik heb vandaag negen appels gekocht op markt."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שמש",
-      "definition": "zon",
-      "exampleSentence": "De zon schijnt vandaag heel fel buiten."
+      "solution": "שיר",
+      "definition": "liedje",
+      "exampleSentence": "Zij zingt een vrolijk liedje voor mij."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "נמל",
-      "definition": "haven",
-      "exampleSentence": "De grote schepen liggen in de haven."
+      "solution": "רכב",
+      "definition": "wagen",
+      "exampleSentence": "Mijn vader heeft een nieuwe wagen gekocht."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יער",
-      "definition": "bos",
-      "exampleSentence": "Wij wandelen graag in het groene bos."
+      "solution": "גאה",
+      "definition": "trots",
+      "exampleSentence": "Ik ben erg trots op mijn resultaten."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "עייף",
-      "definition": "moe",
-      "exampleSentence": "Ik ben erg moe na een lange dag."
+      "solution": "אולי",
+      "definition": "wellicht",
+      "exampleSentence": "Wellicht komt hij later vandaag nog langs."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "שש",
-      "definition": "zes",
-      "exampleSentence": "Ik word over zes minuten opgehaald door hem."
+      "solution": "רק",
+      "definition": "slechts",
+      "exampleSentence": "Er zijn slechts drie mensen aanwezig."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "ים",
-      "definition": "zee",
-      "exampleSentence": "Wij zwemmen in de blauwe zee."
+      "solution": "אי",
+      "definition": "eiland",
+      "exampleSentence": "Wij gaan op vakantie naar een mooi eiland."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מלא",
-      "definition": "vol",
-      "exampleSentence": "De beker is helemaal vol met water."
+      "solution": "תור",
+      "definition": "beurt",
+      "exampleSentence": "Het is nu mijn beurt om te praten."
     }
   ]
 }

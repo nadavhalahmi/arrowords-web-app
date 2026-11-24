@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -5020.39,
+  "avg_hardness": -5003.78,
   "comments": [
     "Generated advanced starter base arroword for englishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5020.39"
+    "Avg hardness: -5003.78"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חלק",
-      "definition": "fraction",
-      "exampleSentence": "A half is just a fraction of a whole."
+      "solution": "תנך",
+      "definition": "bible",
+      "exampleSentence": "She read a holy Bible verse."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הרכב",
-      "definition": "composition",
-      "exampleSentence": "The composition of the team includes five players."
+      "solution": "צידה",
+      "definition": "provisions",
+      "exampleSentence": "We packed food provisions for the trip."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מהגרים",
-      "definition": "immigrants",
-      "exampleSentence": "Many immigrants arrived in the new country."
+      "solution": "להיבדל",
+      "definition": "to differ",
+      "exampleSentence": "Cats and dogs tend to differ greatly."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ריב",
-      "definition": "argument",
-      "exampleSentence": "We had a loud argument about our money."
+      "solution": "זית",
+      "definition": "olive",
+      "exampleSentence": "I ate a small green olive."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "זן",
-      "definition": "breed",
-      "exampleSentence": "That animal is a smart dog breed."
+      "solution": "צו",
+      "definition": "edict",
+      "exampleSentence": "The mayor signed a new edict."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להימנע",
-      "definition": "to refrain",
-      "exampleSentence": "Please refrain from smoking inside here."
+      "solution": "נצילות",
+      "definition": "efficiency",
+      "exampleSentence": "The solar panel works with high energy efficiency."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "קרבה",
-      "definition": "proximity",
-      "exampleSentence": "The hotel's proximity to the beach is great."
+      "solution": "כיתה",
+      "definition": "classroom",
+      "exampleSentence": "The student works with a classroom peer."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מגבת",
-      "definition": "towel",
-      "exampleSentence": "Hang the wet towel to dry."
+      "solution": "רצוף",
+      "definition": "consecutive",
+      "exampleSentence": "It rained heavily for five consecutive days."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "לשטח",
-      "definition": "to raze",
-      "exampleSentence": "Workers will raze the old house flat."
+      "solution": "דלקת",
+      "definition": "inflammation",
+      "exampleSentence": "The red, swollen cut has an inflammation."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רך",
-      "definition": "tender",
-      "exampleSentence": "The chicken was tender and easy to chew."
+      "solution": "מד",
+      "definition": "gauge",
+      "exampleSentence": "Check the fuel gauge in your car."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רעב",
-      "definition": "famished",
-      "exampleSentence": "I am famished and need food now."
+      "solution": "מטה",
+      "definition": "headquarters",
+      "exampleSentence": "The boss works at the headquarters."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "עדר",
-      "definition": "flock",
-      "exampleSentence": "A large flock of sheep grazed on the hill."
+      "solution": "טקס",
+      "definition": "rite",
+      "exampleSentence": "They performed an ancient religious rite."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "גמל",
-      "definition": "camel",
-      "exampleSentence": "A camel has a large brown hump."
+      "solution": "ירד",
+      "definition": "decreased",
+      "exampleSentence": "The price of the car decreased."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "רגש",
-      "definition": "sentiment",
-      "exampleSentence": "The poem expresses a lovely and romantic sentiment."
+      "solution": "בצל",
+      "definition": "onion",
+      "exampleSentence": "I cut a raw onion for the soup."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "היבט",
-      "definition": "aspect",
-      "exampleSentence": "We must consider every single aspect of the plan."
+      "solution": "אדוק",
+      "definition": "devout",
+      "exampleSentence": "The devout man prays every single morning."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רץ",
-      "definition": "runner",
-      "exampleSentence": "The fast runner won the gold medal."
+      "solution": "סל",
+      "definition": "basket",
+      "exampleSentence": "Put the red apples into the basket."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "כד",
-      "definition": "jug",
-      "exampleSentence": "He drank fresh milk from a jug."
+      "solution": "דק",
+      "definition": "thin",
+      "exampleSentence": "The paper is very white and thin."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מתח",
-      "definition": "suspense",
-      "exampleSentence": "The mystery book is full of suspense."
+      "solution": "לפת",
+      "definition": "turnip",
+      "exampleSentence": "She chopped a purple turnip for soup."
     }
   ]
 }

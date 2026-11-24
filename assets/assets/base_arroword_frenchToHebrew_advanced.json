@@ -4,45 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4999.28,
+  "avg_hardness": -5000.44,
   "comments": [
     "Generated advanced starter base arroword for frenchToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4999.28"
+    "Avg hardness: -5000.44"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "בצל",
-      "definition": "oignon",
-      "exampleSentence": "Il faut couper un oignon pour la soupe."
+      "solution": "גרר",
+      "definition": "dépanneur",
+      "exampleSentence": "Le dépanneur est venu chercher notre voiture en panne."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "נבזי",
-      "definition": "infâme",
-      "exampleSentence": "Son comportement infâme a blessé tous ses amis."
+      "solution": "גמיש",
+      "definition": "souple",
+      "exampleSentence": "Le chat est un animal très agile et souple."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עריצות",
-      "definition": "tyrannie",
-      "exampleSentence": "Le peuple a lutté pour briser la tyrannie du roi."
+      "solution": "שיכרון",
+      "definition": "ivresse",
+      "exampleSentence": "Il regrette les mots prononcés dans l'ivresse."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "סיר",
-      "definition": "casserole",
-      "exampleSentence": "La casserole est sur le feu pour cuire les pâtes."
+      "solution": "גיא",
+      "definition": "ravin",
+      "exampleSentence": "La rivière coule au fond du ravin profond."
     },
     {
       "direction": "left-down",
@@ -56,105 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "צניעות",
-      "definition": "décence",
-      "exampleSentence": "Il faut avoir la décence de respecter les autres."
+      "solution": "רגישות",
+      "definition": "sensibilité",
+      "exampleSentence": "Elle a une grande sensibilité pour la musique classique."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לברר",
-      "definition": "clarifier",
-      "exampleSentence": "Le professeur va clarifier ce point difficile du cours."
+      "solution": "רמאי",
+      "definition": "tricheur",
+      "exampleSentence": "Personne n'aime jouer avec un tricheur."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רווק",
-      "definition": "célibataire",
-      "exampleSentence": "Mon frère est célibataire et il cherche un appartement."
+      "solution": "שכלי",
+      "definition": "mental",
+      "exampleSentence": "Le travail mental demande beaucoup de concentration au bureau."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "קפדן",
-      "definition": "sévère",
-      "exampleSentence": "Le professeur est sévère mais juste avec les élèves."
+      "solution": "לסרב",
+      "definition": "refuser",
+      "exampleSentence": "Je ne peux pas refuser une telle invitation."
     },
     {
       "direction": "down",
       "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מר",
+      "definition": "amer",
+      "exampleSentence": "Ce chocolat noir est un peu trop amer à mon goût."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "ממש",
+      "definition": "véritablement",
+      "exampleSentence": "C'est une personne véritablement généreuse avec tous."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "מצר",
+      "definition": "détroit",
+      "exampleSentence": "Le navire traverse le détroit avec précaution."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "כשל",
+      "definition": "défaillance",
+      "exampleSentence": "La défaillance du moteur a causé l'arrêt du train."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "רכס",
+      "definition": "crête",
+      "exampleSentence": "Nous marchons sur la crête de la montagne."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "קולר",
+      "definition": "collier",
+      "exampleSentence": "Le chien porte un joli collier rouge."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "רך",
+      "definition": "mou",
+      "exampleSentence": "Le canapé est très mou et confortable."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "רץ",
       "definition": "coureur",
       "exampleSentence": "Le coureur a gagné la course de marathon."
     },
     {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "ראי",
-      "definition": "miroir",
-      "exampleSentence": "Elle se regarde dans le miroir avant de sortir."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "אגס",
-      "definition": "poire",
-      "exampleSentence": "J'aime manger une poire bien mûre au goûter."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ירק",
-      "definition": "légume",
-      "exampleSentence": "La carotte est un légume très bon pour la santé."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "צוף",
-      "definition": "nectar",
-      "exampleSentence": "L'abeille récolte le doux nectar des fleurs sauvages."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "נווד",
-      "definition": "vagabond",
-      "exampleSentence": "Le vagabond voyage de ville en ville sans maison."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "סל",
-      "definition": "corbeille",
-      "exampleSentence": "J'ai jeté les vieux papiers dans la corbeille."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "צג",
-      "definition": "moniteur",
-      "exampleSentence": "Je regarde les images sur mon moniteur d'ordinateur."
-    },
-    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תקן",
-      "definition": "norme",
-      "exampleSentence": "Cette machine respecte toutes les normes de sécurité."
+      "solution": "ניב",
+      "definition": "dialecte",
+      "exampleSentence": "Ce vieux paysan parle un dialecte très ancien."
     }
   ]
 }

@@ -4,85 +4,85 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4957.83,
+  "avg_hardness": -4927.78,
   "comments": [
     "Generated advanced starter base arroword for greekToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4957.83"
+    "Avg hardness: -4927.78"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "ספק",
-      "definition": "αμφιβολία",
-      "exampleSentence": "Δεν έχω καμία αμφιβολία για την απόφασή σου."
+      "solution": "כבד",
+      "definition": "βαρύ",
+      "exampleSentence": "Αυτό το τραπέζι είναι πολύ βαρύ για μένα."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "קיבה",
-      "definition": "στομάχι",
-      "exampleSentence": "Με πονάει το στομάχι μου από το πολύ φαγητό."
+      "solution": "חומר",
+      "definition": "υλικό",
+      "exampleSentence": "Αυτό το υλικό είναι πολύ μαλακό και ζεστό."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "דואגים",
-      "definition": "ανησυχείτε",
-      "exampleSentence": "Γιατί ανησυχείτε τόσο πολύ για το αύριο;"
+      "solution": "רגליים",
+      "definition": "πόδια",
+      "exampleSentence": "Τα πόδια μου πονάνε από το περπάτημα."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קול",
-      "definition": "φωνή",
-      "exampleSentence": "Έχει μια πολύ γλυκιά φωνή."
+      "solution": "הוא",
+      "definition": "εκείνος",
+      "exampleSentence": "Εκείνος είναι πολύ μεγάλος."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "צו",
-      "definition": "ένταλμα",
-      "exampleSentence": "Ο δικαστής έβγαλε το ένταλμα."
+      "solution": "או",
+      "definition": "είτε",
+      "exampleSentence": "Μπορείς να έρθεις είτε σήμερα είτε αύριο."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "פקודות",
-      "definition": "εντολές",
-      "exampleSentence": "Ο πλοίαρχος δίνει εντολές στο πλήρωμα."
+      "solution": "בחורות",
+      "definition": "κοπέλες",
+      "exampleSentence": "Οι κοπέλες παίζουν μπάσκετ στο γήπεδο."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "קילו",
-      "definition": "κιλό",
-      "exampleSentence": "Θέλω ένα κιλό φρέσκα μήλα τώρα."
+      "solution": "דואג",
+      "definition": "ανησυχεί",
+      "exampleSentence": "Η μητέρα μου ανησυχεί πάντα για μένα."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "גאון",
-      "definition": "ιδιοφυία",
-      "exampleSentence": "Εκείνος ήταν μια μεγάλη επιστημονική ιδιοφυία."
+      "solution": "חשוד",
+      "definition": "ύποπτος",
+      "exampleSentence": "Ο ύποπτος είναι μακριά από εδώ."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מהנה",
-      "definition": "διασκεδαστικό",
-      "exampleSentence": "Το παιχνίδι είναι πολύ διασκεδαστικό για όλους."
+      "solution": "מרתף",
+      "definition": "υπόγειο",
+      "exampleSentence": "Βάζω τα πράγματα στο υπόγειο."
     },
     {
       "direction": "down",
@@ -96,49 +96,49 @@
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "במה",
-      "definition": "σκηνή",
-      "exampleSentence": "Ο ηθοποιός ανέβηκε στη σκηνή τώρα."
+      "solution": "באר",
+      "definition": "πηγάδι",
+      "exampleSentence": "Το παλιό χωριό έχει ένα βαθύ πηγάδι."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "מסע",
-      "definition": "ταξίδι",
-      "exampleSentence": "Το ταξίδι μας ήταν πολύ μεγάλο."
+      "solution": "אסף",
+      "definition": "μάζεψε",
+      "exampleSentence": "Ο αγρότης μάζεψε όλα τα φρούτα από τα δέντρα."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "אגם",
-      "definition": "λίμνη",
-      "exampleSentence": "Είδαμε μια μεγάλη λίμνη στο χωριό."
+      "solution": "לחם",
+      "definition": "ψωμί",
+      "exampleSentence": "Αγόρασα φρέσκο ψωμί από τον φούρνο."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "גאה",
-      "definition": "περήφανος",
-      "exampleSentence": "Είμαι πολύ περήφανος για τον γιο μου."
+      "solution": "ישר",
+      "definition": "κατευθείαν",
+      "exampleSentence": "Πήγαινε κατευθείαν στο σπίτι μετά τη δουλειά."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "ציון",
-      "definition": "βαθμό",
-      "exampleSentence": "Πήρα έναν καλό βαθμό στο τεστ μαθηματικών."
+      "solution": "חיות",
+      "definition": "ζώα",
+      "exampleSentence": "Τα ζώα θέλουν αγάπη."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "על",
-      "definition": "επί",
-      "exampleSentence": "Το βιβλίο είναι επί του γραφείου."
+      "solution": "פה",
+      "definition": "στόμα",
+      "exampleSentence": "Άνοιξε το στόμα σου για τον γιατρό."
     },
     {
       "direction": "up-right",
@@ -152,9 +152,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "δόση",
-      "exampleSentence": "Πρέπει να πάρω τη δόση μου."
+      "solution": "מדף",
+      "definition": "ράφι",
+      "exampleSentence": "Το βιβλίο είναι πάνω στο ράφι της βιβλιοθήκης."
     }
   ]
 }

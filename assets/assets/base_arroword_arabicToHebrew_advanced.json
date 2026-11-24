@@ -4,144 +4,136 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4699.06,
+  "avg_hardness": -4506.17,
   "comments": [
     "Generated advanced starter base arroword for arabicToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4699.06"
+    "Avg hardness: -4506.17"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "יצא",
-      "definition": "خَرَجْ",
-      "exampleSentence": "خَرَجَ الْوَلَدُ مِنَ الْبَيْتِ لِلَّعِبِ فِي الْحَدِيقَة"
+      "solution": "נהג",
+      "definition": "سَائِقْ",
+      "exampleSentence": "السَّائِقُ يَقُودُ الْحَافِلَةَ بِبُطْءٍ فِي الشَّارِعْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הביט",
-      "definition": "نَظَرْ",
-      "exampleSentence": "نَظَرْ الولد إلى السماء الصافية بتركيز."
+      "solution": "אוזן",
+      "definition": "أُذُنْ",
+      "exampleSentence": "تُؤْلِمُنِي أُذُنٌ بِسَبَبِ الْبَرْدِ الشَّدِيدْ"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "יומיים",
-      "definition": "يَوْمَيْنْ",
-      "exampleSentence": "سَأَغِيبُ عَنِ الْعَمَلِ لِمُدَّةِ يَوْمَيْنِ فَقَطْ"
+      "solution": "ולמרות",
+      "definition": "وَرُغْمْ",
+      "exampleSentence": "وَرُغْمَ الْمَطَرِ، خَرَجَ الْأَطْفَالُ لِلَّعْبِ فِي الْحَدِيقَة"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "הרי",
-      "definition": "فَلَقَدْ",
-      "exampleSentence": "فَلَقَدْ دَرَسْتُ بِجِدٍّ لِلِامْتِحَانِ الْيَوْمْ"
+      "solution": "יחד",
+      "definition": "سَوِيَّة",
+      "exampleSentence": "يَعِيشُ الْأَصْدِقَاءُ فِي هَذَا الْبَيْتِ سَوِيَّة"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "די",
-      "definition": "كَفَى",
-      "exampleSentence": "كَفَى كَلَامًا، حَانَ وَقْتُ الْعَمَلِ الْآنْ"
+      "solution": "קר",
+      "definition": "بَارِدْ",
+      "exampleSentence": "الْجَوُّ بَارِدٌ جِدًّا فِي فَصْلِ الشِّتَاءْ"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "צהריים",
-      "definition": "الظُّهْرْ",
-      "exampleSentence": "نَحْنُ نَتَنَاوَلُ وَجْبَةَ الْغَدَاءِ عِنْدَ الظُّهْرْ"
+      "solution": "האחורי",
+      "definition": "الْخَلْفِي",
+      "exampleSentence": "يَجْلِسُ الطَّالِبُ فِي الْمَقْعَدِ الْخَلْفِيِّ مِنَ الْفَصْلْ"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "אביו",
-      "definition": "وَالِدُهْ",
-      "exampleSentence": "يُحِبُّ الْوَلَدُ الصَّغِيرُ وَالِدَهُ كَثِيرًا"
+      "solution": "גודל",
+      "definition": "حَجْمْ",
+      "exampleSentence": "هَذَا الْقَمِيصُ لَيْسَ مُنَاسِبًا لِحَجْمِ جِسْمِي"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "מעשי",
-      "definition": "عَمَلِي",
-      "exampleSentence": "قَدَّمَ الْمُعَلِّمُ حَلًّا عَمَلِيًّا لِهَذِهِ الْمُشْكِلَةِ الصَّعْبَة"
+      "solution": "אוכל",
+      "definition": "طَعَامْ",
+      "exampleSentence": "هَذَا الطَّعَامُ لَذِيذٌ جِدًّا وَمُفِيدٌ لِلصِّحَّة"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ידיד",
-      "definition": "حَبِيبْ",
-      "exampleSentence": "هُوَ صَدِيقٌ حَبِيبٌ لِي مُنْذُ سَنَوَاتٍ طَوِيلَة"
+      "solution": "הערה",
+      "definition": "مُلَاحَظَة",
+      "exampleSentence": "كَتَبَ الْمُعَلِّمُ مُلَاحَظَةً صَغِيرَةً عَلَى وَرَقَةِ الِامْتِحَانْ"
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מר",
-      "definition": "مُرّْ",
-      "exampleSentence": "طَعْمُ هَذَا الدَّوَاءِ مُرٌّ جِدًّا وَلَا أُحِبُّهْ"
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מבט",
-      "definition": "نَظْرَة",
-      "exampleSentence": "أَلْقَى نَظْرَةً سَرِيعَةً عَلَى الْكِتَابِ الْجَدِيدْ"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "בכי",
-      "definition": "الْبُكَاءْ",
-      "exampleSentence": "تَوَقَّفَ الطِّفْلُ عَنِ الْبُكَاءِ بَعْدَ رُؤْيَةِ أُمِّهْ"
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ממי",
-      "definition": "مِمَّنْ",
-      "exampleSentence": "مِمَّنْ أَخَذْتَ هَذَا الْخَبَرَ الْمُهِمْ؟"
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "יעד",
-      "definition": "وِجْهَة",
-      "exampleSentence": "وَصَلْنَا أَخِيرًا إِلَى وِجْهَةِ السَّفَرْ"
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "אישי",
-      "definition": "شَخْصِي",
-      "exampleSentence": "هَذَا رَأْيٌ شَخْصِيٌّ وَلَا يُمَثِّلُ الْجَمِيعْ"
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
       "clue_col": 0,
       "solution": "יד",
       "definition": "يَدْ",
       "exampleSentence": "غَسَلَ الْوَلَدُ يَدَهُ قَبْلَ تَنَاوُلِ الطَّعَامْ"
     },
     {
-      "direction": "up-right",
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "ישן",
+      "definition": "قَدِيمْ",
+      "exampleSentence": "اشْتَرَيْتُ هَاتِفًا جَدِيدًا بَدَلًا مِنْ هَاتِفِي الْقَدِيمْ"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שיר",
+      "definition": "أُغْنِيَة",
+      "exampleSentence": "هَذِهِ أُغْنِيَةٌ جَمِيلَةٌ جِدًّا أُحِبُّ سَمَاعَهَا"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "מאה",
+      "definition": "مِائَة",
+      "exampleSentence": "يَحْتَوِي هَذَا الصُّنْدُوقُ عَلَى مِائَةِ قِطْعَةِ حَلْوَى."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "רוע",
+      "definition": "سُوءْ",
+      "exampleSentence": "يجب علينا تجنب سُوء الكلام مع الناس."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "מוכר",
+      "definition": "مَعْرُوفْ",
+      "exampleSentence": "هَذَا الْكَاتِبُ مَعْرُوفٌ جِدَّا فِي الْعَالَمِ الْعَرَبِيّ"
+    },
+    {
+      "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "רך",
@@ -149,12 +141,20 @@
       "exampleSentence": "هَذَا الْخُبْزُ طَازَجٌ وَلَيِّنٌ جِدًّا لِلْأَكْلْ"
     },
     {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "די",
+      "definition": "كَفَى",
+      "exampleSentence": "كَفَى كَلَامًا، حَانَ وَقْتُ الْعَمَلِ الْآنْ"
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מיד",
-      "definition": "حَالَا",
-      "exampleSentence": "يَجِبُ عَلَيْنَا نَرْجِعُ إِلَى الْبَيْتِ حَالَا"
+      "solution": "תלה",
+      "definition": "علق",
+      "exampleSentence": "علق المعلم اللَّوْحَة على جدار الفصل."
     }
   ]
 }

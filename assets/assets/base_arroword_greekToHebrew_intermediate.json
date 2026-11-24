@@ -4,45 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
-  "avg_hardness": -6665.44,
+  "avg_hardness": -6401.61,
   "comments": [
     "Generated intermediate starter base arroword for greekToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
-    "Avg hardness: -6665.44"
+    "Avg hardness: -6401.61"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מתי",
-      "definition": "πότε",
-      "exampleSentence": "Πότε θα έρθεις να με δεις;"
+      "solution": "רמה",
+      "definition": "επίπεδο",
+      "exampleSentence": "Το επίπεδο των μαθητών είναι πολύ υψηλό."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שוטר",
-      "definition": "αστυνομικός",
-      "exampleSentence": "Ο αστυνομικός είναι στο δρόμο."
+      "solution": "הביא",
+      "definition": "έφερε",
+      "exampleSentence": "Ο φίλος μου έφερε δώρα από το ταξίδι."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ביטחון",
-      "definition": "σιγουριά",
-      "exampleSentence": "Μιλάει με πολλή σιγουριά για αυτό."
+      "solution": "רהיטים",
+      "definition": "έπιπλα",
+      "exampleSentence": "Αυτά είναι τα καινούργια έπιπλα στο σαλόνι."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "גוף",
-      "definition": "σώμα",
-      "exampleSentence": "Το σώμα χρειάζεται ξεκούραση μετά τη δουλειά."
+      "solution": "היא",
+      "definition": "εκείνη",
+      "exampleSentence": "Εκείνη είναι η αδελφή μου."
     },
     {
       "direction": "left-down",
@@ -56,49 +56,49 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "תשובות",
-      "definition": "απαντήσεις",
-      "exampleSentence": "Οι απαντήσεις στις ερωτήσεις είναι στο βιβλίο."
+      "solution": "מהירות",
+      "definition": "ταχύτητα",
+      "exampleSentence": "Το αυτοκίνητο πηγαίνει με μεγάλη ταχύτητα."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "יופי",
-      "definition": "ομορφιά",
-      "exampleSentence": "Η ομορφιά της φύσης είναι μεγάλη."
+      "solution": "הבאה",
+      "definition": "επόμενη",
+      "exampleSentence": "Η επόμενη στάση είναι το κέντρο της πόλης."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "עמדה",
-      "definition": "θέση",
-      "exampleSentence": "Βρήκα μια καλή θέση στο λεωφορείο."
+      "solution": "קושי",
+      "definition": "δυσκολία",
+      "exampleSentence": "Έχω κάποια δυσκολία με τα μαθηματικά."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "משמר",
-      "definition": "φρουρά",
-      "exampleSentence": "Η φρουρά είναι στην είσοδο."
+      "solution": "רבים",
+      "definition": "πολλοί",
+      "exampleSentence": "Πολλοί άνθρωποι πηγαίνουν στη θάλασσα."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חי",
-      "definition": "ζωντανός",
-      "exampleSentence": "Είναι πολύ ζωντανός και χαρούμενος άνθρωπος."
+      "solution": "אי",
+      "definition": "νησί",
+      "exampleSentence": "Το νησί έχει καθαρό αέρα."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חבר",
-      "definition": "φίλος",
-      "exampleSentence": "Ο φίλος μου είναι πολύ ευγενικός άνθρωπος."
+      "solution": "אבא",
+      "definition": "πατέρας",
+      "exampleSentence": "Ο πατέρας μου δουλεύει σε ένα μεγάλο γραφείο."
     },
     {
       "direction": "down",
@@ -112,25 +112,25 @@
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "טעם",
-      "definition": "γεύση",
-      "exampleSentence": "Αυτό το φαγητό έχει πολύ ωραία γεύση."
+      "solution": "יקר",
+      "definition": "ακριβό",
+      "exampleSentence": "Αυτό το ρολόι είναι πολύ ακριβό."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חמש",
-      "definition": "πέντε",
-      "exampleSentence": "Έχω πέντε ευρώ στην τσέπη μου."
+      "solution": "טוב",
+      "definition": "καλός",
+      "exampleSentence": "Ο φίλος μου είναι καλός μαθητής."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "קודם",
-      "definition": "πρώτα",
-      "exampleSentence": "Πρώτα θα φάω και μετά θα φύγω."
+      "solution": "אישי",
+      "definition": "προσωπική",
+      "exampleSentence": "Αυτή είναι μια προσωπική μου υπόθεση."
     },
     {
       "direction": "right",
@@ -152,9 +152,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "ποτάμι",
-      "exampleSentence": "Το ποτάμι έχει πολύ καθαρό νερό."
+      "solution": "מים",
+      "definition": "νερό",
+      "exampleSentence": "Πίνω ένα ποτήρι δροσερό νερό κάθε πρωί."
     }
   ]
 }

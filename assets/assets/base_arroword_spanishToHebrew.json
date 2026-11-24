@@ -4,12 +4,12 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
-  "avg_hardness": -8932.83,
+  "avg_hardness": -8890.78,
   "comments": [
     "Generated beginner starter base arroword for spanishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
-    "Avg hardness: -8932.83"
+    "Avg hardness: -8890.78"
   ],
   "clues": [
     {
@@ -41,16 +41,16 @@
       "clue_row": 0,
       "clue_col": 4,
       "solution": "זאת",
-      "definition": "esto",
-      "exampleSentence": "Esto es todo lo que tengo hoy."
+      "definition": "esta",
+      "exampleSentence": "Esta casa es muy grande y bonita."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "מי",
-      "definition": "quién",
-      "exampleSentence": "¿Quién ha venido a la puerta?"
+      "solution": "די",
+      "definition": "bastante",
+      "exampleSentence": "Hace bastante frío en la calle hoy."
     },
     {
       "direction": "right",
@@ -136,9 +136,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מה",
-      "definition": "qué",
-      "exampleSentence": "¿Qué hora es en este momento?"
+      "solution": "מי",
+      "definition": "quién",
+      "exampleSentence": "¿Quién ha venido a la puerta?"
     },
     {
       "direction": "up-right",

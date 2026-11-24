@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -7963.0,
   "comments": [
     "Generated beginner starter base arroword for chineseToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
-    "Avg hardness: -8889.00"
+    "Avg hardness: -7963.00"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "חלק",
-      "definition": "分",
-      "exampleSentence": "他们把西瓜分成了四份。"
+      "solution": "כמה",
+      "definition": "几",
+      "exampleSentence": "桌子上有几本书？"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
+      "solution": "קריר",
+      "definition": "凉",
+      "exampleSentence": "这杯茶放一会儿就凉了。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להקשיב",
+      "definition": "听",
+      "exampleSentence": "请安静，我在听音乐。"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "טוב",
+      "definition": "好",
+      "exampleSentence": "这本中文书真的很好看。"
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "רק",
+      "definition": "只",
+      "exampleSentence": "我只是开个玩笑，别生气。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "מקולקל",
+      "definition": "坏",
+      "exampleSentence": "这个苹果放时间长了变坏了。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
       "solution": "הרבה",
       "definition": "多",
       "exampleSentence": "桌子上的苹果太多了。"
     },
     {
       "direction": "down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "מעניין",
-      "definition": "好玩儿",
-      "exampleSentence": "这个公园真的很好玩儿。"
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "הבדל",
+      "definition": "区别",
+      "exampleSentence": "它们有区别吗？"
     },
     {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "נזק",
-      "definition": "坏处",
-      "exampleSentence": "抽烟对我们的身体有很大坏处。"
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
+      "direction": "down",
+      "clue_row": 2,
       "clue_col": 6,
+      "solution": "לריב",
+      "definition": "吵架",
+      "exampleSentence": "他们因为小事吵架。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
       "solution": "מי",
       "definition": "谁",
       "exampleSentence": "敲门的人会是谁呢？"
     },
     {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "להזמין",
-      "definition": "请",
-      "exampleSentence": "请你帮我看一下书。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "קרקע",
-      "definition": "地",
-      "exampleSentence": "我们每天使用地。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "בעיה",
-      "definition": "问题",
-      "exampleSentence": "这个问题我不太懂。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "לדבר",
-      "definition": "说",
-      "exampleSentence": "老师正在给我们说语法。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "מה",
-      "definition": "什么",
-      "exampleSentence": "你今天晚上想吃什么？"
-    },
-    {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מפה",
-      "definition": "地图",
-      "exampleSentence": "我们在看中国的地图。"
+      "solution": "מחר",
+      "definition": "明天",
+      "exampleSentence": "明天我们要去郊游爬山。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "פרח",
-      "definition": "花",
-      "exampleSentence": "买这本书花了我五十块钱。"
+      "solution": "חדש",
+      "definition": "新",
+      "exampleSentence": "这是一件非常漂亮的新衣服。"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "נבל",
-      "definition": "坏人",
-      "exampleSentence": "我们要小心保护自己，远离坏人。"
+      "solution": "קהל",
+      "definition": "人群",
+      "exampleSentence": "广场上有很多人群。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "יעד",
-      "definition": "目的",
-      "exampleSentence": "我来这里的目的很简单。"
+      "solution": "שבר",
+      "definition": "分数",
+      "exampleSentence": "二分之一是一个分数。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "חייב",
-      "definition": "一定",
-      "exampleSentence": "你明天考试一定要加油。"
+      "solution": "לידי",
+      "definition": "身边",
+      "exampleSentence": "出门时请把护照带在身边。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חם",
-      "definition": "热",
-      "exampleSentence": "夏天天气非常热多喝水。"
+      "solution": "שם",
+      "definition": "名字",
+      "exampleSentence": "我的名字叫李明。"
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "山",
-      "exampleSentence": "周末我们一起去爬山吧。"
+      "solution": "יד",
+      "definition": "手",
+      "exampleSentence": "洗手后再吃东西比较卫生。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "河",
-      "exampleSentence": "夏天很多人在清澈的河里游泳。"
+      "solution": "בלב",
+      "definition": "心中",
+      "exampleSentence": "老师的教导一直记在我心中。"
     }
-  ],
-  "avg_hardness": -8889.0
+  ]
 }

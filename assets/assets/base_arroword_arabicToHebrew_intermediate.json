@@ -4,12 +4,12 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
-  "avg_hardness": -7068.44,
+  "avg_hardness": -6791.06,
   "comments": [
     "Generated intermediate starter base arroword for arabicToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
-    "Avg hardness: -7068.44"
+    "Avg hardness: -6791.06"
   ],
   "clues": [
     {
@@ -136,9 +136,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "רב",
-      "definition": "كَبِيرْ",
-      "exampleSentence": "هُنَاكَ فَرْقٌ كَبِيرٌ بَيْنَ الصِّدْقِ وَالْكَذِبْ"
+      "solution": "רך",
+      "definition": "لَيِّنْ",
+      "exampleSentence": "هَذَا الْخُبْزُ طَازَجٌ وَلَيِّنٌ جِدًّا لِلْأَكْلْ"
     },
     {
       "direction": "up-right",

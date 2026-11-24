@@ -4,28 +4,29 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -8762.94,
   "comments": [
     "Generated beginner starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
-    "Avg hardness: -8522.94"
+    "Avg hardness: -8762.94"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צמא",
-      "definition": "sede",
-      "exampleSentence": "Tenho muita sede neste momento."
+      "solution": "כלל",
+      "definition": "regra",
+      "exampleSentence": "Esta é a regra mais importante do jogo."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בהיר",
-      "definition": "claro",
-      "exampleSentence": "Prefiro usar camisas de cor clara."
+      "solution": "היטב",
+      "definition": "bem",
+      "exampleSentence": "Ela fala português muito bem."
     },
     {
       "direction": "down",
@@ -39,33 +40,33 @@
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טוב",
-      "definition": "bom",
-      "exampleSentence": "Este livro é muito bom de ler."
+      "solution": "בעל",
+      "definition": "marido",
+      "exampleSentence": "O marido dela trabalha num escritório em Lisboa."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "לב",
-      "definition": "coração",
-      "exampleSentence": "Sinto o meu coração a bater muito depressa."
+      "solution": "או",
+      "definition": "ou",
+      "exampleSentence": "Queres beber café ou chá quente?"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מבולבל",
-      "definition": "confuso",
-      "exampleSentence": "O aluno estava confuso com o exercício difícil."
+      "solution": "להעלות",
+      "definition": "aumentar",
+      "exampleSentence": "O supermercado vai aumentar os preços amanhã."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "אהבה",
-      "definition": "amor",
-      "exampleSentence": "O amor é a coisa mais importante na vida."
+      "solution": "לילה",
+      "definition": "noite",
+      "exampleSentence": "A noite está fresca e muito calma."
     },
     {
       "direction": "down",
@@ -87,25 +88,25 @@
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עם",
-      "definition": "com",
-      "exampleSentence": "Gosto de beber café com leite."
+      "solution": "רק",
+      "definition": "só",
+      "exampleSentence": "Quero só um copo de água."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "עבר",
-      "definition": "passado",
-      "exampleSentence": "O passado não pode ser mudado agora."
+      "solution": "רכב",
+      "definition": "carro",
+      "exampleSentence": "O meu carro novo é azul escuro."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "בין",
-      "definition": "entre",
-      "exampleSentence": "Sento-me sempre entre os meus pais."
+      "solution": "כלב",
+      "definition": "cão",
+      "exampleSentence": "O meu cão gosta de correr no jardim."
     },
     {
       "direction": "right",
@@ -135,17 +136,17 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "נס",
-      "definition": "milagre",
-      "exampleSentence": "Foi um milagre ele ter sobrevivido ao acidente."
+      "solution": "בן",
+      "definition": "filho",
+      "exampleSentence": "O meu filho mais velho já estuda na universidade."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מי",
-      "definition": "quem",
-      "exampleSentence": "Quem bateu à porta da sala?"
+      "solution": "קל",
+      "definition": "fácil",
+      "exampleSentence": "Este exame de matemática foi muito fácil."
     },
     {
       "direction": "right",
@@ -155,6 +156,5 @@
       "definition": "nível",
       "exampleSentence": "O meu nível de português está a melhorar."
     }
-  ],
-  "avg_hardness": -8522.94
+  ]
 }

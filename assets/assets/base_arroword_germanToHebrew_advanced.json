@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4890.89,
+  "avg_hardness": -4791.28,
   "comments": [
     "Generated advanced starter base arroword for germanToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4890.89"
+    "Avg hardness: -4791.28"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נקי",
-      "definition": "sauber",
-      "exampleSentence": "Er arbeitet sehr genau und sauber."
+      "solution": "סלע",
+      "definition": "Felsen",
+      "exampleSentence": "Der alte Mann klettert vorsichtig auf den hohen Felsen."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "בודד",
-      "definition": "einsam",
-      "exampleSentence": "Der alte Mann wohnt ganz allein und fühlt sich oft einsam."
+      "solution": "הווה",
+      "definition": "Gegenwart",
+      "exampleSentence": "Man soll im Leben immer auf die Gegenwart achten."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ניצחון",
-      "definition": "Sieg",
-      "exampleSentence": "Die Mannschaft feierte ihren großen Sieg mit den Fans."
+      "solution": "רגליים",
+      "definition": "Füße",
+      "exampleSentence": "Ich habe kalte Füße und brauche Wärme."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "טרף",
-      "definition": "Beute",
-      "exampleSentence": "Der Löwe fängt seine Beute."
+      "solution": "עין",
+      "definition": "Auge",
+      "exampleSentence": "Sie hat ein wunderschönes blaues Auge."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "אי",
-      "definition": "Insel",
-      "exampleSentence": "Das ist eine schöne Insel."
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "קברניט",
-      "definition": "Kapitän",
-      "exampleSentence": "Der Kapitän steuert das große Schiff sicher durch das Meer."
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "יופי",
-      "definition": "Schönheit",
-      "exampleSentence": "Die Schönheit der Natur fasziniert viele Menschen."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "דודה",
-      "definition": "Tante",
-      "exampleSentence": "Meine nette Tante macht den besten Kuchen."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "קריר",
-      "definition": "kühl",
-      "exampleSentence": "Am Abend wird es draußen oft ein wenig kühl."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חד",
-      "definition": "scharf",
-      "exampleSentence": "Dieses Messer ist sehr scharf, sei vorsichtig!"
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חרד",
-      "definition": "besorgt",
-      "exampleSentence": "Die Mutter ist sehr besorgt, weil ihr Kind Fieber hat."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "רגל",
-      "definition": "Bein",
-      "exampleSentence": "Nach dem langen Lauf schmerzt mein Bein."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "צדק",
-      "definition": "Gerechtigkeit",
-      "exampleSentence": "Wir kämpfen alle für Freiheit und Gerechtigkeit."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "חור",
-      "definition": "Loch",
-      "exampleSentence": "In meiner neuen Hose ist leider ein kleines Loch."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "סודי",
-      "definition": "geheim",
-      "exampleSentence": "Diese wichtigen Dokumente müssen streng geheim bleiben."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "לב",
-      "definition": "Herz",
-      "exampleSentence": "Das Herz bewegt das Blut im Körper."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
       "solution": "דג",
       "definition": "Fisch",
       "exampleSentence": "Der frische Fisch schwimmt schnell im klaren Wasser."
     },
     {
       "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "להירגע",
+      "definition": "entspannen",
+      "exampleSentence": "Am Abend kann ich bei ruhiger Musik gut entspannen."
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "עונג",
+      "definition": "Vergnügen",
+      "exampleSentence": "Es ist mir ein großes Vergnügen."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "חריף",
+      "definition": "scharf",
+      "exampleSentence": "Diese Soße schmeckt wirklich sehr scharf."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "מחלה",
+      "definition": "Krankheit",
+      "exampleSentence": "Grippe ist im Winter eine bekannte Krankheit."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עץ",
+      "definition": "Baum",
+      "exampleSentence": "Im Garten steht ein alter, großer Baum."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עבה",
+      "definition": "dick",
+      "exampleSentence": "Dieses Buch ist sehr dick und hat viele Seiten."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ברק",
+      "definition": "Blitz",
+      "exampleSentence": "Nach dem lauten Donner sahen wir einen hellen Blitz am Himmel."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "לחם",
+      "definition": "Brot",
+      "exampleSentence": "Am Morgen essen wir gerne frisches Brot."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "ירח",
+      "definition": "Mond",
+      "exampleSentence": "Der Mond scheint hell in der Nacht."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "חייל",
+      "definition": "Soldat",
+      "exampleSentence": "Der junge Soldat stand Wache vor dem alten Gebäude."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "leicht",
+      "exampleSentence": "Diese Matheaufgabe ist sehr leicht für mich zu lösen."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "צר",
+      "definition": "eng",
+      "exampleSentence": "Dieser Weg ist sehr eng."
+    },
+    {
+      "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "Fluss",
-      "exampleSentence": "Dieser Fluss ist sehr lang und breit."
+      "solution": "מפה",
+      "definition": "Karte",
+      "exampleSentence": "Wir suchen den Weg mit einer Karte."
     }
   ]
 }

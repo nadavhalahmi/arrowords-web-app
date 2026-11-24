@@ -4,85 +4,85 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4995.56,
+  "avg_hardness": -5048.5,
   "comments": [
     "Generated advanced starter base arroword for portuguesePTToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4995.56"
+    "Avg hardness: -5048.50"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "כלה",
-      "definition": "noiva",
-      "exampleSentence": "A noiva estava muito bonita no casamento."
+      "solution": "במה",
+      "definition": "palco",
+      "exampleSentence": "Os atores subiram ao palco."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הסכם",
-      "definition": "tratado",
-      "exampleSentence": "O tratado foi assinado por ambos os países."
+      "solution": "קשים",
+      "definition": "difíceis",
+      "exampleSentence": "Os testes de matemática foram muito difíceis."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מרגלים",
-      "definition": "espiões",
-      "exampleSentence": "O filme fala sobre espiões durante a guerra."
+      "solution": "להזהיר",
+      "definition": "avisar",
+      "exampleSentence": "Devias avisar o teu irmão sobre o perigo."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עשב",
-      "definition": "erva",
-      "exampleSentence": "O gato gosta de comer erva no jardim."
+      "solution": "שוק",
+      "definition": "mercado",
+      "exampleSentence": "Compro fruta fresca no mercado local."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "אי",
-      "definition": "ilha",
-      "exampleSentence": "Fomos de barco visitar aquela ilha."
+      "solution": "דק",
+      "definition": "fino",
+      "exampleSentence": "Este papel é muito fino e parte facilmente."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להשמיד",
-      "definition": "destruir",
-      "exampleSentence": "O fogo pode destruir a floresta inteira."
+      "solution": "מקולקל",
+      "definition": "estragado",
+      "exampleSentence": "O leite está estragado e cheira mal."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הסבר",
-      "definition": "explicação",
-      "exampleSentence": "O professor deu uma boa explicação sobre o tema."
+      "solution": "השקה",
+      "definition": "lançamento",
+      "exampleSentence": "O lançamento do livro foi um enorme sucesso."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שומן",
-      "definition": "gordura",
-      "exampleSentence": "Devemos evitar o excesso de gordura na comida."
+      "solution": "רבים",
+      "definition": "tantos",
+      "exampleSentence": "Não tragas tantos livros para a escola."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מחנה",
-      "definition": "acampamento",
-      "exampleSentence": "Fomos para um acampamento no verão passado."
+      "solution": "מאלה",
+      "definition": "destas",
+      "exampleSentence": "Gosto muito mais destas flores vermelhas."
     },
     {
       "direction": "down",
@@ -97,8 +97,8 @@
       "clue_row": 3,
       "clue_col": 0,
       "solution": "חכם",
-      "definition": "esperto",
-      "exampleSentence": "O rapaz foi esperto e resolveu o enigma rapidamente."
+      "definition": "inteligente",
+      "exampleSentence": "A minha irmã é muito inteligente e tira boas notas."
     },
     {
       "direction": "down",
@@ -112,25 +112,25 @@
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "גשם",
-      "definition": "chuva",
-      "exampleSentence": "A chuva cai forte sobre a cidade hoje."
+      "solution": "זרם",
+      "definition": "corrente",
+      "exampleSentence": "A corrente do rio está muito forte."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "לוח",
-      "definition": "quadro",
-      "exampleSentence": "O professor escreveu no quadro."
+      "solution": "הבא",
+      "definition": "seguinte",
+      "exampleSentence": "Vamos falar sobre isso no capítulo seguinte."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "סימן",
-      "definition": "sinal",
-      "exampleSentence": "O semáforo mudou para o sinal verde."
+      "solution": "חייל",
+      "definition": "soldado",
+      "exampleSentence": "O soldado protege o seu país."
     },
     {
       "direction": "right",
@@ -152,9 +152,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "prato",
-      "exampleSentence": "Este prato típico é muito saboroso."
+      "solution": "רמה",
+      "definition": "nível",
+      "exampleSentence": "O meu nível de português está a melhorar."
     }
   ]
 }
