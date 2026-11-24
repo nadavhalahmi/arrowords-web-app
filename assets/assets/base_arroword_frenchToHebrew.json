@@ -4,45 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
-  "avg_hardness": -9685.61,
+  "avg_hardness": -9609.78,
   "comments": [
     "Generated beginner starter base arroword for frenchToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
-    "Avg hardness: -9685.61"
+    "Avg hardness: -9609.78"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "הנה",
-      "definition": "voilà",
-      "exampleSentence": "Voilà votre commande de livres pour la rentrée."
+      "solution": "גמר",
+      "definition": "final",
+      "exampleSentence": "Le sifflet annonce le coup de sifflet final du match."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ובכן",
-      "definition": "alors",
-      "exampleSentence": "Alors, tu as aimé le film d'hier ?"
+      "solution": "לאחר",
+      "definition": "après",
+      "exampleSentence": "Il est rentré chez lui après une longue journée."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מלוכלך",
-      "definition": "sale",
-      "exampleSentence": "Ses chaussures sont très sale après la pluie."
+      "solution": "כישרון",
+      "definition": "don",
+      "exampleSentence": "Elle a un don naturel pour le dessin."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ורד",
-      "definition": "rose",
-      "exampleSentence": "Le jardinier a planté un beau rosier avec une rose rouge."
+      "solution": "חוש",
+      "definition": "sens",
+      "exampleSentence": "Le chien a un très bon sens de l'odorat."
     },
     {
       "direction": "left-down",
@@ -56,105 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "נורמלי",
-      "definition": "normal",
-      "exampleSentence": "Il est tout à fait normal d'avoir peur parfois."
+      "solution": "מלוכלך",
+      "definition": "sale",
+      "exampleSentence": "Ses chaussures sont très sale après la pluie."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "הבדל",
-      "definition": "différence",
-      "exampleSentence": "Il y a une grande différence entre ces deux couleurs."
+      "solution": "ראשי",
+      "definition": "principal",
+      "exampleSentence": "La rue principale du village est très animée."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לבוא",
-      "definition": "venir",
-      "exampleSentence": "Tu veux venir chez moi ce soir ?"
+      "solution": "נאלץ",
+      "definition": "obligé",
+      "exampleSentence": "Il a été obligé de changer ses plans."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ארנב",
-      "definition": "lapin",
-      "exampleSentence": "Le petit lapin mange une carotte dans le jardin."
+      "solution": "ישיר",
+      "definition": "direct",
+      "exampleSentence": "Le train direct met seulement deux heures pour aller à Paris."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מה",
-      "definition": "quoi",
-      "exampleSentence": "De quoi parlez-vous avec autant d'intérêt ?"
+      "solution": "עם",
+      "definition": "avec",
+      "exampleSentence": "Je bois du thé avec un peu de sucre."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מין",
-      "definition": "sorte",
-      "exampleSentence": "Je n'aime pas cette sorte de comportement."
+      "solution": "עבר",
+      "definition": "passé",
+      "exampleSentence": "Il ne faut pas vivre seulement dans le passé."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "ירח",
-      "definition": "lune",
-      "exampleSentence": "La lune brille magnifiquement dans le ciel nocturne."
+      "solution": "בין",
+      "definition": "entre",
+      "exampleSentence": "Le chat est couché entre les deux fauteuils du salon."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ולא",
-      "definition": "ni",
-      "exampleSentence": "Il ne mange ni viande ni poisson le vendredi."
+      "solution": "שני",
+      "definition": "deuxième",
+      "exampleSentence": "C'est la deuxième fois que je visite cette belle ville."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "כבר",
-      "definition": "déjà",
-      "exampleSentence": "Le train est déjà parti quand nous sommes arrivés."
+      "solution": "ראש",
+      "definition": "tête",
+      "exampleSentence": "Il porte un chapeau noir sur sa tête."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "מלון",
-      "definition": "hôtel",
-      "exampleSentence": "Nous passons la nuit dans un hôtel confortable."
+      "solution": "אולי",
+      "definition": "peut-être",
+      "exampleSentence": "Peut-être irons-nous au cinéma ce samedi."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "חם",
-      "definition": "chaud",
-      "exampleSentence": "Le café est très chaud ce matin."
+      "solution": "נס",
+      "definition": "miracle",
+      "exampleSentence": "C'est un miracle qu'il soit encore vivant."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "montagne",
-      "exampleSentence": "Il y a de la neige sur la montagne."
+      "solution": "מי",
+      "definition": "qui",
+      "exampleSentence": "Qui a sonné à la porte ?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "כאב",
-      "definition": "mal",
-      "exampleSentence": "J'ai mal à la tête après cette longue journée."
+      "solution": "נצר",
+      "definition": "pousse",
+      "exampleSentence": "Une petite pousse verte sort de la terre."
     }
   ]
 }

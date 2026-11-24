@@ -4,85 +4,85 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
-  "avg_hardness": -5740.89,
+  "avg_hardness": -5555.78,
   "comments": [
     "Generated intermediate starter base arroword for chineseToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
-    "Avg hardness: -5740.89"
+    "Avg hardness: -5555.78"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמש",
-      "definition": "太阳",
-      "exampleSentence": "今天的太阳很好。"
+      "solution": "שלם",
+      "definition": "完整",
+      "exampleSentence": "这是完整的一本书。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לקחת",
-      "definition": "取",
-      "exampleSentence": "我去邮局取一个包裹。"
+      "solution": "הורה",
+      "definition": "家长",
+      "exampleSentence": "老师明天要开全体家长会。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כישרון",
-      "definition": "人才",
-      "exampleSentence": "他是公司的人才。"
+      "solution": "להעריך",
+      "definition": "重视",
+      "exampleSentence": "我们应该重视学习和健康。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עור",
-      "definition": "皮",
-      "exampleSentence": "这件衣服是真皮的。"
+      "solution": "אחר",
+      "definition": "其他",
+      "exampleSentence": "你还要买其他的东西吗？"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "כל",
-      "definition": "各",
-      "exampleSentence": "各人有各人的想法。"
+      "solution": "די",
+      "definition": "够",
+      "exampleSentence": "这些苹果我们三个人吃够了。"
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מלוכלך",
-      "definition": "脏",
-      "exampleSentence": "你的鞋子怎么这么脏？"
+      "solution": "להחליף",
+      "definition": "换",
+      "exampleSentence": "我想换一件新衣服穿。"
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "שקרי",
-      "definition": "假",
-      "exampleSentence": "这个花瓶里的花是假的。"
+      "solution": "מורה",
+      "definition": "教师",
+      "exampleSentence": "这位教师在学校教中文。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לילה",
-      "definition": "夜",
-      "exampleSentence": "美丽的夜空有很多星星。"
+      "solution": "נשים",
+      "definition": "妇女",
+      "exampleSentence": "妇女能顶半边天。"
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מחבר",
-      "definition": "作者",
-      "exampleSentence": "这本书的作者很有名。"
+      "solution": "נערה",
+      "definition": "姑娘",
+      "exampleSentence": "那位姑娘长得很漂亮。"
     },
     {
       "direction": "down",
@@ -96,49 +96,49 @@
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "רשת",
-      "definition": "网",
-      "exampleSentence": "我用电脑在网上面买书。"
+      "solution": "רמה",
+      "definition": "水平",
+      "exampleSentence": "他的中文口语水平提高很快。"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שלג",
-      "definition": "雪",
-      "exampleSentence": "今天外面下雪了。"
+      "solution": "מלא",
+      "definition": "满",
+      "exampleSentence": "她高兴得脸上满是笑容。"
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "שלם",
-      "definition": "全",
-      "exampleSentence": "全家人一起快乐地吃晚饭。"
+      "solution": "ענן",
+      "definition": "云",
+      "exampleSentence": "蓝色的天上有一朵白云。"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ריח",
-      "definition": "味道",
-      "exampleSentence": "这个苹果的味道很甜。"
+      "solution": "רשע",
+      "definition": "坏人",
+      "exampleSentence": "我们要小心保护自己，远离坏人。"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "קולב",
-      "definition": "衣架",
-      "exampleSentence": "请把衣服挂在衣架上。"
+      "solution": "צייר",
+      "definition": "画家",
+      "exampleSentence": "齐白石是一位著名的中国画家。"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "גן",
-      "definition": "公园",
-      "exampleSentence": "我和朋友周末去公园散步。"
+      "solution": "או",
+      "definition": "或",
+      "exampleSentence": "你可以喝茶或喝咖啡。"
     },
     {
       "direction": "up-right",
@@ -152,9 +152,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נהר",
-      "definition": "河",
-      "exampleSentence": "夏天很多人在清澈的河里游泳。"
+      "solution": "כמה",
+      "definition": "多么",
+      "exampleSentence": "这里的风景多么美丽啊！"
     }
   ]
 }

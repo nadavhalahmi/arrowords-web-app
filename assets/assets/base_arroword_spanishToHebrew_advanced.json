@@ -4,85 +4,85 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -5011.17,
+  "avg_hardness": -4993.17,
   "comments": [
     "Generated advanced starter base arroword for spanishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5011.17"
+    "Avg hardness: -4993.17"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "כסף",
-      "definition": "plata",
-      "exampleSentence": "Guardé toda mi plata en el banco."
+      "solution": "אמן",
+      "definition": "artista",
+      "exampleSentence": "El artista pinta un hermoso cuadro en su estudio."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "ייצא",
-      "definition": "saldrá",
-      "exampleSentence": "El vuelo saldrá hacia Madrid a las diez."
+      "solution": "נושא",
+      "definition": "sujeto",
+      "exampleSentence": "El sujeto de la oración es claro."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מהירות",
-      "definition": "velocidad",
-      "exampleSentence": "El coche viaja a gran velocidad por la carretera."
+      "solution": "עגילים",
+      "definition": "pendientes",
+      "exampleSentence": "Ella lleva puestos unos pendientes de plata brillantes."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עין",
-      "definition": "ojo",
-      "exampleSentence": "Me entró un poco de polvo en el ojo."
+      "solution": "חיה",
+      "definition": "animal",
+      "exampleSentence": "El león es un animal muy fuerte."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "חן",
-      "definition": "gracia",
-      "exampleSentence": "La niña baila con mucha gracia."
+      "solution": "אי",
+      "definition": "isla",
+      "exampleSentence": "Esa pequeña isla tiene playas muy hermosas."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "סיימנו",
-      "definition": "acabamos",
-      "exampleSentence": "Acabamos nuestro proyecto de historia a tiempo."
+      "solution": "מניעים",
+      "definition": "motivos",
+      "exampleSentence": "No entiendo los motivos de su decisión."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "פינה",
-      "definition": "esquina",
-      "exampleSentence": "La tienda está en la esquina de la calle."
+      "solution": "נוהג",
+      "definition": "conduce",
+      "exampleSentence": "Mi padre conduce su coche con mucho cuidado."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "שמשי",
-      "definition": "solar",
-      "exampleSentence": "La radiación solar es muy fuerte hoy."
+      "solution": "קולר",
+      "definition": "collar",
+      "exampleSentence": "El perro lleva un collar rojo con su nombre."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נזרק",
-      "definition": "lanzado",
-      "exampleSentence": "El balón fue lanzado por el jugador."
+      "solution": "רחוק",
+      "definition": "lejos",
+      "exampleSentence": "Mi casa está muy lejos de aquí."
     },
     {
       "direction": "down",
@@ -112,25 +112,25 @@
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ישן",
-      "definition": "antiguo",
-      "exampleSentence": "Visitamos un castillo antiguo en nuestra última excursión."
+      "solution": "יקר",
+      "definition": "precioso",
+      "exampleSentence": "Ese anillo de oro es muy precioso."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "רמז",
-      "definition": "pista",
-      "exampleSentence": "El profesor dio una pista para el examen."
+      "solution": "לוח",
+      "definition": "placa",
+      "exampleSentence": "Pusieron una placa solar en el techo."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אושר",
-      "definition": "felicidad",
-      "exampleSentence": "La sonrisa de un niño trae mucha felicidad."
+      "solution": "אילו",
+      "definition": "cuáles",
+      "exampleSentence": "Dime cuáles prefieres tú."
     },
     {
       "direction": "right",
@@ -152,9 +152,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תיק",
-      "definition": "bolso",
-      "exampleSentence": "Olvidé mi bolso negro en la mesa."
+      "solution": "מרק",
+      "definition": "sopa",
+      "exampleSentence": "La sopa caliente es perfecta para el invierno."
     }
   ]
 }

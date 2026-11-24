@@ -4,45 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "beginner",
   "roadmap_level": 1,
-  "avg_hardness": -9747.56,
+  "avg_hardness": -9317.61,
   "comments": [
     "Generated beginner starter base arroword for swedishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
-    "Avg hardness: -9747.56"
+    "Avg hardness: -9317.61"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "אתם",
-      "definition": "ni",
-      "exampleSentence": "Hur mår ni alla idag?"
+      "solution": "אחד",
+      "definition": "ett",
+      "exampleSentence": "Vi har bara ett barn."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "מוטב",
-      "definition": "bättre",
-      "exampleSentence": "Det är bättre att fråga om du är osäker."
+      "solution": "לאלץ",
+      "definition": "tvinga",
+      "exampleSentence": "Ingen kan tvinga dig att göra detta."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "נעליים",
-      "definition": "skor",
-      "exampleSentence": "Jag måste köpa nya skor inför vintern."
+      "solution": "מהירים",
+      "definition": "snabba",
+      "exampleSentence": "Hästarna på fältet är mycket snabba."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עוד",
-      "definition": "fortfarande",
-      "exampleSentence": "Hon väntar fortfarande på bussen i kylan."
+      "solution": "זוג",
+      "definition": "par",
+      "exampleSentence": "De gifte sig förra året som ett lyckligt par."
     },
     {
       "direction": "left-down",
@@ -56,105 +56,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "תמונות",
-      "definition": "bilder",
-      "exampleSentence": "Barnen målade vackra bilder på lektionen."
+      "solution": "חלומות",
+      "definition": "drömmar",
+      "exampleSentence": "Jag har många fina drömmar om framtiden."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "מודע",
-      "definition": "medveten",
-      "exampleSentence": "Hon är medveten om risken med att simma."
+      "solution": "דאגה",
+      "definition": "bekymmer",
+      "exampleSentence": "Ekonomiska bekymmer kan göra folk väldigt trötta."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "חלום",
-      "definition": "dröm",
-      "exampleSentence": "Jag hade en väldigt läskig dröm i natt."
+      "solution": "שגוי",
+      "definition": "fel",
+      "exampleSentence": "Det här svaret är helt fel."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "נדרש",
-      "definition": "krävs",
-      "exampleSentence": "Erfarenhet krävs för detta svåra jobb."
+      "solution": "רענן",
+      "definition": "frisk",
+      "exampleSentence": "Luften på morgonen är så härligt frisk."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "כל",
-      "definition": "alla",
-      "exampleSentence": "Alla barn i skolan gillar att leka tillsammans."
+      "solution": "קר",
+      "definition": "kall",
+      "exampleSentence": "Det är väldigt kallt ute idag, ta på mössan."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "כאב",
-      "definition": "ont",
-      "exampleSentence": "Jag har ont i min fot."
+      "solution": "קיץ",
+      "definition": "sommar",
+      "exampleSentence": "Vi brukar bada mycket på sommaren."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "אבל",
-      "definition": "men",
-      "exampleSentence": "Jag vill gå ut, men det regnar ute."
+      "solution": "יקר",
+      "definition": "kär",
+      "exampleSentence": "Min familj är det jag håller kär."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "לחן",
-      "definition": "visa",
-      "exampleSentence": "Den gamla svenska visan är mycket vacker."
+      "solution": "ישר",
+      "definition": "ärlig",
+      "exampleSentence": "Han är en mycket ärlig och snäll person."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "ילד",
-      "definition": "barn",
-      "exampleSentence": "Ett litet barn sover sött i sin säng."
+      "solution": "רגע",
+      "definition": "ögonblick",
+      "exampleSentence": "Kan du vänta ett litet ögonblick tack?"
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "ציור",
-      "definition": "bild",
-      "exampleSentence": "Det hänger en vacker bild på väggen."
+      "solution": "ציון",
+      "definition": "betyg",
+      "exampleSentence": "Hon fick ett bra betyg i matte."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לא",
-      "definition": "inte",
-      "exampleSentence": "Jag vill inte dricka kaffe idag."
+      "solution": "רך",
+      "definition": "mjuk",
+      "exampleSentence": "Sängen har en skön och mjuk madrass."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "לב",
-      "definition": "hjärta",
-      "exampleSentence": "Mitt hjärta slår fort när jag springer."
+      "solution": "רק",
+      "definition": "bara",
+      "exampleSentence": "Jag vill bara ha ett glas vatten."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "ממש",
-      "definition": "verkligen",
-      "exampleSentence": "Det här kaffet smakar verkligen bra."
+      "solution": "מין",
+      "definition": "slag",
+      "exampleSentence": "Vilken slag av växter växer i denna skog?"
     }
   ]
 }

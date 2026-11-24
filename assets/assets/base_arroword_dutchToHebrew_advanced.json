@@ -1,160 +1,160 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_new",
+  "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -4996.56,
+  "avg_hardness": -5000.56,
   "comments": [
     "Generated advanced starter base arroword for dutchToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_new; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -4996.56"
+    "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
+    "Avg hardness: -5000.56"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "שמן",
-      "definition": "olie",
-      "exampleSentence": "Gebruik een beetje olie om te bakken."
+      "solution": "צמח",
+      "definition": "plant",
+      "exampleSentence": "Deze groene plant heeft veel water nodig."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "לצלם",
-      "definition": "filmen",
-      "exampleSentence": "Wij gaan de hele bruiloft filmen."
+      "solution": "שניה",
+      "definition": "seconde",
+      "exampleSentence": "Wacht even, het duurt slechts een seconde."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כישרון",
-      "definition": "gave",
-      "exampleSentence": "Hij heeft de gave om mensen te laten lachen."
+      "solution": "להשתתף",
+      "definition": "meedoen",
+      "exampleSentence": "Wil jij morgen ook meedoen aan de wedstrijd?"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "לוח",
-      "definition": "bord",
-      "exampleSentence": "De leraar schrijft op het bord in de klas."
+      "solution": "מאי",
+      "definition": "mei",
+      "exampleSentence": "In de maand mei is het mooi."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "גל",
-      "definition": "golf",
-      "exampleSentence": "Een grote golf rolt naar het strand."
+      "solution": "או",
+      "definition": "ofwel",
+      "exampleSentence": "Je kunt ofwel fietsen ofwel lopen."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מלוכלך",
-      "definition": "smerig",
-      "exampleSentence": "Het bord was erg smerig na het eten."
+      "solution": "משאלות",
+      "definition": "wensen",
+      "exampleSentence": "Ik heb veel wensen voor mijn verjaardag."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נצחי",
-      "definition": "eeuwig",
-      "exampleSentence": "De liefde tussen hen voelt bijna eeuwig aan."
+      "solution": "חניה",
+      "definition": "parkeerplaats",
+      "exampleSentence": "Ik zoek een vrije parkeerplaats voor mijn auto."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לשלם",
-      "definition": "betalen",
-      "exampleSentence": "Ik moet de rekening in de winkel betalen."
+      "solution": "לשיר",
+      "definition": "zingen",
+      "exampleSentence": "Wij gaan samen een liedje zingen."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "חתול",
-      "definition": "kat",
-      "exampleSentence": "De kat slaapt lekker op de bank."
+      "solution": "ועדה",
+      "definition": "commissie",
+      "exampleSentence": "De commissie beslist over het nieuwe plan."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גב",
-      "definition": "achterkant",
-      "exampleSentence": "De ingang is aan de achterkant."
+      "solution": "חד",
+      "definition": "scherp",
+      "exampleSentence": "Dit mes is erg scherp, pas op je vingers."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "גשם",
-      "definition": "regen",
-      "exampleSentence": "Er valt veel regen in de herfst."
+      "solution": "חסה",
+      "definition": "sla",
+      "exampleSentence": "Ik eet elke dag een verse salade met sla."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "שדה",
-      "definition": "veld",
-      "exampleSentence": "De koeien lopen in het groene veld."
+      "solution": "סיר",
+      "definition": "pot",
+      "exampleSentence": "De soep kookt in een grote pot."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "שלח",
-      "definition": "stuur",
-      "exampleSentence": "Stuur mij alsjeblieft een berichtje via e-mail."
+      "solution": "שלו",
+      "definition": "zijne",
+      "exampleSentence": "Dat boek is van hem, het is het zijne."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "רשת",
-      "definition": "netwerk",
-      "exampleSentence": "Ons bedrijf heeft een heel groot netwerk."
+      "solution": "תשע",
+      "definition": "negen",
+      "exampleSentence": "Ik heb vandaag negen appels gekocht op markt."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "כולו",
-      "definition": "gehele",
-      "exampleSentence": "Het gehele team is vandaag aanwezig op werk."
+      "solution": "עתיד",
+      "definition": "toekomst",
+      "exampleSentence": "Wat wil jij in de toekomst gaan doen?"
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "berg",
-      "exampleSentence": "Wij wandelen naar de top van de berg."
+      "solution": "רך",
+      "definition": "zacht",
+      "exampleSentence": "Dit kussen voelt heel zacht aan."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "בד",
-      "definition": "doek",
-      "exampleSentence": "Ik gebruik een doek om de tafel schoon te maken."
+      "solution": "די",
+      "definition": "behoorlijk",
+      "exampleSentence": "Ik ben behoorlijk moe na vandaag."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "נמל",
-      "definition": "haven",
-      "exampleSentence": "De grote schepen liggen in de haven."
+      "solution": "פרה",
+      "definition": "koe",
+      "exampleSentence": "De koe staat rustig in het groene gras."
     }
   ]
 }
