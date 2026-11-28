@@ -4,43 +4,46 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
+  "avg_hardness": -7500.0,
   "comments": [
-    "Generated clean beginner starter base arroword for hebrewToHebrew",
+    "Psychometric Hebrew verbal starter. Synonym, definition, secondary sense, or idiom. Not a vocabulary lesson.",
+    "Generated intermediate starter base arroword for hebrewToHebrew",
     "Total clues: 18",
-    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
+    "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
+    "Avg hardness: -7500.00"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נתן",
-      "definition": "העניק",
-      "exampleSentence": "המורה נתן לכל תלמיד ציון לשבח."
+      "solution": "טנא",
+      "definition": "סל",
+      "exampleSentence": "הילדים הביאו טנא מלא פירות ביכורים לחג השבועות."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "אייר",
-      "definition": "חודש עברי (אביב)",
-      "exampleSentence": "בחודש אייר מזג האוויר נעים ונוח לטיולים."
+      "solution": "חיגר",
+      "definition": "נכה ברגליו",
+      "exampleSentence": "הילד החיגר השתתף במשחקי החברה לפי יכולתו."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "לחם חוק",
-      "definition": "הרגל קבוע",
-      "exampleSentence": "קריאת העיתון בבוקר היא לחם חוק עבורו."
+      "solution": "ורבאלי",
+      "definition": "קשור לדיבור",
+      "exampleSentence": "יש לו כישרון ורבאלי מצוין ולכן הוא עוסק בהוראה."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "ליד",
-      "definition": "סמוך",
-      "exampleSentence": "הוא גר בבית קטן ליד הים."
+      "solution": "פשט",
+      "definition": "הוריד בגד",
+      "exampleSentence": "הילד פשט את מעילו הרטוב מיד כשנכנס הביתה מהגשם."
     },
     {
       "direction": "left-down",
@@ -54,105 +57,105 @@
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "תאילנד",
-      "definition": "מדינה באסיה",
-      "exampleSentence": "רבים מהישראלים בוחרים לטייל בחופשות בתאילנד."
+      "solution": "נחשוני",
+      "definition": "נועז",
+      "exampleSentence": "המדענים יצאו למסע מחקר נחשוני אל תוך הג'ונגל הלא מזוהה."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נידח",
-      "definition": "מרוחק",
-      "exampleSentence": "הם יצאו לטיול ארוך בכפר נידח במרומי ההרים."
+      "solution": "איטר",
+      "definition": "שמאלי",
+      "exampleSentence": "הוא היה איטר יד וכתב תמיד ביד שמאל."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "יופי",
-      "definition": "חן, נוי, הדר",
-      "exampleSentence": "היא התפעלה מהיופי המרהיב של השקיעה בים."
+      "solution": "צרוב",
+      "definition": "שרוף",
+      "exampleSentence": "עורו נותר צרוב מהשמש הקופחת לאחר שעות בים."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "מגרש",
-      "definition": "שטח אדמה",
-      "exampleSentence": "הילדים שיחקו כדורגל בתוך מגרש שכונתי."
+      "solution": "ריקם",
+      "definition": "ללא תוצאות",
+      "exampleSentence": "המאמצים שלהם הסתיימו ריקם לצערם הרב."
     },
     {
       "direction": "down",
       "clue_row": 3,
+      "clue_col": 0,
+      "solution": "דך",
+      "definition": "מסכן",
+      "exampleSentence": "האיש הערירי הרגיש דך מאוד בחגים."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "דיר",
+      "definition": "מקום מגורי צאן",
+      "exampleSentence": "הרועה הוביל את הכבשים אל תוך הדיר לקראת הלילה."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ירח",
+      "definition": "חודש",
+      "exampleSentence": "בכל חודש עברי חדש אנו מציינים את תחילת הירח."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "בצר",
+      "definition": "קטף ענבים",
+      "exampleSentence": "הפועלים קמו עם שחר ויצאו לבצר בכרם המשפחתי."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "ארי",
+      "definition": "אריה",
+      "exampleSentence": "הארי האימתני שאג בקול רם במרכז הסוואנה."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "חלוק",
+      "definition": "בגד עבודה",
+      "exampleSentence": "הוא פשט את חלוק העבודה בסיום המשמרת."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "חם",
       "definition": "בעל טמפרטורה גבוהה",
       "exampleSentence": "האוויר היה חם מאוד ביום הקיץ."
     },
     {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חדר",
-      "definition": "חלל בבית",
-      "exampleSentence": "הוא סידר את החדר שלו לפני בוא האורחים."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "דהה",
-      "definition": "נחלש צבעו",
-      "exampleSentence": "הצבע של החולצה דהה לאחר כביסות רבות."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "מים",
-      "definition": "נוזל החיים",
-      "exampleSentence": "חשוב לשתות הרבה מים ביום חם."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "חוג",
-      "definition": "היקף",
-      "exampleSentence": "חוג הפעילות של החברה מתרחב משנה לשנה."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "עופר",
-      "definition": "אייל צעיר",
-      "exampleSentence": "עופר רך שכב בשקט בין השיחים ביער."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "הר",
-      "definition": "גבעה גבוהה מאוד",
-      "exampleSentence": "הטיפוס אל פסגת ההר ארך שעות רבות."
-    },
-    {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מה",
-      "definition": "מילת שאלה",
-      "exampleSentence": "שאלתי אותו מה הוא רוצה לאכול לארוחת ערב."
+      "solution": "כר",
+      "definition": "כרית",
+      "exampleSentence": "הוא הניח את ראשו על כר רך ונרדם."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "קיש",
-      "definition": "מאפה מלוח",
-      "exampleSentence": "הכנתי קיש פטריות טעים לארוחת הערב."
+      "solution": "יבם",
+      "definition": "אח הבעל",
+      "exampleSentence": "לפי המסורת, היבם אמור לשאת את אלמנת אחיו."
     }
   ]
 }

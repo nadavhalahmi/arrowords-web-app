@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
-  "avg_hardness": -7503.0,
+  "avg_hardness": -7498.06,
   "comments": [
     "Generated intermediate starter base arroword for englishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
-    "Avg hardness: -7503.00"
+    "Avg hardness: -7498.06"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מלח",
-      "definition": "sailor",
-      "exampleSentence": "The brave sailor works on a ship."
+      "solution": "נמל",
+      "definition": "harbor",
+      "exampleSentence": "Many large cargo ships dock at harbors."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הולם",
-      "definition": "suitable",
-      "exampleSentence": "This warm coat is suitable for winter."
+      "solution": "סיום",
+      "definition": "conclusion",
+      "exampleSentence": "The long movie had a very happy conclusion."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "פרטיות",
-      "definition": "privacy",
-      "exampleSentence": "Close the door for privacy."
+      "solution": "חילוני",
+      "definition": "secular",
+      "exampleSentence": "A public school provides a strictly secular education."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "כתם",
-      "definition": "stain",
-      "exampleSentence": "Spilled wine left a red stain here."
+      "solution": "בול",
+      "definition": "stamp",
+      "exampleSentence": "Put a stamp on the letter."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "צר",
-      "definition": "narrow",
-      "exampleSentence": "The truck got stuck on narrow roads."
+      "solution": "מר",
+      "definition": "bitter",
+      "exampleSentence": "The dark chocolate tastes very bitter."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "להתפרס",
-      "definition": "to extend",
-      "exampleSentence": "The roads extend for miles."
+      "solution": "מסוחרר",
+      "definition": "dizzy",
+      "exampleSentence": "Spinning in fast circles makes me feel dizzy."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "חומר",
-      "definition": "substance",
-      "exampleSentence": "Water is a clear and wet substance."
+      "solution": "לילי",
+      "definition": "nightly",
+      "exampleSentence": "The city has a nightly curfew."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "קרקע",
-      "definition": "soil",
-      "exampleSentence": "Plants grow well in dark, wet soil."
+      "solution": "כרוב",
+      "definition": "cabbage",
+      "exampleSentence": "I ate a green cabbage in my salad."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "סדיר",
-      "definition": "regular",
-      "exampleSentence": "He eats a healthy and regular diet."
+      "solution": "נדרש",
+      "definition": "required",
+      "exampleSentence": "A strict hard hat is required here."
     },
     {
       "direction": "down",
       "clue_row": 3,
-      "clue_col": 0,
-      "solution": "רך",
-      "definition": "tender",
-      "exampleSentence": "The chicken was tender and easy to chew."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "רעם",
-      "definition": "thunder",
-      "exampleSentence": "Loud thunder scared the sleeping baby."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "עדר",
-      "definition": "herd",
-      "exampleSentence": "The herd of cows ate grass."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "טקס",
-      "definition": "ceremony",
-      "exampleSentence": "We attended their wedding ceremony today."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "ירד",
-      "definition": "decreased",
-      "exampleSentence": "The price of the car decreased."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "חוקי",
-      "definition": "legitimate",
-      "exampleSentence": "This real business is totally legitimate."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "רץ",
-      "definition": "runner",
-      "exampleSentence": "The fast runner won the gold medal."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
       "clue_col": 0,
       "solution": "כד",
       "definition": "jar",
       "exampleSentence": "The sweet fruit jam is in a jar."
     },
     {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "כתם",
+      "definition": "stain",
+      "exampleSentence": "Spilled wine left a red stain here."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "תקע",
+      "definition": "plug",
+      "exampleSentence": "Plug the power cord into the wall."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "לכן",
+      "definition": "thus",
+      "exampleSentence": "He studied hard and thus passed the test."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "ורד",
+      "definition": "rose",
+      "exampleSentence": "He gave her a beautiful red rose flower."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "תנור",
+      "definition": "oven",
+      "exampleSentence": "We bake fresh bread in the oven."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "עז",
+      "definition": "goat",
+      "exampleSentence": "The white goat eats grass on the farm."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "דק",
+      "definition": "thin",
+      "exampleSentence": "The paper is very white and thin."
+    },
+    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "תער",
-      "definition": "razor",
-      "exampleSentence": "Clean your face with a sharp razor."
+      "solution": "יבש",
+      "definition": "dry",
+      "exampleSentence": "The desert is very hot and dry."
     }
   ]
 }

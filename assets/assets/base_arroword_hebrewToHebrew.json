@@ -1,158 +1,169 @@
 {
   "num_rows": 7,
   "num_cols": 7,
-  "mask_id": "mask_7_7_5",
+  "mask_id": "mask_7_7_20_1",
   "starter_band": "beginner",
   "roadmap_level": 1,
+  "avg_hardness": -8000.0,
   "comments": [
-    "Generated clean beginner starter base arroword for hebrewToHebrew",
-    "Total clues: 18",
-    "Mask: mask_7_7_5; curated for easiest beginner vocabulary."
+    "Psychometric Hebrew verbal starter. Synonym, definition, secondary sense, or idiom. Not a vocabulary lesson.",
+    "Generated beginner starter base arroword for hebrewToHebrew",
+    "Total clues: 19",
+    "Mask: mask_7_7_20_1; band=beginner; target_hardness=-10000. Hand-curate before shipping.",
+    "Avg hardness: -8000.00"
   ],
   "clues": [
     {
-      "direction": "right-down",
+      "direction": "down-right",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "נתן",
-      "definition": "העניק",
-      "exampleSentence": "המורה נתן לכל תלמיד ציון לשבח."
+      "solution": "אבא",
+      "definition": "כינוי לאב",
+      "exampleSentence": "הילד קרא בקול רם לאבא שלו."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 2,
-      "solution": "אייר",
-      "definition": "חודש עברי (אביב)",
-      "exampleSentence": "בחודש אייר מזג האוויר נעים ונוח לטיולים."
+      "clue_col": 1,
+      "solution": "בן",
+      "definition": "צאצא זכר",
+      "exampleSentence": "הוא גאה מאוד בבנו שסיים את לימודיו."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "נאיביות",
+      "definition": "תמימות",
+      "exampleSentence": "יש מידה רבה של נאיביות בגישתו אל העולם."
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "בא",
+      "definition": "הגיע",
+      "exampleSentence": "האורח בא לביקור קצר בביתנו בשעות הערב."
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "במישרין",
+      "definition": "ללא תיווך",
+      "exampleSentence": "הוא פנה אל המנהל במישרין כדי להציע רעיון."
     },
     {
       "direction": "down",
       "clue_row": 0,
-      "clue_col": 4,
-      "solution": "לחם חוק",
-      "definition": "הרגל קבוע",
-      "exampleSentence": "קריאת העיתון בבוקר היא לחם חוק עבורו."
-    },
-    {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "ליד",
-      "definition": "סמוך",
-      "exampleSentence": "הוא גר בבית קטן ליד הים."
+      "clue_col": 6,
+      "solution": "אנרכיה",
+      "definition": "העדר שלטון",
+      "exampleSentence": "לאחר נפילת הממשלה שררה אנרכיה מוחלטת במדינה."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "כן",
-      "definition": "מעמד",
-      "exampleSentence": "המיקרופון הוצב על כן גבוה במרכז הבמה."
+      "solution": "אלו",
+      "definition": "מילת רמז",
+      "exampleSentence": "אלו הם האנשים שתרמו להצלחת הפרויקט."
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "קל",
+      "definition": "שאינו כבד",
+      "exampleSentence": "התיק הזה קל מאוד ונוח לנשיאה."
     },
     {
       "direction": "right",
       "clue_row": 1,
+      "clue_col": 3,
+      "solution": "מלא",
+      "definition": "גדוש",
+      "exampleSentence": "הכוס הייתה מלאה עד שפתה במים."
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
       "clue_col": 0,
-      "solution": "תאילנד",
-      "definition": "מדינה באסיה",
-      "exampleSentence": "רבים מהישראלים בוחרים לטייל בחופשות בתאילנד."
+      "solution": "בשל",
+      "definition": "מוכן לאכילה",
+      "exampleSentence": "הפרי בשל ומתוק מאוד לאחר ימי השמש."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "נידח",
-      "definition": "מרוחק",
-      "exampleSentence": "הם יצאו לטיול ארוך בכפר נידח במרומי ההרים."
+      "solution": "ניקיון",
+      "definition": "היעדר לכלוך",
+      "exampleSentence": "בעלת הבית הקפידה על ניקיון יסודי בכל החדרים."
     },
     {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "יופי",
-      "definition": "חן, נוי, הדר",
-      "exampleSentence": "היא התפעלה מהיופי המרהיב של השקיעה בים."
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "מגרש",
-      "definition": "שטח אדמה",
-      "exampleSentence": "הילדים שיחקו כדורגל בתוך מגרש שכונתי."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חם",
-      "definition": "בעל טמפרטורה גבוהה",
-      "exampleSentence": "האוויר היה חם מאוד ביום הקיץ."
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "חדר",
-      "definition": "חלל בבית",
-      "exampleSentence": "הוא סידר את החדר שלו לפני בוא האורחים."
-    },
-    {
-      "direction": "down",
+      "direction": "right",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "דהה",
-      "definition": "נחלש צבעו",
-      "exampleSentence": "הצבע של החולצה דהה לאחר כביסות רבות."
+      "solution": "בלש",
+      "definition": "חוקר משטרתי או פרטי",
+      "exampleSentence": "הבלש חיפש רמזים בזירת הפשע המסתורית."
     },
     {
-      "direction": "right",
+      "direction": "down",
       "clue_row": 3,
-      "clue_col": 3,
-      "solution": "מים",
-      "definition": "נוזל החיים",
-      "exampleSentence": "חשוב לשתות הרבה מים ביום חם."
+      "clue_col": 5,
+      "solution": "תרד",
+      "definition": "ירק עליים",
+      "exampleSentence": "הכנתי פשטידת תרד ירוקה ובריאה לארוחת הערב."
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "גב",
+      "definition": "חלק אחורי בגוף",
+      "exampleSentence": "כאב לי הגב אחרי יום עבודה ארוך."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "חוג",
-      "definition": "היקף",
-      "exampleSentence": "חוג הפעילות של החברה מתרחב משנה לשנה."
+      "solution": "רתך",
+      "definition": "אומן מתכת",
+      "exampleSentence": "הרתך חיבר יחד את צינורות הברזל הגדולים בסדנה."
     },
     {
       "direction": "right",
       "clue_row": 5,
-      "clue_col": 2,
-      "solution": "עופר",
-      "definition": "אייל צעיר",
-      "exampleSentence": "עופר רך שכב בשקט בין השיחים ביער."
+      "clue_col": 3,
+      "solution": "ירי",
+      "definition": "הפעלת נשק חם",
+      "exampleSentence": "קולות ירי נשמעו מרחוק במהלך התרגיל הצבאי."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "הר",
-      "definition": "גבעה גבוהה מאוד",
-      "exampleSentence": "הטיפוס אל פסגת ההר ארך שעות רבות."
+      "solution": "בת",
+      "definition": "צאצאית",
+      "exampleSentence": "נולדה להם בת יפהפייה ביום חמישי האחרון."
     },
     {
       "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "מה",
-      "definition": "מילת שאלה",
-      "exampleSentence": "שאלתי אותו מה הוא רוצה לאכול לארוחת ערב."
+      "solution": "לגו",
+      "definition": "משחק הרכבה",
+      "exampleSentence": "הילד שיחק במשחק לגו ובנה מגדל גבוה."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "קיש",
-      "definition": "מאפה מלוח",
-      "exampleSentence": "הכנתי קיש פטריות טעים לארוחת הערב."
+      "solution": "נדה",
+      "definition": "התרחקה",
+      "exampleSentence": "היא נדה הצידה כדי לא להפריע לעוברים."
     }
   ]
 }

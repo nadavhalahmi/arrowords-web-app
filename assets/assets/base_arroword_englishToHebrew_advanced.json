@@ -4,45 +4,45 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -5003.78,
+  "avg_hardness": -5000.94,
   "comments": [
     "Generated advanced starter base arroword for englishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5003.78"
+    "Avg hardness: -5000.94"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "תנך",
-      "definition": "bible",
-      "exampleSentence": "She read a holy Bible verse."
+      "solution": "פנס",
+      "definition": "lantern",
+      "exampleSentence": "Carry a bright glass lantern in dark."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "צידה",
-      "definition": "provisions",
-      "exampleSentence": "We packed food provisions for the trip."
+      "solution": "צומת",
+      "definition": "intersection",
+      "exampleSentence": "Two busy streets meet at the noisy intersection."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להיבדל",
-      "definition": "to differ",
-      "exampleSentence": "Cats and dogs tend to differ greatly."
+      "solution": "להשקיף",
+      "definition": "to overlook",
+      "exampleSentence": "The hotel windows overlook the blue ocean."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "זית",
-      "definition": "olive",
-      "exampleSentence": "I ate a small green olive."
+      "solution": "שיט",
+      "definition": "cruise",
+      "exampleSentence": "We took a luxury ocean cruise."
     },
     {
       "direction": "left-down",
@@ -64,81 +64,81 @@
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "כיתה",
-      "definition": "classroom",
-      "exampleSentence": "The student works with a classroom peer."
+      "solution": "סוטה",
+      "definition": "deviant",
+      "exampleSentence": "His bad behavior is considered deviant."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רצוף",
-      "definition": "consecutive",
-      "exampleSentence": "It rained heavily for five consecutive days."
+      "solution": "להמר",
+      "definition": "to wager",
+      "exampleSentence": "I wager ten dollars on this horse."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "דלקת",
-      "definition": "inflammation",
-      "exampleSentence": "The red, swollen cut has an inflammation."
+      "solution": "דליק",
+      "definition": "flammable",
+      "exampleSentence": "Keep fire away from flammable gas."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מד",
-      "definition": "gauge",
-      "exampleSentence": "Check the fuel gauge in your car."
+      "solution": "כד",
+      "definition": "jug",
+      "exampleSentence": "He drank fresh milk from a jug."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "מטה",
-      "definition": "headquarters",
-      "exampleSentence": "The boss works at the headquarters."
+      "solution": "כעת",
+      "definition": "currently",
+      "exampleSentence": "She is currently living in a quiet town."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "טקס",
-      "definition": "rite",
-      "exampleSentence": "They performed an ancient religious rite."
+      "solution": "עקר",
+      "definition": "sterile",
+      "exampleSentence": "The sterile man cannot have children."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "ירד",
-      "definition": "decreased",
-      "exampleSentence": "The price of the car decreased."
+      "solution": "שלד",
+      "definition": "skeleton",
+      "exampleSentence": "The human skeleton is made of white bones."
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "בצל",
-      "definition": "onion",
-      "exampleSentence": "I cut a raw onion for the soup."
+      "solution": "קהל",
+      "definition": "spectators",
+      "exampleSentence": "The spectators clapped loudly after the show."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "אדוק",
-      "definition": "devout",
-      "exampleSentence": "The devout man prays every single morning."
+      "solution": "מימי",
+      "definition": "aquatic",
+      "exampleSentence": "Fish and frogs are common wet aquatic animals."
     },
     {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 0,
-      "solution": "סל",
-      "definition": "basket",
-      "exampleSentence": "Put the red apples into the basket."
+      "solution": "רץ",
+      "definition": "runner",
+      "exampleSentence": "The fast runner won the gold medal."
     },
     {
       "direction": "up-right",
@@ -152,9 +152,9 @@
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "לפת",
-      "definition": "turnip",
-      "exampleSentence": "She chopped a purple turnip for soup."
+      "solution": "פרק",
+      "definition": "chapter",
+      "exampleSentence": "Read the first chapter of the book."
     }
   ]
 }

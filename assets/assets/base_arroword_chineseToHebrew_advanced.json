@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -5000.0,
+  "avg_hardness": -5000.11,
   "comments": [
     "Generated advanced starter base arroword for chineseToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5000.00"
+    "Avg hardness: -5000.11"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "מלא",
-      "definition": "满",
-      "exampleSentence": "她高兴得脸上满是笑容。"
+      "solution": "יחס",
+      "definition": "态度",
+      "exampleSentence": "他对待工作的态度非常认真。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "הצעה",
-      "definition": "建议",
-      "exampleSentence": "我建议去公园。"
+      "solution": "שיטה",
+      "definition": "做法",
+      "exampleSentence": "这道菜的做法非常简单好学。"
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "תעשייה",
-      "definition": "工业",
-      "exampleSentence": "工业发展很快。"
+      "solution": "להירשם",
+      "definition": "报到",
+      "exampleSentence": "请到前台报到。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "עשב",
-      "definition": "草",
-      "exampleSentence": "院子里的草长得很高。"
+      "solution": "זמר",
+      "definition": "歌手",
+      "exampleSentence": "那位歌手唱歌很好听。"
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "עם",
-      "definition": "人民",
-      "exampleSentence": "人民的生活越来越好。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 0,
-      "solution": "להשתמש",
-      "definition": "使用",
-      "exampleSentence": "我们应该正确使用这个新软件。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 0,
-      "solution": "אצבע",
-      "definition": "手指",
-      "exampleSentence": "我的手指很疼。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 5,
-      "solution": "לשנן",
-      "definition": "背",
-      "exampleSentence": "老师让我们背诵这首诗。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "מנהל",
-      "definition": "经理",
-      "exampleSentence": "他是我们公司的总经理。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "בד",
-      "definition": "布",
-      "exampleSentence": "妈妈买了一块漂亮的布。"
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "במה",
-      "definition": "舞台",
-      "exampleSentence": "她在舞台上唱歌很好听。"
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "מיד",
-      "definition": "立刻",
-      "exampleSentence": "请你立刻把作业做完。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "שלם",
-      "definition": "完整",
-      "exampleSentence": "这是完整的一本书。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "ישן",
-      "definition": "旧",
-      "exampleSentence": "这是我的旧衣服。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "גינה",
-      "definition": "花园",
-      "exampleSentence": "公园里有一个很大的花园。"
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "דג",
-      "definition": "鱼",
-      "exampleSentence": "河里有很多游来游去的鱼。"
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
       "solution": "די",
       "definition": "够",
       "exampleSentence": "这些苹果我们三个人吃够了。"
     },
     {
       "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "חשמלית",
+      "definition": "电车",
+      "exampleSentence": "我每天坐电车去学校。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 0,
+      "solution": "סירה",
+      "definition": "船",
+      "exampleSentence": "我们在湖面上划了一只小船。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "רופא",
+      "definition": "大夫",
+      "exampleSentence": "我需要看大夫。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "חברה",
+      "definition": "公司",
+      "exampleSentence": "这家公司的业务做得很大。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רק",
+      "definition": "仅",
+      "exampleSentence": "这里仅有三个人。"
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רמה",
+      "definition": "水平",
+      "exampleSentence": "他的中文口语水平提高很快。"
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "מלא",
+      "definition": "满",
+      "exampleSentence": "她高兴得脸上满是笑容。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "ירח",
+      "definition": "月亮",
+      "exampleSentence": "晚上天空中挂着明亮的月亮。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "רוב",
+      "definition": "多数",
+      "exampleSentence": "班里多数同学都喜欢运动。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "לשפר",
+      "definition": "提高",
+      "exampleSentence": "多听磁带可以提高听力水平。"
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "או",
+      "definition": "或",
+      "exampleSentence": "你可以喝茶或喝咖啡。"
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "轻",
+      "exampleSentence": "这个箱子很轻，我一个人拿。"
+    },
+    {
+      "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "הנל",
-      "definition": "以上",
-      "exampleSentence": "以上内容请仔细阅读。"
+      "solution": "מאה",
+      "definition": "世纪",
+      "exampleSentence": "我们生活在21世纪。"
     }
   ]
 }

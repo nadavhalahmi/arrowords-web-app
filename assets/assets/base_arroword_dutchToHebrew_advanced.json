@@ -4,136 +4,144 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "advanced",
   "roadmap_level": 3,
-  "avg_hardness": -5000.56,
+  "avg_hardness": -5022.5,
   "comments": [
     "Generated advanced starter base arroword for dutchToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=advanced; target_hardness=-5000. Hand-curate before shipping.",
-    "Avg hardness: -5000.56"
+    "Avg hardness: -5022.50"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "צמח",
-      "definition": "plant",
-      "exampleSentence": "Deze groene plant heeft veel water nodig."
+      "solution": "פשע",
+      "definition": "misdaad",
+      "exampleSentence": "De politie onderzoekt een ernstige misdaad."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "שניה",
-      "definition": "seconde",
-      "exampleSentence": "Wacht even, het duurt slechts een seconde."
+      "solution": "לצלם",
+      "definition": "filmen",
+      "exampleSentence": "Wij gaan de hele bruiloft filmen."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "להשתתף",
-      "definition": "meedoen",
-      "exampleSentence": "Wil jij morgen ook meedoen aan de wedstrijd?"
+      "solution": "שומרים",
+      "definition": "bewakers",
+      "exampleSentence": "De bewakers staan bij de grote ingang."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "מאי",
-      "definition": "mei",
-      "exampleSentence": "In de maand mei is het mooi."
+      "solution": "חום",
+      "definition": "koorts",
+      "exampleSentence": "Het zieke kind heeft helaas hoge koorts."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "או",
-      "definition": "ofwel",
-      "exampleSentence": "Je kunt ofwel fietsen ofwel lopen."
+      "solution": "אי",
+      "definition": "eiland",
+      "exampleSentence": "Wij gaan op vakantie naar een mooi eiland."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "משאלות",
-      "definition": "wensen",
-      "exampleSentence": "Ik heb veel wensen voor mijn verjaardag."
+      "solution": "שלושים",
+      "definition": "dertig",
+      "exampleSentence": "Ik heb vandaag dertig euro uitgegeven in de winkel."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "חניה",
-      "definition": "parkeerplaats",
-      "exampleSentence": "Ik zoek een vrije parkeerplaats voor mijn auto."
+      "solution": "עצמו",
+      "definition": "zichzelf",
+      "exampleSentence": "Hij kijkt elke ochtend naar zichzelf in de spiegel."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "לשיר",
-      "definition": "zingen",
-      "exampleSentence": "Wij gaan samen een liedje zingen."
+      "solution": "שיטה",
+      "definition": "methode",
+      "exampleSentence": "Deze methode werkt erg goed voor het leren."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "ועדה",
-      "definition": "commissie",
-      "exampleSentence": "De commissie beslist over het nieuwe plan."
+      "solution": "מחיר",
+      "definition": "prijs",
+      "exampleSentence": "Wat is de prijs van deze auto?"
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חד",
-      "definition": "scherp",
-      "exampleSentence": "Dit mes is erg scherp, pas op je vingers."
+      "solution": "הר",
+      "definition": "berg",
+      "exampleSentence": "Wij wandelen naar de top van de berg."
     },
     {
       "direction": "down-right",
       "clue_row": 3,
       "clue_col": 0,
-      "solution": "חסה",
-      "definition": "sla",
-      "exampleSentence": "Ik eet elke dag een verse salade met sla."
+      "solution": "הלם",
+      "definition": "schok",
+      "exampleSentence": "Het ongeluk was een grote schok voor iedereen."
     },
     {
       "direction": "down",
       "clue_row": 3,
       "clue_col": 1,
-      "solution": "סיר",
-      "definition": "pot",
-      "exampleSentence": "De soep kookt in een grote pot."
+      "solution": "לכן",
+      "definition": "vandaar",
+      "exampleSentence": "Hij is ziek, vandaar zijn afwezigheid."
     },
     {
       "direction": "right",
       "clue_row": 3,
       "clue_col": 3,
-      "solution": "שלו",
-      "definition": "zijne",
-      "exampleSentence": "Dat boek is van hem, het is het zijne."
+      "solution": "משם",
+      "definition": "vandaan",
+      "exampleSentence": "Waar komt dit mooie cadeau vandaan?"
     },
     {
       "direction": "right",
       "clue_row": 4,
       "clue_col": 3,
-      "solution": "תשע",
-      "definition": "negen",
-      "exampleSentence": "Ik heb vandaag negen appels gekocht op markt."
+      "solution": "ריח",
+      "definition": "geur",
+      "exampleSentence": "De geur van verse koffie is heerlijk."
     },
     {
       "direction": "right",
       "clue_row": 5,
       "clue_col": 2,
-      "solution": "עתיד",
-      "definition": "toekomst",
-      "exampleSentence": "Wat wil jij in de toekomst gaan doen?"
+      "solution": "איטי",
+      "definition": "traag",
+      "exampleSentence": "De oude schildpad loopt erg traag."
     },
     {
       "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "נס",
+      "definition": "wonder",
+      "exampleSentence": "Het overleven was een echt wonder."
+    },
+    {
+      "direction": "up-right",
       "clue_row": 6,
       "clue_col": 0,
       "solution": "רך",
@@ -141,20 +149,12 @@
       "exampleSentence": "Dit kussen voelt heel zacht aan."
     },
     {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "די",
-      "definition": "behoorlijk",
-      "exampleSentence": "Ik ben behoorlijk moe na vandaag."
-    },
-    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "פרה",
-      "definition": "koe",
-      "exampleSentence": "De koe staat rustig in het groene gras."
+      "solution": "מהר",
+      "definition": "vlug",
+      "exampleSentence": "Hij loopt vlug naar de winkel om brood."
     }
   ]
 }

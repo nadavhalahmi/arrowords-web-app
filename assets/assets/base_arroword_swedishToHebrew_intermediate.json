@@ -4,157 +4,157 @@
   "mask_id": "mask_7_7_5",
   "starter_band": "intermediate",
   "roadmap_level": 2,
-  "avg_hardness": -7501.5,
+  "avg_hardness": -7501.28,
   "comments": [
     "Generated intermediate starter base arroword for swedishToHebrew",
     "Total clues: 18",
     "Mask: mask_7_7_5; band=intermediate; target_hardness=-7500. Hand-curate before shipping.",
-    "Avg hardness: -7501.50"
+    "Avg hardness: -7501.28"
   ],
   "clues": [
     {
       "direction": "right-down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "סמל",
-      "definition": "symbol",
-      "exampleSentence": "Duvan är en symbol för fred."
+      "solution": "צמח",
+      "definition": "växt",
+      "exampleSentence": "Denna gröna växt behöver mycket vatten."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 2,
-      "solution": "סדין",
-      "definition": "lakan",
-      "exampleSentence": "Jag lägger rent lakan på sängen idag."
+      "solution": "פורה",
+      "definition": "produktiv",
+      "exampleSentence": "Jorden är mycket produktiv och ger en produktiv skörd."
     },
     {
       "direction": "down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "חמורים",
-      "definition": "allvarliga",
-      "exampleSentence": "Det finns allvarliga konsekvenser av detta beslut."
+      "solution": "רכילות",
+      "definition": "skvaller",
+      "exampleSentence": "Hon gillar inte alls onödigt skvaller på kontoret."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 4,
-      "solution": "קום",
-      "definition": "res",
-      "exampleSentence": "Res dig upp när läraren kommer in."
+      "solution": "חוש",
+      "definition": "sinne",
+      "exampleSentence": "Människan har fem vanliga sinnen."
     },
     {
       "direction": "left-down",
       "clue_row": 0,
       "clue_col": 6,
-      "solution": "צר",
-      "definition": "smal",
-      "exampleSentence": "Gatan i gamla staden är väldigt smal."
+      "solution": "גס",
+      "definition": "rå",
+      "exampleSentence": "Han var mycket rå och otrevlig mot sin granne."
     },
     {
       "direction": "right",
       "clue_row": 1,
       "clue_col": 0,
-      "solution": "מסוחרר",
-      "definition": "yr",
-      "exampleSentence": "Hon blev yr av att stå på höjden."
+      "solution": "מפורסם",
+      "definition": "berömd",
+      "exampleSentence": "Stockholm är en mycket berömd svensk stad."
     },
     {
       "direction": "right",
       "clue_row": 2,
       "clue_col": 0,
-      "solution": "לדמם",
-      "definition": "blöda",
-      "exampleSentence": "Det gör ont och börjar blöda lite."
+      "solution": "חושך",
+      "definition": "mörker",
+      "exampleSentence": "Barnen är rädda för mörker på natten."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 5,
-      "solution": "רענן",
-      "definition": "frisk",
-      "exampleSentence": "Luften på morgonen är så härligt frisk."
+      "solution": "עותק",
+      "definition": "kopia",
+      "exampleSentence": "Jag behöver ta en kopia av det här pappret."
     },
     {
       "direction": "down",
       "clue_row": 2,
       "clue_col": 6,
-      "solution": "דממה",
-      "definition": "tystnad",
-      "exampleSentence": "Det blev fullständig tystnad i rummet."
+      "solution": "רחפן",
+      "definition": "drönare",
+      "exampleSentence": "Han filmade allt med en liten drönare."
     },
     {
       "direction": "down",
       "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רק",
+      "definition": "enbart",
+      "exampleSentence": "Kursen är enbart till för nybörjare."
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "רזה",
+      "definition": "smal",
+      "exampleSentence": "Katten är så smal att den kan springa igenom staketet."
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "זרם",
+      "definition": "ström",
+      "exampleSentence": "Det är en stark ström i den kalla floden."
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יער",
+      "definition": "skog",
+      "exampleSentence": "Vi promenerade i den gröna skogen."
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "לוח",
+      "definition": "tavla",
+      "exampleSentence": "Läraren skriver nya ord på svarta tavlan."
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "שותף",
+      "definition": "kompanjon",
+      "exampleSentence": "Han startade ett företag med sin gamla kompanjon."
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מר",
+      "definition": "bitter",
+      "exampleSentence": "Han var bitter efter att ha förlorat matchen."
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
       "clue_col": 0,
       "solution": "קר",
       "definition": "kall",
       "exampleSentence": "Det är väldigt kallt ute idag, ta på mössan."
     },
     {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 0,
-      "solution": "קרן",
-      "definition": "horn",
-      "exampleSentence": "Djurets vassa horn kan vara farliga."
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 1,
-      "solution": "רכב",
-      "definition": "fordon",
-      "exampleSentence": "En buss är ett stort fordon på vägen."
-    },
-    {
-      "direction": "right",
-      "clue_row": 3,
-      "clue_col": 3,
-      "solution": "ורד",
-      "definition": "ros",
-      "exampleSentence": "Min mamma tycker om att odla en röd ros."
-    },
-    {
-      "direction": "right",
-      "clue_row": 4,
-      "clue_col": 3,
-      "solution": "רעם",
-      "definition": "åska",
-      "exampleSentence": "Det hörs kraftig åska långt borta i skogen."
-    },
-    {
-      "direction": "right",
-      "clue_row": 5,
-      "clue_col": 2,
-      "solution": "חינם",
-      "definition": "gratis",
-      "exampleSentence": "Barn reser gratis med bussen idag."
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "בד",
-      "definition": "tyg",
-      "exampleSentence": "Hon köpte ett mjukt tyg för att sy en klänning."
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 0,
-      "solution": "רך",
-      "definition": "mjuk",
-      "exampleSentence": "Sängen har en skön och mjuk madrass."
-    },
-    {
       "direction": "right",
       "clue_row": 6,
       "clue_col": 3,
-      "solution": "מנה",
-      "definition": "portion",
-      "exampleSentence": "En portion mat räcker gott och väl till mig."
+      "solution": "תקן",
+      "definition": "standard",
+      "exampleSentence": "Den här produkten håller en hög standard."
     }
   ]
 }
